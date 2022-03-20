@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="d7">@color/hn</item>
+    <item type="drawable" name="d8">@color/ho</item>
+    <item type="drawable" name="ho">#3333b5e5</item>
+    <item type="drawable" name="hp">#0cffffff</item>
+</resources>

@@ -55,3 +55,4 @@ n\a- Do not check this
 | Search |  |  |
 | SoundRecorder |  |  |
 | Video |  |  |
+| Weather | Almost | Wrather app |
