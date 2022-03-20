@@ -25,6 +25,7 @@ n\a- Do not check this
 | Perfui | | |
 | SystemWallpaper | | |
 | TodoList | | |
+| ToolBox | FULL | |
 | Weather | | |
 | FlymeLauncher |  |  |
 | Settings |  |  |
