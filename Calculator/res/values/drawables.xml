@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="cd">#fffdfdfd</item>
+    <item type="drawable" name="ce">#ffeeeeee</item>
+    <item type="drawable" name="cf">#ff20000a</item>
+    <item type="drawable" name="cg">#ff3c3f45</item>
+    <item type="drawable" name="d0">#ff474a50</item>
+    <item type="drawable" name="e5">@color/h2</item>
+    <item type="drawable" name="e6">@color/h3</item>
+    <item type="drawable" name="ik">#3333b5e5</item>
+    <item type="drawable" name="il">#0cffffff</item>
+</resources>

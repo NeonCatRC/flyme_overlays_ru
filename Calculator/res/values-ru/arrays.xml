@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="b">
+        <item>CNY</item>
+        <item>USD</item>
+        <item>HKD</item>
+        <item>MOP</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>JPY</item>
+        <item>SGD</item>
+        <item>MYR</item>
+        <item>THB</item>
+        <item>VND</item>
+    </string-array>
+    <string-array name="f">
+        <item>кв. метр</item>
+        <item>кв. километр</item>
+        <item>mu</item>
+        <item>кв. фут</item>
+        <item>кв. сантиметр</item>
+        <item>кв. сантиметр</item>
+        <item>кв. миллиметр</item>
+        <item>кв. миля</item>
+        <item>акр</item>
+        <item>кв. ярд</item>
+        <item>кв. дюйм</item>
+        <item>гектар</item>
+    </string-array>
+    <string-array name="j">
+        <item>ling</item>
+        <item>yi</item>
+        <item>er</item>
+        <item>san</item>
+        <item>si</item>
+        <item>wu</item>
+        <item>liu</item>
+        <item>qi</item>
+        <item>ba</item>
+        <item>jiu</item>
+    </string-array>
+    <string-array name="n">
+        <item>ALL</item>
+        <item>DZD</item>
+        <item>AFN</item>
+        <item>ARS</item>
+        <item>AED</item>
+        <item>AWG</item>
+        <item>OMR</item>
+        <item>AZN</item>
+        <item>EGP</item>
+        <item>ETB</item>
+        <item>IEP</item>
+        <item>AOA</item>
+        <item>AUD</item>
+        <item>MOP</item>
+        <item>XAG</item>
+        <item>BTC</item>
+        <item>BSD</item>
+        <item>BBD</item>
+        <item>Папуа-Новая Гвинея</item>
+        <item>PKR</item>
+        <item>PYG</item>
+        <item>BHD</item>
+        <item>PAB</item>
+        <item>BRL</item>
+        <item>BYR</item>
+        <item>BMD</item>
+        <item>BGN</item>
+        <item>ISK</item>
+        <item>PLN</item>
+        <item>Босния и Герцеговина</item>
+        <item>BOB</item>
+        <item>BZD</item>
+        <item>BWP</item>
+        <item>BTN</item>
+        <item>BIF</item>
+        <item>KPW</item>
+        <item>DKK</item>
+        <item>Драм</item>
+        <item>XCD</item>
+        <item>DOP</item>
+        <item>RUB</item>
+        <item>ERN</item>
+        <item>XPF</item>
+        <item>PHP</item>
+        <item>FJD</item>
+        <item>CVE</item>
+        <item>FKP</item>
+        <item>GMD</item>
+        <item>XAF</item>
+        <item>HKD</item>
+        <item>GBP</item>
+        <item>COP</item>
+        <item>CRC</item>
+        <item>GEL</item>
+        <item>CUP</item>
+        <item>CUC</item>
+        <item>GYD</item>
+        <item>Специальные права заимствования</item>
+        <item>KZT</item>
+        <item>HTG</item>
+        <item>KRW</item>
+        <item>NLG</item>
+        <item>XAU</item>
+        <item>HNL</item>
+        <item>DJF</item>
+        <item>KGS</item>
+        <item>GNF</item>
+        <item>GHC</item>
+        <item>CAD</item>
+        <item>KHR</item>
+        <item>CZK</item>
+        <item>ZWD</item>
+        <item>QAR</item>
+        <item>KYD</item>
+        <item>KMF</item>
+        <item>KWD</item>
+        <item>HRK</item>
+        <item>KES</item>
+        <item>LVL</item>
+        <item>LSL</item>
+        <item>LAK</item>
+        <item>CNH</item>
+        <item>LBP</item>
+        <item>LTL</item>
+        <item>LRD</item>
+        <item>LYD</item>
+        <item>RWF</item>
+        <item>RON</item>
+        <item>MVR</item>
+        <item>MGA</item>
+        <item>MWK</item>
+        <item>MYR</item>
+        <item>MKD</item>
+        <item>Маврикий</item>
+        <item>MRO</item>
+        <item>USD</item>
+        <item>MNT</item>
+        <item>BDT</item>
+        <item>PEN</item>
+        <item>BUK</item>
+        <item>MDL</item>
+        <item>IMP</item>
+        <item>MAD</item>
+        <item>MZN</item>
+        <item>Мексика</item>
+        <item>MXN</item>
+        <item>NAD</item>
+        <item>ZAR</item>
+        <item>NIO</item>
+        <item>NPR</item>
+        <item>NGN</item>
+        <item>NOK</item>
+        <item>EUR</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>SVC</item>
+        <item>WST</item>
+        <item>RSD</item>
+        <item>SLL</item>
+        <item>SCR</item>
+        <item>SAR</item>
+        <item>STD</item>
+        <item>SHP</item>
+        <item>LKR</item>
+        <item>SZL</item>
+        <item>SDP</item>
+        <item>SRD</item>
+        <item>UZS</item>
+        <item>SBD</item>
+        <item>SOS</item>
+        <item>TJS</item>
+        <item>THB</item>
+        <item>TZS</item>
+        <item>Тонга</item>
+        <item>Тринидад и Тобаго</item>
+        <item>TND</item>
+        <item>TRY</item>
+        <item>TMT</item>
+        <item>VUV</item>
+        <item>GTQ</item>
+        <item>VEF</item>
+        <item>BND</item>
+        <item>UGS</item>
+        <item>UHR</item>
+        <item>UYU</item>
+        <item>Западная Африка</item>
+        <item>SGD</item>
+        <item>TWD</item>
+        <item>NZD</item>
+        <item>HUF</item>
+        <item>SYP</item>
+        <item>Ямайка</item>
+        <item>YER</item>
+        <item>IQD</item>
+        <item>IRR</item>
+        <item>ILS</item>
+        <item>INR</item>
+        <item>IDR</item>
+        <item>GBP</item>
+        <item>JOD</item>
+        <item>VND</item>
+        <item>ZMK</item>
+        <item>GBP</item>
+        <item>GIP</item>
+        <item>CLP</item>
+        <item>XAF</item>
+    </string-array>
+    <string-array name="q">
+        <item>Албания</item>
+        <item>ОАЭ</item>
+        <item>Афганистан</item>
+        <item>Армения</item>
+        <item>Нидерландские Антильские Острова</item>
+        <item>Ангола</item>
+        <item>Аргентина</item>
+        <item>Австралия</item>
+        <item>Аруба</item>
+        <item>Азербайджан</item>
+        <item>Босния</item>
+        <item>Барбадос</item>
+        <item>Бангладеш</item>
+        <item>Болгария</item>
+        <item>XAG</item>
+        <item>BTC</item>
+        <item>Бахрейн</item>
+        <item>Бурунди</item>
+        <item>Бермудские о-ва</item>
+        <item>Бруней</item>
+        <item>Боливия</item>
+        <item>Бразилия</item>
+        <item>Багамские о-ва</item>
+        <item>Бутан</item>
+        <item>Ботсвана</item>
+        <item>Беларусь</item>
+        <item>Белиз</item>
+        <item>Канада</item>
+        <item>Конго</item>
+        <item>Швейцария</item>
+        <item>Чили</item>
+        <item>Китай</item>
+        <item>Китай</item>
+        <item>Колумбия</item>
+        <item>Коста-Рика</item>
+        <item>Куба</item>
+        <item>Куба</item>
+        <item>Кабо-Верде</item>
+        <item>Чехословакия</item>
+        <item>Джибути</item>
+        <item>Дания</item>
+        <item>Доминика</item>
+        <item>Алжир</item>
+        <item>Египет</item>
+        <item>Эритрея</item>
+        <item>Эфиопия</item>
+        <item>EU</item>
+        <item>Фиджи</item>
+        <item>Фолклендские острова</item>
+        <item>Великобритания</item>
+        <item>Грузия</item>
+        <item>Гана</item>
+        <item>Гибралтар</item>
+        <item>Гамбия</item>
+        <item>Гвинея</item>
+        <item>Гватемала</item>
+        <item>Гайана</item>
+        <item>Гонконг</item>
+        <item>Гернси</item>
+        <item>XAU</item>
+        <item>Гондурас</item>
+        <item>Хорватия</item>
+        <item>Гаити</item>
+        <item>Венгрия</item>
+        <item>Индонезия</item>
+        <item>Ирландия</item>
+        <item>Израиль</item>
+        <item>Индия</item>
+        <item>Ирак</item>
+        <item>Иран</item>
+        <item>Исландия</item>
+        <item>Ямайка</item>
+        <item>Иордания</item>
+        <item>Япония</item>
+        <item>Кения</item>
+        <item>Кыргызстан</item>
+        <item>Камбоджа</item>
+        <item>Кумари</item>
+        <item>Северная Корея</item>
+        <item>Южная Корея</item>
+        <item>Кувейт</item>
+        <item>Каймановы острова</item>
+        <item>Казахстан</item>
+        <item>Лаос</item>
+        <item>Ливан</item>
+        <item>Шри-Ланка</item>
+        <item>Либерия</item>
+        <item>Лесото</item>
+        <item>Литва</item>
+        <item>Латвия</item>
+        <item>Ливия</item>
+        <item>Остров Мэн</item>
+        <item>Марокко</item>
+        <item>Молдова</item>
+        <item>Мадагаскар</item>
+        <item>Македония</item>
+        <item>Мьянма</item>
+        <item>Монголия</item>
+        <item>Макао</item>
+        <item>Мавритания</item>
+        <item>Маврикий</item>
+        <item>Мальдивы</item>
+        <item>Малави</item>
+        <item>Мексика</item>
+        <item>MXV</item>
+        <item>Малайзия</item>
+        <item>Мозамбик</item>
+        <item>Намибия</item>
+        <item>Нигерия</item>
+        <item>Никарагуа</item>
+        <item>Норвегия</item>
+        <item>Непал</item>
+        <item>Новая Зеландия</item>
+        <item>Оман</item>
+        <item>Панама</item>
+        <item>Перу</item>
+        <item>Папуа-Новая Гвинея</item>
+        <item>Филиппины</item>
+        <item>Пакистан</item>
+        <item>Польша</item>
+        <item>Парагвай</item>
+        <item>Катар</item>
+        <item>Румыния</item>
+        <item>Сербия</item>
+        <item>Россия</item>
+        <item>Руанда</item>
+        <item>Саудовская Аравия</item>
+        <item>Соломоновы Острова</item>
+        <item>Республика Сейшельские Острова</item>
+        <item>Республика Судан</item>
+        <item>Швеция</item>
+        <item>Сингапур</item>
+        <item>Остров Святой Елены</item>
+        <item>Сьерра-Леоне</item>
+        <item>Сомали</item>
+        <item>Суринам</item>
+        <item>Демократическая Республика Сан-Томе и Принсипи</item>
+        <item>Сальвадор</item>
+        <item>Сирия</item>
+        <item>Свазиленд</item>
+        <item>Таиланд</item>
+        <item>Таджикистан</item>
+        <item>Туркменистан</item>
+        <item>Тунис</item>
+        <item>Тонга</item>
+        <item>Турция</item>
+        <item>Тринидад и Тобаго</item>
+        <item>Тайвань</item>
+        <item>Танзания</item>
+        <item>Украина</item>
+        <item>Уганда</item>
+        <item>США</item>
+        <item>Уругвай</item>
+        <item>Узбекистан</item>
+        <item>Боливарианская Республика Венесуэла</item>
+        <item>Вьетнам</item>
+        <item>Республика Вануату</item>
+        <item>Самоа</item>
+        <item>ЭСЦАГ</item>
+        <item>Карибские острова</item>
+        <item>МВФ</item>
+        <item>ЗАЭВС</item>
+        <item>Французская Полинезия, Новая Каледония, Уоллис и Футуна</item>
+        <item>Йеменская Арабская Республика</item>
+        <item>Великобритания</item>
+        <item>Южно-Африканская Республика</item>
+        <item>Замбия</item>
+        <item>Зимбабве</item>
+    </string-array>
+    <string-array name="r">
+        <item>Албания</item>
+        <item>Алжир</item>
+        <item>Афганистан</item>
+        <item>Аргентина</item>
+        <item>ОАЭ</item>
+        <item>Остров Аруба</item>
+        <item>Оман</item>
+        <item>Азербайджан</item>
+        <item>Египет</item>
+        <item>Эфиопия</item>
+        <item>Ирландия</item>
+        <item>Ангола</item>
+        <item>Австралия</item>
+        <item>Макао</item>
+        <item>XAG</item>
+        <item>BTC</item>
+        <item>Багамские о-ва</item>
+        <item>Барбадос</item>
+        <item>Папуа-Новая Гвинея</item>
+        <item>Пакистан</item>
+        <item>Парагвай</item>
+        <item>Бахрейн</item>
+        <item>Панама</item>
+        <item>Бразилия</item>
+        <item>Беларусь</item>
+        <item>Бермудские о-ва</item>
+        <item>Болгария</item>
+        <item>Исландия</item>
+        <item>Польша</item>
+        <item>Босния</item>
+        <item>Боливия</item>
+        <item>Белиз</item>
+        <item>Ботсвана</item>
+        <item>Бутан</item>
+        <item>Бурунди</item>
+        <item>Северная Корея</item>
+        <item>Дания</item>
+        <item>Армения</item>
+        <item>Карибские острова</item>
+        <item>Доминика</item>
+        <item>Россия</item>
+        <item>Эритрея</item>
+        <item>Французская Полинезия, Новая Каледония, Уоллис и Футуна</item>
+        <item>Филиппины</item>
+        <item>Фиджи</item>
+        <item>Кабо-Верде</item>
+        <item>Фолклендские острова</item>
+        <item>Гамбия</item>
+        <item>Конго</item>
+        <item>Гонконг</item>
+        <item>Гернси</item>
+        <item>Колумбия</item>
+        <item>Коста-Рика</item>
+        <item>Грузия</item>
+        <item>Куба</item>
+        <item>Куба</item>
+        <item>Гайана</item>
+        <item>МВФ</item>
+        <item>Казахстан</item>
+        <item>Гаити</item>
+        <item>Южная Корея</item>
+        <item>Нидерландские Антильские Острова</item>
+        <item>XAU</item>
+        <item>Гондурас</item>
+        <item>Джибути</item>
+        <item>Кыргызстан</item>
+        <item>Гвинея</item>
+        <item>Гана</item>
+        <item>Канада</item>
+        <item>Камбоджа</item>
+        <item>Чехословакия</item>
+        <item>Зимбабве</item>
+        <item>Катар</item>
+        <item>Каймановы острова</item>
+        <item>Кумари</item>
+        <item>Кувейт</item>
+        <item>Хорватия</item>
+        <item>Кения</item>
+        <item>Латвия</item>
+        <item>Лесото</item>
+        <item>Лаос</item>
+        <item>Китай</item>
+        <item>Ливан</item>
+        <item>Литва</item>
+        <item>Либерия</item>
+        <item>Ливия</item>
+        <item>Руанда</item>
+        <item>Румыния</item>
+        <item>Мальдивы</item>
+        <item>Мадагаскар</item>
+        <item>Малави</item>
+        <item>Малайзия</item>
+        <item>Македония</item>
+        <item>Маврикий</item>
+        <item>Мавритания</item>
+        <item>США</item>
+        <item>Монголия</item>
+        <item>Бангладеш</item>
+        <item>Перу</item>
+        <item>Мьянма</item>
+        <item>Молдова</item>
+        <item>Остров Мэн</item>
+        <item>Марокко</item>
+        <item>Мозамбик</item>
+        <item>Мексика</item>
+        <item>Мексика</item>
+        <item>NAD</item>
+        <item>Южно-Африканская Республика</item>
+        <item>Никарагуа</item>
+        <item>Непал</item>
+        <item>Нигерия</item>
+        <item>Норвегия</item>
+        <item>EU</item>
+        <item>Китай</item>
+        <item>Япония</item>
+        <item>Швеция</item>
+        <item>Швейцария</item>
+        <item>Сальвадор</item>
+        <item>Самоа</item>
+        <item>Сербия</item>
+        <item>SLL</item>
+        <item>Республика Сейшельские Острова</item>
+        <item>Саудовская Аравия</item>
+        <item>Демократическая Республика Сан-Томе и Принсипи</item>
+        <item>Остров Святой Елены</item>
+        <item>Шри-Ланка</item>
+        <item>Свазиленд</item>
+        <item>Судан</item>
+        <item>Суринам</item>
+        <item>Узбекистан</item>
+        <item>Соломоновы Острова</item>
+        <item>Сомали</item>
+        <item>Таджикистан</item>
+        <item>Таиланд</item>
+        <item>Танзания</item>
+        <item>Тонга</item>
+        <item>Тринидад и Тобаго</item>
+        <item>Тунис</item>
+        <item>Турция</item>
+        <item>Туркменистан</item>
+        <item>Вануату</item>
+        <item>Гватемала</item>
+        <item>Боливарианская Республика Венесуэла</item>
+        <item>Бруней</item>
+        <item>Уганда</item>
+        <item>Украина</item>
+        <item>Уругвай</item>
+        <item>ЗАЭВС</item>
+        <item>Сингапур</item>
+        <item>Тайвань</item>
+        <item>Новая Зеландия</item>
+        <item>Венгрия</item>
+        <item>Сирия</item>
+        <item>Ямайка</item>
+        <item>Йеменская Арабская Республика</item>
+        <item>Ирак</item>
+        <item>Иран</item>
+        <item>Израиль</item>
+        <item>Индия</item>
+        <item>Индонезия</item>
+        <item>Соединенное Королевство</item>
+        <item>Иордания</item>
+        <item>Вьетнам</item>
+        <item>Замбия</item>
+        <item>Джерси</item>
+        <item>Гибралтар</item>
+        <item>Чили</item>
+        <item>ЭСЦАГ</item>
+    </string-array>
+    <string-array name="s">
+        <item>jiao</item>
+        <item>fen</item>
+    </string-array>
+    <string-array name="ad">
+        <item>метр</item>
+        <item>километр</item>
+        <item>chi</item>
+        <item>фут</item>
+        <item>дециметр</item>
+        <item>сантиметр</item>
+        <item>li</item>
+        <item>zhang</item>
+        <item>cun</item>
+        <item>fen</item>
+        <item>li</item>
+        <item>морск. миля</item>
+        <item>миля</item>
+        <item>дюйм</item>
+        <item>миллиметр</item>
+        <item>микрон</item>
+    </string-array>
+    <string-array name="ai">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="aj">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="ak">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="aw">
+        <item></item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+        <item>wan</item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+        <item>yi</item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+        <item>wan</item>
+        <item>shi</item>
+        <item>bai</item>
+        <item>qian</item>
+    </string-array>
+    <string-array name="ax">
+        <item>Валюта</item>
+        <item>Длина</item>
+        <item>Площадь</item>
+        <item>Вес</item>
+        <item>Объём</item>
+    </string-array>
+    <string-array name="b6">
+        <item>куб. метр</item>
+        <item>литр</item>
+        <item>галлон</item>
+        <item>куб. фут</item>
+        <item>гектолитр</item>
+        <item>куб. дециметр</item>
+        <item>куб. сантиметр</item>
+        <item>миллилитр</item>
+        <item>куб. миллиметр</item>
+        <item>баррель</item>
+        <item>унция</item>
+        <item>куб. ярд</item>
+        <item>куб. дюйм</item>
+    </string-array>
+    <string-array name="b_">
+        <item>килограмм</item>
+        <item>тонна</item>
+        <item>фунт</item>
+        <item>унция</item>
+        <item>грамм</item>
+        <item>миллиграмм</item>
+        <item>jin</item>
+        <item>dan</item>
+        <item>liang</item>
+        <item>qian</item>
+    </string-array>
+</resources>
