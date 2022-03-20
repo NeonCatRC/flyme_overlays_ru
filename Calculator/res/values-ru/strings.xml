@@ -8,16 +8,9 @@
     <string name="h">Выберите приложение</string>
     <string name="i">ВЫКЛ</string>
     <string name="j">ВКЛ</string>
-    <string name="k">Alt +</string>
-    <string name="l">Ctrl +</string>
     <string name="m">Delete</string>
     <string name="n">Ввод</string>
-    <string name="o">Fn +</string>
-    <string name="p">Meta +</string>
-    <string name="q">Shift +</string>
     <string name="r">Пробел</string>
-    <string name="s">Sym +</string>
-    <string name="t">Меню +</string>
     <string name="u">Введите запрос</string>
     <string name="v">Удалить запрос</string>
     <string name="w">Поисковый запрос</string>

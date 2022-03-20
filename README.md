@@ -6,10 +6,11 @@ Almost- up to 70% ready
 For(%) - completion percentage
 Start - early state of translation
 n\a- Do not check this
+n\t- not tested
 
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
-| Calculator | FULL | Calc app |
+| Calculator | FULL n\t | Calc app |
 | Calendar | | |
 | DataMigration | | |
 | DesktopBackup | | |
@@ -20,12 +21,12 @@ n\a- Do not check this
 | mCareNew | | |
 | MzStore | | |
 | NetContactService | | |
-| NotePaper | FULL | Notepad app |
+| NotePaper | FULL n\t | Notepad app |
 | Pedometer | | |
 | Perfui | | |
 | SystemWallpaper | | |
 | TodoList | | |
-| ToolBox | FULL | |
+| ToolBox | FULL n\t | |
 | Weather | | |
 | FlymeLauncher |  |  |
 | Settings |  |  |
@@ -55,4 +56,4 @@ n\a- Do not check this
 | Search |  |  |
 | SoundRecorder |  |  |
 | Video |  |  |
-| Weather | Almost | Wrather app |
+| Weather | Almost n\t | Wrather app |

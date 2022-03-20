@@ -22,12 +22,12 @@
     <string name="ae">Загрязнённость воздуха</string>
     <string name="af">Использовать эту опцию по умолчанию</string>
     <string name="app_name">Погода</string>
-    <string name="ah">Показать местоположение</string>
+    <string name="ah">Использовать местоположение</string>
     <string name="aj">Обновить</string>
     <string name="ak">Сменить настроение</string>
     <string name="al">Превышено количество символов на %1$d из %2$d</string>
 
-    <string name="an">Manage cities</string>
+    <string name="an">Выбрать город</string>
     <string name="ao">Click to get weather data</string>
     <string name="ar">Meizu Weather</string>
     <string name="as">Continue</string>
@@ -309,7 +309,7 @@
     <string name="j0">Другие города</string>
     <string name="j1">Показать пароль</string>
     <string name="j6">WeChat Moments</string>
-    <string name="j7">Получать информацию о местоположению</string>
+    <string name="j7">Получать информацию о местоположении</string>
     <string name="j8">Получать информацию о погоде</string>
     <string name="j9">Показать актуальные новости на странице предупреждений</string>
     <string name="j_">Новости о предупреждениях</string>

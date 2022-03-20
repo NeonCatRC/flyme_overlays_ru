@@ -312,7 +312,7 @@
     <string name="ho">Weekdays</string>
     <string name="hp">OK</string>
     <string name="hq">Medical</string>
-    <string name="hr">-</string>
+    <string name="hr">−</string>
     <string name="hs">Minus</string>
     <string name="ht">January</string>
     <string name="hu">October</string>
@@ -330,9 +330,9 @@
     <string name="i6">Monthly repayment (RMB)</string>
     <string name="i7">More</string>
     <string name="i8">Remove %1$s</string>
-    <string name="i9">x</string>
+    <string name="i9">×</string>
     <string name="i_">mul</string>
-    <string name="ia"> times</string>
+    <string name="ia"> times</string>
     <string name="ib">Cancel</string>
     <string name="ic">All</string>
     <string name="id">None</string>
