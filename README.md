@@ -10,7 +10,7 @@ n\t- not tested
 
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
-| Calculator | FULL n\t | Calc app |
+| Calculator | FULL | Calc app |
 | Calendar | | |
 | DataMigration | | |
 | DesktopBackup | | |

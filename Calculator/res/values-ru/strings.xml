@@ -45,7 +45,7 @@
     <string name="at">Валюта была выбрана</string>
     <string name="au">Кредитный портфель</string>
     <string name="av">Коммерческий заём</string>
-    <string name="aw">Коммерческий кредит (10 т.)</string>
+    <string name="aw">Коммерческий кредит</string>
     <string name="ax">Коммерческая процентная ставка по кредиту</string>
     <string name="ay">30%% от (3,43%%)</string>
     <string name="az">В 1,1 раза (5,39%%)</string>
@@ -89,7 +89,7 @@
     <string name="cl">Население превышает 1 млн 1100</string>
     <string name="cm">Дополнительно</string>
     <string name="cp">Финиш</string>
-    <string name="cq">Первый ежемесячный взнос</string>
+    <string name="cq">Первый взнос</string>
     <string name="cr">Фиксированная заработная плата</string>
     <string name="cx">4800 юан.</string>
     <string name="cy">Дальнейшее обучение</string>
@@ -407,7 +407,7 @@
     <string name="mb">Инструкции по дополнительным специальным скидкам с налога</string>
     <string name="mc">Ставки индивидуального подоходного налога в 2019 г.</string>
     <string name="me">Плюс</string>
-    <string name="mh">Сумма без учета налогов (RMB)</string>
+    <string name="mh">Сумма RMB</string>
     <string name="mi">Предварительная сумма налога</string>
     <string name="mj">Прибыль до налогообложения</string>
     <string name="mk">Текст \"%1$s\" скопирован в буфер обмена</string>
@@ -438,7 +438,7 @@
     <string name="n_">знак</string>
     <string name="na">Простой</string>
     <string name="nb">Верхний регистр</string>
-    <string name="nc">Дополнительные специальные скидки с налога</string>
+    <string name="nc">Доп. спец. скидки с налога</string>
     <string name="nd">Площадь S=4πr²</string>
     <string name="ne">Объём V=(4/3)πr3</string>
     <string name="ng">квадрат</string>
