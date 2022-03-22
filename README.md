@@ -25,13 +25,15 @@ n\t- not tested
 | Pedometer | | |
 | Perfui | | |
 | SystemWallpaper | | |
-| TodoList | | |
+| TodoList | Almost n\t | notes and to-do app |
 | ToolBox | FULL n\t | |
 | Weather | | |
 | FlymeLauncher |  |  |
 | Settings |  |  |
 | StorageManager |  |  |
-| SystemUi |  |  |
+| SystemUI |  |  |
+| SystemUIEx |  |  |
+| SystemUITools |  |  |
 | AlarmClock |  |  |
 | AppCenter |  |  |
 | AlwaysOnDisplay |  |  |
@@ -56,4 +58,4 @@ n\t- not tested
 | Search |  |  |
 | SoundRecorder |  |  |
 | Video |  |  |
-| Weather | Almost n\t | Wrather app |
+| Weather | FULL | Weather app |
