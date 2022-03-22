@@ -25,7 +25,7 @@ n\t- not tested
 | Pedometer | | |
 | Perfui | | |
 | SystemWallpaper | | |
-| TodoList | Almost n\t | notes and to-do app |
+| TodoList | FULL | notes and to-do app |
 | ToolBox | FULL n\t | |
 | Weather | | |
 | FlymeLauncher |  |  |
