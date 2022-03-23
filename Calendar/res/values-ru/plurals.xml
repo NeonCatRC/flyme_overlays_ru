@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">За %d дн.</item>
+        <item quantity="one">За 1 день</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">За %d час.</item>
+        <item quantity="one">За 1 час</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">За %d мин.</item>
+        <item quantity="one">За 1 минуту</item>
+    </plurals>
+    <plurals name="fmt_in_num_days">
+        <item quantity="other">Через %d дн.</item>
+        <item quantity="one">Завтра</item>
+    </plurals>
+    <plurals name="fmt_num_days_ago">
+        <item quantity="other">%d дн. назад</item>
+        <item quantity="one">Вчера</item>
+    </plurals>
+    <plurals name="numberPickerN">
+        <item quantity="other">Завершить после %d раз?</item>
+        <item quantity="one">Однократно</item>
+    </plurals>
+    <plurals name="reminder_fmt_d">
+        <item quantity="other">%d д.</item>
+        <item quantity="one">1 день</item>
+    </plurals>
+    <plurals name="reminder_fmt_h">
+        <item quantity="other">%d час.</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="reminder_fmt_m">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">1 мин.</item>
+    </plurals>
+    <plurals name="repeatCountN">
+        <item quantity="other">%d раз</item>
+        <item quantity="one">1 раз</item>
+    </plurals>
+</resources>

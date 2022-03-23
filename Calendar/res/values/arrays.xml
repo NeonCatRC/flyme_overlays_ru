@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="availability">
+        <item>Busy</item>
+        <item>Available</item>
+        <item>Tentative</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Only this event</item>
+        <item>All repeated events</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="chinese_number">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="delay_labels">
+        <item>"Don't remind"</item>
+        <item>Alert in 10 minutes</item>
+        <item>Alert in 30 minutes</item>
+        <item>Alert in 1 hour</item>
+        <item>Alert in 3 hours</item>
+    </string-array>
+    <string-array name="delay_values">
+        <item>-1</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Only this event</item>
+        <item>This and future events</item>
+        <item>All events</item>
+        <item>Cancel</item>
+    </string-array>
+    <integer-array name="delete_repeating_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="email_options">
+        <item>Send email</item>
+        <item>Add to contacts</item>
+    </string-array>
+    <string-array name="gre_festival">
+        <item>New Year</item>
+        <item>"Valentine's Day"</item>
+        <item>"Women's Day"</item>
+        <item></item>
+        <item>International Consumer Rights Day</item>
+        <item></item>
+        <item>"Fool's Day"</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"International Workers'Day"</item>
+        <item>International Youth Day</item>
+        <item></item>
+        <item>"Children's Day"</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"Teacher's Day"</item>
+        <item></item>
+        <item>Halloween</item>
+        <item>Christmas Eve</item>
+        <item>Christmas</item>
+    </string-array>
+    <string-array name="horoscope_array">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+    <string-array name="horoscope_colors">
+        <item>\#ff6767</item>
+        <item>\#fcd211</item>
+        <item>\#2dda76</item>
+        <item>\#259bff</item>
+        <item>\#ffbf13</item>
+        <item>\#ff4747</item>
+        <item>\#22d153</item>
+        <item>\#ff3f90</item>
+        <item>\#05d49d</item>
+        <item>\#ffa633</item>
+        <item>\#4989ff</item>
+        <item>\#1ec7ff</item>
+    </string-array>
+    <string-array name="horoscope_dark_from_colors">
+        <item>\#d9ff6767</item>
+        <item>\#d9fcd211</item>
+        <item>\#d92dda76</item>
+        <item>\#d9259bff</item>
+        <item>\#d9ffbf13</item>
+        <item>\#d9ff4747</item>
+        <item>\#d922d153</item>
+        <item>\#d9ff3f90</item>
+        <item>\#d905d49d</item>
+        <item>\#d9ffa633</item>
+        <item>\#d94989ff</item>
+        <item>\#d91ec7ff</item>
+    </string-array>
+    <string-array name="horoscope_dark_to_colors">
+        <item>\#b3ff6767</item>
+        <item>\#b3fcd211</item>
+        <item>\#b32dda76</item>
+        <item>\#b3259bff</item>
+        <item>\#b3ffbf13</item>
+        <item>\#b3ff4747</item>
+        <item>\#b322d153</item>
+        <item>\#b3ff3f90</item>
+        <item>\#b305d49d</item>
+        <item>\#b3ffa633</item>
+        <item>\#b34989ff</item>
+        <item>\#b31ec7ff</item>
+    </string-array>
+    <string-array name="horoscope_date">
+        <item>3/21 - 4/19</item>
+        <item>4/20 - 5/20</item>
+        <item>5/21 - 6/21</item>
+        <item>6/22 - 7/22</item>
+        <item>7/23 - 8/22</item>
+        <item>8/23 - 9/22</item>
+        <item>9/23 - 10/23</item>
+        <item>10/24 - 11/22</item>
+        <item>11/23 - 12/21</item>
+        <item>12/22 - 1/19</item>
+        <item>1/20 - 2/18</item>
+        <item>2/19 - 3/20</item>
+    </string-array>
+    <string-array name="horoscope_date_read">
+        <item>3月21日 至 4月19日</item>
+        <item>4月20日 至 5月20日</item>
+        <item>5月21日 至 6月21日</item>
+        <item>6月22日 至 7月22日</item>
+        <item>7月23日 至 8月22日</item>
+        <item>8月23日 至 9月22日</item>
+        <item>9月23日 至 10月23日</item>
+        <item>10月24日 至 11月22日</item>
+        <item>11月23日 至 12月21日</item>
+        <item>12月22日 至 1月19日</item>
+        <item>1月20日 至 2月18日</item>
+        <item>2月19日 至 3月20日</item>
+    </string-array>
+    <string-array name="horoscope_light_from_colors">
+        <item>\#d9ff6767</item>
+        <item>\#d9fcd211</item>
+        <item>\#d92dda76</item>
+        <item>\#d9259bff</item>
+        <item>\#d9ffbf13</item>
+        <item>\#d9ff4747</item>
+        <item>\#d922d153</item>
+        <item>\#d9ff3f90</item>
+        <item>\#d905d49d</item>
+        <item>\#d9ffa633</item>
+        <item>\#d94989ff</item>
+        <item>\#d91ec7ff</item>
+    </string-array>
+    <string-array name="horoscope_light_to_colors">
+        <item>\#99ff6767</item>
+        <item>\#99fcd211</item>
+        <item>\#992dda76</item>
+        <item>\#99259bff</item>
+        <item>\#99ffbf13</item>
+        <item>\#99ff4747</item>
+        <item>\#9922d153</item>
+        <item>\#99ff3f90</item>
+        <item>\#9905d49d</item>
+        <item>\#99ffa633</item>
+        <item>\#994989ff</item>
+        <item>\#991ec7ff</item>
+    </string-array>
+    <string-array name="lunar_day">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>二十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </string-array>
+    <string-array name="lunar_month">
+        <item>正月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>冬月</item>
+        <item>腊月</item>
+    </string-array>
+    <string-array name="lunar_number">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+    </string-array>
+    <array name="mc_colorful_round">
+        <item>#ff43b56b</item>
+        <item>#ff44aff9</item>
+        <item>#fff56455</item>
+        <item>#ff5ecddf</item>
+        <item>#fff6b944</item>
+        <item>#ffbd713b</item>
+    </array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="mc_pullline_move_end">
+        <item>0.0f</item>
+        <item>0.00013f</item>
+        <item>0.00046f</item>
+        <item>0.00104f</item>
+        <item>0.00182f</item>
+        <item>0.00286f</item>
+        <item>0.0041f</item>
+        <item>0.0056f</item>
+        <item>0.00729f</item>
+        <item>0.00924f</item>
+        <item>0.01146f</item>
+        <item>0.01387f</item>
+        <item>0.01647f</item>
+        <item>0.01934f</item>
+        <item>0.0224f</item>
+        <item>0.02572f</item>
+        <item>0.0293f</item>
+        <item>0.03307f</item>
+        <item>0.03711f</item>
+        <item>0.04134f</item>
+        <item>0.04583f</item>
+        <item>0.05052f</item>
+        <item>0.05547f</item>
+        <item>0.06061f</item>
+        <item>0.06602f</item>
+        <item>0.07168f</item>
+        <item>0.07754f</item>
+        <item>0.08366f</item>
+        <item>0.08997f</item>
+        <item>0.09655f</item>
+        <item>0.10332f</item>
+        <item>0.11035f</item>
+        <item>0.11764f</item>
+        <item>0.1252f</item>
+        <item>0.13294f</item>
+        <item>0.14089f</item>
+        <item>0.14915f</item>
+        <item>0.15762f</item>
+        <item>0.16628f</item>
+        <item>0.17526f</item>
+        <item>0.18444f</item>
+        <item>0.19388f</item>
+        <item>0.20352f</item>
+        <item>0.21348f</item>
+        <item>0.22363f</item>
+        <item>0.23405f</item>
+        <item>0.24466f</item>
+        <item>0.2556f</item>
+        <item>0.26673f</item>
+        <item>0.27813f</item>
+        <item>0.28978f</item>
+        <item>0.30169f</item>
+        <item>0.31387f</item>
+        <item>0.3263f</item>
+        <item>0.339f</item>
+        <item>0.35195f</item>
+        <item>0.3651f</item>
+        <item>0.37858f</item>
+        <item>0.39232f</item>
+        <item>0.40632f</item>
+        <item>0.42057f</item>
+        <item>0.43516f</item>
+        <item>0.44993f</item>
+        <item>0.46504f</item>
+        <item>0.4804f</item>
+        <item>0.49609f</item>
+        <item>0.51204f</item>
+        <item>0.52826f</item>
+        <item>0.54479f</item>
+        <item>0.56165f</item>
+        <item>0.57878f</item>
+        <item>0.59622f</item>
+        <item>0.614f</item>
+        <item>0.63203f</item>
+        <item>0.65046f</item>
+        <item>0.66921f</item>
+        <item>0.68822f</item>
+        <item>0.70768f</item>
+        <item>0.72741f</item>
+        <item>0.74759f</item>
+        <item>0.7681f</item>
+        <item>0.789f</item>
+        <item>0.81035f</item>
+        <item>0.8321f</item>
+        <item>0.8543f</item>
+        <item>0.87702f</item>
+        <item>0.9002f</item>
+        <item>0.92402f</item>
+        <item>0.94844f</item>
+        <item>0.97363f</item>
+        <item>1f</item>
+    </string-array>
+    <string-array name="mc_pullline_move_start">
+        <item>0.0f</item>
+        <item>0.02637f</item>
+        <item>0.05156f</item>
+        <item>0.07598f</item>
+        <item>0.0998f</item>
+        <item>0.12298f</item>
+        <item>0.1457f</item>
+        <item>0.1679f</item>
+        <item>0.18965f</item>
+        <item>0.211f</item>
+        <item>0.2319f</item>
+        <item>0.25241f</item>
+        <item>0.27259f</item>
+        <item>0.29232f</item>
+        <item>0.31178f</item>
+        <item>0.33079f</item>
+        <item>0.34954f</item>
+        <item>0.36797f</item>
+        <item>0.386f</item>
+        <item>0.40378f</item>
+        <item>0.42122f</item>
+        <item>0.43835f</item>
+        <item>0.45521f</item>
+        <item>0.47174f</item>
+        <item>0.48796f</item>
+        <item>0.50391f</item>
+        <item>0.5196f</item>
+        <item>0.53496f</item>
+        <item>0.55007f</item>
+        <item>0.56484f</item>
+        <item>0.57943f</item>
+        <item>0.59368f</item>
+        <item>0.60768f</item>
+        <item>0.62142f</item>
+        <item>0.6349f</item>
+        <item>0.64805f</item>
+        <item>0.661f</item>
+        <item>0.6737f</item>
+        <item>0.68613f</item>
+        <item>0.69831f</item>
+        <item>0.71022f</item>
+        <item>0.72188f</item>
+        <item>0.73327f</item>
+        <item>0.7444f</item>
+        <item>0.75534f</item>
+        <item>0.76595f</item>
+        <item>0.77637f</item>
+        <item>0.78652f</item>
+        <item>0.79648f</item>
+        <item>0.80612f</item>
+        <item>0.81556f</item>
+        <item>0.82474f</item>
+        <item>0.83372f</item>
+        <item>0.84238f</item>
+        <item>0.85085f</item>
+        <item>0.85911f</item>
+        <item>0.86706f</item>
+        <item>0.8748f</item>
+        <item>0.88236f</item>
+        <item>0.88965f</item>
+        <item>0.89668f</item>
+        <item>0.90345f</item>
+        <item>0.91003f</item>
+        <item>0.91634f</item>
+        <item>0.92246f</item>
+        <item>0.92832f</item>
+        <item>0.93398f</item>
+        <item>0.93939f</item>
+        <item>0.94453f</item>
+        <item>0.94948f</item>
+        <item>0.95417f</item>
+        <item>0.95866f</item>
+        <item>0.96289f</item>
+        <item>0.96693f</item>
+        <item>0.9707f</item>
+        <item>0.97428f</item>
+        <item>0.9776f</item>
+        <item>0.98066f</item>
+        <item>0.98353f</item>
+        <item>0.98613f</item>
+        <item>0.98854f</item>
+        <item>0.99076f</item>
+        <item>0.99271f</item>
+        <item>0.9944f</item>
+        <item>0.9959f</item>
+        <item>0.99714f</item>
+        <item>0.99818f</item>
+        <item>0.99896f</item>
+        <item>0.99954f</item>
+        <item>0.99987f</item>
+        <item>1f</item>
+    </string-array>
+    <array name="mc_rating_bar_black_bg_colors">
+        <item>#ffc9c9c9</item>
+        <item>#ffc9c9c9</item>
+        <item>#ffc9c9c9</item>
+        <item>#ffc9c9c9</item>
+        <item>#ffc9c9c9</item>
+    </array>
+    <array name="mc_rating_bar_default_colors">
+        <item>#fffbc106</item>
+        <item>#fffcb10f</item>
+        <item>#fffc9c1b</item>
+        <item>#fffc8f21</item>
+        <item>#fffd7d2c</item>
+    </array>
+    <array name="mc_rating_bar_white_bg_colors">
+        <item>#ff7f7f7f</item>
+        <item>#ff7f7f7f</item>
+        <item>#ff7f7f7f</item>
+        <item>#ff7f7f7f</item>
+        <item>#ff7f7f7f</item>
+    </array>
+    <string-array name="mz_app_to_next_open_enter_translate_y">
+        <item>1f</item>
+        <item>0.9098163031f</item>
+        <item>0.8200344432f</item>
+        <item>0.7394374282f</item>
+        <item>0.6665901263f</item>
+        <item>0.600401837f</item>
+        <item>0.5400114811f</item>
+        <item>0.4847301952f</item>
+        <item>0.4340413318f</item>
+        <item>0.3874856487f</item>
+        <item>0.3446613088f</item>
+        <item>0.3052812859f</item>
+        <item>0.2691733639f</item>
+        <item>0.2359931114f</item>
+        <item>0.2056257176f</item>
+        <item>0.1778415614f</item>
+        <item>0.1525258324f</item>
+        <item>0.1295637199f</item>
+        <item>0.1088404133f</item>
+        <item>0.0901836969f</item>
+        <item>0.07347876f</item>
+        <item>0.07347876f</item>
+        <item>0.058783008f</item>
+        <item>0.0458094145f</item>
+        <item>0.0346727899f</item>
+        <item>0.0251435132f</item>
+        <item>0.0172789897f</item>
+        <item>0.0109070034f</item>
+        <item>0.0060849598f</item>
+        <item>0.0026406429f</item>
+        <item>0.0006314581f</item>
+        <item>0f</item>
+    </string-array>
+    <array name="mz_colorful_round">
+        <item>#ffe26f41</item>
+        <item>#ffdd5847</item>
+        <item>#ff6e6bc8</item>
+        <item>#ff517bd1</item>
+        <item>#ff28bc92</item>
+        <item>#ff54ae56</item>
+        <item>#ffe9a63b</item>
+    </array>
+    <string-array name="news_tip_report_article_array">
+        <item>广告</item>
+        <item>内容过时</item>
+        <item>低俗色情</item>
+        <item>标题夸张</item>
+        <item>与事实不符</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>广告</item>
+        <item>低俗色情暴力</item>
+        <item>标题虚假夸张</item>
+        <item>侵权</item>
+        <item>视频质量差</item>
+        <item>封面令人反感</item>
+    </string-array>
+    <string-array name="permission_summary">
+        <item>"Read your contacts' birthday"</item>
+        <item>Get holidays and subscription info</item>
+        <item>Get exact location</item>
+    </string-array>
+    <string-array name="permission_summary_flyme9">
+        <item>Get holidays and subscription info</item>
+    </string-array>
+    <string-array name="pref_calendar_view_labels">
+        <item>Month View</item>
+        <item>Week View</item>
+    </string-array>
+    <string-array name="pref_calendar_view_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_default_all_day_reminder_labels">
+        <item>None</item>
+        <item>On day of event (9:00 AM)</item>
+        <item>1 day before (9:00 AM)</item>
+        <item>2 days before (9:00 AM)</item>
+    </string-array>
+    <string-array name="pref_default_all_day_reminder_values">
+        <item>-32768</item>
+        <item>-540</item>
+        <item>900</item>
+        <item>2340</item>
+    </string-array>
+    <string-array name="pref_default_reminder_labels">
+        <item>None</item>
+        <item>At time of event</item>
+        <item>10 minutes before</item>
+        <item>30 minutes before</item>
+        <item>1 hour before</item>
+        <item>1 day before</item>
+    </string-array>
+    <string-array name="pref_default_reminder_values">
+        <item>-32768</item>
+        <item>0</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+    </string-array>
+    <string-array name="pref_week_start_labels">
+        <item>Default region</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+    </string-array>
+    <string-array name="pref_week_start_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="principle_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>"I'll be late for a few minutes"</item>
+        <item>Be there in about 10 minutes.</item>
+        <item>Go ahead and start without me.</item>
+        <item>"Sorry, I can't make it. We'll have to reschedule."</item>
+        <item>Write your own...</item>
+    </string-array>
+    <array name="rating_bar_colors">
+        <item>#ffff961d</item>
+        <item>#fffda21f</item>
+        <item>#fffcb121</item>
+        <item>#fffabd23</item>
+        <item>#fff6c84b</item>
+    </array>
+    <string-array name="reminder_day_labels">
+        <item>None</item>
+        <item>On day of event</item>
+        <item>1 day before</item>
+        <item>2 days before</item>
+        <item>3 days before</item>
+        <item>1 week before</item>
+    </string-array>
+    <string-array name="reminder_day_values">
+        <item>-32768</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Notifications</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <integer-array name="reminder_methods_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="reminder_types">
+        <item>Heads-up notifications</item>
+        <item>Pop-up Alerts</item>
+    </string-array>
+    <string-array name="reminder_types_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="repeats_end_labels">
+        <item>Forever</item>
+        <item>Until a date</item>
+        <item>A certain number of times</item>
+    </string-array>
+    <string-array name="sectional_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="solar_festival">
+        <item>0101New Year</item>
+        <item>"0214Valentine's Day"</item>
+        <item>"0308Women's Day"</item>
+        <item></item>
+        <item>0315International Consumer Rights Day</item>
+        <item></item>
+        <item>"0401Fool's Day"</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"0501International Workers'Day"</item>
+        <item>0504International Youth Day</item>
+        <item></item>
+        <item>"0601Children's Day"</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"0910Teacher's Day"</item>
+        <item></item>
+        <item>1031Halloween</item>
+        <item>1224Christmas Eve</item>
+        <item>1225Christmas</item>
+    </string-array>
+    <string-array name="solar_term">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="tool_types">
+        <item>日期推算</item>
+        <item>时间间隔</item>
+        <item>公农历转换</item>
+    </string-array>
+    <string-array name="tradition_festival">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="values_close_exit_translate_app">
+        <item>0.0f</item>
+        <item>0.12734375f</item>
+        <item>0.290538194f</item>
+        <item>0.445486111f</item>
+        <item>0.579947917f</item>
+        <item>0.678038194f</item>
+        <item>0.747916667f</item>
+        <item>0.802170139f</item>
+        <item>0.845746528f</item>
+        <item>0.881510417f</item>
+        <item>0.911024306f</item>
+        <item>0.935503472f</item>
+        <item>0.95546875f</item>
+        <item>0.971440972f</item>
+        <item>0.983767361f</item>
+        <item>0.992708333f</item>
+        <item>0.998090278f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="values_extra_close_exit_translate_app">
+        <item>0.0</item>
+        <item>0.0047222222</item>
+        <item>0.0180555556</item>
+        <item>0.0391666667</item>
+        <item>0.0669444444</item>
+        <item>0.100462963</item>
+        <item>0.1387962963</item>
+        <item>0.1812037037</item>
+        <item>0.2268518519</item>
+        <item>0.2749074074</item>
+        <item>0.3247222222</item>
+        <item>0.3756481481</item>
+        <item>0.4271296296</item>
+        <item>0.4785185185</item>
+        <item>0.5294444444</item>
+        <item>0.5792592593</item>
+        <item>0.6277777778</item>
+        <item>0.6744444444</item>
+        <item>0.7188888889</item>
+        <item>0.7609259259</item>
+        <item>0.8002777778</item>
+        <item>0.8365740741</item>
+        <item>0.8696296296</item>
+        <item>0.8993518519</item>
+        <item>0.925462963</item>
+        <item>0.9478703704</item>
+        <item>0.9664814815</item>
+        <item>0.9810185185</item>
+        <item>0.9914814815</item>
+        <item>0.9978703704</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_extra_open_enter_translate_app">
+        <item>0.0</item>
+        <item>0.0037037037</item>
+        <item>0.0149074074</item>
+        <item>0.0334259259</item>
+        <item>0.0590740741</item>
+        <item>0.0915740741</item>
+        <item>0.1301851852</item>
+        <item>0.1741666667</item>
+        <item>0.2228703704</item>
+        <item>0.2750925926</item>
+        <item>0.3299074074</item>
+        <item>0.3862962963</item>
+        <item>0.4431481481</item>
+        <item>0.4996296296</item>
+        <item>0.5548148148</item>
+        <item>0.6081481481</item>
+        <item>0.6589814815</item>
+        <item>0.7068518519</item>
+        <item>0.7513888889</item>
+        <item>0.7924074074</item>
+        <item>0.8297222222</item>
+        <item>0.8632407407</item>
+        <item>0.892962963</item>
+        <item>0.9188888889</item>
+        <item>0.9410185185</item>
+        <item>0.959537037</item>
+        <item>0.9744444444</item>
+        <item>0.9857407407</item>
+        <item>0.9937962963</item>
+        <item>0.9984259259</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_open_enter_translate_app">
+        <item>0.0f</item>
+        <item>0.240190972f</item>
+        <item>0.466145833f</item>
+        <item>0.617708333f</item>
+        <item>0.721440972f</item>
+        <item>0.7921875f</item>
+        <item>0.844270833f</item>
+        <item>0.886197917f</item>
+        <item>0.919010417f</item>
+        <item>0.944010417f</item>
+        <item>0.9625f</item>
+        <item>0.975954861f</item>
+        <item>0.985416667f</item>
+        <item>0.991840278f</item>
+        <item>0.996006944f</item>
+        <item>0.9984375f</item>
+        <item>0.999652778f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="weekSpeakArr">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="weekarr">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+</resources>

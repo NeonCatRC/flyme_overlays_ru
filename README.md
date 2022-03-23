@@ -11,7 +11,7 @@ n\t- not tested
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
 | Calculator | FULL | Calc app |
-| Calendar | | |
+| Calendar | Almost | Calendar app |
 | DataMigration | | |
 | DesktopBackup | | |
 | Email | | |
@@ -27,7 +27,7 @@ n\t- not tested
 | SystemWallpaper | | |
 | TodoList | FULL | notes and to-do app |
 | ToolBox | FULL n\t | |
-| Weather | | |
+| Weather | FULL | Weather app |
 | FlymeLauncher |  |  |
 | Settings |  |  |
 | StorageManager |  |  |
@@ -58,4 +58,3 @@ n\t- not tested
 | Search |  |  |
 | SoundRecorder |  |  |
 | Video |  |  |
-| Weather | FULL | Weather app |
