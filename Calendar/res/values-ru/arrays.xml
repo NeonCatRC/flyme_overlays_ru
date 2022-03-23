@@ -253,4 +253,8 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+    <string-array name="pref_calendar_view_labels">
+        <item>Помесячный</item>
+        <item>Недельный</item>
+    </string-array>
 </resources>
