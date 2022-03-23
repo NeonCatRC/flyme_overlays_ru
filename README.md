@@ -11,7 +11,7 @@ n\t- not tested
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
 | Calculator | FULL | Calc app |
-| Calendar | Almost | Calendar app |
+| Calendar | FULL n\t | Calendar app |
 | DataMigration | | |
 | DesktopBackup | | |
 | Email | | |

@@ -143,13 +143,11 @@
     <string name="date_time_set">Установить</string>
     <string name="day_after_tomorrow">Послезавтра</string>
     <string name="days_matter_title_hint">Название</string>
-
-    <string name="def_card_name">Card Name</string>
-    <string name="def_des">This is a message</string>
-    <string name="def_footer_but">Action</string>
-    <string name="def_see_more">see more</string>
-    <string name="def_title">This is a title</string>
-
+    <string name="def_card_name">Название карточки</string>
+    <string name="def_des">Это сообщение</string>
+    <string name="def_footer_but">Действие</string>
+    <string name="def_see_more">Показать</string>
+    <string name="def_title">Это заголовок</string>
     <string name="delete_this_event_title">Удалить это событие</string>
     <string name="detail">Детали</string>
     <string name="director">Режиссёр</string>
@@ -243,28 +241,24 @@
     <string name="inbox_title">Входящие</string>
     <string name="inbox_when_fmt">Когда: %s</string>
     <string name="inbox_where_fmt">Где: %s</string>
-
-    <string name="incompatibility">忌</string>
-    <string name="install_button_cancel">Cancel</string>
-    <string name="install_button_hide">Hide</string>
-    <string name="install_button_install">Install</string>
-    <string name="install_button_install_mobile">Install by mobile network</string>
-    <string name="install_complete_text">打开</string>
-    <string name="install_download_progress">%d%%</string>
-    <string name="install_error">An error occurred, code = %d</string>
-    <string name="install_failure">Failed to install</string>
-    <string name="install_game_center_title_prompt">Install Little Game</string>
-    <string name="install_game_title_prompt">Install DirectService to open quick app</string>
-    <string name="install_idle_text">安装</string>
-    <string name="install_progress_default">0%</string>
-    <string name="install_start">Start to install</string>
-    <string name="install_success">Install successful, open it immediately</string>
-    <string name="install_title_downloading">Downloading</string>
-    <string name="install_title_installing">Installing</string>
-    <string name="install_title_launching">Launching</string>
-    <string name="install_title_prompt">Install DirectService to open quick app</string>
-    <string name="installing_text">正在安装</string>
-
+    <string name="incompatibility">Несовместимо</string>
+    <string name="install_button_cancel">Отмена</string>
+    <string name="install_button_hide">Свернуть</string>
+    <string name="install_button_install">Установить</string>
+    <string name="install_button_install_mobile">Установка по мобильной сети</string>
+    <string name="install_complete_text">Готово</string>
+    <string name="install_error">Произошла ошибка, код = %d</string>
+    <string name="install_failure">Ошибка при установке</string>
+    <string name="install_game_center_title_prompt">Установить мини-игру</string>
+    <string name="install_game_title_prompt">Установить DirectService для запуска quick app</string>
+    <string name="install_idle_text">Установка</string>
+    <string name="install_start">Начало установки</string>
+    <string name="install_success">Установлено успешно, открыть сразу?</string>
+    <string name="install_title_downloading">Загрузка</string>
+    <string name="install_title_installing">Установка</string>
+    <string name="install_title_launching">Запуск</string>
+    <string name="install_title_prompt">Установить DirectService для запуска quick app</string>
+    <string name="installing_text">Установка</string>
     <string name="item_is_selected">%1$s выбрано</string>
     <string name="laba">Лаба-фестиваль</string>
     <string name="load_failure">Ошибка загрузки</string>
@@ -396,7 +390,6 @@
     <string name="mc_wednesday">СР</string>
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
-
     <string name="mc_yes">ОК</string>
     <string name="meizu_calendar">Календарь Meizu</string>
     <string name="mid_autumn_festival">День середины осени</string>
@@ -494,9 +487,7 @@
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
-
-    <string name="mzuc_app_update_channel">App update tips</string>
-
+    <string name="mzuc_app_update_channel">Подсказки по обновлению</string>
     <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
     <string name="mzuc_cancel_install">Отменить установку</string>
@@ -546,70 +537,60 @@
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="nba_schedule">Текущее расписание</string>
-    
-    <string name="net_page_continue_jump">继续访问</string>
-    <string name="net_page_jump_message">正在跳转到第三方网页，请注意保护你的隐私信息</string>
-    <string name="net_page_jump_title">网页跳转提示</string>
-    <string name="network_execption">网络异常，请稍后重试</string>
-    <string name="network_fail">无网络连接，请检查网络设置</string>
-    <string name="news_back_exit">Press again to exit the news</string>
-    <string name="news_cancel">取消</string>
-    <string name="news_change">换一换</string>
-    <string name="news_confirm">确定</string>
-    <string name="news_dislike">不感兴趣</string>
-    <string name="news_dislike_hint">这条内容我不喜欢</string>
-    <string name="news_error_click_retry">网络异常, 点击重试</string>
-    <string name="news_error_no_more">无更多内容</string>
-    <string name="news_feedback_commit">提交</string>
-    <string name="news_install">安装</string>
-    <string name="news_lite_dialog_app_uninstall">\"%s\"已被卸载，是否安装？</string>
-    <string name="news_lite_dialog_app_version_too_low">\"%s\"版本太低，播放失败</string>
-    <string name="news_lite_hot_video_label">热搜</string>
-    <string name="news_lite_just_now">刚刚</string>
-    <string name="news_lite_more_video">查看更多</string>
-    <string name="news_lite_reader_app_name">新闻资讯</string>
-    <string name="news_lite_smv_entrance_title">精彩小视频</string>
-    <string name="news_lite_smv_view_more">查看更多</string>
-    <string name="news_lite_video_clips_app_name">短视频</string>
-    <string name="news_loading_text">正在加载</string>
-    <string name="news_more">更多热点</string>
-    <string name="news_network_error">网络异常, 请稍后重试</string>
-    <string name="news_play_count">%s次播放</string>
-    <string name="news_reduce_recommendation">将减少类似内容推荐</string>
-    <string name="news_report">举报垃圾内容</string>
-    <string name="news_report_reason">内容低俗、标题夸张等</string>
-    <string name="news_slide_more">上滑加载</string>
-    <string name="news_tip_dialog_wifi_not_connected">无网络连接, 请检查网络设置</string>
-    <string name="news_update">立即更新</string>
-
+    <string name="net_page_continue_jump">Продолжить</string>
+    <string name="net_page_jump_message">Вы перенаправляетесь на стороннюю веб-страницу, пожалуйста, обратите внимание на защиту вашей личной информации</string>
+    <string name="net_page_jump_title">Перенаправление на стороннюю веб-страницу</string>
+    <string name="network_execption">Нет подключения к сети, пожалуйста, повторите попытку позже</string>
+    <string name="network_fail">Нет подключения к Интернету, пожалуйста, проверьте настройки сети</string>
+    <string name="news_back_exit">Нажмите ещё раз, чтобы выйти из новостей</string>
+    <string name="news_cancel">Отменить</string>
+    <string name="news_change">Поменять</string>
+    <string name="news_confirm">Применить</string>
+    <string name="news_dislike">Не нравится</string>
+    <string name="news_dislike_hint">Мне не нравится этот контент</string>
+    <string name="news_error_click_retry">Сеть неисправна, нажмите, чтобы повторить попытку</string>
+    <string name="news_error_no_more">Нет контента</string>
+    <string name="news_feedback_commit">Обратная связь</string>
+    <string name="news_install">Установить</string>
+    <string name="news_lite_dialog_app_uninstall">Приложение\"%s\"было удалено, установить заново?</string>
+    <string name="news_lite_dialog_app_version_too_low">Версия приложения\"%s\"слишком низкая.</string>
+    <string name="news_lite_hot_video_label">Популярные видео</string>
+    <string name="news_lite_just_now">Новое</string>
+    <string name="news_lite_more_video">Больше видео</string>
+    <string name="news_lite_reader_app_name">Новости</string>
+    <string name="news_lite_smv_entrance_title">Короткие видео</string>
+    <string name="news_lite_smv_view_more">Больше</string>
+    <string name="news_lite_video_clips_app_name">Клипы</string>
+    <string name="news_loading_text">Загрузка</string>
+    <string name="news_more">Больше</string>
+    <string name="news_network_error">Нет подключения к сети, пожалуйста, повторите попытку позже</string>
+    <string name="news_play_count">%sпросмотров</string>
+    <string name="news_reduce_recommendation">Сократить количество рекомендаций по аналогичному контенту</string>
+    <string name="news_report">Пожаловаться</string>
+    <string name="news_report_reason">Содержание вульгарно, название преувеличено и т.д.</string>
+    <string name="news_slide_more">Проведите вверх, чтобы загрузить</string>
+    <string name="news_tip_dialog_wifi_not_connected">Нет подключения к сети, пожалуйста, повторите попытку позже</string>
+    <string name="news_update">Обновить сейчас</string>
     <string name="no_calendars_found">Добавить событие можно только в видимый календарь, настроенный на устройстве. Нажмите \"Добавить аккаунт\" или, если он недавно добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
     <string name="no_data">Нет</string>
     <string name="no_import_birthday">Нет дней рождений</string>
     <string name="no_live">Нет прямого эфира</string>
-
-    <string name="no_more_data">No More Data</string>
-    <string name="no_net">No Net</string>
-    <string name="no_net_tip">No network connection, please check the network settings</string>
-    <string name="no_remind_again">"Don't remind"</string>
-
+    <string name="no_more_data">Нет данных</string>
+    <string name="no_net">Нет сети</string>
+    <string name="no_net_tip">Нет сетевого подключения. Проверьте настройки сети.</string>
+    <string name="no_remind_again">"Не напоминать"</string>
     <string name="no_syncable_calendars">Нет календарей</string>
     <string name="no_title_label">Без названия</string>
     <string name="not_begin">Не начался</string>
-
-    <string name="notification_channel_name">Schedule reminder</string>
-
+    <string name="notification_channel_name">Напоминание о расписании</string>
     <string name="on_the_march">Идёт сейчас</string>
-
-    <string name="open_contacts_permission_confirm">Open</string>
-    <string name="open_contacts_permission_message">This permission is required for new event function</string>
-    <string name="open_contacts_permission_title">Please open the read contact permission</string>
-    
+    <string name="open_contacts_permission_confirm">Открыть</string>
+    <string name="open_contacts_permission_message">Это разрешение требуется для новой функции события</string>
+    <string name="open_contacts_permission_title">Пожалуйста, откройте разрешение на чтение контактов</string>
     <string name="open_custom_event_label">Ещё</string>
     <string name="open_insert_event_success">Событие добавлено</string>
     <string name="open_update_event_success">Событие обновлено</string>
-
-    <string name="password_toggle_content_description">Toggle password visibility</string>
-    
+    <string name="password_toggle_content_description">Переключить видимость пароля</string>
     <string name="past_countdown">Обратный отсчёт</string>
     <string name="permission_text">Приложение требует доступа к сети и чтению контактов для получения данных о днях рождения и другой информации</string>
     <string name="pref_header_extra_info">Дополнительная информация</string>
@@ -622,9 +603,7 @@
     <string name="pref_title_alerts_popup">Всплывающие оповещения</string>
     <string name="pref_title_all_day_default_reminder">Оповещение о событиях на весь день</string>
     <string name="pref_title_almanac">Альманах</string>
-
-    <string name="pref_title_calendar_view">Default Calendar View</string>
-
+    <string name="pref_title_calendar_view">Стандартный вид календаря</string>
     <string name="pref_title_calendars">Аккаунты и календари</string>
     <string name="pref_title_default_calendar">Календарь по умолчанию</string>
     <string name="pref_title_default_reminder">Время оповещения по умолчанию</string>
@@ -665,16 +644,12 @@
     <string name="response_decline">Отклонить</string>
     <string name="response_maybe">Возможно</string>
     <string name="rest_day">В</string>
-
-    <string name="retry">重试</string>
-
+    <string name="retry">Повторить</string>
     <string name="saving_event">Событие сохранено</string>
     <string name="saving_event_with_guest">Обновление будет отправлено</string>
     <string name="schedule_and_event">Расписание и событие</string>
     <string name="search_menu_title">Поиск</string>
-
-    <string name="set_network">设置网络</string>
-
+    <string name="set_network">Настройка сети</string>
     <string name="share_info_attendee_title">Участники (%d чел.)</string>
     <string name="share_info_content">Содержимое</string>
     <string name="share_info_location">Местоположение</string>
@@ -701,9 +676,7 @@
     <string name="splash_ad_title">Календарь</string>
     <string name="spring_festival">Фестиваль Весны</string>
     <string name="square_cates_title">Категории</string>
-
-    <string name="ssl_alert_title">"The site's security certificate has expired or is unavailable."</string>
-    
+    <string name="ssl_alert_title">"Срок действия сертификата безопасности сайта истек или он недоступен."</string>
     <string name="star_speak">Звезда</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="stills">Кадры</string>
@@ -720,9 +693,7 @@
     <string name="subscription_del">Отписаться</string>
     <string name="subscription_no_account">Войти в аккаунт Flyme</string>
     <string name="subscription_no_data">Нет подписок</string>
-
-    <string name="system_default_channel">System default channel</string>
-
+    <string name="system_default_channel">Стандартный системный канал</string>
     <string name="thanks_giving">День благодарения</string>
     <string name="this_month">Этот месяц</string>
     <string name="this_week">Эта неделя</string>
@@ -731,9 +702,6 @@
     <string name="title_activity_agenda_past">Прошедшие события</string>
     <string name="title_activity_almanac_detail">Детали альманаха</string>
     <string name="title_activity_countdown_past">Обратный отсчёт</string>
-
-    <string name="title_activity_football_list">FootballListActivity</string>
-
     <string name="title_activity_icalendar_list">Импорт календаря</string>
     <string name="title_subscription_square">Подписки</string>
     <string name="title_tool">Прогноз встреч</string>
