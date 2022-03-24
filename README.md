@@ -1,12 +1,12 @@
 # Flyme_overlays_ru
 Overlays for f9 apps
 
-FULL- full RU localization 
-Almost- up to 70% ready
-For(%) - completion percentage
-Start - early state of translation
-n\a- Do not check this
-n\t- not tested
+- FULL- full RU localization 
+- Almost- up to 70% ready
+- For(%) - completion percentage
+- Start - early state of translation
+- n\a- Do not check this
+- n\t- not tested
 
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
@@ -22,7 +22,7 @@ n\t- not tested
 | MzStore | | |
 | NetContactService | | |
 | NotePaper | FULL n\t | Notepad app |
-| Pedometer | | |
+| Pedometer | FULL n\t | Step counter |
 | Perfui | | |
 | SystemWallpaper | | |
 | TodoList | FULL | notes and to-do app |
