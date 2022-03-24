@@ -37,7 +37,7 @@ Overlays for f9 apps
 | AlarmClock |  |  |
 | AppCenter |  |  |
 | AlwaysOnDisplay |  |  |
-| Camera | ~75% | Camera app |
+| Camera | FULL n\t | Camera app |
 | FileManager |  |  |
 | MzAccount |  |  |
 | MzBatteryManager |  |  |

@@ -40,9 +40,7 @@
     <string name="cannot_connect_camera_anyway">Камера занята. Перезагрузите телефон и повторите попытку.</string>
     <string name="cannot_connect_camera_v2">Ошибка камеры. Повторите попытку позже или перезагрузите телефон.</string>
     <string name="cannot_load_image">Не удаётся загрузить изображение</string>
-
-    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
-
+    <string name="character_counter_content_description">Превышен лимит символов на %1$d из %2$d</string>
     <string name="copy">Копировать</string>
     <string name="crop_save">Сохранить</string>
     <string name="date_time_set">Установить</string>
@@ -334,9 +332,7 @@
     <string name="mz_custom_device_mark_dialog_error_hint_length">Допустимо не более 20 символов</string>
     <string name="mz_custom_device_mark_dialog_negative">Отмена</string>
     <string name="mz_custom_device_mark_dialog_positive">Сохранить</string>
-
     <string name="mz_dark_vision_hint">Dark Vision</string>
-
     <string name="mz_date_time_day">д.</string>
     <string name="mz_date_time_hour">ч.</string>
     <string name="mz_date_time_min">м.</string>
@@ -352,10 +348,8 @@
     <string name="mz_fb_manual">Расширен.</string>
     <string name="mz_fb_slime">Подтяжка</string>
     <string name="mz_fb_smart">Смарт</string>
-
-    <string name="mz_fb_smart_depth">Depth smart</string>
-    <string name="mz_fb_smart_mile">Mile smart</string>
-
+    <string name="mz_fb_smart_depth">Умная глубина</string>
+    <string name="mz_fb_smart_mile">Умная миля</string>
     <string name="mz_fb_smooth">Сглаживание</string>
     <string name="mz_fb_tone">Тон кожи</string>
     <string name="mz_filter_1_title">Розовый</string>
@@ -367,12 +361,9 @@
     <string name="mz_filter_7_title">Синий</string>
     <string name="mz_filter_8_title">Лун. свет</string>
     <string name="mz_filter_9_title">Ярко</string>
-
-    <string name="mz_filter_classic">Classic filter</string>
-    <string name="mz_filter_lut">My filter</string>
-    <string name="mz_filter_mgr">Manager</string>
-
-    
+    <string name="mz_filter_classic">Классический фильтр</string>
+    <string name="mz_filter_lut">Мой фильтр</string>
+    <string name="mz_filter_mgr">Менеджер</string>
     <string name="mz_filter_none_title">Нет</string>
     <string name="mz_forcetouch_item_mirror">Зеркало</string>
     <string name="mz_forcetouch_item_video">Видео</string>
@@ -397,20 +388,16 @@
     <string name="mz_handle_picture_hint">Обработка %d фото…</string>
     <string name="mz_handle_realtime_bokeh_normal_hint">Боке</string>
     <string name="mz_handle_surrounding_dark_hint">Окружение слишком тёмное</string>
-
     <string name="mz_hint_af_lock_ae">AE Lock</string>
     <string name="mz_hint_af_lock_af">AF Lock</string>
     <string name="mz_hint_af_lock_all">AF/AE Lock</string>
-    <string name="mz_hint_exit_immersion_mode">Double-Click exit immersion Preview</string>
-    <string name="mz_hint_show_smart_bar_bottom">Swipe down to change the position of the action bar</string>
-    <string name="mz_hint_show_smart_bar_top">Swipe up to change the position of the action bar</string>
-    
+    <string name="mz_hint_exit_immersion_mode">Нажмите 2 раза чтобы выйти из предпросмотра</string>
+    <string name="mz_hint_show_smart_bar_bottom">Проведите пальцем вниз, чтобы изменить положение панели действий</string>
+    <string name="mz_hint_show_smart_bar_top">Проведите пальцем вверх, чтобы изменить положение панели действий</string>
     <string name="mz_hint_supernight_desc">Нажмите, чтобы опробовать «Ночное супер-фото»</string>
     <string name="mz_hint_wideangle_desc">Коснитесь для расширения поля зрения и приближения</string>
     <string name="mz_hint_xuhua">"Размытие: "</string>
-
-    <string name="mz_immersion_mode_switch_title">Immersion Preview</string>
-
+    <string name="mz_immersion_mode_switch_title">Предпросмотр</string>
     <string name="mz_isbn_author">Автор:</string>
     <string name="mz_isbn_info_price">Цена:</string>
     <string name="mz_isbn_info_publish">Издатель:</string>
@@ -533,15 +520,13 @@
     <string name="mz_reject">Выход</string>
     <string name="mz_setting_asd_switch_label">Интеллектуальное распознавание сцены для оптимизации результатов визуализации</string>
     <string name="mz_setting_asd_switch_title">AI-распознавание сцены</string>
-
-    <string name="mz_setting_click_asd_hint">Intelligently identify the scene and optimize the scene effect</string>
-    <string name="mz_setting_click_barcode_in_auto_hint">Automatically recognizes the QR code and barcode in the box</string>
-    <string name="mz_setting_click_close_per_hint">Close </string>
-    <string name="mz_setting_click_front_mirror_hint">The photo will be the same as the preview</string>
-    <string name="mz_setting_click_immersion_hint">Double-click in the viewfinder to enter the immersive preview</string>
-    <string name="mz_setting_click_open_per_hint">Open </string>
-    <string name="mz_setting_click_video_record_limited_hint">The maximum recording time is %1$d minutes</string>
-
+    <string name="mz_setting_click_asd_hint">Автоматически определяет сцену и оптимизирует эффекты</string>
+    <string name="mz_setting_click_barcode_in_auto_hint">Автоматически распознаёт QR и штрих-коды</string>
+    <string name="mz_setting_click_close_per_hint">Закрыть</string>
+    <string name="mz_setting_click_front_mirror_hint">Фото будет таким же, как и на предпросмотре</string>
+    <string name="mz_setting_click_immersion_hint">Нажмите 2 раза по видоискателю чтобы открыть предпросмотр</string>
+    <string name="mz_setting_click_open_per_hint">Открыть</string>
+    <string name="mz_setting_click_video_record_limited_hint">Максимальная длина записи %1$d минут</string>
     <string name="mz_setting_click_video_suppord_eis_hint">Текущие настройки поддерживают стабилизацию</string>
     <string name="mz_setting_click_voice_hint">Скажите \"Снимаю\" или \"Сыр\"</string>
     <string name="mz_setting_count_down_close">Закрыть</string>
@@ -582,18 +567,14 @@
     <string name="mz_setting_title_devicemark_custom">Свой водяной знак</string>
     <string name="mz_setting_tripod_title">Трипод</string>
     <string name="mz_setting_video_4k_60fps_limit">В этом размере длина записи до 10 минут</string>
-
-    <string name="mz_setting_video_hdr_title">Video Hdr</string>
-    <string name="mz_setting_video_size_hint">Video specifications</string>
-    <string name="mz_setting_video_super_night_title">Video SuperNight</string>
-    
+    <string name="mz_setting_video_hdr_title">HDR Видео</string>
+    <string name="mz_setting_video_size_hint">Настройки видео</string>
+    <string name="mz_setting_video_super_night_title">SuperNight Видео</string>
     <string name="mz_setting_voice_action_label">Скажите \"Снимаю\" или \"Сыр\"</string>
     <string name="mz_setting_voice_action_title">Голосовое управление</string>
-
-    <string name="mz_setting_watermark">Watermark</string>
-    <string name="mz_setting_watermark_device">DeviceMark</string>
-    <string name="mz_setting_watermark_time">TimeMark</string>
-
+    <string name="mz_setting_watermark">Ватермарк</string>
+    <string name="mz_setting_watermark_device">Метка девайса</string>
+    <string name="mz_setting_watermark_time">Временная метка</string>
     <string name="mz_share_view_checkbox_text">Удалить после передачи</string>
     <string name="mz_share_view_title">Передать</string>
     <string name="mz_slow_motion_desc_120fps">120fps, 1080P</string>
@@ -637,16 +618,12 @@
     <string name="mz_toggle_hint_high_size_notify">%1$dM пригодно для съемки в условиях сильной освещенности</string>
     <string name="mz_toggle_hint_live_photo_close">Живое фото выключено</string>
     <string name="mz_toggle_hint_live_photo_open">Живое фото включено</string>
-
-    <string name="mz_toggle_hint_super_portrait_close">AI Super Portrait is off</string>
-    <string name="mz_toggle_hint_super_portrait_on">AI Super Portrait is On</string>
-
+    <string name="mz_toggle_hint_super_portrait_close">AI Супер портрет выключен</string>
+    <string name="mz_toggle_hint_super_portrait_on">AI Супер портрет включен</string>
     <string name="mz_toggle_hint_tripod_close">Закрыть оптимизацию треноги</string>
     <string name="mz_toggle_hint_tripod_open">Открыть оптимизацию треноги</string>
-
-    <string name="mz_toggle_hint_video_super_night_close">SuperNight is off</string>
-    <string name="mz_toggle_hint_video_super_night_open">SuperNight is on</string>
-
+    <string name="mz_toggle_hint_video_super_night_close">SuperNight выключен</string>
+    <string name="mz_toggle_hint_video_super_night_open">SuperNight включен</string>
     <string name="mz_usb_charge_forbid_use_flash">Вспышка недоступна во время зарядки</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_user_guide">Проведите вниз для отображения всех режимов</string>
