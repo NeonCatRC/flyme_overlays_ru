@@ -6,7 +6,7 @@ Overlays for f9 apps
 - For(%) - completion percentage
 - Start - early state of translation
 - n\a- Do not check this
-- n\t- not tested
+- n\t- not tested on Flyme
 
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
@@ -37,7 +37,7 @@ Overlays for f9 apps
 | AlarmClock |  |  |
 | AppCenter |  |  |
 | AlwaysOnDisplay |  |  |
-| Camera |  |  |
+| Camera | ~75% | Camera app |
 | FileManager |  |  |
 | MzAccount |  |  |
 | MzBatteryManager |  |  |
