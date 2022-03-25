@@ -38,12 +38,12 @@ Overlays for f9 apps
 | AppCenter |  |  |
 | AlwaysOnDisplay |  |  |
 | Camera | FULL n\t | Camera app |
-| FileManager |  |  |
+| FileManager | Start | Standart Flyme file manager |
 | MzAccount |  |  |
 | MzBatteryManager |  |  |
 | MzSecurity |  |  |
 | MzUpdate |  |  |
-| Gallery |  |  |
+| Gallery | Start | Standart Flyme gallery app |
 | Dialer |  |  |
 | DownloadProvider |  |  |
 | FaceRecognition |  |  |
