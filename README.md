@@ -43,7 +43,7 @@ Overlays for f9 apps
 | MzBatteryManager |  |  |
 | MzSecurity |  |  |
 | MzUpdate |  |  |
-| Gallery | Start | Standart Flyme gallery app |
+| Gallery | 50% | Standart Flyme gallery app |
 | Dialer |  |  |
 | DownloadProvider |  |  |
 | FaceRecognition |  |  |
