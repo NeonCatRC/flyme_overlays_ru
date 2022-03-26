@@ -39,7 +39,7 @@
     <string name="alipay_data_exception">Неверный формат данных</string>
     <string name="alipay_server_error">Платёжный сервис обновляется</string>
     <string name="alipay_unknown_error">Alipay не отвечает, повторите попытку позже</string>
-     <string name="all">Все</string>
+    <string name="all">Все</string>
     <string name="all_focus">Полный фокус</string>
     <string name="all_photos">Все фото</string>
     <string name="all_picture_list_title">Все фото</string>
@@ -93,11 +93,9 @@
     <string name="cloud_day">день</string>
     <string name="cloud_default_folder_string">Новый альбом</string>
     <string name="cloud_delete_album_title">Удалить альбом?</string>
-
-    <string name="cloud_delete_both_tips">Delete %d элементов</string>
-    <string name="cloud_delete_pictures_tips">Delete %d photo(s)</string>
-    <string name="cloud_delete_record_tips">Удале %d Video(s)</string>
-
+    <string name="cloud_delete_both_tips">Удалить %d элементов</string>
+    <string name="cloud_delete_pictures_tips">Удалить %d фото</string>
+    <string name="cloud_delete_record_tips">Удалить %d видео</string>
     <string name="cloud_dialog_loading">Загрузка…</string>
     <string name="cloud_downloading">Скачивание...</string>
     <string name="cloud_empty_button">Добавить рез. копию</string>
@@ -452,7 +450,7 @@
     <string name="filter_processing_tips">Обработка</string>
     <string name="filter_rename_dup">Уже есть с таким именем</string>
     <string name="filter_scan">Сканировать</string>
-    <string name="filter_share_title">Поделится фильтром</string>
+    <string name="filter_share_title">Поделиться фильтром</string>
     <string name="filter_sky">Небо</string>
     <string name="filter_sunny">Солнеч.</string>
     <string name="filter_title">Добавлен фильтр</string>
@@ -475,43 +473,39 @@
     <string name="flash">Вспышка</string>
     <string name="flash_off">Вспышка выкл.</string>
     <string name="flash_on">Вспышка вкл.</string>
-
-    <string name="float_switcher_title">Float Widget Entrance</string>
+    <string name="float_switcher_title">Вход с плавающим виджетом</string> <!--!!!!!!!  я не знаю перевод Float Widget Entrance !!!!!!!!!-->
     <string name="fm_dialog_ok">OK</string>
-    <string name="fm_err_rename_8">No more than 8 recommended</string>
-    <string name="fm_err_retry">Retry</string>
-    <string name="fm_exception_network">Network exception, Please retry later</string>
-    <string name="fm_f_im_dup">Has been imported</string>
-    <string name="fm_f_im_failed_a_mix" formatted="false">%d has been imported，%d failed</string>
-    <string name="fm_f_im_failed_mix" formatted="false">%d success, %d has been imported，%d failed</string>
-    <string name="fm_f_im_failed_mix1" formatted="false">%d success, %d has been imported</string>
-    <string name="fm_f_im_failed_mix2" formatted="false">%d success, %d failed</string>
-    <string name="fm_f_im_parse_err">Files parse error</string>
-    <string name="fm_im_failed__5">Filter not exist</string>
-    <string name="fm_im_oom">Over max</string>
-    <string name="fm_im_success">Imported %d filter</string>
-    <string name="fm_im_tips">Imported 1 filter</string>
-    <string name="fm_menu_save">Save</string>
-    <string name="fm_menu_share">Share</string>
-    <string name="fm_multi_title">Select Filter</string>
-    <string name="fm_multi_title_n">%d selected</string>
-    <string name="fm_none_network">No available network</string>
-    <string name="fm_qr_im_dup">Filter has been imported</string>
-    <string name="fm_qr_im_timeout">QR Code invalidate</string>
-    <string name="fm_sh_genBmp_failed">Generate Image failed, Please retry later</string>
-    <string name="fm_sh_invalid_name">Invalidate name</string>
-    <string name="fm_share_failed_500">Server exception</string>
-    <string name="fm_share_failed_5001">Invalid name</string>
-    <string name="fm_share_failed_5002">Share not available</string>
-    <string name="fm_share_failed__1">Network exception</string>
-    <string name="fm_temp_dst">Dst</string>
-    <string name="fm_temp_src">Src</string>
-    <string name="fm_temp_tips0">Turn on Meizu Camera-Scan Code Mode,</string>
-    <string name="fm_temp_tips1">scan to add filters automatically</string>
-    <string name="fm_tip_file">.cube or .3dl</string>
-    <string name="fm_tip_pick">Detect QR Code</string>
-    <string name="fm_tip_scan">Scan QR Code</string>
-
+    <string name="fm_err_rename_8">Рекомендуется не более 8</string>
+    <string name="fm_err_retry">Повторить</string>
+    <string name="fm_exception_network">Сетевая ошибка, пожалуйста, повторите попытку позже</string>
+    <string name="fm_f_im_dup">Был импортирован</string>
+    <string name="fm_f_im_failed_a_mix" formatted="false">%d было имортировано，%d не удалось</string>
+    <string name="fm_f_im_failed_mix" formatted="false">%d успешно, %d было импортировано，%d не удалось</string>
+    <string name="fm_f_im_failed_mix1" formatted="false">%d успешно, %d было импортировано</string>
+    <string name="fm_f_im_failed_mix2" formatted="false">%d успешно, %d не удалось</string>
+    <string name="fm_f_im_parse_err">Ошибка синтаксического анализа файлов</string>
+    <string name="fm_im_failed__5">Фильтр отсутствует</string>
+    <string name="fm_im_oom">Максимум</string> <!--Over Max что это вообще блять такое?-->
+    <string name="fm_im_success">Импортировано %d фильтров</string>
+    <string name="fm_im_tips">Импортирован 1 фильтр</string>
+    <string name="fm_menu_save">Сохранить</string>
+    <string name="fm_menu_share">Поделиться</string>
+    <string name="fm_multi_title">Выбрать фильтр</string>
+    <string name="fm_multi_title_n">%d выбрано</string>
+    <string name="fm_none_network">Нет доступной сети</string>
+    <string name="fm_qr_im_dup">Фильтр был импортирован</string>
+    <string name="fm_qr_im_timeout">QR-Код аннулирован</string>
+    <string name="fm_sh_genBmp_failed">Сгенерировать изображение не удалось, пожалуйста, повторите попытку позже</string>
+    <string name="fm_sh_invalid_name">Недействительное имя</string>
+    <string name="fm_share_failed_500">Ошибка сервера</string>
+    <string name="fm_share_failed_5001">Неверное имя</string>
+    <string name="fm_share_failed_5002">Сейчас нельзя поделиться</string>
+    <string name="fm_share_failed__1">Ошибка сети</string>
+    <string name="fm_temp_tips0">Включите режим сканирования кодов камеры,</string>
+    <string name="fm_temp_tips1">сканировать для автоматического добавления фильтров</string>
+    <string name="fm_tip_file">.cube или .3dl</string>
+    <string name="fm_tip_pick">Обнаружить QR-Код</string>
+    <string name="fm_tip_scan">Сканировать QR-Код</string>
     <string name="focal_length">Фокусное расстояние</string>
     <string name="folder_burst">Серийные</string>
     <string name="folder_camera">Камера</string>
@@ -964,12 +958,10 @@
     <string name="mzuc_update_title_s" formatted="false">Вышла %s %s</string>
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
-
-    <string name="networkRequestError">Network Request Error</string>
-    <string name="network_error_to_refresh">Network error, tap to reload</string>
-    <string name="network_execption">网络异常，请稍后重试</string>
-    <string name="network_fail">无网络连接，请检查网络设置</string>
-
+    <string name="networkRequestError">Ошибка сетевого запроса</string>
+    <string name="network_error_to_refresh">Сетевая ошибка, нажмите, чтобы перезагрузить</string>
+    <string name="network_execption">Сеть работает неправильно, пожалуйста, повторите попытку позже</string>
+    <string name="network_fail">Нет подключения к Интернету, пожалуйста, проверьте настройки сети</string>
     <string name="new_folder">Новый альбом</string>
     <string name="no_album">Нет альбомов</string>
     <string name="no_network">Нет соединения. Проверьте настройки сети.</string>
@@ -1010,13 +1002,11 @@
     <string name="online_reopen_sticker_button">Включить</string>
     <string name="online_reopen_sticker_title">Онлайн-стикеры отключены. Включить эту функцию?</string>
     <string name="open_app">Открыть</string>
-
-    <string name="open_pay_auto_pay_permission_title">mCoin automatic purchase</string>
-    <string name="open_permission_location_dialog_title">Please open the \"positioning\" permission</string>
-    <string name="open_permission_read_contact_dialog_title">Please open the \"read contacts\" permission</string>
-    <string name="open_permission_read_sms_dialog_title">Please open the \"read SMS\" permission</string>
-    <string name="orderInfoIncomplete">Illegal request, order incomplete</string>
-
+    <string name="open_pay_auto_pay_permission_title">Автоматическая покупка mCoin</string>
+    <string name="open_permission_location_dialog_title">Пожалуйста, откройте разрешение \"местоположение\"</string>
+    <string name="open_permission_read_contact_dialog_title">Пожалуйста, откройте разрешение \"список контактов\"</string>
+    <string name="open_permission_read_sms_dialog_title">Пожалуйста, откройте разрешение \"доступ к SMS\"</string>
+    <string name="orderInfoIncomplete">Неверный запрос, заказ отменён</string>
     <string name="origin">Оригинал</string>
     <string name="overwrite">Переписать</string>
     <string name="password_toggle_content_description">Переключить видимость пароля</string>
@@ -1028,14 +1018,12 @@
     <string name="pay_now">Оплатить</string>
     <string name="pay_success">Успешная оплата</string>
     <string name="pay_unknown_error">Неизвестная ошибка при оплате</string>
-
-    <string name="permission_access_fine_location_use">Generate location watermark</string>
-    <string name="permission_get_accounts_use">Provide cloud photo album function</string>
-    <string name="permission_internet_use">Provide sticker, puzzle, smart photo album and other functions</string>
-    <string name="permission_read_contacts_use">Provide people album function</string>
-    <string name="permission_read_sms_use">Support access to MMS content</string>
-    <string name="permission_write_external_storage_use">Modify photos, media content and file</string>
-
+    <string name="permission_access_fine_location_use">Сгенерировать ватермарк геолокации</string>
+    <string name="permission_get_accounts_use">Предоставлять функцию облачного фотоальбома</string>
+    <string name="permission_internet_use">Предоставлять стикеры, пазлы, умные фотоальбомы и другие функции</string>
+    <string name="permission_read_contacts_use">Предоставлять функцию альбома "Люди"</string>
+    <string name="permission_read_sms_use">Доступ к контенту из MMS</string>
+    <string name="permission_write_external_storage_use">Изменение фотографий, медиаконтента и файлов</string>
     <string name="photo_detail_custom_size_dialog_hint">Размер фотографии должен быть меньше %1$s×%2$s</string>
     <string name="photo_edit_watermark_guide">Нажмите чтобы убрать ватермарк камеры</string>
     <string name="photo_not_exist">Фото не существует</string>

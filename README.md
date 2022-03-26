@@ -43,7 +43,7 @@ Overlays for f9 apps
 | MzBatteryManager |  |  |
 | MzSecurity |  |  |
 | MzUpdate |  |  |
-| Gallery | Almost | Standart Flyme gallery app |
+| Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
 | Dialer |  |  |
 | DownloadProvider |  |  |
 | FaceRecognition |  |  |
