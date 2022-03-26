@@ -3,7 +3,7 @@ Overlays for f9 apps
 
 - FULL- full RU localization 
 - Almost- up to 70% ready
-- For(%) - completion percentage
+- WIP- work-in-progress
 - Start - early state of translation
 - n\a- Do not check this
 - n\t- not tested on Flyme
@@ -43,7 +43,7 @@ Overlays for f9 apps
 | MzBatteryManager |  |  |
 | MzSecurity |  |  |
 | MzUpdate |  |  |
-| Gallery | 50% | Standart Flyme gallery app |
+| Gallery | Almost | Standart Flyme gallery app |
 | Dialer |  |  |
 | DownloadProvider |  |  |
 | FaceRecognition |  |  |

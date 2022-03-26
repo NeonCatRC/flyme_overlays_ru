@@ -25,9 +25,7 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-
-    <string name="access_server_error">The system is busy, please try again later</string>
-
+    <string name="access_server_error">Система загружена, пожалуйста, повторите попытку позже</string>
     <string name="action_finish">Готово</string>
     <string name="action_settings">Настройки</string>
     <string name="ad_close_tip">Пропустить %d</string>
@@ -38,11 +36,9 @@
     <string name="albums">Галерея</string>
     <string name="alert_dialog_cancel">Отмена</string>
     <string name="alert_dialog_remove">Удалить</string>
-
-    <string name="alipay_data_exception">Data format incorrect</string>
-    <string name="alipay_server_error">Payment service is updating</string>
-    <string name="alipay_unknown_error">Alipay no response, please try again</string>
-
+    <string name="alipay_data_exception">Неверный формат данных</string>
+    <string name="alipay_server_error">Платёжный сервис обновляется</string>
+    <string name="alipay_unknown_error">Alipay не отвечает, повторите попытку позже</string>
      <string name="all">Все</string>
     <string name="all_focus">Полный фокус</string>
     <string name="all_photos">Все фото</string>
@@ -93,16 +89,14 @@
     <string name="close">Закрыть</string>
     <string name="close_moment">Закрыть Моменты?</string>
     <string name="close_moment_message">После закрытия содержимое страницы будет удалено, в следующий раз нужно будет выполнить повторное сканирование</string>
-
-    <string name="cloud_cannot_delete_frozen_album">Album deletion is not supported during thawing</string>
-    
+    <string name="cloud_cannot_delete_frozen_album">Удаление альбома не поддерживается во время размораживания</string>
     <string name="cloud_day">день</string>
     <string name="cloud_default_folder_string">Новый альбом</string>
     <string name="cloud_delete_album_title">Удалить альбом?</string>
 
-    <string name="cloud_delete_both_tips">Delete %d Item(s)</string>
+    <string name="cloud_delete_both_tips">Delete %d элементов</string>
     <string name="cloud_delete_pictures_tips">Delete %d photo(s)</string>
-    <string name="cloud_delete_record_tips">Delete %d Video(s)</string>
+    <string name="cloud_delete_record_tips">Удале %d Video(s)</string>
 
     <string name="cloud_dialog_loading">Загрузка…</string>
     <string name="cloud_downloading">Скачивание...</string>
@@ -115,9 +109,7 @@
     <string name="cloud_err_duplicate_name">Папка с таким именем уже существует</string>
     <string name="cloud_err_empty_name">Имя файла не может быть пустым</string>
     <string name="cloud_err_folder_longorinvalid">, имя папки слишком длинное или содержит неподдерживаемые символы</string>
-
-    <string name="cloud_err_frozen">Since you have not used the cloud album for a long time, to ensure data security, the original album has been encrypted and frozen, and they will be restored in 24 hours.</string>
-    
+    <string name="cloud_err_frozen">Поскольку вы долгое время не пользовались облачным альбомом, для обеспечения безопасности данных исходный альбом был зашифрован и заморожен, и они будут восстановлены через 24 часа.</string>
     <string name="cloud_err_load_fail">Ошибка загрузки</string>
     <string name="cloud_err_login_fail">Ошибка входа</string>
     <string name="cloud_err_no_network">Нет доступной сети</string>
@@ -297,15 +289,13 @@
     <string name="copy_fail_by_sd_unmount">Ошибка копирования: SD-карта извлечена</string>
     <string name="copy_prefix">Копировать</string>
     <string name="copying">Копирование</string>
-
-    <string name="cover_pop_menu_change">Change Cover</string>
-    <string name="cover_pop_menu_default">Default Cover</string>
-    <string name="cover_restore_toast">Recovery default</string>
-    <string name="cover_set_toast">Success</string>
-    <string name="covercustom_title_but">Set</string>
-    <string name="covercustom_title_crop">Crop picture</string>
-    <string name="covercustom_title_set">Set cover</string>
-
+    <string name="cover_pop_menu_change">Сменить обложку</string>
+    <string name="cover_pop_menu_default">Обложка по умолчанию</string>
+    <string name="cover_restore_toast">Восстановить обложку по умолчанию</string>
+    <string name="cover_set_toast">Успешно</string>
+    <string name="covercustom_title_but">Установить</string>
+    <string name="covercustom_title_crop">Кадрировать</string>
+    <string name="covercustom_title_set">Установить обложку</string>
     <string name="create_forlder_fail">Ошибка создания папки: недостаточно места на SD-карте.</string>
     <string name="crop">Обрезать</string>
     <string name="crop_image_positive_btn">Выбрать</string>
@@ -315,16 +305,13 @@
     <string name="customer_hot_line">По любым вопросам звоните:</string>
     <string name="date_time_set">Установить</string>
     <string name="delete">Удалить</string>
-
     <string name="delete_album_both">Удалить альбом и %d элементов внутри</string>
     <string name="delete_album_pictures">Удалить альбом и %d фото внутри</string>
     <string name="delete_album_tips">Удалить %d альб. и все фото внутри</string>
     <string name="delete_album_videos">Удалить альбом и %d видео внутри</string>
     <string name="delete_all_burst_photo">Удалить все снимки в этой серии</string>
     <string name="delete_both_tips">Удаление: %d</string>
-
-    <string name="delete_cloud_either">Also delete from the cloud (if exists in cloud album)</string>
-    
+    <string name="delete_cloud_either">Также удалить из облака (если существует в облачном альбоме)</string>
     <string name="delete_cloud_trans_tips">Удалить элементы: %d</string>
     <string name="delete_photo_tips">Удаление фото: %d</string>
     <string name="delete_pictures_tips">Удалить %d фото</string>
@@ -344,137 +331,134 @@
     <string name="dialog_disable_backup_running">Отключение автоматической синхронизации прекратит передачу альбома</string>
     <string name="dialog_msg_unavaliable_network">Не удалось загрузить шаблон. Проверьте сеть и повторите попытку</string>
     <string name="disk_name">Диск</string>
-
-    <string name="disk_no_photo">No photos in storage</string>
-    <string name="displayed_albums">"Unhidden albums: "</string>
-    <string name="displayed_albums_album_page">Albums in photo tab:</string>
-    <string name="dlna_local_device">Built-in player</string>
-    <string name="do_not_show_again">Do not show again</string>
-    <string name="doodle_eraser_title">Eraser</string>
-    <string name="doodle_moasic_title">Mosaic</string>
-    <string name="doodle_paint_title">Brush</string>
-    <string name="doodle_shape_title">Shape</string>
-    <string name="doodle_sticker_title">Sticker</string>
-    <string name="doodle_text_title">Text</string>
-    <string name="download_complete">Download completed</string>
-    <string name="download_cp_app">Tap the icon to download from App Store</string>
-    <string name="download_error">Download error</string>
-    <string name="download_fail">Download failed</string>
-    <string name="download_failure_text">Download failed</string>
-    <string name="download_management_tab_text">Download</string>
-    <string name="download_pause_text">Pause</string>
-    <string name="download_pending_text">Pending</string>
-    <string name="download_removed">Deleted</string>
-    <string name="download_stopped">Download paused</string>
-    <string name="downloaded">Downloaded</string>
-    <string name="downloaded_fail_out_of_space">Out of space, download failed</string>
-    <string name="downloaded_files_title_text">Downloaded files</string>
-    <string name="downloading">Downloading</string>
-    <string name="downloading_percent">Downloading %s</string>
-    <string name="duration_month">" month(s)"</string>
-    <string name="duration_year">" year"</string>
-    <string name="edit">Edit</string>
-    <string name="edit_image">Edit</string>
-    <string name="edit_mark_sb_alpha">Opacity</string>
-    <string name="edit_mark_sb_round">Round</string>
-    <string name="edit_mark_sb_size">Frame</string>
-    <string name="edit_paste">Paste</string>
-    <string name="empty_download_text">No Download Tasks</string>
-    <string name="empty_upload_text">No Upload Tasks</string>
-    <string name="err_create_fold">Creation failed</string>
-    <string name="error_memory_bitmap">Photos lost. Failed to save</string>
-    <string name="error_memory_unknown">Failed to play</string>
-    <string name="error_preview_memory_bitmap">Photos lost. Failed to play</string>
-    <string name="error_preview_memory_unknown">Failed to play</string>
-    <string name="exporting">Exporting</string>
-    <string name="exporting_video">Export video</string>
-    <string name="exposure_time">Exposure time</string>
-    <string name="f_classic">Classic</string>
-    <string name="f_custom">Custom</string>
-    <string name="f_fm">FM</string>
-    <string name="face_add_name">Add name</string>
-    <string name="face_album">People</string>
-    <string name="face_albumset_page_title">People album</string>
-    <string name="face_cancel_dlg_title">Exit makeup?</string>
-    <string name="face_choice_actionbar_title">Set Cover</string>
-    <string name="face_edit_name">Edit name</string>
-    <string name="face_empty_text">"All photos will be scanned when the phone is charging on standby.
-And the People album will be created."</string>
-    <string name="face_grid_action_merge">Merge people albums</string>
-    <string name="face_intelligent_recognition">Intelligent Recognition</string>
-    <string name="face_merge">Merge</string>
-    <string name="face_merge_dialog_title">Are they the same person?</string>
-    <string name="face_merge_dialog_title_check">Merge %d people albums?</string>
-    <string name="face_multi_choice_title_multi">%d people selected</string>
-    <string name="face_multi_choice_title_none">Select person</string>
-    <string name="face_multi_choice_title_single">%d person selected</string>
-    <string name="face_mz_cancel_dlg_title">Exit beauty?</string>
-    <string name="face_no_organ_dlg_continue">Continue</string>
-    <string name="face_no_organ_dlg_exit">Exit</string>
-    <string name="face_not_matched">Unmatch</string>
-    <string name="face_not_matched_dialog_msg">"Only remove from the album &amp; won't delete"</string>
-    <string name="face_not_matched_dialog_title_multi">Unmatch. Remove the photos?</string>
-    <string name="face_not_matched_dialog_title_single">Unmatch. Remove the photo?</string>
-    <string name="face_not_matched_positive">Remove</string>
-    <string name="face_not_matched_removing">Removing…</string>
-    <string name="face_remove">Remove album of this person</string>
-    <string name="face_remove_dialog_title">This person will be removed from the People album but will not be deleted from the gallery</string>
-    <string name="face_save">Add album of this person</string>
-    <string name="face_save_success">Added successfully</string>
-    <string name="face_set">Beautification</string>
-    <string name="face_set_bigeyes">Eye size</string>
-    <string name="face_set_buffing">Smooth</string>
-    <string name="face_set_eyelight">Contacts</string>
-    <string name="face_set_faceslim">Face width</string>
-    <string name="face_set_high_nose">Nose height</string>
-    <string name="face_set_shine_remove">No shine</string>
-    <string name="face_set_white_skin">Lighten</string>
-    <string name="face_set_white_teeth">Whiten teeth</string>
-    <string name="face_sticker_title">Added FaceSticker for you</string>
-    <string name="face_user_tip_cost" formatted="false">%d photo(s) scanned, %d photo(s) will be scanned when charging on standby. Take about %d min</string>
-    <string name="face_user_tip_scanning" formatted="false">%d photo(s) scanned, %d photo(s) is being scanned. Take about %d min</string>
-    <string name="face_yt_support">Technology provided by Tencent YouTu Lab</string>
-    <string name="fail_to_load_image">Cannot load the photo</string>
-    <string name="fail_to_load_video">Failed to get video info</string>
-    <string name="favorita">Favorite</string>
-    <string name="file_not_found">File does not exist</string>
-    <string name="file_selected_number">%1$s file(s) selected, %2$s MB in total</string>
-    <string name="file_size">File size</string>
-    <string name="filter_aqua">Aqua</string>
-    <string name="filter_ash">Ash</string>
-    <string name="filter_bw">B/W</string>
-    <string name="filter_cloudy">Retro</string>
-    <string name="filter_dehazing_light">Dehaze</string>
-    <string name="filter_dehazing_strong">Defog</string>
-    <string name="filter_dew">Cherry</string>
-    <string name="filter_dlt_conf">Delete %d filters</string>
-    <string name="filter_file">File Import</string>
-    <string name="filter_ink">Vintage</string>
-    <string name="filter_jade">Jade</string>
-    <string name="filter_label_added">Added %d</string>
-    <string name="filter_lilac">Lilac</string>
-    <string name="filter_manager_title">My filters</string>
-    <string name="filter_maroon">Rococo</string>
-    <string name="filter_menu_delete">Delete</string>
-    <string name="filter_menu_rename">Rename</string>
-    <string name="filter_menu_share">Share</string>
-    <string name="filter_menu_title_filter">Filters</string>
-    <string name="filter_menu_top">Top</string>
-    <string name="filter_moon">Elegant</string>
-    <string name="filter_orange">Sweet</string>
-    <string name="filter_peach">Pink</string>
-    <string name="filter_pick">Image Import</string>
-    <string name="filter_processing_tips">Processing</string>
-    <string name="filter_rename_dup">Name exist</string>
-    <string name="filter_scan">Camera Import</string>
-    <string name="filter_share_title">Share filter</string>
-    <string name="filter_sky">Fresh</string>
-    <string name="filter_sunny">Icy</string>
-    <string name="filter_title">Added filter for you</string>
-    <string name="filter_toolbar_adjust">Adjust</string>
-    <string name="filter_toolbar_mark">Mark</string>
-    <string name="filter_toolbar_sticker">Stickers</string>
-
+    <string name="disk_no_photo">Нет фотографий в хранилище</string>
+    <string name="displayed_albums">"Показанные альбомы: "</string>
+    <string name="displayed_albums_album_page">Альбомы на вкладке фото</string>
+    <string name="dlna_local_device">Встроенный проигрыватель</string>
+    <string name="do_not_show_again">Больше не показывать</string>
+    <string name="doodle_eraser_title">Ластик</string>
+    <string name="doodle_moasic_title">Мозаика</string>
+    <string name="doodle_paint_title">Кисть</string>
+    <string name="doodle_shape_title">Форма</string>
+    <string name="doodle_sticker_title">Стикер</string>
+    <string name="doodle_text_title">Текст</string>
+    <string name="download_complete">Загрузка завершена</string>
+    <string name="download_cp_app">Нажмите на значок для загрузки из App Store</string>
+    <string name="download_error">Ошибка загрузки</string>
+    <string name="download_fail">Ошибка загрузки</string>
+    <string name="download_failure_text">Ошибка загрузки</string>
+    <string name="download_management_tab_text">Загрузка</string>
+    <string name="download_pause_text">Приостановить</string>
+    <string name="download_pending_text">Ожидание</string>
+    <string name="download_removed">Удалено</string>
+    <string name="download_stopped">Пауза</string>
+    <string name="downloaded">Загружено</string>
+    <string name="downloaded_fail_out_of_space">Недостаточно места для хранения, ошибка загрузки</string>
+    <string name="downloaded_files_title_text">Загруженные файлы</string>
+    <string name="downloading">Идёт загрузка</string>
+    <string name="downloading_percent">Загрузка %s</string>
+    <string name="duration_month">мес.</string>
+    <string name="duration_year">г.</string>
+    <string name="edit">Правка</string>
+    <string name="edit_image">Правка</string>
+    <string name="edit_mark_sb_alpha">Прозрачность</string>
+    <string name="edit_mark_sb_round">Круглый</string>
+    <string name="edit_mark_sb_size">Размер</string>
+    <string name="edit_paste">Вставить</string>
+    <string name="empty_download_text">Нет запланированных закачек</string>
+    <string name="empty_upload_text">Нет запланированных загрузок</string>
+    <string name="err_create_fold">Ошибка создания</string>
+    <string name="error_memory_bitmap">Фотографии не найдены. Не удалось сохранить</string>
+    <string name="error_memory_unknown">Ошибка сохранения</string>
+    <string name="error_preview_memory_bitmap">Фотографии не найдены. Не удалось воспроизвести</string>
+    <string name="error_preview_memory_unknown">Не удалось воспроизвести</string>
+    <string name="exporting">Экспорт</string>
+    <string name="exporting_video">Экспорт видео</string>
+    <string name="exposure_time">Время выдержки</string>
+    <string name="f_classic">Стандартная</string>
+    <string name="f_custom">Своя</string>
+    <string name="face_add_name">Добавить имя</string>
+    <string name="face_album">Люди</string>
+    <string name="face_albumset_page_title">Альбом \"Люди\"</string>
+    <string name="face_cancel_dlg_title">Выйти из режима макияжа?</string>
+    <string name="face_choice_actionbar_title">Установить обложку</string>
+    <string name="face_edit_name">Изменить имя</string>
+    <string name="face_empty_text">"Все фото будут сканироваться, когда телефон на зарядке в режиме ожидания. 
+Будет создан альбом Люди."</string>
+    <string name="face_grid_action_merge">Объединить альбомы людей</string>
+    <string name="face_intelligent_recognition">Интеллектуальное распознавание</string>
+    <string name="face_merge">Объединить</string>
+    <string name="face_merge_dialog_title">Это один и тот же человек?</string>
+    <string name="face_merge_dialog_title_check">Объединить альбомы: %d?</string>
+    <string name="face_multi_choice_title_multi">%d выбрано</string>
+    <string name="face_multi_choice_title_none">Выбрать человека</string>
+    <string name="face_multi_choice_title_single">%d выбрано</string>
+    <string name="face_mz_cancel_dlg_title">Выйти из режима макияжа?</string>
+    <string name="face_no_organ_dlg_continue">Продолжить</string>
+    <string name="face_no_organ_dlg_exit">Выход</string>
+    <string name="face_not_matched">Не совпадает</string>
+    <string name="face_not_matched_dialog_msg">Удаление только из альбома, без удаления исходного фото</string>
+    <string name="face_not_matched_dialog_title_multi">Нет совпадений. Удалить фотографии?</string>
+    <string name="face_not_matched_dialog_title_single">Нет совпадений. Удалить фото?</string>
+    <string name="face_not_matched_positive">Удалить</string>
+    <string name="face_not_matched_removing">Удаление…</string>
+    <string name="face_remove">Удалить альбом этого пользователя</string>
+    <string name="face_remove_dialog_title">Этот человек будет удалён из альбома \"Люди\", но не будет удалён из галереи</string>
+    <string name="face_save">Добавить эльбом этого человека</string>
+    <string name="face_save_success">Успешно добавлено</string>
+    <string name="face_set">Изменение лица</string>
+    <string name="face_set_bigeyes">Большие глаза</string>
+    <string name="face_set_buffing">Сглаживание</string>
+    <string name="face_set_eyelight">Линзы</string>
+    <string name="face_set_faceslim">Подтяжка лица</string>
+    <string name="face_set_high_nose">Вздёрнуть нос</string>
+    <string name="face_set_shine_remove">Удалить блеск</string>
+    <string name="face_set_white_skin">Осветление</string>
+    <string name="face_set_white_teeth">Отбелить зубы</string>
+    <string name="face_sticker_title">Добавлен стикер</string>
+    <string name="face_user_tip_cost" formatted="false">%d фото сканировано, %d будет сканировано при зарядке в режиме ожидания. Займет примерно %d мин.</string>
+    <string name="face_user_tip_scanning" formatted="false">%d фото отсканировано, %d сканируется. Займет примерно %d мин.</string>
+    <string name="face_yt_support">Разработано Tencent YouTu Lab</string>
+    <string name="fail_to_load_image">Невозможно загрузить фото</string>
+    <string name="fail_to_load_video">Не удалось получить информацию о видео</string>
+    <string name="favorita">Избранное</string>
+    <string name="file_not_found">Файл не существует</string>
+    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМБ</string>
+    <string name="file_size">Размер файла</string>
+    <string name="filter_aqua">Вода</string>
+    <string name="filter_ash">Зола</string>
+    <string name="filter_bw">Ч/Б</string>
+    <string name="filter_cloudy">Ретро</string>
+    <string name="filter_dehazing_light">Убрать дымку</string>
+    <string name="filter_dehazing_strong">Убрать туман</string>
+    <string name="filter_dew">Сакура</string>
+    <string name="filter_dlt_conf">Удалить %d фильтров</string>
+    <string name="filter_file">Импорт</string>
+    <string name="filter_ink">Чернила</string>
+    <string name="filter_jade">Нефрит</string>
+    <string name="filter_label_added">Добавлено %d</string>
+    <string name="filter_lilac">Сирень</string>
+    <string name="filter_manager_title">Мои фильтры</string>
+    <string name="filter_maroon">Коричн.</string>
+    <string name="filter_menu_delete">Удалить</string>
+    <string name="filter_menu_rename">Переименовать</string>
+    <string name="filter_menu_share">Поделиться</string>
+    <string name="filter_menu_title_filter">Фильтры</string>
+    <string name="filter_menu_top">Топ</string>
+    <string name="filter_moon">Луна</string>
+    <string name="filter_orange">Оранжев.</string>
+    <string name="filter_peach">Персик</string>
+    <string name="filter_pick">Импорт</string>
+    <string name="filter_processing_tips">Обработка</string>
+    <string name="filter_rename_dup">Уже есть с таким именем</string>
+    <string name="filter_scan">Сканировать</string>
+    <string name="filter_share_title">Поделится фильтром</string>
+    <string name="filter_sky">Небо</string>
+    <string name="filter_sunny">Солнеч.</string>
+    <string name="filter_title">Добавлен фильтр</string>
+    <string name="filter_toolbar_adjust">Настройки</string>
+    <string name="filter_toolbar_mark">Метка</string>
+    <string name="filter_toolbar_sticker">Стикеры</string>
     <string name="filter_vine">Тёплый</string>
     <string name="filter_wood">Ночь</string>
     <string name="filtershow_balance_b">В</string>
@@ -487,9 +471,7 @@ And the People album will be created."</string>
     <string name="filtershow_geometry_mirror_vertical">По вертикали</string>
     <string name="filtershow_geometry_rotate_left">Влево</string>
     <string name="filtershow_geometry_rotate_right">Вправо</string>
-
-    <string name="filtershow_slide_photo_tip">Slide the picture with two fingers</string>
-
+    <string name="filtershow_slide_photo_tip">Проведите по изображению двумя пальцами</string>
     <string name="flash">Вспышка</string>
     <string name="flash_off">Вспышка выкл.</string>
     <string name="flash_on">Вспышка вкл.</string>
@@ -578,13 +560,11 @@ And the People album will be created."</string>
     <string name="journey">Путешествие·</string>
     <string name="journey_to_city">Путешествие в %s</string>
     <string name="latest_list_title">Последнее</string>
-
-    <string name="left_right_correction">Horizontal</string>
-    <string name="live_abandon_edit_photo">Discard?</string>
+    <string name="left_right_correction">Горизонтально</string>
+    <string name="live_abandon_edit_photo">Отменить?</string>
     <string name="live_album_name">Live</string>
     <string name="live_play_title">Live</string>
-    <string name="live_set_cover">Set as cover</string>
-
+    <string name="live_set_cover">Установить как обложку</string>
    <string name="load_more">Загрузить ещё</string>
     <string name="loading_failure">Невозможно загрузить фото</string>
     <string name="loading_view_text">Загрузка</string>
@@ -772,13 +752,9 @@ And the People album will be created."</string>
     <string name="menu_disable_backup">Отключить автоматическую синхронизацию</string>
     <string name="menu_enable_backup">Включить автоматическую синхронизацию</string>
     <string name="menu_hide_in_latest">Не во вкладке фотографий</string>
-
-    <string name="menu_hide_set_subtitle">The hidden album will not be shown in the gallery</string>
-    
+    <string name="menu_hide_set_subtitle">Скрытые альбомы не будут отображены в галерее</string>
     <string name="menu_hide_set_title">Скрыть альбомы</string>
-
-    <string name="menu_manage_set_subtitle">Manage the albums displayed in the \"Photos\" tab</string>
-    
+    <string name="menu_manage_set_subtitle">Управляйте альбомами, отображаемыми на вкладке \"Фотографии\"</string>
     <string name="menu_manage_set_title">Управление вкладками фото</string>
     <string name="menu_more_title">Ещё</string>
     <string name="menu_open_stereo">Открыть стерео</string>
@@ -839,7 +815,7 @@ And the People album will be created."</string>
     <string name="mz_calendar_location">Местоположение</string>
     <string name="mz_calendar_start">Время начала</string>
     <string name="mz_calendar_summary">Название</string>
-   <string name="mz_calendar_title">Можно добавить как событие календаря</string>
+    <string name="mz_calendar_title">Можно добавить как событие календаря</string>
     <string name="mz_date_time_day">д.</string>
     <string name="mz_date_time_hour">ч.</string>
     <string name="mz_date_time_min">м.</string>
@@ -1013,12 +989,10 @@ And the People album will be created."</string>
     <string name="ok">ОК</string>
     <string name="one_one_crop_aspect">1:1</string>
     <string name="online_module_cloud">Облачный альбом</string>
-
-    <string name="online_module_cloud_clean_message">Auto backup will be turned off and the cloud data will be cleared soon, please be careful! Local data will not be affected</string>
-    <string name="online_module_cloud_clean_title">Disable cloud album and clear storage?</string>
-    <string name="online_module_cloud_verify_message">Flyme account: %s@flyme.cn</string>
-    <string name="online_module_cloud_verify_title">Verify password</string>
-
+    <string name="online_module_cloud_clean_message">Автоматическое резервное копирование будет отключено, и облачные данные скоро будут удалены, пожалуйста, будьте осторожны! Локальные данные не будут затронуты</string>
+    <string name="online_module_cloud_clean_title">Отключить облачный пароль и удалить данные?</string>
+    <string name="online_module_cloud_verify_message">Аккаунт Flyme: %s@flyme.cn</string>
+    <string name="online_module_cloud_verify_title">Подтвердите пароль</string>
     <string name="online_module_face_close_message">Альбом больше не будет отображаться после закрытия. Чтобы открыть его снова, нужно будет выполнить повторное сканирование.</string>
     <string name="online_module_face_close_title">Закрыть альбом?</string>
     <string name="online_module_moment">Моменты</string>
@@ -1035,8 +1009,8 @@ And the People album will be created."</string>
     <string name="online_reopen_cloud_upload_title">Альбом в облаке отключен. Включить и передать фото?</string>
     <string name="online_reopen_sticker_button">Включить</string>
     <string name="online_reopen_sticker_title">Онлайн-стикеры отключены. Включить эту функцию?</string>
-    
-    <string name="open_app">Open</string>
+    <string name="open_app">Открыть</string>
+
     <string name="open_pay_auto_pay_permission_title">mCoin automatic purchase</string>
     <string name="open_permission_location_dialog_title">Please open the \"positioning\" permission</string>
     <string name="open_permission_read_contact_dialog_title">Please open the \"read contacts\" permission</string>
@@ -1052,9 +1026,9 @@ And the People album will be created."</string>
     <string name="pay_btn_text_upgrade">Обновить</string>
     <string name="pay_fail">Ошибка оплаты</string>
     <string name="pay_now">Оплатить</string>
+    <string name="pay_success">Успешная оплата</string>
+    <string name="pay_unknown_error">Неизвестная ошибка при оплате</string>
 
-    <string name="pay_success">Payment made successfully</string>
-    <string name="pay_unknown_error">Payment failed, unknown exception</string>
     <string name="permission_access_fine_location_use">Generate location watermark</string>
     <string name="permission_get_accounts_use">Provide cloud photo album function</string>
     <string name="permission_internet_use">Provide sticker, puzzle, smart photo album and other functions</string>
@@ -1112,10 +1086,8 @@ And the People album will be created."</string>
     <string name="reset_effect">Сброс</string>
     <string name="resize">Изменить размер</string>
     <string name="resolution">Разрешение</string>
-
-    <string name="retry">重试</string>
-    <string name="root_directory_name">存储盘</string>
-    
+    <string name="retry">Повторить</string>
+    <string name="root_directory_name">Хранилище</string>
     <string name="rotate">Поворот</string>
     <string name="save_as">Сохранить как</string>
     <string name="save_attach_string">Сохранить вложения</string>
@@ -1246,13 +1218,10 @@ And the People album will be created."</string>
     <string name="sticker_add_score_daily">%d очков получено за использование стикеров сегодня!</string>
     <string name="sticker_title">Добавлен стикер</string>
     <string name="straighten">Выпрямить</string>
-
-    <string name="super_portrait_tips">AI super clear portrait</string>
-    <string name="task_error_message">your active task go wrong!</string>
-    <string name="task_finished_message">activity task is complete!</string>
-
-    <string name="text_input_hint_text">输入内容</string>
-
+    <string name="super_portrait_tips">AI супер чистый портрет</string>
+    <string name="task_error_message">ваша активная задача идет не так, как надо!</string>
+    <string name="task_finished_message">активная задача завершена!</string>
+    <string name="text_input_hint_text">Текст</string>
     <string name="thumbnail_user_guide_msg">Нажмите, чтобы свернуть/развернуть категорию</string>
     <string name="time">Время</string>
     <string name="title">Файл</string>
@@ -1284,14 +1253,12 @@ And the People album will be created."</string>
     <string name="trash_remaining_days">%d д.</string>
     <string name="trash_remaining_dying">&lt;1 д.</string>
     <string name="trash_restore">Восстановить</string>
-
-    <string name="trash_total_size">Trash takes up %s</string>
-    <string name="trash_verify_dialog_msg">You can view and manage these items in \"Gallery - Recycle bin\" after close this page</string>
-    <string name="trash_verify_missed_all_tip">%d items have been restored or permanently deleted in \"Gallery - Recycle bin\"</string>
-    <string name="trash_verify_missed_tip">%d more items have been restored or permanently deleted in \"Gallery - Recycle bin\"</string>
-    <string name="trash_verify_toast_delete">Delete success</string>
-    <string name="trash_verify_toast_recover">Recover success</string>
-
+    <string name="trash_total_size">%s мусора было удалено</string>
+    <string name="trash_verify_dialog_msg">Вы можете просматривать и управлять этими элементами в \"Галерея - Корзина\" после закрытия этой страницы</string>
+    <string name="trash_verify_missed_all_tip">%d элементов были восстановлены или безвозвратно удалены в \"Галерея - Корзина\"</string>
+    <string name="trash_verify_missed_tip">%d элементов были восстановлены или безвозвратно удалены в \"Галерея - Корзина\"</string>
+    <string name="trash_verify_toast_delete">Удалено</string>
+    <string name="trash_verify_toast_recover">Восстановлено</string>
     <string name="type_date">Дата</string>
     <string name="type_location">Местоположение</string>
     <string name="type_text">Текст</string>
@@ -1306,23 +1273,21 @@ And the People album will be created."</string>
     <string name="upload_pause_text">Приостановить</string>
     <string name="upload_pending_text">Ожидание</string>
     <string name="uploaded_files_title_text">Файлы загружены</string>
-
-    <string name="ve_menu_cut">Cut</string>
-    <string name="ve_menu_music">Music</string>
-    <string name="ve_music_empty_tip">Not found music</string>
-    <string name="ve_music_happy">Happy</string>
-    <string name="ve_music_item_but">Select</string>
-    <string name="ve_music_item_but_slted">Selected</string>
-    <string name="ve_music_leisurely">Leisurely</string>
-    <string name="ve_music_lively">Lively</string>
-    <string name="ve_music_off">Origin Off</string>
-    <string name="ve_music_on">Origin On</string>
-    <string name="ve_music_pretty">Pretty</string>
-    <string name="ve_music_relax">Relax</string>
-    <string name="ve_music_simple">Simple</string>
-    <string name="ve_music_title">Select Local Music</string>
-    <string name="ve_my_music">My Music</string>
-
+    <string name="ve_menu_cut">Вырезать</string>
+    <string name="ve_menu_music">Музыка</string>
+    <string name="ve_music_empty_tip">Музыки не найдено</string>
+    <string name="ve_music_happy">Весёлая</string>
+    <string name="ve_music_item_but">Выбрать</string>
+    <string name="ve_music_item_but_slted">Выбрано</string>
+    <string name="ve_music_leisurely">Неторопливая</string>
+    <string name="ve_music_lively">Жизнерадостная</string>
+    <string name="ve_music_off">Выкл. музыку</string>
+    <string name="ve_music_on">Вкл. музыку</string>
+    <string name="ve_music_pretty">Приятная</string>
+    <string name="ve_music_relax">Расслабляющая</string>
+    <string name="ve_music_simple">Простая</string>
+    <string name="ve_music_title">Выбрать музыку на устройстве.</string>
+    <string name="ve_my_music">Моя музыка</string>
     <string name="video_details">Детали</string>
     <string name="video_filter_bright">Яркий</string>
     <string name="video_filter_bw">Ч/Б</string>
@@ -1376,117 +1341,3 @@ And the People album will be created."</string>
     <string name="yesterday">Вчера</string>
     <string name="yuan">Юан.</string>
 </resources>
-
-
-<!-- 
-    <string name="disk_no_photo">Нет фотографий в хранилище</string>
-    <string name="displayed_albums">"Показанные альбомы: "</string>
-    <string name="displayed_albums_album_page">Альбомы на вкладке фото</string>
-    <string name="dlna_local_device">Встроенный проигрыватель</string>
-    <string name="do_not_show_again">Больше не показывать</string>
-    <string name="doodle_moasic_title">Мозаика</string>
-    <string name="doodle_paint_title">Кисть</string>
-    <string name="doodle_shape_title">Форма</string>
-    <string name="doodle_text_title">Текст</string>
-    <string name="download_cp_app">Нажмите на значок для загрузки из App Store</string>
-    <string name="download_fail">Ошибка загрузки</string>
-    <string name="download_failure_text">Ошибка загрузки</string>
-    <string name="download_management_tab_text">Загрузка</string>
-    <string name="download_pause_text">Приостановить</string>
-    <string name="download_pending_text">Ожидание</string>
-    <string name="download_removed">Удалено</string>
-    <string name="download_stopped">Пауза</string>
-    <string name="downloaded">Загружено</string>
-    <string name="downloaded_fail_out_of_space">Недостаточно места для хранения, ошибка загрузки</string>
-    <string name="downloaded_files_title_text">Загруженные файлы</string>
-    <string name="downloading">Идёт загрузка</string>
-    <string name="downloading_percent">Загрузка %s</string>
-    <string name="duration_month">мес.</string>
-    <string name="duration_year">г.</string>
-    <string name="edit">Правка</string>
-    <string name="edit_image">Правка</string>
-    <string name="edit_mark_sb_alpha">Прозрачность</string>
-    <string name="edit_mark_sb_round">Круглый</string>
-    <string name="edit_mark_sb_size">Размер</string>
-    <string name="edit_paste">Вставить</string>
-    <string name="empty_download_text">Нет запланированных закачек</string>
-    <string name="empty_upload_text">Нет запланированных загрузок</string>
-    <string name="err_create_fold">Ошибка создания</string>
-    <string name="error_memory_bitmap">Фотографии не найдены. Не удалось сохранить</string>
-    <string name="error_memory_unknown">Ошибка сохранения</string>
-    <string name="error_preview_memory_bitmap">Фотографии не найдены. Не удалось воспроизвести</string>
-    <string name="error_preview_memory_unknown">Не удалось воспроизвести</string>
-    <string name="exporting">Экспорт</string>
-    <string name="exporting_video">Экспорт видео</string>
-    <string name="exposure_time">Время выдержки</string>
-    <string name="face_add_name">Добавить имя</string>
-    <string name="face_album">Люди</string>
-    <string name="face_albumset_page_title">Альбом \"Люди\"</string>
-    <string name="face_cancel_dlg_title">Выйти из режима макияжа?</string>
-    <string name="face_choice_actionbar_title">Установить обложку</string>
-    <string name="face_edit_name">Изменить имя</string>
-    <string name="face_empty_text">"Все фото будут сканироваться, когда телефон на зарядке в режиме ожидания. 
-Будет создан альбом Люди."</string>
-    <string name="face_grid_action_merge">Объединить альбомы людей</string>
-    <string name="face_intelligent_recognition">Интеллектуальное распознавание</string>
-    <string name="face_merge">Объединить</string>
-    <string name="face_merge_dialog_title">Это один и тот же человек?</string>
-    <string name="face_merge_dialog_title_check">Объединить альбомы: %d?</string>
-    <string name="face_multi_choice_title_multi">%d выбрано</string>
-    <string name="face_multi_choice_title_none">Выбрать человека</string>
-    <string name="face_multi_choice_title_single">%d выбрано</string>
-    <string name="face_no_organ_dlg_continue">Продолжить</string>
-    <string name="face_no_organ_dlg_exit">Выход</string>
-    <string name="face_not_matched">Не совпадает</string>
-    <string name="face_not_matched_dialog_msg">Удаление только из альбома, без удаления исходного фото</string>
-    <string name="face_not_matched_dialog_title_multi">Нет совпадений. Удалить фотографии?</string>
-    <string name="face_not_matched_dialog_title_single">Нет совпадений. Удалить фото?</string>
-    <string name="face_not_matched_positive">Удалить</string>
-    <string name="face_not_matched_removing">Удаление…</string>
-    <string name="face_remove">Удалить альбом этого пользователя</string>
-    <string name="face_remove_dialog_title">Этот человек будет удалён из альбома \"Люди\", но не будет удалён из галереи</string>
-    <string name="face_save">Добавить эльбом этого человека</string>
-    <string name="face_save_success">Успешно добавлено</string>
-    <string name="face_set">Изменение лица</string>
-    <string name="face_set_bigeyes">Большие глаза</string>
-    <string name="face_set_buffing">Сглаживание</string>
-    <string name="face_set_eyelight">Линзы</string>
-    <string name="face_set_faceslim">Подтяжка лица</string>
-    <string name="face_set_high_nose">Вздёрнуть нос</string>
-    <string name="face_set_shine_remove">Удалить блеск</string>
-    <string name="face_set_white_skin">Осветление</string>
-    <string name="face_set_white_teeth">Отбелить зубы</string>
-    <string name="face_sticker_title">Добавлен стикер</string>
-    <string name="face_user_tip_cost" formatted="false">%d фото сканировано, %d будет сканировано при зарядке в режиме ожидания. Займет примерно %d мин.</string>
-    <string name="face_user_tip_scanning" formatted="false">%d фото отсканировано, %d сканируется. Займет примерно %d мин.</string>
-    <string name="face_yt_support">Разработано Tencent YouTu Lab</string>
-    <string name="fail_to_load_image">Невозможно загрузить фото</string>
-    <string name="fail_to_load_video">Не удалось получить информацию о видео</string>
-    <string name="favorita">Избранное</string>
-    <string name="file_not_found">Файл не существует</string>
-    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМБ</string>
-    <string name="file_size">Размер файла</string>
-    <string name="filter_aqua">Вода</string>
-    <string name="filter_ash">Зола</string>
-    <string name="filter_bw">Ч/Б</string>
-    <string name="filter_cloudy">Облачно</string>
-    <string name="filter_dehazing_light">Убрать дымку</string>
-    <string name="filter_dehazing_strong">Убрать туман</string>
-    <string name="filter_dew">Сакура</string>
-    <string name="filter_ink">Чернила</string>
-    <string name="filter_jade">Нефрит</string>
-    <string name="filter_lilac">Сирень</string>
-    <string name="filter_maroon">Коричн.</string>
-    <string name="filter_menu_title_filter">Фильтры</string>
-    <string name="filter_moon">Луна</string>
-    <string name="filter_orange">Оранжев.</string>
-    <string name="filter_peach">Персик</string>
-    <string name="filter_sky">Небо</string>
-    <string name="filter_sunny">Солнеч.</string>
-    <string name="filter_title">Добавлен фильтр</string>
-    <string name="filter_toolbar_adjust">Настройки</string>
-    <string name="filter_toolbar_mark">Метка</string>
-    <string name="filter_toolbar_sticker">Стикеры</string>
-    
-</resources>
--->
