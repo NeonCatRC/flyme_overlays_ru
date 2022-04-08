@@ -38,7 +38,7 @@ Overlays for f9 apps
 | AppCenter |  |  |
 | AlwaysOnDisplay |  |  |
 | Camera | FULL n\t | Camera app |
-| FileManager | Start | Standart Flyme file manager |
+| FileManager | FULL n\t | Standart Flyme file manager |
 | MzAccount |  |  |
 | MzBatteryManager |  |  |
 | MzSecurity |  |  |

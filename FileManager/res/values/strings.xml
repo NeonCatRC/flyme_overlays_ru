@@ -544,8 +544,8 @@
     <string name="nx">Remind Later</string>
     <string name="ny">Last 30 days</string>
     <string name="nz">One week</string>
-    <string name="o0">网络异常，请稍后重试</string>
-    <string name="o1">无网络连接，请检查网络设置</string>
+    <string name="o0">The network is abnormal, please try again later</string>
+    <string name="o1">No Internet connection, please check the network settings</string>
     <string name="o2">Nearby Devices</string>
     <string name="o3">No available network, please connect and retry</string>
     <string name="o4">No Folders</string>
@@ -638,7 +638,7 @@
     <string name="qh">Renaming</string>
     <string name="qi">Resolution</string>
     <string name="qj">Recovery %d files</string>
-    <string name="qk">重试</string>
+    <string name="qk">Retry</string>
     <string name="ql">Nearby Devices</string>
     <string name="qm">Retry</string>
     <string name="qn">Desktop Manager</string>
@@ -662,11 +662,11 @@
     <string name="r5">Photos</string>
     <string name="r6">Videos</string>
     <string name="r7">Vault</string>
-    <string name="r8">*加密文件夹，请勿删除*</string>
+    <string name="r8">*Encrypted folder, do not delete*</string>
     <string name="r9">*Encrypted folder, do not delete*</string>
     <string name="r_">Vault updated</string>
     <string name="ra">Tap to open Vault</string>
-    <string name="rb">未升级成功的锁定区文件</string>
+    <string name="rb">Locked zone files that have not been successfully upgraded</string>
     <string name="rc">Files not upgraded successfully</string>
     <string name="rd">View</string>
     <string name="re">%1$s file(s) not successfully encrypted. Please view them in the \"%2$s\" folder.</string>
@@ -675,7 +675,7 @@
     <string name="rh">All</string>
     <string name="ri">None</string>
     <string name="rj">TRANSMISSION ENCODING</string>
-    <string name="rk">设置网络</string>
+    <string name="rk">Set up the network</string>
     <string name="rl">Private</string>
     <string name="rm">Setting as private…</string>
     <string name="rn">Settings</string>
@@ -734,7 +734,7 @@ Therefore, the path entrance is hidden and not displayed."</string>
     <string name="t1">When disabled, files in the recycle bin will be permanently deleted</string>
     <string name="t2">Disable Recycle Bin?</string>
     <string name="t3">, etc.</string>
-    <string name="t4">输入内容</string>
+    <string name="t4">Input</string>
     <string name="t5">Pull down to scan for new files</string>
     <string name="t6">Zipping files is required and it will take up some space</string>
     <string name="t7">Scanning</string>
