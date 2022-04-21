@@ -29,7 +29,7 @@ Overlays for f9 apps
 | ToolBox | FULL n\t | |
 | Weather | FULL | Weather app |
 | FlymeLauncher | WIP |  |
-| Settings |  |  |
+| Settings | Start |  |
 | StorageManager |  |  |
 | SystemUI |  |  |
 | SystemUIEx |  |  |
