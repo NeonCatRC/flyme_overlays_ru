@@ -160,7 +160,7 @@
     <string name="customizecenter_app_name">Темы</string>
     <string name="date">"Дата релиза: "</string>
     <string name="date_time_set">Установить</string>
-    <string name="debug_util">Meizu Themes Testing Tool</string>
+    <string name="debug_util">Темы</string>
     <string name="debug_util_notification_content_text">Нажмите для открытия Testing Tool</string>
     <string name="debug_util_summary">Эта функция повлияет на ваше использование тем. Пожалуйста, выключите ее, когда закончите.</string>
     <string name="delete">Удалить</string>
