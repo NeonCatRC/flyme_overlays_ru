@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aicy_app_name">Aicy Engine</string>
+    <string name="app_name">OAuth SDK</string>
+    <string name="context_is_null">Improper parameter</string>
+    <string name="error_is_throwed">Authorization failed, please retry later.</string>
+    <string name="future_result_is_null">Authorization failed, please retry later.</string>
+    <string name="get_cancel">Canceled by user</string>
+    <string name="get_token_failed">Authorization failed, please check network or system time and try again</string>
+    <string name="intent_handle">Please process the return value</string>
+    <string name="scope_null_token">Authorization failed. Error getting info about %s</string>
+    <string name="sync_timeout">Request timeout. Please retry.</string>
+    <string name="uid_not_match">uid not match package name</string>
+    <string name="unkown_error">Authorization failed, please retry later.</string>
+    <string name="unsupport_operation">Your request is too frequent</string>
+</resources>
