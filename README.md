@@ -41,7 +41,7 @@ Overlays for f9 apps
 | FileManager | FULL n\t | Standart Flyme file manager |
 | MzAccount |  |  |
 | MzBatteryManager |  |  |
-| MzSecurity |  |  |
+| MzSecurity | Almost |  |
 | MzUpdate |  |  |
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
 | Dialer |  |  |
