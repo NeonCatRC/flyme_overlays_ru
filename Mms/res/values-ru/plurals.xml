@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Удалить переписки: %1$s</item>
+        <item quantity="one">Удалить переписки: %1$s</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">Удалить сообщения: %1$s</item>
+        <item quantity="one">Удалить сообщения: %1$s</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+    </plurals>
+</resources>

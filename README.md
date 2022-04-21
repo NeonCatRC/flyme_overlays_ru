@@ -28,7 +28,7 @@ Overlays for f9 apps
 | TodoList | FULL | notes and to-do app |
 | ToolBox | FULL n\t | |
 | Weather | FULL | Weather app |
-| FlymeLauncher |  |  |
+| FlymeLauncher | WIP |  |
 | Settings |  |  |
 | StorageManager |  |  |
 | SystemUI |  |  |
@@ -40,22 +40,25 @@ Overlays for f9 apps
 | Camera | FULL n\t | Camera app |
 | FileManager | FULL n\t | Standart Flyme file manager |
 | MzAccount |  |  |
-| MzBatteryManager |  |  |
+| MzBatteryManager | Start |  |
 | MzSecurity | Almost |  |
 | MzUpdate |  |  |
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
-| Dialer |  |  |
+| Dialer | Almost |  |
 | DownloadProvider |  |  |
 | FaceRecognition |  |  |
-| InCallUI |  |  |
+| InCallUI | Almost |  |
 | Music |  |  |
 | MzCallSettings |  |  |
 | MzSetupWizard |  |  |
+| MzShare | Start |  |
+| MMS | Almost |  |
+| NetAdmin | Start |  |
 | PackageInstaller |  |  |
-| PermissionController |  |  |
+| PermissionController | Start |  |
 | AlphaMe | FULL | Aicy Engine |
 | Picker |  |  |
-| SDKStage |  |  |
+| SDKStage | Start |  |
 | Search |  |  |
 | SoundRecorder |  |  |
 | Video |  |  |

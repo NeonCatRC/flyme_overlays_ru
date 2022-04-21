@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d контакт.</item>
+        <item quantity="one">%1$d контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Всего контактов: %d</item>
+        <item quantity="one">Всего: 1 контакт</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контакты с номерами телефона: %d</item>
+        <item quantity="one">Контакты с номерами телефона: 1</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">объединено из %0$d источников</item>
+        <item quantity="one">не объединено</item>
+    </plurals>
+    <plurals name="mz_action_bar_multi_choice_title">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+    </plurals>
+    <plurals name="mzc_contact_count">
+        <item quantity="other">Контакты: %1$s</item>
+        <item quantity="one">Контакты: %1$s</item>
+    </plurals>
+    <plurals name="mzc_contacts_delete_confirm">
+        <item quantity="other">Удаление контактов: %s</item>
+        <item quantity="one">Удаление контактов: %s</item>
+    </plurals>
+    <plurals name="mzc_group_manager_remove_contacts_from_item">
+        <item quantity="other">Удалить контакты: %s</item>
+        <item quantity="one">Удалить контакты: %s</item>
+    </plurals>
+    <plurals name="mzc_group_selection_list_num_contacts_in_group">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовые сообщения: %1$d</item>
+        <item quantity="one">Голосовые сообщения</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">Контаков в %2$s: %1$d</item>
+        <item quantity="one">Контаков в %2$s: %1$d</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Группы: %0$d</item>
+        <item quantity="one">Группы: 1</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+</resources>

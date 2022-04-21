@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Delete %1$s conversation(s)</item>
+        <item quantity="one">Delete %1$s conversation(s)</item>
+    </plurals>
+    <plurals name="confirm_delete_messages">
+        <item quantity="other">Delete %1$s message(s)</item>
+        <item quantity="one">Delete %1$s message(s)</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+</resources>

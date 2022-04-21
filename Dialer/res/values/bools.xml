@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_allow_stacked_button_bar">false</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <bool name="config_allow_export_to_sdcard">true</bool>
+    <bool name="config_allow_import_from_sdcard">true</bool>
+    <bool name="config_allow_share_visible_contacts">true</bool>
+    <bool name="config_allow_sim_import">true</bool>
+    <bool name="config_allow_users_select_all_vcard_import">true</bool>
+    <bool name="config_default_display_order_primary">true</bool>
+    <bool name="config_default_sort_order_primary">true</bool>
+    <bool name="config_display_order_user_changeable">false</bool>
+    <bool name="config_editor_field_order_primary">false</bool>
+    <bool name="config_editor_include_phonetic_name">false</bool>
+    <bool name="config_enable_dialer_key_vibration">true</bool>
+    <bool name="config_import_all_vcard_from_sdcard_automatically">false</bool>
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="config_show_group_action_in_action_bar">false</bool>
+    <bool name="config_show_onscreen_dial_button">true</bool>
+    <bool name="config_sort_order_user_changeable">false</bool>
+    <bool name="contact_all_list_show_card_frame">false</bool>
+    <bool name="isTablet">false</bool>
+    <bool name="mtrl_btn_textappearance_all_caps">true</bool>
+    <bool name="mz_split_action_bar_is_narrow">true</bool>
+    <bool name="mzc_config_import_all_vcard_from_sdcard_manually">true</bool>
+    <bool name="quickcontact_two_panel">false</bool>
+    <bool name="show_home_icon">false</bool>
+</resources>

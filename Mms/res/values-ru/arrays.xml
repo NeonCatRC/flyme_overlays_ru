@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="OPERATION_FOR_IMAGE">
+        <item>Предпросмотр</item>
+        <item>Заменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_SLIDESHOW">
+        <item>Предпросмотр</item>
+        <item>Изменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_VIDEO">
+        <item>Воспроизвести</item>
+        <item>Заменить</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="attach_video_array">
+        <item>Снять новое видео</item>
+        <item>Библиотека видео</item>
+    </string-array>
+    <string-array name="attach_voice_array">
+        <item>Сделать новую запись</item>
+        <item>Библиотека аудио</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>Без темы</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="phrases">
+        <item>Я занят, свяжусь позже.</item>
+        <item>Пожалуйста, позвоните мне позже.</item>
+        <item>Хорошо, спасибо.</item>
+        <item>Пробки, буду немного позже.</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 с.</item>
+        <item>2 с.</item>
+        <item>3 с.</item>
+        <item>4 с.</item>
+        <item>5 с.</item>
+        <item>6 с.</item>
+        <item>7 с.</item>
+        <item>8 с.</item>
+        <item>9 с.</item>
+        <item>10 с.</item>
+        <item>Другое</item>
+    </string-array>
+</resources>

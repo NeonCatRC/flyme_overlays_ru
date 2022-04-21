@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_task_recoord_file">
+        <item quantity="other">Delete %s file(s)</item>
+        <item quantity="one">Delete %s file(s)</item>
+    </plurals>
+    <plurals name="select_delete_records_multi_choice_title">
+        <item quantity="other">%d Items Selected</item>
+    </plurals>
+</resources>
