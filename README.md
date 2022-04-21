@@ -53,6 +53,7 @@ Overlays for f9 apps
 | MzSetupWizard |  |  |
 | PackageInstaller |  |  |
 | PermissionController |  |  |
+| AlphaMe | FULL | Aicy Engine |
 | Picker |  |  |
 | SDKStage |  |  |
 | Search |  |  |
