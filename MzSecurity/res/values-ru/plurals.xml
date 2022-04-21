@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="news_lite_before_today">
+        <item quantity="other">d.M HH:mm</item>
+        <item quantity="zero">HH:mm</item>
+    </plurals>
+    <plurals name="news_lite_before_today_chinese">
+        <item quantity="other">d.M HH:mm</item>
+        <item quantity="zero">HH:mm</item>
+    </plurals>
+    <plurals name="news_lite_before_today_chinese_year">
+        <item quantity="other">d.M.yyyy</item>
+        <item quantity="zero">HH:mm</item>
+    </plurals>
+    <plurals name="news_lite_before_today_year">
+        <item quantity="other">d.M.yyyy</item>
+        <item quantity="zero">HH:mm</item>
+    </plurals>
+    <plurals name="news_lite_hour_ago">
+        <item quantity="other">%d ч. назад</item>
+    </plurals>
+    <plurals name="news_lite_minute_ago">
+        <item quantity="other">%d м. назад</item>
+    </plurals>
+</resources>
