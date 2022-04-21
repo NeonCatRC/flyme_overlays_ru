@@ -15,6 +15,7 @@ Overlays for f9 apps
 | Calendar | FULL n\t | Calendar app |
 | Camera | FULL n\t | Camera app |
 | ConnectivitySettings | WIP | Connect app |
+| CustomizeCenter | Start | Themes \ AOD settings app |
 | Dialer | Almost |  |
 | FileManager | FULL n\t | Standart Flyme file manager |
 | FlymeLauncher | WIP |  |
