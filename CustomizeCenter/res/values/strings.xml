@@ -222,7 +222,7 @@
     <string name="error_is_throwed">error is throwed while get token</string>
     <string name="every_day">Every day</string>
     <string name="exist_bug">Bugs in app or theme</string>
-    <string name="faild_and_retry">连接失败请点击重试</string>
+    <string name="faild_and_retry">The connection failed, please click to try again</string>
     <string name="festival_wallpaper">Festival wallpapers</string>
     <string name="file_selected_number">%1$s file(s) selected, %2$s MB in total</string>
     <string name="fit_action_view">fitActionView</string>
@@ -594,8 +594,8 @@ Auto Wallpaper Changer"</string>
     <string name="net_exception">Network error, please try again later</string>
     <string name="networkRequestError">Network Request Error</string>
     <string name="network_error_to_refresh">Network error, tap to reload</string>
-    <string name="network_execption">网络异常，请稍后重试</string>
-    <string name="network_fail">无网络连接，请检查网络设置</string>
+    <string name="network_execption">The network is abnormal, please try again later</string>
+    <string name="network_fail">No network connection, please check the network settings</string>
     <string name="network_permission">Network Permission</string>
     <string name="network_permission_desc">Need download wallpaper from Internet.</string>
     <string name="never">Never repeat</string>
@@ -714,7 +714,7 @@ Auto Wallpaper Changer"</string>
     <string name="restore_to_system">Restoring to system theme</string>
     <string name="restore_to_system_font">Restoring to system font</string>
     <string name="resume">Resume</string>
-    <string name="retry">重新加载</string>
+    <string name="retry">Retry</string>
     <string name="ring">Ringtones</string>
     <string name="ring_cp_kuyin">© Cool Ringtone</string>
     <string name="ring_tone_cp_source">© %s</string>
@@ -752,7 +752,7 @@ Check out Meizu Themes for more options."</string>
     <string name="set_customized_ring">Set as ringtone</string>
     <string name="set_customized_ring_sub">Uplift the mood of your callers</string>
     <string name="set_incoming_call_ring">Set as call ringtone</string>
-    <string name="set_network">设置网络</string>
+    <string name="set_network">Set up the network</string>
     <string name="set_sms_ring">Set as message tone</string>
     <string name="set_theme_error">Error, failed to set theme</string>
     <string name="set_wallpaper_fal">Error, failed to apply wallpaper</string>

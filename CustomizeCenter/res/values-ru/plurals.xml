@@ -42,5 +42,4 @@
     <plurals name="updates_complete">
         <item quantity="other">Обновлено: %1$d %2$s</item>
     </plurals>
-    </plurals>
 </resources>
