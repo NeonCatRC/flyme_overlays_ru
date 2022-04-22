@@ -5,11 +5,11 @@
         <item>ABSENTNUMBER</item>
     </string-array>
     <string-array name="harmful_mark_for_incoming_caller">
-        <item>诈骗</item>
-        <item>骚扰</item>
-        <item>詐騙</item>
-        <item>騷擾</item>
-        <item>fraud</item>
+        <item>Fraud</item>
+        <item>Harassment</item>
+        <item>Fraud</item>
+        <item>Harassment</item>
+        <item>Fraud</item>
         <item>Harassing</item>
         <item>Harassment</item>
     </string-array>

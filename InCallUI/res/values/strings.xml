@@ -376,7 +376,7 @@
     <string name="swap_call">Swap call</string>
     <string name="switch_answer_to_voice_call">Answer as voice call</string>
     <string name="switch_to_voice_call">To voice call</string>
-    <string name="text_callback">专线</string>
+    <string name="text_callback">Dedicated line</string>
     <string name="title_incoming_fastsms_panel">Reject with a message</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="typeface_default">sans-serif</string>

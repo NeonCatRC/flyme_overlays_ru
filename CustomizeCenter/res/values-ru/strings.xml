@@ -64,10 +64,7 @@
     <string name="all_special">Все</string>
     <string name="all_update">Обновить все</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
-<!--
-    <string name="app_name">AppCenterSdk</string> EN
-    <string name="app_name">Perf</string>   RU    Which one?
--->
+    <string name="app_name">Perf</string>
     <string name="applied">Добавленные</string>
     <string name="apply">Применить</string>
     <string name="apply_badge">Добавить на дополнительный экран</string>

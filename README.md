@@ -2,7 +2,6 @@
 Overlays for f9 apps
 
 - FULL- full RU localization 
-- Almost- up to 70% ready
 - WIP- work-in-progress
 - Start - early state of translation
 - n\a- Do not check this
@@ -15,15 +14,16 @@ Overlays for f9 apps
 | Calendar | FULL n\t | Calendar app |
 | Camera | FULL n\t | Camera app |
 | ConnectivitySettings | WIP | Connect app |
-| CustomizeCenter | FULL n\t | Themes \ AOD settings app |
-| Dialer | Almost |  |
+| CustomizeCenter | WIP | Themes \ AOD settings app |
+| DataMigration | Start | Data migration app |
+| Dialer | WIP |  |
 | FileManager | FULL n\t | Standart Flyme file manager |
 | FlymeLauncher | WIP |  |
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
-| InCallUI | Almost |  |
-| MMS | Almost |  |
+| InCallUI | WIP | In-call interface for build-in dialer |
+| MMS | WIP |  |
 | MzBatteryManager | Start |  |
-| MzSecurity | Almost |  |
+| MzSecurity | WIP |  |
 | MzShare | Start |  |
 | NetAdmin | Start |  |
 | NotePaper | FULL n\t | Notepad app |
@@ -31,7 +31,7 @@ Overlays for f9 apps
 | PermissionController | Start |  |
 | SDKStage | Start |  |
 | Settings | Start |  |
-| Suggestion | Almost | |
+| Suggestion | WIP | |
 | SystemUI |  |  |
 | SystemUIEx |  |  |
 | SystemUITools |  |  |
@@ -40,7 +40,6 @@ Overlays for f9 apps
 | VoiceAssistant | n\a |  |
 | Weather | FULL | Weather app |
 | ------ | ------ | ------ |
-| DataMigration | | |
 | DesktopBackup | | |
 | Email | | |
 | FamilyGuard | | |

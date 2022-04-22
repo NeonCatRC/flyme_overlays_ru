@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="absent_num">
+        <item>НЕИЗВЕСТНЫЙ НОМЕР</item>
+        <item>НЕИЗВЕСТНЫЙ</item>
+    </string-array>
+    <string-array name="harmful_mark_for_incoming_caller">
+        <item>Мошенничество</item>
+        <item>Оскорбление</item>
+        <item>Мошенничество</item>
+        <item>Домогательство</item>
+        <item>Мошенничество</item>
+        <item>Беспокойство</item>
+        <item>Беспокойство</item>
+    </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
