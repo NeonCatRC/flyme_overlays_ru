@@ -1,7 +1,7 @@
 # Flyme_overlays_ru
 Overlays for f9 apps
 
-- FULL- full RU localization 
+- FULL- full RU localization
 - WIP- work-in-progress
 - Start - early state of translation
 - n\a- Do not check this

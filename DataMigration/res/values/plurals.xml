@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backup_select_multi_choice_title">
+        <item quantity="other">%d item(s) selected</item>
+    </plurals>
+</resources>

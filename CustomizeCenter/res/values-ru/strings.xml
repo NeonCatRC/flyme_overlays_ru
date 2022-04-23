@@ -641,10 +641,8 @@
     <string name="rp">Не удалось приобрести специальное предложение. Пожалуйста, повторите попытку в следующий раз.</string>
     <string name="rq">Заказ неоплачен</string>
     <string name="rr">Получить темы кастомизации</string>
-
-    <string name="rs">This permission is required to set the contact ringtone function</string>
-    <string name="rt">This permission is required to \"%s\" function</string>
-
+    <string name="rs">Для установки рингтона контакта требуется следующее разрешение</string>
+    <string name="rt">Для \"%s\" требуется следующее разрешение</string>
     <string name="ru">Записывать/Удалять контакты</string>
     <string name="rv">Информация аккаунта</string>
     <string name="rw">Хранилище</string>
