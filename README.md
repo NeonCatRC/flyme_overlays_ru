@@ -20,7 +20,7 @@ Overlays for f9 apps
 | FileManager | FULL n\t | Standart Flyme file manager |
 | FlymeLauncher | WIP |  |
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
-| InCallUI | WIP | In-call interface for build-in dialer |
+| InCallUI | FULL n\t | In-call interface for build-in dialer |
 | MMS | WIP |  |
 | MzBatteryManager | Start |  |
 | MzSecurity | WIP |  |
