@@ -86,35 +86,35 @@
     <string name="action_item_none_or_no_permission">No %1$s, or access to the data is denied. Please grant permission in Settings.</string>
     <string name="action_item_scale">%1$s item(s)</string>
     <string name="action_item_vidio_scale">%1$s video(s)</string>
-    <string name="action_name_account">Flyme account</string>
-    <string name="action_name_alarm_clock">Alarm settings</string>
-    <string name="action_name_app">Apps</string>
-    <string name="action_name_app_data">App content</string>
-    <string name="action_name_browser_bookmarks">Browser bookmarks</string>
-    <string name="action_name_calllog">Call logs</string>
-    <string name="action_name_contact">Contacts</string>
-    <string name="action_name_default">Other</string>
-    <string name="action_name_display_settings">Display settings</string>
-    <string name="action_name_doc">Documents</string>
-    <string name="action_name_file">Files</string>
-    <string name="action_name_image">Photos</string>
-    <string name="action_name_input_method">Input settings</string>
-    <string name="action_name_mail">Email settings</string>
-    <string name="action_name_micromsg">WeChat data</string>
-    <string name="action_name_mms">MMS</string>
-    <string name="action_name_music">Music</string>
-    <string name="action_name_safe_box">Vault</string>
-    <string name="action_name_settings">System settings</string>
-    <string name="action_name_sms">Messages</string>
-    <string name="action_name_sound_settings">Sound settings</string>
-    <string name="action_name_vidio">Videos</string>
-    <string name="action_name_vpn_settings">VPN settings</string>
-    <string name="action_name_wallpaper">Wallpaper settings</string>
-    <string name="action_name_wlan_password">WLAN passwords</string>
-    <string name="action_receive_actionbar_title">Receive Data</string>
-    <string name="action_send_actionbar_title">Sending</string>
-    <string name="action_send_undercapacity_title">New phone space full</string>
 
+    <string name="action_name_account">Аккаунт Flyme</string>
+    <string name="action_name_alarm_clock">Настройки будильника</string>
+    <string name="action_name_app">Приложения</string>
+    <string name="action_name_app_data">Контент приложений</string>
+    <string name="action_name_browser_bookmarks">Закладки браузера</string>
+    <string name="action_name_calllog">Журнал звонков</string>
+    <string name="action_name_contact">Контакты</string>
+    <string name="action_name_default">Другие</string>
+    <string name="action_name_display_settings">Настройки дисплея</string>
+    <string name="action_name_doc">Документы</string>
+    <string name="action_name_file">Файлы</string>
+    <string name="action_name_image">Фото</string>
+    <string name="action_name_input_method">Настройки ввода</string>
+    <string name="action_name_mail">Эл. почта</string>
+    <string name="action_name_micromsg">Данные WeChat</string>
+    <string name="action_name_mms">MMS</string>
+    <string name="action_name_music">Музыка</string>
+    <string name="action_name_safe_box">Хранилище</string>
+    <string name="action_name_settings">Системные настройки</string>
+    <string name="action_name_sms">СМС</string>
+    <string name="action_name_sound_settings">Настройки звука</string>
+    <string name="action_name_vidio">Видео</string>
+    <string name="action_name_vpn_settings">Настройки VPN</string>
+    <string name="action_name_wallpaper">Обои</string>
+    <string name="action_name_wlan_password">Пароли Wi-Fi</string>
+    <string name="action_receive_actionbar_title">Получение данных</string>
+    <string name="action_send_actionbar_title">Отправка</string>
+    <string name="action_send_undercapacity_title">Не хватает места на новом устройстве</string>
     <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
 
     <string name="app_and_data">Apps > Data</string>
@@ -160,29 +160,27 @@
     <string name="clean_rubbish">clean up</string>
     <string name="closed">Disabled</string>
     <string name="cmcc_notify">The function Backup and restore is designed specially for CMCC-versioned phones and can be used among CMCC-versioned phones of all brands.</string>
-    <string name="complete">Done</string>
-    <string name="contact">Contacts</string>
-    <string name="contact_recover_summary_txt">%1$s contact(s)</string>
-    <string name="continuration">Continue</string>
 
+    <string name="complete">Готово</string>
+    <string name="contact">Контакты</string>
+    <string name="contact_recover_summary_txt">%1$s контакт(ов)</string>
+    <string name="continuration">Продолжить</string>
     <string name="copy">Копировать</string>
-
-    <string name="data_migration_code_hint">Please do not switch WLAN connection during migration</string>
-    <string name="data_receiver_code_expired_tips">Code expired</string>
-    <string name="data_receiver_code_generating">Generating connection code, please wait</string>
-    <string name="data_receiver_code_recreate">Regenerate</string>
-    <string name="data_receiver_code_recreate_text">Regenerate Code</string>
-    <string name="data_receiver_code_tips">Enter this connection code on old phone</string>
-    <string name="data_receiver_fail_confirm_button">OK</string>
-    <string name="data_sender_code_connecting">Connecting to new phone</string>
-    <string name="data_sender_code_reenter_tips">Please enter the correct code</string>
-    <string name="data_sender_code_tips">Enter code shown on new phone</string>
-    <string name="data_sender_fail_confirm_button">OK</string>
-
+    <string name="data_migration_code_hint">Не выключайте Wi-Fi соединение пока проходит миграция</string>
+    <string name="data_receiver_code_expired_tips">Код истёк</string>
+    <string name="data_receiver_code_generating">Создание кода, пожалуйста подождите</string>
+    <string name="data_receiver_code_recreate">Сгенерировать заного</string>
+    <string name="data_receiver_code_recreate_text">Сгенерировать код заного</string>
+    <string name="data_receiver_code_tips">Введите этот код на старом телефоне</string>
+    <string name="data_receiver_fail_confirm_button">ОК</string>
+    <string name="data_sender_code_connecting">Подключение к новому телефону</string>
+    <string name="data_sender_code_reenter_tips">Введите верный код</string>
+    <string name="data_sender_code_tips">Введите код, показанный на новом телефоне</string>
+    <string name="data_sender_fail_confirm_button">ОК</string>
     <string name="date_time_set">Установить</string>
-
-    <string name="default_recover_summary_txt">%1$s other item(s)</string>
-    <string name="delete">Delete</string>
+    <string name="default_recover_summary_txt">%1$s других пунктов</string>
+    <string name="delete">Удалить</string>
+    
     <string name="desk_update">"Can't perform this action during cloud sync"</string>
     <string name="dir_change_text_1_tail_text">Click to enter</string>
     <string name="dir_change_text_1_text">1.Enter the path【backup】in storage disk</string>
@@ -214,26 +212,24 @@ Flyme account:"</string>
     <string name="failed_to_enable_softap">Failed to create hotspot. Please acquire permission first.</string>
     <string name="file_recover_summary_txt">%1$s file(s)</string>
     <string name="first_encry_backup_dialog_message">Use logged Flyme account to encrypt your backup, and you need to log into the same Flyme account to recover your backup</string>
-    <string name="flyme_account">Flyme account</string>
-    <string name="get_account_info">Get account information</string>
-    <string name="get_it">Got it</string>
-    <string name="has_know">Got it</string>
-    <string name="has_skip">Skipped</string>
-    <string name="image_recover_summary_txt">%1$s image(s)</string>
 
+    <string name="flyme_account">Аккаунт Flyme</string>
+    <string name="get_account_info">Получить информацию о аккаунте</string>
+    <string name="get_it">Готово</string>
+    <string name="has_know">Готово</string>
+    <string name="has_skip">Пропущено</string>
+    <string name="image_recover_summary_txt">%1$s изображений</string>
     <string name="item_is_selected">%1$s выбрано</string>
-
-    <string name="just_backup">"Backed up 
-%s ago"</string>
-    <string name="just_backup_ago">"Backed up 
-just now"</string>
-    <string name="just_backup_msg">Timely backup. No risks.</string>
-    <string name="launcher">Launcher layout</string>
-    <string name="launcher_description">Positions of icons, folders and tools</string>
-    <string name="loading_records">Calculating...</string>
-    <string name="login">Login</string>
-    <string name="mc_action_settings">Settings</string>
-
+    <string name="just_backup">"Сохранено 
+%s назад"</string>
+    <string name="just_backup_ago">"Сохранено
+только что"</string>
+    <string name="just_backup_msg">Своевременное резервное копирование. Никакого риска.</string>
+    <string name="launcher">Сетка лаунчера</string>
+    <string name="launcher_description">Расположение иконок, папок и виджетов</string>
+    <string name="loading_records">Расчёт...</string>
+    <string name="login">Войти</string>
+    <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
     <string name="mc_cancel">Отмена</string>
@@ -351,9 +347,9 @@ just now"</string>
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">ОК</string>
     <string name="message">Сообщение</string>
+    <string name="micromsg_recover_summary_txt">Данные WeChat</string>
+    <string name="migration_Refresh_app">Обновить</string>
 
-    <string name="micromsg_recover_summary_txt">WeChat data</string>
-    <string name="migration_Refresh_app">Refresh</string>
     <string name="migration_added_to_download_queue">Added to download queue</string>
     <string name="migration_app_button">Data-free migration</string>
     <string name="migration_app_check_network">No network. Please check your settings.</string>
@@ -670,17 +666,15 @@ to get app information"</string>
     <string name="mzuc_update_title_s" formatted="false">Вышла %s %s</string>
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
-
-    <string name="new_backup">Backup</string>
+    <string name="new_backup">Новая копия</string>
     <string name="no">Отмена</string>
-    <string name="no_tip_next_time">No longer prompt</string>
-    <string name="not_enough_size">Out of space. Free up some space and retry</string>
-
+    <string name="no_tip_next_time">Больше не спрашивать</string>
+    <string name="not_enough_size">Память переполнена. Освободите место и повторите попытку</string>
     <string name="not_set">Не указано</string>
+    <string name="now_backup">Начать сейчас</string>
+    <string name="ok">ОК</string>
+    <string name="open_wifi_permission">Выдать разрешение</string>
 
-    <string name="now_backup">Backup Now</string>
-    <string name="ok">OK</string>
-    <string name="open_wifi_permission">Grant Permission</string>
     <string name="operate_permission_tip">If no redirecting occurs when enabled, go to app permissions to configure it</string>
     <string name="operate_settings_permission_title">No permission to modify system settings</string>
     <string name="operate_storage_permission_summery">Enable it in Permissions</string>
@@ -691,17 +685,16 @@ to get app information"</string>
     <string name="operation_help">Operation help</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="permission_notify">Backup &amp; Restore needs to access the internet, track your location and read your contacts, messages and call logs to backup your phone data</string>
-    <string name="photo">Photo</string>
-    <string name="please_select_data">Please select data</string>
-    <string name="power_low_backup">"Battery can't be lower than 20% before backup starts"</string>
-    <string name="power_low_recover">"Battery can't be lower than 20% before restore starts."</string>
     
+    <string name="photo">Фото</string>
+    <string name="please_select_data">Выберите данные</string>
+    <string name="power_low_backup">"Уровень заряда батареи не может быть ниже 20% до начала резервного копирования."</string>
+    <string name="power_low_recover">"Уровень заряда батареи не может быть ниже 20% до начала восстановления."</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="progress_recover_app">Восстановление</string>
+    <string name="qr_scanner_wifi_connection_failed">Ошибка подключения</string>
+    <string name="quit_account">Выйти</string>
 
-    <string name="progress_percent_scale">%</string>
-    <string name="progress_recover_app">Recovering</string>
-    <string name="qr_scanner_wifi_connection_failed">Connection failed</string>
-    <string name="quit_account">Log out</string>
     <string name="rationale_ask">This app may not work correctly without the requested permissions.</string>
     <string name="rationale_ask_again">This app may not work correctly without the requested permissions. Open the app settings screen to modify app permissions.</string>
     <string name="receive_failed_reason_softap_error">WLAN hotspot error</string>
@@ -711,7 +704,9 @@ to get app information"</string>
     <string name="recover_encry_backup_message">"The backup has been encrypted, please log into the Flyme account to recover it 
 
 Flyme account:"</string>
-    <string name="recover_finish">Restored</string>
+
+    <string name="recover_finish">Восстановлено</string>
+
     <string name="remark">Remark</string>
     <string name="remark_hint">Remark can contain no more than 10 characters</string>
     <string name="replace_by_computer">"1. Back up the data and check its backup path.
@@ -726,50 +721,48 @@ Flyme account:"</string>
 3. Remove the SD card and insert it into the new device.
 4. Open Backup &amp; Restore on the new phone, then select the backup file to start restoring."</string>
     <string name="replace_by_sd_head">Replacement by SD card:</string>
-    <string name="retry_backup_zip">Retry</string>
+
+    <string name="retry_backup_zip">Повторить</string>
+
     <string name="safebox_overwrite_tip">Migrating data in Vault will overwrite the new phone’s Vault data</string>
     <string name="sd_card_notify">No SD card detected. To restore data onto this device, you can transfer backup files to it from your old phone using a SD card or a PC.</string>
     
     <string name="search_menu_title">Поиск</string>
-
-    <string name="select_app">Select app</string>
-    <string name="select_backup">Select Backup Items</string>
-    <string name="select_micromsg_prompt_msg">Migrated WeChat data will overwrite existing WeChat data on new phone</string>
-    <string name="select_record_item_no_use">Invalid item</string>
-    <string name="select_storage">Storage for backups</string>
-    <string name="select_system_setting">Choose system settings</string>
-    <string name="settings_recover_summary_txt">%1$s system setting(s)</string>
-    <string name="sim_card_select">Backup options</string>
-    <string name="skip">Skip</string>
+    <string name="select_app">Выберите приложения</string>
+    <string name="select_backup">Выберите данные под копирование</string>
+    <string name="select_micromsg_prompt_msg">Перенесенные данные WeChat перезапишут существующие данные WeChat на новом телефоне</string>
+    <string name="select_record_item_no_use">Недопустимый вариант</string>
+    <string name="select_storage">Хранилище для резервных копий</string>
+    <string name="select_system_setting">Выберите системные настройки</string>
+    <string name="settings_recover_summary_txt">%1$s системные настройки</string>
+    <string name="sim_card_select">Настройки копирования</string>
+    <string name="skip">Пропустить</string>
     <string name="slot_1">SIM1</string>
     <string name="slot_2">SIM2</string>
-    <string name="sms">SMS</string>
-    <string name="sms_recover_summary_txt">%1$s message(s)</string>
-    <string name="space_backup_failed">The backup failed, SD card memory is not detected</string>
-    <string name="space_check">Insufficient space on internal storage. The backup file will be saved to SD card</string>
-    <string name="space_check_storge">SD card space is insufficient and backup files will be saved to the phone</string>
-    <string name="space_restore_failed">Restore failed because SD card is not found.</string>
-    <string name="start_backup">Start Backup</string>
-    <string name="start_recover">Restore</string>
-
-    <string name="stop_backup">Stop backup</string>
-    <string name="sure">OK</string>
-    <string name="sure_continue_action">The MMS attachment is too large, so the backup may take a moment.</string>
-    <string name="sure_delete_action">Delete selected item(s)?</string>
-    <string name="sure_stop_action">Are you sure you want to stop %s?</string>
-    <string name="sync_update">"Can't perform this action during cloud backup"</string>
-    <string name="system_setting">System settings</string>
-    <string name="text_input_hint_text">Input</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="title_settings_dialog">Permissions Required</string>
-    <string name="unknown_file">Unknown file</string>
-
+    <string name="sms">СМС</string>
+    <string name="sms_recover_summary_txt">%1$s сообщений</string>
+    <string name="space_backup_failed">Ошибка резервного копирования, SD-карта не найдена</string>
+    <string name="space_check">Недостаточно места во внутренней памяти. Файл резервной копии будет сохранен на SD-карту</string>
+    <string name="space_check_storge">Места на SD-карте недостаточно, и резервные копии файлов будут сохранены на телефоне</string>
+    <string name="space_restore_failed">SD-карта не найдена, ошибка восстановления.</string>
+    <string name="start_backup">Начать резервное копирование</string>
+    <string name="start_recover">Восстановить</string>
+    <string name="stop_backup">Остановить копирование</string>
+    <string name="sure">ОК</string>
+    <string name="sure_continue_action">Вложение MMS слишком велико, поэтому резервное копирование может занять некоторое время.</string>
+    <string name="sure_delete_action">Удалить следующие файлы?</string>
+    <string name="sure_stop_action">Вы уверены, что хотите остановить %s?</string>
+    <string name="sync_update">"Не удается выполнить это действие во время резервного копирования в облаке"</string>
+    <string name="system_setting">Системные настройки</string>
+    <string name="text_input_hint_text"> </string>
+    <string name="title_activity_main">MainActivity</string> <!--Maybe script word-->
+    <string name="title_settings_dialog">Требуются разрешения</string>
+    <string name="unknown_file">Неизвестный файл</string>
     <string name="v7_preference_off">ВЫКЛ.</string>
     <string name="v7_preference_on">ВКЛ.</string>
-
-    <string name="warning">To avoid data loss, do not reboot or power off</string>
-    <string name="without_card">No card</string>
-    <string name="without_sd_card">No SD card detected. To restore data onto this device, you can transfer backup files to it from your old phone using a PC.</string>
-    <string name="yes">Yes</string>
-    <string name="zip_file">Coming soon</string>
+    <string name="warning">Чтобы избежать потери данных, не перезагружайте и не выключайте питание</string>
+    <string name="without_card">Без SD-карты</string>
+    <string name="without_sd_card">SD-карта не обнаружена. Чтобы восстановить данные на этом устройстве, вы можете перенести на него резервные копии файлов со своего старого телефона с помощью ПК.</string>
+    <string name="yes">Да</string>
+    <string name="zip_file">Скоро будет</string>
 </resources>

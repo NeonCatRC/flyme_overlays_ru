@@ -16,10 +16,10 @@ Overlays for f9 apps
 | Camera | FULL n\t | Camera app |
 | ConnectivitySettings | WIP | Connect app |
 | CustomizeCenter | FULL | Themes \ AOD settings app |
-| DataMigration | Start | Data migration app |
-| Dialer | WIP |  |
+| DataMigration | WIP | Data migration app |
+| Dialer | WIP | Phone app |
 | FileManager | FULL n\t | Standart Flyme file manager |
-| FlymeLauncher | WIP |  |
+| FlymeLauncher | WIP | Standart Flyme launcher |
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
 | MMS | WIP |  |
