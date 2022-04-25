@@ -39,13 +39,11 @@
     <string name="default_tag_plan">План</string>
     <string name="default_tag_study">Учёба</string>
     <string name="default_tag_work">Работа</string>
-<!-- 
-    <string name="default_todo_subtitle_1">Click on the bottom right corner to create a new to-do</string>
-    <string name="default_todo_subtitle_2">You can add pictures, subtasks, notes, links</string>
-    <string name="default_todo_subtitle_3">Specify the date and place to remind for needs</string>
-    <string name="default_todo_subtitle_4">Click the star to mark as important item increase the priority</string>
-    <string name="default_todo_subtitle_5">Support multiple groups to manage</string>
-    -->
+    <string name="default_todo_subtitle_1">Нажмите на на правый нижний угол для создания новой задачи</string>
+    <string name="default_todo_subtitle_2">Вы можете добавлять картинки, подзадачи, заметки, ссылки</string>
+    <string name="default_todo_subtitle_3">Настраивайте дату и место в напоминаниях</string>
+    <string name="default_todo_subtitle_4">Нажмите на звезду для отметки задачи как важной</string>
+    <string name="default_todo_subtitle_5">Поддержка работы с несколькими группами</string>
     <string name="default_todo_title">Добро пожаловать в задачи</string>
     <string name="default_user_name">Войти</string>
     <string name="delete_action">Удалить</string>
