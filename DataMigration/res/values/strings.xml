@@ -772,7 +772,7 @@ Flyme account:"</string>
     <string name="sure_stop_action">Are you sure you want to stop %s?</string>
     <string name="sync_update">"Can't perform this action during cloud backup"</string>
     <string name="system_setting">System settings</string>
-    <string name="text_input_hint_text">输入内容</string>
+    <string name="text_input_hint_text">Input</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_settings_dialog">Permissions Required</string>
     <string name="unknown_file">Unknown file</string>

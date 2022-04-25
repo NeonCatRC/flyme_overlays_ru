@@ -573,6 +573,7 @@
     <string name="news_update">Обновить сейчас</string>
     <string name="no_calendars_found">Добавить событие можно только в видимый календарь, настроенный на устройстве. Нажмите \"Добавить аккаунт\" или, если он недавно добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
     <string name="no_data">Нет</string>
+    <string name="no_event">Сегодня нет событий</string>
     <string name="no_import_birthday">Нет дней рождений</string>
     <string name="no_live">Нет прямого эфира</string>
     <string name="no_more_data">Нет данных</string>
@@ -738,7 +739,7 @@
     <string name="widget_add_countdown">Обратный отсчёт</string>
     <string name="widget_agenda_label">Расписания</string>
     <string name="widget_click_add_countdown">Нажмите чтобы добавить отсчёт</string>
-    <string name="widget_count_down_label">Значение дней</string>
+    <string name="widget_count_down_label">Обратный отсчет</string>
     <string name="widget_date_format">М/Д Е</string>
     <string name="widget_month_view_label">Месячный календарь</string>
     <string name="work_day">Р</string>
