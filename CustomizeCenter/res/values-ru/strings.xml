@@ -39,7 +39,7 @@
     <string name="aj">Личный центр</string>
     <string name="ak">Темы</string>
     <string name="al">Шрифты</string>
-    <string name="am">Не выполнен вход</string>
+    <string name="am">Войти</string>
     <string name="an">Смена обоев</string>
     <string name="ao">Обои</string>
     <string name="ap">Открыть</string>
@@ -262,7 +262,7 @@
     <string name="gq">Установка приложения</string>
     <string name="gr">Ошибка сети, нажмите для перезагрузки</string>
     <string name="gs">Ошибка сети</string>
-    <string name="gt">Network error, tap to reload</string>
+    <string name="gt">Ошибка сети, нажмите для повтора</string>
     <string name="gu">Перейдите “#@0@#” > “Автоматическая смена обоев” для активации</string>
     <string name="gv">"Новое:
 Автоматическая смена обоев"</string>

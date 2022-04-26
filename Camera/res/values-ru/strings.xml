@@ -306,7 +306,7 @@
     <string name="mz_cam_mode_back_lighting">Селфи с подсветкой</string>
     <string name="mz_cam_mode_back_trace">Ретроспектива</string>
     <string name="mz_cam_mode_bar_code">Сканер</string>
-    <string name="mz_cam_mode_document">Регулировка документа</string>
+    <string name="mz_cam_mode_document">Документ</string>
     <string name="mz_cam_mode_funny_snap">Забавный кадр</string>
     <string name="mz_cam_mode_funny_snap_no_face">Невозможно распознать лица</string>
     <string name="mz_cam_mode_gif">GIF</string>
@@ -327,7 +327,7 @@
     <string name="mz_cta_permission_loc">Чтобы записать место, получите точные данные о местоположении</string>
     <string name="mz_cta_permission_net">Скачайте забавные стикеры Snap</string>
     <string name="mz_cta_permission_storage">Сохранять фото и видео</string>
-    <string name="mz_custom_device_mark_defalut_hint">По вашему нику</string>
+    <string name="mz_custom_device_mark_defalut_hint">Своё</string>
     <string name="mz_custom_device_mark_dialog_error_hint_emoji">Невозможно ввести эмодзи</string>
     <string name="mz_custom_device_mark_dialog_error_hint_length">Допустимо не более 20 символов</string>
     <string name="mz_custom_device_mark_dialog_negative">Отмена</string>
@@ -442,7 +442,7 @@
     <string name="mz_network_setting">Настройка сети</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_night_mode_coach_button">Руководство</string>
-    <string name="mz_online_amazing_ar_close_title">Закрыть AmazingAR ?</string>
+    <string name="mz_online_amazing_ar_close_title">Закрыть AmazingAR?</string>
     <string name="mz_online_funny_close_download_title">Выключение этого режима прекратит загрузку наклеек</string>
     <string name="mz_online_funny_close_msg">Этот режим больше не будет отображаться в камере после закрытия</string>
     <string name="mz_online_funny_close_title">Выключить режим забавного кадра?</string>
@@ -529,7 +529,7 @@
     <string name="mz_setting_click_video_record_limited_hint">Максимальная длина записи %1$d минут</string>
     <string name="mz_setting_click_video_suppord_eis_hint">Текущие настройки поддерживают стабилизацию</string>
     <string name="mz_setting_click_voice_hint">Скажите \"Снимаю\" или \"Сыр\"</string>
-    <string name="mz_setting_count_down_close">Закрыть</string>
+    <string name="mz_setting_count_down_close">Нет</string>
     <string name="mz_setting_countdown_title">Обратный отсчёт</string>
     <string name="mz_setting_des_antishake">, защита от тряски</string>
     <string name="mz_setting_des_devicemark_close">Выкл.</string>
@@ -555,11 +555,11 @@
     <string name="mz_setting_mfll_title">Улучшение мультикадра</string>
     <string name="mz_setting_mirror_label">Сохранение фотографий предпросмотра</string>
     <string name="mz_setting_mirror_title">Зеркало</string>
-    <string name="mz_setting_picture_size_full_size">полноразмерный</string>
+    <string name="mz_setting_picture_size_full_size">Full</string>
     <string name="mz_setting_picture_size_hint">Соотношение</string>
     <string name="mz_setting_picture_size_proportion">Соотношение сторон фото</string>
     <string name="mz_setting_recordsize_title">Размер видео</string>
-    <string name="mz_setting_scan">Автоматическое сканирование кодов</string>
+    <string name="mz_setting_scan">Авто-сканирование кодов</string>
     <string name="mz_setting_slow_motion_fps_title">Слоу-мо FPS</string>
     <string name="mz_setting_storage_title">Приоритет SD-карты</string>
     <string name="mz_setting_timemark_title">Дата на снимке</string>

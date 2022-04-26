@@ -184,7 +184,7 @@
     <string name="menu_done">Готово</string>
     <string name="menu_last_step">Назад</string>
     <string name="menu_next_step">Далее</string>
-    <string name="menu_skip">Не устанавливать</string>
+    <string name="menu_skip">Пропустить</string>
     <string name="more_item_label">Ещё</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
@@ -409,7 +409,7 @@
     <string name="step">шаги</string>
     <string name="step_count_today">Число шагов сегодня</string>
     <string name="steps">Шаги</string>
-    <string name="steps_of_date">%1$s Количество шагов</string>
+    <string name="steps_of_date">%1$s сделано шагов</string>
     <string name="sync_timeout">Тайм-аут запроса. Повторите попытку.</string>
     <string name="target_step">Цель: %1$d</string>
     <string name="tips_pedo_not_support">Извините, текущее устройство не поддерживает подсчет шагов</string>

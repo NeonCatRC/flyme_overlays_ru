@@ -116,17 +116,17 @@
     <string name="action_send_actionbar_title">Отправка</string>
     <string name="action_send_undercapacity_title">Не хватает места на новом устройстве</string>
     <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
+    <string name="app_and_data">Приложения > Данные</string>
+    <string name="app_data">Приложения</string>
+    <string name="app_install_failed">Ошибка установки</string>
+    <string name="app_install_success">Установлено успешно</string>
+    <string name="app_name">Миграция</string>
+    <string name="app_recover_summary_txt">%1$s приложений</string>
+    <string name="available_size">Доступно места: %s</string>
+    <string name="backup_channel_name">Резервное копирование</string>
+    <string name="backup_complement">%s готово</string>
+    <string name="backup_date_title">Дата копии:</string>
 
-    <string name="app_and_data">Apps > Data</string>
-    <string name="app_data">Apps</string>
-    <string name="app_install_failed">Failed to install</string>
-    <string name="app_install_success">Successfully Installed</string>
-    <string name="app_name">Migratool</string>
-    <string name="app_recover_summary_txt">%1$s app(s)</string>
-    <string name="available_size">Available storage: %s</string>
-    <string name="backup_channel_name">Backup Notify</string>
-    <string name="backup_complement">%s done</string>
-    <string name="backup_date_title">Backup Date:</string>
     <string name="backup_failed">%s failed. Tap to view details</string>
     <string name="backup_finish">Backup finished</string>
     <string name="backup_folder_occupied_msg">%1$s/backup was occupied. Please remove or rename folder with the same name and backup again</string>
@@ -148,19 +148,18 @@
     <string name="backup_time">No backup for %s</string>
     <string name="backup_working">%s is in progress. Please check the notification shade.</string>
     <string name="backup_zip_failed">Failed to compress backups, please try again</string>
-    <string name="calendar">Calendar</string>
-    <string name="calllog">Call logs</string>
-    <string name="calllog_recover_summary_txt">%1$s call log(s)</string>
-    <string name="can_not_support_action">%s backup and restore not supported</string>
-    <string name="cancel">Cancel</string>
-    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="check_account_info">Verifying account information</string>
-    <string name="choose_storage">Choose storage path</string>
-    <string name="clean_rubbish">clean up</string>
-    <string name="closed">Disabled</string>
-    <string name="cmcc_notify">The function Backup and restore is designed specially for CMCC-versioned phones and can be used among CMCC-versioned phones of all brands.</string>
-
+    
+    <string name="calendar">Календарь</string>
+    <string name="calllog">Журнал вызовов</string>
+    <string name="calllog_recover_summary_txt">%1$s звонков</string>
+    <string name="can_not_support_action">%s резервное копирование и восстановление данных не поддерживается</string>
+    <string name="cancel">Отмена</string>
+    <string name="character_counter_content_description">Превышен лимит символов на %1$d из %2$d</string>
+    <string name="check_account_info">Подтверждение аккаунта</string>
+    <string name="choose_storage">Выберите место хранения</string>
+    <string name="clean_rubbish">очистить</string>
+    <string name="closed">Отключено</string>
+    <string name="cmcc_notify">Функция резервного копирования и восстановления создана специально для CMCC-подготовленных телефонов и может быть использована между CMCC-подготовленными телефонами любых брендов.</string>
     <string name="complete">Готово</string>
     <string name="contact">Контакты</string>
     <string name="contact_recover_summary_txt">%1$s контакт(ов)</string>
@@ -208,9 +207,9 @@ Flyme account:"</string>
     <string name="estimate_backup_size">Estimated backup size:</string>
 
     <string name="expand_button_title">Дополнительно</string>
+    <string name="failed_to_enable_softap">Ошибка создания точки доступа. Сначала предоставьте разрешения.</string>
+    <string name="file_recover_summary_txt">%1$s файл(ов)</string>
 
-    <string name="failed_to_enable_softap">Failed to create hotspot. Please acquire permission first.</string>
-    <string name="file_recover_summary_txt">%1$s file(s)</string>
     <string name="first_encry_backup_dialog_message">Use logged Flyme account to encrypt your backup, and you need to log into the same Flyme account to recover your backup</string>
 
     <string name="flyme_account">Аккаунт Flyme</string>
@@ -420,37 +419,39 @@ Flyme account:"</string>
     <string name="migration_err_app_details">Details</string>
     <string name="migration_err_app_summery">, content in %1$s app(s) failed to send.</string>
     <string name="migration_err_app_tip">Content in %1$s app(s) failed to send. Free up phone space and try again</string>
-    <string name="migration_failed_txt_receive">Migration failed</string>
-    <string name="migration_faq">FAQ</string>
-    <string name="migration_finished_txt_receive">Migration completed</string>
-    <string name="migration_finished_txt_send">Data sent</string>
-    <string name="migration_got_it">Got it</string>
-    <string name="migration_icloud_code_device">Use apple device to verify</string>
-    <string name="migration_icloud_code_device_tips">Please input your verification code get on your Phone %1$s</string>
-    <string name="migration_icloud_code_edit">Verification Code</string>
-    <string name="migration_icloud_code_error">Verification Code Error</string>
-    <string name="migration_icloud_code_resend">Resend</string>
-    <string name="migration_icloud_code_sms">Use sms to verify</string>
-    <string name="migration_icloud_code_tips">Please input your verification code get on your Apple device</string>
-    <string name="migration_icloud_code_title">Apple two factor authentication</string>
-    <string name="migration_icloud_code_verify">Verification</string>
-    <string name="migration_icloud_import_failed">Import interrupted</string>
-    <string name="migration_icloud_import_title">Import from iCloud</string>
-    <string name="migration_icloud_intro_btn_text">Synchronization enabled</string>
-    <string name="migration_icloud_intro_main_title">Turn on photo and address book synchronization</string>
-    <string name="migration_icloud_intro_set_tip">1.Open settings Apple ID icloud in iPhone</string>
-    <string name="migration_icloud_intro_sub_title">To import data from icloud, you need to turn on the photos and contacts switch on your iPhone and complete data synchronization</string>
-    <string name="migration_icloud_intro_sync_tip">2.Turn on photo and address book synchronization</string>
-    <string name="migration_icloud_load_data_finished">Data import complete</string>
-    <string name="migration_icloud_load_data_finished_text">%1$s data imported successfully</string>
-    <string name="migration_icloud_load_data_retry">Retry</string>
-    <string name="migration_icloud_load_data_running">Data importing</string>
-    <string name="migration_icloud_load_data_start">Start importing</string>
-    <string name="migration_icloud_load_data_stop">Stop importing</string>
-    <string name="migration_icloud_loading_failed">Load interrupted</string>
+
+    <string name="migration_failed_txt_receive">Ошибка миграции</string>
+    <string name="migration_faq">ЧАВО</string>
+    <string name="migration_finished_txt_receive">Миграция завершена</string>
+    <string name="migration_finished_txt_send">Данные отправлены</string>
+    <string name="migration_got_it">Готово</string>
+    <string name="migration_icloud_code_device">Используйте девайс Apple для подтверждения</string>
+    <string name="migration_icloud_code_device_tips">Введите код, полученный на телефоне %1$s</string>
+    <string name="migration_icloud_code_edit">Код подтверждения</string>
+    <string name="migration_icloud_code_error">Неверный код подтверждения</string>
+    <string name="migration_icloud_code_resend">Отправить заного</string>
+    <string name="migration_icloud_code_sms">Используйте СМС для подтверждения</string>
+    <string name="migration_icloud_code_tips">Введите ваш код верификации полученный на вашем девайсе Apple</string>
+    <string name="migration_icloud_code_title">Двухфакторная аутентификация Apple</string>
+    <string name="migration_icloud_code_verify">Верификация</string>
+    <string name="migration_icloud_import_failed">Импорт прерван</string>
+    <string name="migration_icloud_import_title">Импортировать из iCloud</string>
+    <string name="migration_icloud_intro_btn_text">Синхронизация включена</string>
+    <string name="migration_icloud_intro_main_title">Включите синхронизацию фотографий и адресной книги</string>
+    <string name="migration_icloud_intro_set_tip">1.Откройте настройки Apple ID iCloud на iPhone</string>
+    <string name="migration_icloud_intro_sub_title">Что бы импортировать данные из iСloud, вам нужно включить переключатель "Фотографии и контакты" на вашем iPhone и завершить синхронизацию данных</string>
+    <string name="migration_icloud_intro_sync_tip">2.Включите синхронизацию фотографий и адресной книги</string>
+    <string name="migration_icloud_load_data_finished">Импорт данных завершён</string>
+    <string name="migration_icloud_load_data_finished_text">%1$s импорт данных успешен</string>
+    <string name="migration_icloud_load_data_retry">Повторить</string>
+    <string name="migration_icloud_load_data_running">Импорт данных</string>
+    <string name="migration_icloud_load_data_start">Начать импорт</string>
+    <string name="migration_icloud_load_data_stop">Прервать импорт</string>
+    <string name="migration_icloud_loading_failed">Загрузка прервана</string>
     <string name="migration_icloud_login_appleId">Apple ID</string>
-    <string name="migration_icloud_login_btn">Sign in</string>
-    <string name="migration_icloud_login_password">Password</string>
+    <string name="migration_icloud_login_btn">Войти</string>
+    <string name="migration_icloud_login_password">Пароль</string>
+
     <string name="migration_icloud_login_tip">If the login is abnormal, you can log in to the icloud web page through the browser and try again</string>
     <string name="migration_icloud_login_title">Sign in to your icloud</string>
     <string name="migration_icloud_network_failed">Network is error, please check network settings</string>
@@ -544,12 +545,12 @@ to get app information"</string>
     <string name="migration_update_app_other_phone">Update Migratool on the other phone</string>
     <string name="migration_wifi_tips">Switching WLAN will disrupt transmission</string>
     <string name="miss_record">Backup history lost</string>
-    <string name="mms">MMS</string>
-    <string name="more_item_label">More</string>
-    <string name="movie_recover_summary_txt">%1$s video(s)</string>
-    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-    <string name="music_recover_summary_txt">%1$s piece(s) of music</string>
 
+    <string name="mms">MMS</string>
+    <string name="more_item_label">Ещё</string>
+    <string name="movie_recover_summary_txt">%1$s видое</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="music_recover_summary_txt">%1$s музыкальных файлов</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
@@ -701,14 +702,14 @@ to get app information"</string>
     <string name="recommend_backup_msg">It is recommended to back up immediately to avoid data loss</string>
     <string name="recover">Redo</string>
     <string name="recover_encry_backup">Recover encrypted backups</string>
-    <string name="recover_encry_backup_message">"The backup has been encrypted, please log into the Flyme account to recover it 
 
-Flyme account:"</string>
+    <string name="recover_encry_backup_message">"Резервная копия была зашифрована, пожалуйста, войдите в аккаунт Flyme, чтобы восстановить ее 
 
+Аккаунт Flyme:"</string>
     <string name="recover_finish">Восстановлено</string>
+    <string name="remark">Переименовать</string>
+    <string name="remark_hint">Новое имя может содержать не более 10 символов</string>
 
-    <string name="remark">Remark</string>
-    <string name="remark_hint">Remark can contain no more than 10 characters</string>
     <string name="replace_by_computer">"1. Back up the data and check its backup path.
 2. Connect the phone to a PC and open its directory.
 3. Copy the backup file from the backup path onto the PC.
@@ -723,10 +724,8 @@ Flyme account:"</string>
     <string name="replace_by_sd_head">Replacement by SD card:</string>
 
     <string name="retry_backup_zip">Повторить</string>
-
-    <string name="safebox_overwrite_tip">Migrating data in Vault will overwrite the new phone’s Vault data</string>
-    <string name="sd_card_notify">No SD card detected. To restore data onto this device, you can transfer backup files to it from your old phone using a SD card or a PC.</string>
-    
+    <string name="safebox_overwrite_tip">Перенос данных в хранилище приведет к перезаписи данных хранилища нового телефона</string>
+    <string name="sd_card_notify">SD-карта не найдена. Чтобы восстановить данные на этом устройстве, вы можете перенести на него резервные копии файлов со своего старого телефона с помощью SD-карты или ПК.</string>
     <string name="search_menu_title">Поиск</string>
     <string name="select_app">Выберите приложения</string>
     <string name="select_backup">Выберите данные под копирование</string>
