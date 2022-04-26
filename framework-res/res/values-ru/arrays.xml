@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Персональный</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Работа</item>
+        <item>Другая</item>
+        <item>Своя</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий FAX</item>
+        <item>Домашний FAX</item>
+        <item>Пэйджер</item>
+        <item>Другой</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="config_globalActionsList">
+        <item>Питание</item>
+        <item>Перезагрузка</item>
+        <item>Блокировка</item>
+        <item>Выход</item>
+        <item>Баг-репорт</item>
+        <item>Снимок экрана</item>
+        <item>Экстренный</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Не отпускайте</item>
+        <item>Приложите палец</item>
+        <item>Отпустите палец</item>
+        <item>Вышло время попытки</item>
+        <item>Выровняйте палец</item>
+        <item>Приложите палец, который не зарегистрирован</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Мобильная сеть</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Интернет</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Чтобы совершать звонки и отправлять сообщения по беспроводной сети, сначала запросите своего оператора настроить эту услугу. Затем снова включите вызов по Wi-Fi из настроек. (Код ошибки: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Проблема с регистрацией вызовов по Wi-Fi у вашего оператора: %1$s</item>
+    </string-array>
+</resources>

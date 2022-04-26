@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s предложений</item>
+        <item quantity="one">1 предложение</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">Система сделает снимок экрана с сообщением об ошибке через %d секунд.</item>
+        <item quantity="one">Система сделает снимок экрана с сообщением об ошибке через секунду.</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d дней назад</item>
+        <item quantity="one">%d день назад</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">Через %d дней</item>
+        <item quantity="one">Через %d день</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d д.</item>
+        <item quantity="one">%d д.</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">Через %d дней</item>
+        <item quantity="one">Через %d день</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d часов назад</item>
+        <item quantity="one">%d час назад</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">Через %d часов</item>
+        <item quantity="one">Через %d час</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">Через %d часов</item>
+        <item quantity="one">Через %d час</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d минут назад</item>
+        <item quantity="one">%d минуту назад</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">Через %d минут</item>
+        <item quantity="one">Через %d минуту</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">Через %d минут</item>
+        <item quantity="one">Через %d минуту</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d лет назад</item>
+        <item quantity="one">%d год назад</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">Через %d лет</item>
+        <item quantity="one">Через %d год</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d лет</item>
+        <item quantity="one">%d год</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">Через %d лет</item>
+        <item quantity="one">Через %d год</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d файлов</item>
+        <item quantity="one">%1$s + %2$d файл</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Повторите попытку через %d секунд.</item>
+        <item quantity="one">Повторите попытку через 1 секунду</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Последние %d дней</item>
+        <item quantity="one">Последний %d день</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">Найдено %1$d штук (%2$d результатов всего)</item>
+        <item quantity="one">1 результат</item>
+    </plurals>
+
+    <plurals name="pinpuk_attempts"> <!-- !!! -->
+        <item quantity="other">You have %d remaining attempts. SIM will be locked if it fails again.</item>
+        <item quantity="one">You have %d remaining attempt. SIM will be locked if it fails again.</item>
+    </plurals>
+
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Повторить через %d секунд</item>
+        <item quantity="one">Повторить через 1 секунду</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">Выбрано %1$d штук</item>
+        <item quantity="one">Выбрано %1$d штук</item>
+    </plurals>
+
+    <plurals name="ssl_ca_cert_warning">  <!-- !!! -->
+        <item quantity="other">Certificate Authority Installed</item>
+        <item quantity="one">Certificate Authority Installed</item>
+    </plurals>
+
+    <plurals name="wifi_available">
+        <item quantity="other">Доступен Wi-Fi</item>
+        <item quantity="one">Доступен Wi-Fi</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Нажмите для подключения</item>
+        <item quantity="one">Нажмите для подключения</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">Каждый час</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">1 ч.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">%1$d часов (в %2$s)</item>
+        <item quantity="one">1 час (в %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">%1$d часов (в %2$s)</item>
+        <item quantity="one">1 час (в %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d м.</item>
+        <item quantity="one">1 м.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">%d м.</item>
+        <item quantity="one">1 м.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">%1$d минут (в %2$s)</item>
+        <item quantity="one">1 минута (в %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">%1$d минут (в %2$s)</item>
+        <item quantity="one">1 минута (в %2$s)</item>
+    </plurals>
+</resources>

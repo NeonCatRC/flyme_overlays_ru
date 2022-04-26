@@ -3,6 +3,7 @@
 Overlays for f9 apps
 
 - FULL- full RU localization
+- Stop - Work stoped
 - WIP- work-in-progress
 - Start - early state of translation
 - n\a- Do not check this
@@ -16,10 +17,11 @@ Overlays for f9 apps
 | Camera | FULL n\t | Camera app |
 | ConnectivitySettings | WIP | Connect app |
 | CustomizeCenter | FULL | Themes \ AOD settings app |
-| DataMigration | WIP | Data migration app |
+| DataMigration | Stop | Data migration app |
 | Dialer | WIP | Phone app |
 | FileManager | FULL n\t | Standart Flyme file manager |
 | FlymeLauncher | WIP | Standart Flyme launcher |
+| framework-res | WIP | -- |
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
 | MMS | WIP |  |

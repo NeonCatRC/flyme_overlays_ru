@@ -66,27 +66,27 @@
     <string name="action_base_stop_share_dialog_button_negative">Cancel</string>
     <string name="action_base_stop_share_dialog_button_positive">Stop</string>
     <string name="action_base_user_remote_cancel_waiting">Migration interrupted on the other device</string>
-    <string name="action_item_calculating">Calculating</string>
-    <string name="action_item_detail_app_data_select">Transfer in-app data</string>
-    <string name="action_item_detail_app_send_desktop_layout">Send Home screen layout</string>
-    <string name="action_item_detail_doc_check_all">All</string>
-    <string name="action_item_detail_doc_ebook">Ebooks</string>
-    <string name="action_item_detail_doc_office">Office documents</string>
-    <string name="action_item_detail_doc_other">Other</string>
-    <string name="action_item_detail_doc_uncheck_all">None</string>
-    <string name="action_item_detail_image_description">%1$s image(s)</string>
-    <string name="action_item_detail_list_title_select_multiple">%1$s Item(s) Selected</string>
-    <string name="action_item_detail_list_title_select_none">Select %1$s</string>
-    <string name="action_item_detail_vidio_description">%1$s video(s)</string>
-    <string name="action_item_image_scale">%1$s image(s)</string>
-    <string name="action_item_no_app_permission">Please grant permission to \"Get list of installed apps\" in Settings</string>
-    <string name="action_item_no_permission">Please grant permission to Migratool in Settings</string>
-    <string name="action_item_no_write_permission">Grant write permission to Migratool in Settings</string>
-    <string name="action_item_none">No %1$s</string>
-    <string name="action_item_none_or_no_permission">No %1$s, or access to the data is denied. Please grant permission in Settings.</string>
-    <string name="action_item_scale">%1$s item(s)</string>
-    <string name="action_item_vidio_scale">%1$s video(s)</string>
 
+    <string name="action_item_calculating">Расчёт...</string>
+    <string name="action_item_detail_app_data_select">Перенести данные приложений</string>
+    <string name="action_item_detail_app_send_desktop_layout">Отправить размещение домашнего экрана</string>
+    <string name="action_item_detail_doc_check_all">Всё</string>
+    <string name="action_item_detail_doc_ebook">Электронные книги</string>
+    <string name="action_item_detail_doc_office">Документы</string>
+    <string name="action_item_detail_doc_other">Другое</string>
+    <string name="action_item_detail_doc_uncheck_all">Все</string>
+    <string name="action_item_detail_image_description">%1$s изображений</string>
+    <string name="action_item_detail_list_title_select_multiple">%1$s штук выбрано</string>
+    <string name="action_item_detail_list_title_select_none">Выбрано %1$s</string>
+    <string name="action_item_detail_vidio_description">%1$s видео</string>
+    <string name="action_item_image_scale">%1$s изображений</string>
+    <string name="action_item_no_app_permission">Предоставьте разрешение на \"Получить список приложений\" в настройках</string>
+    <string name="action_item_no_permission">Предоставьте разрешения приложению Миграция в настройках</string>
+    <string name="action_item_no_write_permission">Предоставьте разрешение на запись приложению Миграция в настройках</string>
+    <string name="action_item_none">Нет %1$s</string>
+    <string name="action_item_none_or_no_permission">Нет %1$s, или доступ к хранилищу запрещён. Выдайте разрешения в настройках.</string>
+    <string name="action_item_scale">%1$s штук выбрано</string>
+    <string name="action_item_vidio_scale">%1$s видео</string>
     <string name="action_name_account">Аккаунт Flyme</string>
     <string name="action_name_alarm_clock">Настройки будильника</string>
     <string name="action_name_app">Приложения</string>
@@ -199,19 +199,17 @@
     <string name="encry_account_error_dialog_message">"Please log out the current Flyme account and log into the following account to recover it
 
 Flyme account:"</string>
-    <string name="encry_backup">Encrypted backup</string>
-    <string name="encry_backup_notify">Use Flyme account to encrypt your backup</string>
-    <string name="encry_msg">Use Flyme account to encrypt your backup</string>
-    <string name="encry_title">Privacy</string>
-    <string name="encrypt_record_tip">Encrypted</string>
-    <string name="estimate_backup_size">Estimated backup size:</string>
 
+    <string name="encry_backup">Зашифрованная копия</string>
+    <string name="encry_backup_notify">Используйте аккаунт Flyme для шифрования вашей резервной копии</string>
+    <string name="encry_msg">Используйте аккаунт Flyme для шифрования вашей резервной копии</string>
+    <string name="encry_title">Приватность</string>
+    <string name="encrypt_record_tip">Зашифровано</string>
+    <string name="estimate_backup_size">Предполагаемый размер резервной копии:</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="failed_to_enable_softap">Ошибка создания точки доступа. Сначала предоставьте разрешения.</string>
     <string name="file_recover_summary_txt">%1$s файл(ов)</string>
-
-    <string name="first_encry_backup_dialog_message">Use logged Flyme account to encrypt your backup, and you need to log into the same Flyme account to recover your backup</string>
-
+    <string name="first_encry_backup_dialog_message">Используйте учетную запись Flyme для шифрования резервной копии, и вам необходимо войти в ту же учетную запись Flyme, чтобы восстановить резервную копию</string>
     <string name="flyme_account">Аккаунт Flyme</string>
     <string name="get_account_info">Получить информацию о аккаунте</string>
     <string name="get_it">Готово</string>
