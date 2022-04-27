@@ -17,9 +17,65 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="alert_dialog_dont_exit_title">"Нельзя выйти из режима супер-энергосбережения во время вызова"</string>
+    <string name="alert_dialog_dont_switch_title">"Нельзя переключиться в режим супер-энергосбережения во время вызова"</string>
     <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
+    <string name="aod_power_ratio">Использование заряда AOD:</string>
+    <string name="aod_power_save_notice_msg">"Совет по сохранению заряда: Выключайте AOD когда не используете"</string>
+    <string name="app_name">Менеджер батареи</string>
+
+    <string name="app_wakeup_time">Wake-up time: %1$s</string>
+    <string name="app_wakeup_times">CPU running time: %1$s</string>
+    <string name="balance_mode">Balance performance and battery life</string>
+    <string name="battery_charge_protection_info">If the battery power is too high for a long time, it will accelerate the aging of the battery. We will learn your daily use habits, slow down the charging speed when the mobile phone is idle, and fill it up before you use it</string>
+    
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth_power_ratio">Использование заряда Bluetooth:</string>
+    <string name="button_disable_mode">Отключить</string>
+    <string name="button_enable_mode">Включить</string>
+    <string name="cabc_title">Авто-регулировка яркости</string>
+    <string name="cell_standby">Простой мобильной сети</string>
+    <string name="cell_standby_power_ratio">Использование заряда мобильной сетью:</string>
+    <string name="charge_protection_off">Оптимизировать зарядку</string>
+    <string name="charge_protection_off_subtitle">Когда заряд батареи превышает 90%, замедляется скорость зарядки и увеличивает срок службы батареи</string>
+    <string name="charing">Зарядка...</string>
+    <string name="close_bg_app_msg">Совет по сохранению заряда: Закрывайте приложения запущенные в фоне</string>
+    <string name="cpu_exception_time">Простой процессора: %1$s мин.</string>
+    <string name="cpu_foreground_running_time">Время работы процессора: %1$s</string>
     <string name="date_time_set">Установить</string>
+    <string name="durationHourMinute">%1$d ч. %2$d м.</string>
+    <string name="durationHourMinuteSecond">%1$dч. %2$dм. %3$dс.</string>
+    <string name="durationMinuteSeconds">%1$dс. %2$dс.</string>
+    <string name="durationMinutes">%1$d м.</string>
+    <string name="durationSecond">%1$d с.</string>
+
+    <string name="exception_suggest1">1.Disable the app can fix the high power usage problem. But notifications from the app cannot be received</string>
+    <string name="exception_suggest2">2. Tell the app developers and ask them to fix the problem</string>
+    <string name="face_power_ratio">Использование заряда face recognition:</string>
+    <string name="face_power_save_notice_msg">"Совет по сохранению заряда: turn off face recognition when it's not in use"</string>
+    <string name="fingerprint_power_ratio">Использование заряда fingerprint:</string>
+    <string name="fingerprint_power_save_notice_msg">"Совет по сохранению заряда: turn off fingerprint when it's not in use"</string>
+    <string name="flash_light_power_ratio">Использование заряда Flashlight:</string>
+    <string name="force_screen_on_rank">Forced screen-on ranking</string>
+    <string name="force_screen_on_time">CPU running time</string>
+    <string name="force_wakeup_rank">Awake time ranking when on standby</string>
+    <string name="force_wakeup_time">Awake time when on standby</string>
+
+    <string name="gps_use_time">Время использования GPS</string>
+    <string name="high_performance_mode">Высокая производительность</string>
+    <string name="high_power_close_app">Закрыть приложение</string>
+    <string name="history_bat_use_chart">Использование заряда</string>
+    <string name="histroy_detail">Включить отслеживание использованного заряда</string>
+    <string name="idle">Режим ожидания</string>
+    <string name="idle_power_sum">Потребление в режиме ожидания:</string>
+
+    <string name="idle_run_permission">Permission to run in background</string>
+    <string name="intelligent_management">Smart</string>
+
     <string name="item_is_selected">%1$s выбрано</string>
+    <string name="jumpToSetup">Нажмите для перехода к установке</string>
+    <string name="low_power_mode_info">Режим энергосбережения будет контролировать Bluetooth, GPS, звуки, тактильную отдачу и другие функции, ограничивать фоновые приложения, и уменьшит визуальные эффекты и производительность системы. Ваш телефон автоматически выйдет из этого режима при достаточном заряде.</string>
+    <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
     <string name="mc_cancel">Отмена</string>
@@ -109,8 +165,8 @@
     <string name="mc_pm_s_sms">Отправка SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
-    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -121,6 +177,7 @@
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
+    <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -134,7 +191,11 @@
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">ОК</string>
+    <string name="mobile_data">Использование мобильной сети</string>
     <string name="more_item_label">Ещё</string>
+    <string name="msg_disableing_mode">Отключение %1$s</string>
+    <string name="msg_enableing_mode">Включение %1$s</string>
+    <string name="msg_start_end_too_small">"Интервал между временем начала и окончания не может быть меньше %1$d мин."</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
@@ -156,13 +217,15 @@
     <string name="mz_permission_deny">Отклонить</string>
     <string name="mz_permission_disagree">Запретить</string>
     <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
     <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
     <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
     <string name="mz_permission_title_terms">Разрешения и заявления</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">WLAN</string>
+    <string name="mz_permissiongroup_name_change_network">Wi-Fi</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
@@ -191,8 +254,8 @@
     <string name="mz_pm_s_sms">Отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mz_pm_set_wifi_on">Включение WLAN</string>
-    <string name="mz_pm_wlan">Доступ к WLAN</string>
+    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
+    <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
     <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Все ещё разрешено</string>
@@ -248,6 +311,112 @@
     <string name="mzuc_update_title_s" formatted="false">Вышла %s %s</string>
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
+
+    <string name="normal_idle_time">Normal standby time</string>
+    <string name="normal_screen_on_time">Normal screen-on time</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="performance_mode">Performance mode</string>
+    <string name="permission_title">Permissions</string>
+    <string name="phone_active">Running</string>
+
+    <string name="phone_call">Голосовые вызовы</string>
+    <string name="phone_call_power_ratio">Использование заряда Голосовые вызовы:</string>
+    <string name="phone_idle">Режим ожидания</string>
+    <string name="power_alert_dialog_ok">ОК</string>
+    <string name="power_aod">AOD</string>
+    <string name="power_bluetooth">Bluetooth</string>
+
+    <string name="power_cell">Cellular network standby</string>
+    <string name="power_consumption_details">Usage since last charge</string>
+    <string name="power_exception_msg">The app background of non-working occupies more than %1$s of CPU, up to %2$s min today, leading to high power usage, heating up, and lagging</string>
+    <string name="power_exception_notice">High power usage apps</string>
+
+    <string name="power_face">Распознавание лица</string>
+    <string name="power_fingerprint">Отпечаток пальца</string>
+    <string name="power_flashlight">Фонарик</string>
+    <string name="power_idle">Режим ожидания</string>
+    <string name="power_item_off">Выкл.</string>
+    <string name="power_item_on">Вкл.</string>
+    <string name="power_mode_off">Выкл.</string>
+    <string name="power_mode_on">Вкл.</string>
+    <string name="power_mode_summary">Конфигурация</string>
+    <string name="power_phone">Телефон</string>
+    <string name="power_rank_hardware">Система</string>
+    <string name="power_rank_soft">Программы</string>
+    <string name="power_save_notice_msg">Совет по сохранению заряда: Уменьшите яркость экрана и время до спящего режима</string>
+    <string name="power_screen">Экран</string>
+    <string name="power_setting">Настройки</string>
+    <string name="processing_advice">Совет</string>
+    <string name="runnint_time_unit">с.</string>
+
+    <string name="screen_cabc_description">CABC screen power-saving technology: by dynamically adjusting the contrast of the display, brightness is reduced, and a power-saving effect is achieved</string>
+    <string name="screen_cabc_title">CABC setting</string>
+    <string name="screen_off">Screen off</string>
+    <string name="screen_off_network">Turn off network when on standby</string>
+    <string name="screen_off_network_subtitle">Enabling this will save more power, but will prevent the phone from receiving messages when on standby.</string>
+    <string name="screen_off_time">Screen off time</string>
+    <string name="screen_off_vice_screen">Turn off secondary display</string>
+    <string name="screen_off_vice_screen_subtitle">Turn off the screen when the low battery mode is turned on</string>
+    <string name="screen_on">Screen on</string>
+    <string name="screen_on_time">Screen-on time</string>
+    <string name="screen_usage">Использование заряда display and backlight:</string>
+    <string name="screen_use_time">Screen-used time</string>
+
     <string name="search_menu_title">Поиск</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="settings">Настройки</string>
+    <string name="sipper_detail">Статистика использования заряда</string>
+
+    <string name="sipper_overed_title">Abnormal power consumption</string>
+    <string name="sipper_ratio">"Power usage ratio: "</string>
+    <string name="smart_bg_mode0">Smart Background (recommended)</string>
+    <string name="smart_bg_mode1">Keep running in background</string>
+    <string name="smart_bg_mode2">Disallow running in background</string>
+    <string name="subtitle_sleep_mode">Turn on/off network connections based on your sleep patterns to save power</string>
+    <string name="summary_config_screen">Display &amp; brightness</string>
+    <string name="super_mode_app_select_title">Super saving mode allows you to add 2 more apps at most besides Phone and Messages.</string>
+    <string name="super_mode_no_use_app">Phone, Messages</string>
+    <string name="super_mode_no_use_app_multi_four">Phone, Messages, %1$s, %2$s</string>
+    <string name="super_mode_no_use_app_multi_three">Phone, Messages, %1$s</string>
+    <string name="super_mode_use_app_title">Apps in super saving mode</string>
+    <string name="super_power_mode_info">Super saving mode will change your Home screen to black and white, and reduce power consumption to the least possible amount. Enabling it will disable Bluetooth, GPS, sounds, haptic feedback and other features, as well as most apps except Phone, Messages, and a few others.</string>
+    <string name="super_power_mode_info_vice_screen">Super saving mode will change your Home screen to black and white, and reduce power consumption to the least possible amount. Enabling it will disable secondary display, Bluetooth, GPS, sounds, haptic feedback and other features, as well as most apps except Phone, Messages, and a few others.</string>
+    
+    <string name="text_hour">ч.</string>
+    <string name="text_loading">Загрузка</string>
+    <string name="text_minute">м.</string>
+    
+    <string name="text_no_app_select">No Apps Selectable</string>
+    <string name="text_remain_time">Remaining</string>
+    <string name="timed_saving">Scheduled</string>
+    <string name="timed_saving_ps">Enable by schedule</string>
+    <string name="title_acess_location">Access location</string>
+    <string name="title_app_sleep_manager">Background progresses</string>
+    <string name="title_battery_protection">Battery charge optimization</string>
+    <string name="title_charge_optimization">Charge optimization</string>
+    <string name="title_connect_network">Connect network</string>
+    <string name="title_end_time">End time</string>
+    <string name="title_low_power_mode">Low power mode</string>
+    <string name="title_network_wlan">Wi-Fi</string>
+    <string name="title_performance_low_mode">You are in low power mode now.</string>
+    <string name="title_performance_supper_mode">You are now in super saving mode</string>
+    <string name="title_power_mode">Saving mode</string>
+    <string name="title_power_ranking">Power usage details</string>
+    <string name="title_sleep_mode">Smart sleep</string>
+    <string name="title_standard_mode">Low power mode</string>
+    <string name="title_stardard_ps">Low power mode</string>
+    <string name="title_start_time">Start time</string>
+    <string name="title_super_mode_app_select">Select app</string>
+    <string name="title_supper_mode">Super saving mode</string>
+    <string name="title_supper_ps">Super saving mode</string>
+    <string name="title_timer_ps">Saving mode</string>
+    <string name="title_user_define_mode">Custom mode</string>
+    <string name="title_user_ps">Custom mode</string>
+    <string name="view_all">View All(%1$s)</string>
+    <string name="wakeup_time_while_idle">Awake time when on standby</string>
+    <string name="wakeup_times_while_idle">Wi-Fi data usage</string>
+
+    <string name="wifi">Wi-Fi</string>
+    <string name="wifi_power_ratio">Использование заряда Wi-Fi:</string>
+    <string name="wifi_power_save_notie_msg">"Совет по сохранению заряда: Выключайте Wi-Fi когда не используете"</string>
+    <string name="wifi_settings_title">Wi-Fi</string>
 </resources>
