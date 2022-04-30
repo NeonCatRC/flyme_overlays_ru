@@ -52,6 +52,7 @@
     <string name="accelerometer_summary_on">Автоматически менять ориентацию экрана при повороте телефона</string>
     <string name="accelerometer_title">Автоповорот</string>
     <string name="access_point_names">Название точек доступа</string>
+	<string name="accessibility_alarm_title">Часы</string>
     <string name="accessibility_autoclick_delay_preference_title">Задержка перед нажатием</string>
     <string name="accessibility_autoclick_description">При использовании мыши вы можете настроить автоматическое действие курсора при остановке движения мыши на некоторый промежуток времени</string>
     <string name="accessibility_autoclick_preference_title">Нажатие после остановки указателя</string>
@@ -70,6 +71,8 @@
     <string name="accessibility_feature_state_off">Выкл.</string>
     <string name="accessibility_feature_state_on">Вкл.</string>
     <string name="accessibility_global_gesture_preference_title">Ярлык спец. возможностей</string>
+	<string name="accessibility_hd_title">VoLTE</string>
+	<string name="accessibility_headset_title">Наушники</string>
     <string name="accessibility_hearingaid_active_device_summary">Активное устройство: %1$s</string>
     <string name="accessibility_hearingaid_adding_summary">Добавить слуховой аппарат</string>
     <string name="accessibility_hearingaid_not_connected_summary">Нет подключённых слуховых аппаратов</string>
@@ -150,6 +153,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="accessibility_vibration_summary_low">Вибрация при вызове и уведомлениях: слабая</string>
     <string name="accessibility_vibration_summary_medium">Вибрация при вызове и уведомлениях: средняя</string>
     <string name="accessibility_vibration_summary_off">Вибрация при вызове и уведомлениях: отключена</string>
+    <string name="accessibility_volume_title">Вибро-режим/Тихий режим</string>
     <string name="accessibility_wifi_off">Wi-Fi отключён</string>
     <string name="accessibility_wifi_one_bar">Сигнал Wi-Fi: одно деление</string>
     <string name="accessibility_wifi_security_type_none">Открытая сеть</string>
@@ -698,7 +702,8 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="billing_cycle_less_than_one_day_left">Осталось менее 1 дня</string>
     <string name="billing_cycle_none_left">Цикл завершен</string>
     <string name="ble_scan_notify_text">Чтобы точнее определять местоположение, системные приложения и сервисы продолжат искать находящиеся поблизости Bluetooth-устройства. Вы можете отключить эту функцию в настройках сканирования.</string>
-    <string name="blue_light_end_time">Время окончания</string>
+    <string name="block_preference_title">Разрешить уведомления</string>
+	<string name="blue_light_end_time">Время окончания</string>
     <string name="blue_light_immediately_invoke_title">Включить режим «Защита глаз»</string>
     <string name="blue_light_reduction_summary">Защищает ваше зрение от вредного излучения, которое может повлиять на состояние вашего сна</string>
     <string name="blue_light_reduction_title">Режим защиты глаз</string>
@@ -1093,6 +1098,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="color_gray">Серый</string>
     <string name="color_green">Зелёный</string>
     <string name="color_magenta">Пурпурный</string>
+    <string name="color_mode_category_title">Режим работы</string>
     <string name="color_mode_option_automatic">Автоматически</string>
     <string name="color_mode_option_boosted">Улучшенные</string>
     <string name="color_mode_option_natural">Естественные</string>
@@ -1104,6 +1110,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="color_orange">Оранжевый</string>
     <string name="color_purple">Фиолетовый</string>
     <string name="color_red">Красный</string>
+	<string name="color_stand_tip">По умолчанию</string>
     <string name="color_temperature">Холодные оттенки</string>
     <string name="color_temperature_desc">Использовать более холодные цвета на экране</string>
     <string name="color_temperature_title">Цветовая температура</string>
@@ -1953,7 +1960,9 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="gesture_prevent_ringing_screen_title">Отключение вызова</string>
     <string name="gesture_prevent_ringing_sound_title">Быстрое отключение вызова</string>
     <string name="gesture_prevent_ringing_title">Нажмите кн. питания и повыш. громкости одновременно</string>
-    <string name="gesture_setting_off">Выкл.</string>
+    <string name="gesture_pull_down_summary">Опустите интерфейс в нижнюю часть экрана</string>
+    <string name="gesture_pull_down_title">Сместить интерфейс</string>
+	<string name="gesture_setting_off">Выкл.</string>
     <string name="gesture_setting_on">Вкл.</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
     <string name="getConnectionInfo">getConnectionInfo</string>
@@ -2534,12 +2543,14 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mc_pattern_a_hour_before">час назад</string>
     <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
+	<string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
     <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
     <string name="mc_pattern_minute_before">, мин. назад</string>
     <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
+	<string name="mc_pattern_week">%a</string>
     <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
     <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
     <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
@@ -2815,32 +2826,39 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mz_fp_verify_failed">Отпечаток не распознан</string>
     <string name="mz_install_unknown_applications">Неизвестные источники</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
+    <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_allow">Разрешить</string>
-    <string name="mz_permission_almost_deny">Больше не спрашивать</string>
-    <string name="mz_permission_always_allow">Всегда разрешать</string>
-    <string name="mz_permission_apply">Запрос разрешений</string>
-    <string name="mz_permission_deny">Запретить</string>
-    <string name="mz_permission_message_content">Приложение «%1$s» запрашивает %3$d разрешен. на %2$s</string>
-    <string name="mz_permission_message_supplement">Приложению «%1$s» требуются %2$s %3$d разрешен.</string>
-    <string name="mz_permission_title_supplement">" требуются разрешения"</string>
+    <string name="mz_permission_almost_deny">Не предлагать запрос после отказа</string>
+    <string name="mz_permission_always_allow">Разрешать всегда</string>
+    <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_deny">Отклонить</string>
+    <string name="mz_permission_disagree">Запретить</string>
+    <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешения на %2$s</string>
+    <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешения</string>
+    <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
+    <string name="mz_permission_title_terms">Разрешения и заявления</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">Wi-Fi</string>
-    <string name="mz_permissiongroup_name_net">Сетевые подключения</string>
+    <string name="mz_permissiongroup_name_change_network">Wi-fi</string>
+    <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
-    <string name="mz_pm_allow_dialog_push">Всплывающие Push-уведомления</string>
-    <string name="mz_pm_bluetooth">Управление Bluetooth</string>
+    <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_bluetooth">Переключение Bluetooth</string>
     <string name="mz_pm_call">Вызовы</string>
     <string name="mz_pm_call_log">Чтение журнала вызовов</string>
     <string name="mz_pm_camera">Камера (Фото/Видео)</string>
     <string name="mz_pm_close">Выкл.</string>
     <string name="mz_pm_contacts">Чтение контактов</string>
-    <string name="mz_pm_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_dialog_push">Push-сообщения</string>
     <string name="mz_pm_dlg_cancel">Отмена</string>
     <string name="mz_pm_dlg_ok">ОК</string>
     <string name="mz_pm_location">Местоположение</string>
     <string name="mz_pm_network">Передача данных</string>
-    <string name="mz_pm_nfc">Управление NFC</string>
+    <string name="mz_pm_nfc">Переключение NFC</string>
     <string name="mz_pm_not_allow_check_app">Выход</string>
     <string name="mz_pm_not_allow_dialog_push">Откл.</string>
     <string name="mz_pm_online_intenert">Доступ в интернет</string>
@@ -2851,10 +2869,11 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="mz_pm_recordaudio_phone">Запись вызовов</string>
     <string name="mz_pm_s_mms">Отправка MMS</string>
     <string name="mz_pm_s_sms">Отправка SMS</string>
-    <string name="mz_pm_set_bluetooth_on">Управление Bluetooth</string>
-    <string name="mz_pm_set_gprs_on">Управление передачей данных</string>
-    <string name="mz_pm_set_wifi_on">Управление Wi-Fi</string>
+    <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
+    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
     <string name="mz_pm_wlan">Wi-Fi</string>
+    <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_settings_regulation_title">Предписания</string>
     <string name="mz_specific_permission_allow">Разрешить</string>
