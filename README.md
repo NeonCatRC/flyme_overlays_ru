@@ -40,7 +40,7 @@ Overlays for f9 apps
 | SystemUITools |  |  |
 | TodoList | FULL | notes and to-do app |
 | ToolBox | FULL n\t | |
-| VoiceAssistant | n\a |  |
+| VoiceAssistant | WIP |  |
 | Weather | FULL | Weather app |
 | ------ | ------ | ------ |
 | DesktopBackup | | |
