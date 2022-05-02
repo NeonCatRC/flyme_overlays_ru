@@ -1312,6 +1312,7 @@
     <string name="wifi_certinstall_view">Просмотреть сертификат</string>
     <string name="wifi_check_password_try_again">Возможно, вы указали неверный пароль. Повторите попытку.</string>
     <string name="wifi_choose_network">Выбор сети</string>
+    <string name="wifi_click_speed_test">Проверка скорости</string>
     <string name="wifi_cmcc_connect_prompt">Подключено к сети WLAN оператора China Mobile. Дальнейшее использование является платным</string>
     <string name="wifi_cmcc_connect_prompt_title">Запрос</string>
     <string name="wifi_connect">Подключить</string>
@@ -1384,6 +1385,8 @@
     <string name="wifi_menu_wps_pin">Подключение к WPS по PIN-коду</string>
     <string name="wifi_menu_write_to_nfc">Запись NFC-тегов</string>
     <string name="wifi_modify_network_title">Изменить пароль</string>
+    <string name="wifi_net_delay">и задержки</string>
+    <string name="wifi_net_environment">Статус сети</string>
     <string name="wifi_netmask">Маска сети</string>
     <string name="wifi_network_connected_info">О сети</string>
     <string name="wifi_network_diagn">Диагностика WLAN</string>
@@ -1464,6 +1467,8 @@
     <string name="wifi_smart_network_switch">Переключение типа сети</string>
     <string name="wifi_smart_network_switch_summary">Автопереключение на мобильную передачу данных, когда WLAN-соединение неустойчиво. Может взиматься дополнительная плата за использование.</string>
     <string name="wifi_speed">Скорость</string>
+    <string name="wifi_speed_pending">Проверка защиты</string>
+    <string name="wifi_speed_pending_2">Не поддерживается</string>
     <string name="wifi_speed_test">Тест скорости</string>
     <string name="wifi_ssid">Имя</string>
     <string name="wifi_ssid_hint">Введите имя сети (SSID)</string>
