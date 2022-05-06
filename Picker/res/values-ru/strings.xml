@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на рабочий стол</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="about_author">Автор</string>
+    <string name="action_settings">Настройки</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
+    <string name="app_name">Aicy Touch</string>
+    <string name="baidu_wikipedia">Энциклопедия</string>
+    <string name="book_buy_online">Купить онлайн</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_text_start_now">Start now</string>
+    <string name="btn_tips_confirm">OK</string>
+    <string name="btn_txt_baike">Энциклопедии</string>
+    <string name="btn_txt_copy">Копировать</string>
+    <string name="btn_txt_map">Открыть карту</string>
+    <string name="btn_txt_musics">Предложенные песни</string>
+    <string name="btn_txt_news">Предложенные новости</string>
+    <string name="btn_txt_scene">Детали сцены</string>
+    <string name="btn_txt_search">Поиск</string>
+    <string name="btn_txt_select_all">Выбрать все</string>
+    <string name="btn_txt_share">Поделиться</string>
+    <string name="btn_txt_translation">Перевод</string>
+    <string name="btn_txt_unselect_all">Отменить все</string>
+    <string name="card_loading_tips">Распознавание..</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="collected">Избранные</string>
+    <string name="collection">Избранное</string>
+    <string name="collection_current_page">Текущая страница</string>
+    <string name="copy_success">Скопировано</string>
+    <string name="date_time_set">Установить</string>
+    <string name="download">Скачать</string>
+    <string name="download_success">Сохранено в альбом</string>
+    <string name="downloaded">Скачано</string>
+    <string name="email_is_empty">Нет почты</string>
+    <string name="file_selected_number">Выбрано файлов: %1$s, всего: %2$sМБ</string>
+    <string name="group_purchase_info">Групповые сделки</string>
+    <string name="guide_notifycation_content">Распознавание объектов, таких как фильмы или знаменитости, в области нажатия</string>
+    <string name="guide_notifycation_title">Удерживайте нажатие для получения информации</string>
+    <string name="item_is_selected">Выбрано: %1$s</string>
+    <string name="link_is_null">Пустая ссылка</string>
+    <string name="long_press_reg_tips">Нажмите и удерживайте, чтобы переключить приложение распознавания песен</string>
+    <string name="mc_action_settings">Настройки</string>
+    <string name="mc_allow">OK</string>
+    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_app_name">MeizuCommon</string>
+    <string name="mc_cancel">Отмена</string>
+    <string name="mc_cancel_button_text">Отмена</string>
+    <string name="mc_cancel_collected_message">Отменено</string>
+    <string name="mc_cancel_praised_message">Отменить</string>
+    <string name="mc_change_num">Обновление</string>
+    <string name="mc_collected_message">Избранное</string>
+    <string name="mc_custom_date_time_days_after">%1$d дн. спустя</string>
+    <string name="mc_custom_date_time_days_before">%1$d дн. назад</string>
+    <string name="mc_custom_date_time_gregorian">Григорианский</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_lunar">Лунный</string>
+    <string name="mc_custom_date_time_one_day_after">1 д. спустя</string>
+    <string name="mc_custom_date_time_one_day_before">1 д. назад</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
+    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_today">Сегодня</string>
+    <string name="mc_date_time_day">д.</string>
+    <string name="mc_date_time_hour">ч.</string>
+    <string name="mc_date_time_min">м.</string>
+    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_sec">с.</string>
+    <string name="mc_date_time_set">Настроить</string>
+    <string name="mc_date_time_year">г.</string>
+    <string name="mc_description_target_answer">Принять</string>
+    <string name="mc_description_target_decline">Отклонить</string>
+    <string name="mc_disable">Отключить</string>
+    <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
+    <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка: %1$s</string>
+    <string name="mc_every_day">Каждый день</string>
+    <string name="mc_friday">ПТ</string>
+    <string name="mc_go_Refreshing">Обновить</string>
+    <string name="mc_hello_world">Привет, говнокодеры блин Мази!</string>
+    <string name="mc_hour">ч.</string>
+    <string name="mc_is_Refreshing">Обновление</string>
+    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh_hour">ч. назад</string>
+    <string name="mc_last_refresh_just_now">только что</string>
+    <string name="mc_last_refresh_minute">м. назад</string>
+    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_loading_animation_alert">Сохранение изображения</string>
+    <string name="mc_loading_view_text">Загрузка</string>
+    <string name="mc_minute">м.</string>
+    <string name="mc_monday">ПН</string>
+    <string name="mc_never">Единожды</string>
+    <string name="mc_pattern_a_hour_before">1 ч. назад</string>
+    <string name="mc_pattern_a_minute_before">1 м. назад</string>
+    <string name="mc_pattern_hour_before">, ч. назад</string>
+    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
+    <string name="mc_pattern_hour_minute_12" formatted="false">%I:%M %p</string>
+    <string name="mc_pattern_minute_before">, м. назад</string>
+    <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_today">Сегодня</string>
+    <string name="mc_pattern_week">%a</string>
+    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
+    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_yesterday">Вчера</string>
+    <string name="mc_permission_apply">Запрос разрешений</string>
+    <string name="mc_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
+    <string name="mc_pm_bluetooth">Bluetooth</string>
+    <string name="mc_pm_call">Вызов</string>
+    <string name="mc_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mc_pm_camera">Камера (Фото/Видео)</string>
+    <string name="mc_pm_close">Закрыть</string>
+    <string name="mc_pm_contacts">Чтение контактов</string>
+    <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
+    <string name="mc_pm_dlg_cancel">Отмена</string>
+    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_location">Местоположение</string>
+    <string name="mc_pm_network">Передача данных</string>
+    <string name="mc_pm_nfc">NFC</string>
+    <string name="mc_pm_not_allow_check_app">Выход</string>
+    <string name="mc_pm_not_allow_dialog_push">Отключить</string>
+    <string name="mc_pm_online_intenert">Интернет</string>
+    <string name="mc_pm_open">Открыть</string>
+    <string name="mc_pm_r_mms">Просмотр MMS</string>
+    <string name="mc_pm_r_sms">Просмотр SMS</string>
+    <string name="mc_pm_recordaudio_local">Запись вызовов/разговоров</string>
+    <string name="mc_pm_recordaudio_phone">Запись вызовов</string>
+    <string name="mc_pm_s_mms">Отправка MMS</string>
+    <string name="mc_pm_s_sms">Отправка SMS</string>
+    <string name="mc_pm_set_bluetooth_on">Управление Bluetooth</string>
+    <string name="mc_pm_set_gprs_on">Управление передачей данных</string>
+    <string name="mc_pm_set_wifi_on">Управление Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
+    <string name="mc_praised_message">Нравится</string>
+    <string name="mc_pull_refresh">Потяните вниз для обновления</string>
+    <string name="mc_reject">Отклонить</string>
+    <string name="mc_saturday">СБ</string>
+    <string name="mc_search">Поиск</string>
+    <string name="mc_search_button_text">Поиск</string>
+    <string name="mc_search_icon">Поиск</string>
+    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_text">Поиск</string>
+    <string name="mc_second">с.</string>
+    <string name="mc_selectionbutton_all">Все</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_sunday">ВС</string>
+    <string name="mc_thursday">ЧТ</string>
+    <string name="mc_time_picker_dialog_title">Расписание</string>
+    <string name="mc_time_picker_leap">Високосный месяц</string>
+    <string name="mc_tuesday">ВТ</string>
+    <string name="mc_updating_prefix">Обновление</string>
+    <string name="mc_value_checked">Выбрано</string>
+    <string name="mc_value_not_checked">Не выбрано</string>
+    <string name="mc_voice_icon">Голосовой поиск</string>
+    <string name="mc_wednesday">СР</string>
+    <string name="mc_weekend">Выходные</string>
+    <string name="mc_working_day">Будни</string>
+    <string name="mc_yes">ОК</string>
+    <string name="merchant_contact">Контакты</string>
+    <string name="merchant_navigation_hotel">В отель</string>
+    <string name="merchant_navigation_restaurant">В ресторан</string>
+    <string name="more_item_label">Ещё</string>
+    <string name="movie_card_text_more">…</string>
+    <string name="movie_douban_detail">Подробности</string>
+    <string name="movie_online_ticket">Купить билет</string>
+    <string name="movie_relative_movie">Предложенные</string>
+    <string name="movie_watch_online">Смотреть онлайн</string>
+    <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
+    <string name="mz_action_bar_multi_choice_select_all">Все</string>
+    <string name="mz_action_bar_multi_choice_select_all_cancel">Снять</string>
+    <string name="mz_action_bar_multi_choice_title">Выбрано: %d</string>
+    <string name="mz_allow">ОК</string>
+    <string name="mz_alway_allow">Разрешать всегда</string>
+	<string name="mz_date_time_day" />
+    <string name="mz_date_time_hour" />
+    <string name="mz_date_time_min" />
+    <string name="mz_date_time_month" />
+    <string name="mz_date_time_sec" />
+    <string name="mz_date_time_year" />
+    <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки.</string>
+    <string name="mz_permission_agree">Принимаю</string>
+    <string name="mz_permission_allow">Разрешить</string>
+    <string name="mz_permission_almost_deny">Не предлагать запрос после отказа</string>
+    <string name="mz_permission_always_allow">Разрешать всегда</string>
+    <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_deny">Отклонить</string>
+    <string name="mz_permission_disagree">Запретить</string>
+    <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешения на %2$s</string>
+    <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешения</string>
+    <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
+    <string name="mz_permission_title_terms">Разрешения и заявления</string>
+    <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
+    <string name="mz_permissiongroup_name_change_network">Wi-fi</string>
+    <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
+    <string name="mz_permissiongroup_name_other">Другое</string>
+    <string name="mz_pm_allow_check_app">ОК</string>
+    <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_bluetooth">Переключение Bluetooth</string>
+    <string name="mz_pm_call">Вызовы</string>
+    <string name="mz_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mz_pm_camera">Камера (Фото/Видео)</string>
+    <string name="mz_pm_close">Выкл.</string>
+    <string name="mz_pm_contacts">Чтение контактов</string>
+    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dlg_cancel">Отмена</string>
+    <string name="mz_pm_dlg_ok">ОК</string>
+    <string name="mz_pm_location">Местоположение</string>
+    <string name="mz_pm_network">Передача данных</string>
+    <string name="mz_pm_nfc">Переключение NFC</string>
+    <string name="mz_pm_not_allow_check_app">Выход</string>
+    <string name="mz_pm_not_allow_dialog_push">Откл.</string>
+    <string name="mz_pm_online_intenert">Доступ в интернет</string>
+    <string name="mz_pm_open">Вкл.</string>
+    <string name="mz_pm_r_mms">Чтение MMS</string>
+    <string name="mz_pm_r_sms">Чтение SMS</string>
+    <string name="mz_pm_recordaudio_local">Запись вызовов</string>
+    <string name="mz_pm_recordaudio_phone">Запись вызовов</string>
+    <string name="mz_pm_s_mms">Отправка MMS</string>
+    <string name="mz_pm_s_sms">Отправка SMS</string>
+    <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
+    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
+    <string name="mz_pm_wlan">Wi-Fi</string>
+    <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
+    <string name="mz_reject">Выход</string>
+    <string name="mz_share_view_checkbox_text">Удалить после передачи</string>
+    <string name="mz_share_view_title">Передать</string>
+    <string name="mz_specific_permission_allow">Разрешить</string>
+    <string name="mz_specific_permission_deny">Запретить</string>
+    <string name="mz_traffic_send_sms_to_operator">Отправлено сообщений оператору</string>
+    <string name="mz_wif_setting_dialog_message">Нет подключения к сети. Пожалуйста, проверьте настройки.</string>
+    <string name="mz_wif_setting_dialog_set">Настройки сети</string>
+    <string name="next_step">Далее</string>
+    <string name="not_recognize_item">Объект не распознан</string>
+    <string name="not_support_share">Невозможно поделиться</string>
+    <string name="notify_title_name">Голосовой вывод Aicy</string>
+    <string name="open_map">Открыть Карты</string>
+    <string name="pai_li_tao">Купить через фото</string>
+    <string name="password_toggle_content_description">Изменить видимость пароля</string>
+    <string name="personage_weibo">Weibo</string>
+    <string name="phone_is_empty">Нет номера телефона</string>
+    <string name="picker_desc">При долгом нажатии на изображение / любой текст, Aicy может распознать ключевые моменты объекта, будь то фильм или знаменитость, и предоставить быстрый доступ к этой информации.</string>
+    <string name="policy_content1">"1. Для распознавания и анализа объектов в зоне длительного нажатия, службе необходимы доступ к сети и возможность получить и обработать следующие данные: "</string>
+    
+	
+	
+	
+	<string name="policy_content2">"a. To analyze the meaning of each segment in the text, we may collect and process the content in the long-pressed text. 
+b. To increase the positive correlation of the recognized results, we may collect and process the name of the application interface when it was long pressed. 
+c. Because the recognized results need to be revised according to the user's geographical location, we may collect the current geographical location of the user's device. 
+d. To intelligently analyze the Alipay codes contained in the text, we need to call the Meizu Pay function and grant Meizu Pay permissions to network connection, location, SMS, and camera. 
+e. To avoid scene conflicts, namely to shield the recognized results from conflicting scenes, we may collect and process the system state when the long-press occurs."</string>
+    <string name="policy_content3">2. Результаты анализа объектов включают, но не ограничиваются следующими типами: фильмы, книги, магазины, товары, имена знаменитостей, гео. местоположения и тд.</string>
+    <string name="policy_content4">3. Служба захватывает текущий экран во время выполнения. Скриншоты используются для распознавания текста, визуального представления и совместного использования пользователями. Этот процесс выполняется только в автономном режиме на устройстве.</string>
+    <string name="policy_content5">4. Чтобы распознать результаты, включая фильмы, книги и т.д., из текста, сервис сведет к минимуму личной информации в тексте, а затем распознает содержимое текста. Вы можете отключить сервис для прекращения передачи текста в Настройки > Aicy > Aicy Touch.</string>
+    <string name="policy_content_head">Чтобы использовать Flyme Aicy Touch (далее называемый “Сервис”), вы должны прочитать и соблюдать настоящие Условия использования Aicy Touch (далее именуемые “Условия”). Когда пользователь долго нажимает на область содержимого на устройстве, служба распознает, анализирует и прогнозирует содержимое области нажатия с использованием таких технологий, как оптическое распознавание символов и обработка естественного языка, и объединяет информацию и услуги, связанные с контентом. Объединение позволяет пользователю быстро получать необходимую информацию и услуги.</string>
+    <string name="policy_content_head1">Правила предоставления услуг и Политика Конфиденциальности</string>
+    <string name="policy_content_tail">Запуская Aicy Touch, вы соглашаетесь с Правами предоставления услуг, Условиями использования Flyme, и политикой конфиденциальности.</string>
+    <string name="policy_name">Условия использования Aicy Touch</string>
+    <string name="reg_music_app_kugou">Kugou музыка</string>
+    <string name="reg_music_app_qq">Музыка QQ</string>
+    <string name="reg_music_app_wy">Netease cloud music</string>
+    <string name="search_menu_title">Найти</string>
+    <string name="send_pc_myself">Отправить на PC</string>
+    <string name="send_qq_friend">QQ</string>
+    <string name="send_wx_friend">WeChat</string>
+    <string name="setting_bottom_desc">В случае неправильного касания Flyme отключает распознавание экрана в этих сценах. Кроме того, из-за различий в разработке приложений Aicy Touch не может работать на некоторых страницах</string>
+    <string name="setting_more">Больше</string>
+    <string name="setting_more_desc1">Skill</string>
+    <string name="setting_more_desc2">Диапазон распознавания</string>
+    <string name="setting_more_picture_desc">"Во время использования, нажми на изображение
+для распознавания объектов на нем."</string>
+    <string name="setting_more_tab1">Текст</string>
+    <string name="setting_more_tab2">Изображение</string>
+	
+	
+	
+    <string name="setting_more_tab3">Page</string>
+	
+	
+	
+    <string name="setting_more_text_desc">"Во время использования, нажми на текст
+to identify its key info."</string>
+
+
+    <string name="setting_more_webpage_desc">"When browsing, press the page
+to identify its content."</string>
+
+
+    <string name="setting_trigger_title1">Долгое нажатие</string>
+    <string name="setting_trigger_title2">Удерживание нажатия</string>
+    <string name="share">Поделиться</string>
+    <string name="share_to">Поделиться с</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="taobao_open">Открыть в Taobao</string>
+    <string name="tips_collect_page">Показать избранные на экране</string>
+    <string name="title_activity_picker_learn_more">Больше</string>
+    <string name="title_activity_picker_trigger">Вызвать с помощью</string>
+    <string name="txt_agreement_allow">Согласиться</string>
+    <string name="txt_agreement_connect_net">Сетевые подключения</string>
+    <string name="txt_agreement_connect_net_desc">Распознавание информации и предоставление соответствующих услуг</string>
+    <string name="txt_agreement_desc1">Для пользования перечисленными выше функциями и службами вы должны принять</string>
+    <string name="txt_agreement_desc2">Условия использования Aicy Touch</string>
+    <string name="txt_agreement_get_location">Получение местоположения</string>
+    <string name="txt_agreement_get_location_desc">Обеспечить более лучшую работу</string>
+    <string name="txt_agreement_reject">Отклонить</string>
+    <string name="txt_agreement_title">Aicy Touch</string>
+    <string name="txt_agreement_title_detail">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="txt_baike_result">Результаты из Энциклопедии</string>
+    <string name="txt_baike_tip1">Результатов из Энциклопедии нет</string>
+    <string name="txt_baike_tip2">Пожалуйста, измените запрос по ключевому слову</string>
+    <string name="txt_btn_card_baike">Запись в Энциклопедии</string>
+    <string name="txt_card_agreement_desc1">Длительное нажатие на экран, чтобы найти больше</string>
+    <string name="txt_card_agreement_desc2">Aicy Touch нужны доступ в интернет и использование вашего местоположения для получения большего кол-ва результатов</string>
+    <string name="txt_card_agreement_desc3">Добро пожаловать в Aicy Touch</string>
+    <string name="txt_card_name">Подсказки</string>
+    <string name="txt_card_name_participle">Выбор текста</string>
+	
+	
+	
+    <string name="txt_card_name_webpage">Page Recognition</string>
+	
+	
+	
+    <string name="txt_click_to_recognize">Нажми для распознавания</string>
+    <string name="txt_coupon">Купон</string>
+    <string name="txt_look_for_detail">Детали</string>
+    <string name="txt_no_network_tips">Нет подключения, пожалуйста проверьте настройки</string>
+    <string name="txt_no_network_tips_1">Подключитесь к интернету для лучшего распознавания</string>
+    <string name="txt_no_result_text">Нет контента для распознавания</string>
+    <string name="txt_open_app">Открыть приложение</string>
+    <string name="txt_phone_call">Телефон</string>
+    <string name="txt_recognize_fail_tips">Измените на другое изображение и повторите попытку</string>
+    <string name="txt_reg_music_detail_1">Используйте стороннее приложение для определения треков, воспроизводимых текущим динамиком</string>
+    <string name="txt_reg_music_title">Распознавание текущего трека</string>
+    <string name="txt_scan_and_copy">Сканируйте код для копирования текста</string>
+    <string name="txt_setting_triggle1">После долгого нажатия | После удержания нажатия на контенте, нажмите на кнопку в правом нижнем углу.</string>
+    <string name="txt_setting_triggle2">Удерживайте нажатие | Нажмите и удерживайте нажатие на контенте, пока не появятся результаты</string>
+    <string name="txt_support_type_tips">Растения, знаменитости, знаменитые картины, книги, вино и автомобили</string>
+    <string name="txt_tag_jd">JD.COM</string>
+    <string name="txt_translation_result">Результат перевода</string>
+    <string name="txt_window_mode">Открыть в оконном режиме</string>
+    <string name="txt_window_mode_desc">Перейти к приложению в оконном режиме</string>
+    <string name="web_url_share_content_head">Я вижу 【</string>
+    <string name="web_url_share_content_tail">】. Поделюсь этим с вами. Присоединяйся ко мне</string>
+    <string name="web_view_copy_text_toast">Ссылка скопирована в буфер</string>
+    <string name="web_view_menu_copy">Скопировать ссылку</string>
+    <string name="web_view_menu_open_browser">Открыть в браузере</string>
+    <string name="web_view_title">Web preview</string>
+    <string name="wechat_friends">WeChat Friends</string>
+    <string name="wechat_pengyouquan">WeChat Moments</string>
+    <string name="wechat_shoucang">WeChat Favorites</string>
+    <string name="weibo_app">Weibo</string>
+    <string name="wx_circle_of_friend">Моменты</string>
+    <string name="wx_favourite">WeChat избранные</string>
+    <string name="wx_friend">WeChat контакты</string>
+</resources>
