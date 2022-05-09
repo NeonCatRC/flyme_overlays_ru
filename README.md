@@ -2,6 +2,10 @@
 
 Overlays for f9 apps
 
+## This repository is distributed openly and for free
+
+**If you want to use the developments that are presented in this repository, you must comply with the MIT license, under which this repository is distributed.** [ABOUT]
+
 - FULL- full RU localization
 - Stop - Work stoped
 - WIP- work-in-progress
@@ -70,3 +74,5 @@ Overlays for f9 apps
 | Search |  |  |
 | SoundRecorder |  |  |
 | Video |  |  |
+
+[ABOUT]: <https://mit-license.org/>
