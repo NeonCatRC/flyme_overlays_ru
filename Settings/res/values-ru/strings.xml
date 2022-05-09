@@ -4704,8 +4704,8 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="usb_charge_summary">Остановка всех функций USB (позволяет ускорить зарядку по USB и снизить энергопотребление)</string>
     <string name="usb_charge_title">Только зарядка</string>
     <string name="usb_connect_dlg_title">USB-накопитель</string>
-    <string name="usb_connect_dlg_transfer_file">Подключить USB-накопитель</string>
-    <string name="usb_connect_function">Use USB connection for</string>
+    <string name="usb_connect_dlg_transfer_file">Подключить как USB-накопитель</string>
+    <string name="usb_connect_function">Использовать USB-подключение как</string>
     <string name="usb_connection_category">USB-подключение к ПК</string>
     <string name="usb_continue_supper_speed">Включить</string>
     <string name="usb_control_device">Это устройство</string>
