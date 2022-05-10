@@ -38,6 +38,7 @@ Overlays for f9 apps
 | NotePaper | FULL n\t | Notepad app |
 | Pedometer | FULL n\t | Step counter |
 | PermissionController | Start |  |
+| Picker | WIP |  |
 | SDKStage | Start |  |
 | Settings | WIP |  |
 | SoundRecorder | FULL n\t | Build-in recorder app |
@@ -72,7 +73,6 @@ Overlays for f9 apps
 | MzCallSettings |  |  |
 | MzSetupWizard |  |  |
 | PackageInstaller |  |  |
-| Picker |  |  |
 | Search |  |  |
 | SoundRecorder |  |  |
 | Video |  |  |

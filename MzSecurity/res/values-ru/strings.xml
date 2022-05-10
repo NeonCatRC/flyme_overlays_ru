@@ -528,6 +528,7 @@
     <string name="install_title_launching">Запуск приложения</string>
     <string name="install_title_prompt">Установите приложение «Веб-апплеты» для запуска</string>
     <string name="installing_text">Установка</string>
+    <string name="intercept_sensitive_behavior">Перехвачено изменений</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="junk_clear_rate1">Каждый день</string>
     <string name="junk_clear_rate2">Каждую неделю</string>
@@ -1193,6 +1194,7 @@
     <string name="str_pref_smart_block">Смарт-фильтр</string>
     <string name="str_pref_user_blacklist">Чёрный список пользователя</string>
     <string name="submenu_delete_label">Удалить</string>
+    <string name="summary_time">раз(а)</string>
     <string name="super_manager">Супер-менеджмент</string>
     <string name="super_manager_dialog_loading_title">Не волнуйтесь, он сканирует...</string>
     <string name="tab_safe_show_day">"Последнее сканирование: "</string>
@@ -1837,5 +1839,6 @@
     <string name="traffic_dialog_ok">OK</string>
     <string name="wap_push_danger_content">Уведомление от Безопасность 360: Опасное сервисное сообщение</string>
     <string name="wap_push_message_header">WAP-сообщения</string>
+    <string name="within_24_hour">В течение 24 часов</string>
     <string name="cleaner_checked_size">Проверено %1$s</string>
 </resources>
