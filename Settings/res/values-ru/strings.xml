@@ -1040,6 +1040,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="change_wifi_state_title">Управление Wi-Fi</string>
     <string name="channel_group_notifications_off_desc">Android блокирует показ этой группы уведомлений на этом устройстве</string>
     <string name="channel_notifications_off_desc">Android блокирует показ этой категории уведомлений на этом устройстве</string>
+    <string name="channel_title">Типы уведомлений</string>
     <string name="charge_length_format">%1$s назад</string>
     <string name="charging">Зарядка</string>
     <string name="charging_sounds_title">Звуки при зарядке</string>
