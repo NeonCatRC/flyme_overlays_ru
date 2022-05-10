@@ -40,6 +40,8 @@
     <string name="m_express_desc">При копировании номера доставки предлагать просмотреть информацию об отслеживании</string>
     <string name="m_flashlight">Фонарик</string>
     <string name="m_flashlight_desc">Если включен фонарик, предлагать выключить его</string>
+    <string name="m_hang_up">Поверх всех окон</string>
+    <string name="m_hang_up_desc">Для удобства рекомендовать отображение приложения поверх всех окон</string>
     <string name="m_hold_screen_on">Удержание яркости</string>
     <string name="m_hold_screen_on_desc">Не дает экрану погаснуть, когда это не нужно</string>
     <string name="m_music">Запуск музыки</string>
