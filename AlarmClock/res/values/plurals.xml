@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Snoozing for %d minutes</item>
+        <item quantity="one">Snoozing for 1 minute</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%s days</item>
+        <item quantity="one">1 day</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Delete %s alarms</item>
+        <item quantity="one">Delete 1 alarm</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Delete %s cities</item>
+        <item quantity="one">Delete 1 city</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%s hours</item>
+        <item quantity="one">1 hour</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">%s minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+</resources>

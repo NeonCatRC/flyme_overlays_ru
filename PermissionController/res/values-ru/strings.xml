@@ -304,7 +304,7 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="install_warning_default_summry">Installing apps in App Store easily</string>
     <string name="install_warning_virus">Virus risk detected, installation is canceled for your mobile safety.</string>
     <string name="internet_summary">Подключение беспроводной и моб. сетей</string>
-    <string name="internet_title">Подключенные сети</string>
+    <string name="internet_title">Подключение к сети</string>
     <string name="item_is_selected">%1$s selected</string>
     <string name="item_separator">", "</string>
     <string name="kill_app">close app</string>

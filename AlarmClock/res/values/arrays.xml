@@ -1,0 +1,2082 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="a">
+        <item>@string/am</item>
+        <item>@string/al</item>
+        <item>@string/ak</item>
+        <item>@string/an</item>
+        <item>@string/aj</item>
+    </string-array>
+    <string-array name="b">
+        <item>@string/am</item>
+        <item>@string/al</item>
+        <item>@string/ak</item>
+        <item>@string/aj</item>
+    </string-array>
+    <string-array name="c">
+        <item>Less than 1 min from now</item>
+        <item>In %1$s</item>
+        <item>In %2$s</item>
+        <item>In %1$s %2$s</item>
+        <item>In %3$s</item>
+        <item>In %1$s %3$s</item>
+        <item>In %2$s %3$s</item>
+        <item>In %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="d">
+        <item>C1</item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>C4</item>
+        <item>C5</item>
+        <item>C6</item>
+        <item>C7</item>
+        <item>C8</item>
+        <item>C9</item>
+        <item>C10</item>
+        <item>C11</item>
+        <item>C12</item>
+        <item>C13</item>
+        <item>C14</item>
+        <item>C15</item>
+        <item>C16</item>
+        <item>C17</item>
+        <item>C18</item>
+        <item>C19</item>
+        <item>C20</item>
+        <item>C21</item>
+        <item>C22</item>
+        <item>C23</item>
+        <item>C24</item>
+        <item>C25</item>
+        <item>C26</item>
+        <item>C27</item>
+        <item>C28</item>
+        <item>C29</item>
+        <item>C0</item>
+        <item>C31</item>
+        <item>C32</item>
+        <item>C33</item>
+        <item>C34</item>
+        <item>C35</item>
+        <item>C36</item>
+        <item>C37</item>
+        <item>C38</item>
+        <item>C39</item>
+        <item>C40</item>
+        <item>C41</item>
+        <item>C42</item>
+        <item>C43</item>
+        <item>C44</item>
+        <item>C45</item>
+        <item>C46</item>
+        <item>C47</item>
+        <item>C0</item>
+        <item>C49</item>
+        <item>C50</item>
+        <item>C51</item>
+        <item>C52</item>
+        <item>C53</item>
+        <item>C54</item>
+        <item>C55</item>
+        <item>C56</item>
+        <item>C57</item>
+        <item>C58</item>
+        <item>C59</item>
+        <item>C60</item>
+        <item>C61</item>
+        <item>C62</item>
+        <item>C63</item>
+        <item>C64</item>
+        <item>C65</item>
+        <item>C66</item>
+        <item>C67</item>
+        <item>C68</item>
+        <item>C69</item>
+        <item>C70</item>
+        <item>C71</item>
+        <item>C72</item>
+        <item>C73</item>
+        <item>C74</item>
+        <item>C75</item>
+        <item>C76</item>
+        <item>C77</item>
+        <item>C78</item>
+        <item>C79</item>
+        <item>C80</item>
+        <item>C81</item>
+        <item>C82</item>
+        <item>C83</item>
+        <item>C84</item>
+        <item>C85</item>
+        <item>C86</item>
+        <item>C87</item>
+        <item>C88</item>
+        <item>C89</item>
+        <item>C90</item>
+        <item>C91</item>
+        <item>C92</item>
+        <item>C93</item>
+        <item>C94</item>
+        <item>C95</item>
+        <item>C96</item>
+        <item>C97</item>
+        <item>C98</item>
+        <item>C99</item>
+        <item>C100</item>
+        <item>C101</item>
+        <item>C102</item>
+        <item>C103</item>
+        <item>C104</item>
+        <item>C105</item>
+        <item>C106</item>
+        <item>C107</item>
+        <item>C108</item>
+        <item>C109</item>
+        <item>C110</item>
+        <item>C111</item>
+        <item>C112</item>
+        <item>C113</item>
+        <item>C114</item>
+        <item>C115</item>
+        <item>C0</item>
+        <item>C117</item>
+        <item>C118</item>
+        <item>C119</item>
+        <item>C120</item>
+        <item>C121</item>
+        <item>C122</item>
+        <item>C123</item>
+        <item>C124</item>
+        <item>C125</item>
+        <item>C126</item>
+        <item>C127</item>
+        <item>C128</item>
+        <item>C0</item>
+        <item>C130</item>
+        <item>C131</item>
+        <item>C132</item>
+        <item>C133</item>
+        <item>C134</item>
+        <item>C135</item>
+        <item>C136</item>
+        <item>C137</item>
+        <item>C138</item>
+        <item>C139</item>
+        <item>C140</item>
+        <item>C141</item>
+        <item>C142</item>
+        <item>C143</item>
+        <item>C144</item>
+        <item>C145</item>
+        <item>C146</item>
+        <item>C147</item>
+        <item>C148</item>
+        <item>C149</item>
+        <item>C150</item>
+        <item>C151</item>
+        <item>C152</item>
+        <item>C153</item>
+        <item>C154</item>
+        <item>C155</item>
+        <item>C156</item>
+        <item>C157</item>
+        <item>C158</item>
+        <item>C159</item>
+        <item>C160</item>
+        <item>C161</item>
+        <item>C162</item>
+        <item>C163</item>
+        <item>C164</item>
+        <item>C165</item>
+        <item>C166</item>
+        <item>C167</item>
+        <item>C168</item>
+        <item>C169</item>
+        <item>C170</item>
+        <item>C171</item>
+        <item>C172</item>
+        <item>C173</item>
+        <item>C174</item>
+        <item>C175</item>
+        <item>C176</item>
+        <item>C177</item>
+        <item>C178</item>
+        <item>C179</item>
+        <item>C180</item>
+        <item>C181</item>
+        <item>C182</item>
+        <item>C183</item>
+        <item>C184</item>
+        <item>C185</item>
+        <item>C186</item>
+        <item>C187</item>
+        <item>C188</item>
+        <item>C189</item>
+        <item>C190</item>
+        <item>C191</item>
+        <item>C192</item>
+        <item>C193</item>
+        <item>C194</item>
+        <item>C195</item>
+        <item>C196</item>
+        <item>C197</item>
+        <item>C198</item>
+        <item>C199</item>
+        <item>C200</item>
+        <item>C201</item>
+        <item>C202</item>
+        <item>C203</item>
+        <item>C204</item>
+        <item>C205</item>
+        <item>C206</item>
+        <item>C207</item>
+        <item>C208</item>
+        <item>C209</item>
+        <item>C210</item>
+        <item>C211</item>
+        <item>C212</item>
+        <item>C213</item>
+        <item>C214</item>
+        <item>C215</item>
+        <item>C216</item>
+        <item>C217</item>
+        <item>C218</item>
+        <item>C219</item>
+        <item>C220</item>
+        <item>C221</item>
+        <item>C222</item>
+        <item>C223</item>
+        <item>C224</item>
+        <item>C225</item>
+        <item>C226</item>
+        <item>C227</item>
+        <item>C228</item>
+        <item>C229</item>
+        <item>C230</item>
+        <item>C231</item>
+        <item>C232</item>
+        <item>C233</item>
+        <item>C234</item>
+        <item>C235</item>
+        <item>C236</item>
+        <item>C237</item>
+        <item>C238</item>
+        <item>C239</item>
+        <item>C240</item>
+        <item>C241</item>
+        <item>C242</item>
+        <item>C243</item>
+        <item>C244</item>
+        <item>C245</item>
+        <item>C246</item>
+        <item>C247</item>
+        <item>C248</item>
+        <item>C249</item>
+        <item>C250</item>
+        <item>C251</item>
+        <item>C252</item>
+        <item>C253</item>
+        <item>C254</item>
+        <item>C255</item>
+        <item>C256</item>
+        <item>C257</item>
+        <item>C258</item>
+        <item>C259</item>
+        <item>C260</item>
+        <item>C261</item>
+        <item>C262</item>
+        <item>C263</item>
+        <item>C264</item>
+        <item>C265</item>
+        <item>C266</item>
+        <item>C267</item>
+        <item>C268</item>
+        <item>C269</item>
+        <item>C270</item>
+        <item>C271</item>
+        <item>C272</item>
+        <item>C273</item>
+        <item>C274</item>
+        <item>C275</item>
+        <item>C276</item>
+        <item>C277</item>
+        <item>C278</item>
+        <item>C279</item>
+        <item>C280</item>
+        <item>C281</item>
+        <item>C282</item>
+        <item>C283</item>
+        <item>C284</item>
+        <item>C285</item>
+        <item>C286</item>
+        <item>C287</item>
+        <item>C288</item>
+        <item>C0</item>
+        <item>C290</item>
+        <item>C291</item>
+        <item>C292</item>
+        <item>C293</item>
+        <item>C294</item>
+        <item>C295</item>
+        <item>C296</item>
+        <item>C297</item>
+        <item>C298</item>
+        <item>C299</item>
+    </string-array>
+    <string-array name="e">
+        <item>Abidjan</item>
+        <item>Accra</item>
+        <item>Addis Ababa</item>
+        <item>Algiers</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Cairo</item>
+        <item>Casablanca</item>
+        <item>Conakry</item>
+        <item>Dakar</item>
+        <item>Dar es Salaam</item>
+        <item>Djibouti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Khartoum</item>
+        <item>Kigali</item>
+        <item>Kinshasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadishu</item>
+        <item>Nairobi</item>
+        <item>São Tomé</item>
+        <item>Timbuktu</item>
+        <item>Tripoli</item>
+        <item>Tunis</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Oranjestad</item>
+        <item>Asunción</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogotá</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Caracas</item>
+        <item>Cayman</item>
+        <item>Chicago</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Roseau</item>
+        <item>Edmonton</item>
+        <item>Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk</item>
+        <item>Grenada</item>
+        <item>Guatemala City</item>
+        <item>Guyana</item>
+        <item>Halifax</item>
+        <item>Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox</item>
+        <item>Marengo</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinique</item>
+        <item>Mendoza</item>
+        <item>Metlakatla</item>
+        <item>Mexico City</item>
+        <item>Monterrey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>Center</item>
+        <item>New Salem</item>
+        <item>Panama City</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>San Juan</item>
+        <item>Santo Domingo</item>
+        <item>São Paulo</item>
+        <item>St. Johns</item>
+        <item>St. Kitts</item>
+        <item>St. Lucia</item>
+        <item>St. Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>South Pole</item>
+        <item>Longyearbyen</item>
+        <item>Almaty</item>
+        <item>Amman</item>
+        <item>Anadyr</item>
+        <item>Aqtau</item>
+        <item>Baghdad</item>
+        <item>Bahrain</item>
+        <item>Baku</item>
+        <item>Bangkok</item>
+        <item>Beirut</item>
+        <item>Kolkata</item>
+        <item>Damascus</item>
+        <item>Dhaka</item>
+        <item>Dubai</item>
+        <item>Gaza</item>
+        <item>Hebron</item>
+        <item>Ho Chi Minh</item>
+        <item>Hong Kong</item>
+        <item>Istanbul</item>
+        <item>Jakarta</item>
+        <item>Jerusalem</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Kathmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuwait</item>
+        <item>Macau</item>
+        <item>Manila</item>
+        <item>Muscat</item>
+        <item>Phnom Penh</item>
+        <item>Pyongyang</item>
+        <item>Qatar</item>
+        <item>Rangoon</item>
+        <item>Riyadh</item>
+        <item>Saigon</item>
+        <item>Seoul</item>
+        <item>Shanghai</item>
+        <item>Singapore</item>
+        <item>Taipei</item>
+        <item>Tehran</item>
+        <item>Tel Aviv</item>
+        <item>Tokyo</item>
+        <item>Ulaanbaatar</item>
+        <item>Bermuda</item>
+        <item>Canary</item>
+        <item>Cape Verde</item>
+        <item>Reykjavik</item>
+        <item>Stanley</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>New South Wales</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sydney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>Easter Island</item>
+        <item>Amsterdam</item>
+        <item>Andorra La Vella</item>
+        <item>Athens</item>
+        <item>Belfast</item>
+        <item>Belgrade</item>
+        <item>Berlin</item>
+        <item>Bratislava</item>
+        <item>Brussels</item>
+        <item>Bucharest</item>
+        <item>Budapest</item>
+        <item>Chisinau</item>
+        <item>Copenhagen</item>
+        <item>Dublin</item>
+        <item>Gibraltar</item>
+        <item>Helsinki</item>
+        <item>Douglas</item>
+        <item>Istanbul</item>
+        <item>Kyiv</item>
+        <item>Lisbon</item>
+        <item>London</item>
+        <item>Luxembourg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monaco</item>
+        <item>Moscow</item>
+        <item>Oslo</item>
+        <item>Paris</item>
+        <item>Prague</item>
+        <item>Riga</item>
+        <item>Rome</item>
+        <item>San Marino</item>
+        <item>Sarajevo</item>
+        <item>Simferopol</item>
+        <item>Skopje</item>
+        <item>Sofia</item>
+        <item>Stockholm</item>
+        <item>Tallinn</item>
+        <item>Vatican</item>
+        <item>Vienna</item>
+        <item>Vilnius</item>
+        <item>Warsaw</item>
+        <item>Zagreb</item>
+        <item>Zurich</item>
+        <item>Antananarivo</item>
+        <item>Maldives</item>
+        <item>Port Louis</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Noumea</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>"Saint John's"</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Philadelphia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San Jose</item>
+        <item>San Salvador</item>
+        <item>Seattle</item>
+        <item>St. Louis</item>
+        <item>Washington D.C.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Black Rock City</item>
+        <item>Doha</item>
+        <item>Beijing</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahore</item>
+        <item>"Sana'a"</item>
+        <item>Barcelona</item>
+        <item>Munich</item>
+        <item>Milan</item>
+        <item>Frankfurt</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bangalore</item>
+        <item>Brasília</item>
+        <item>Cape Town</item>
+        <item>Islamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Guangzhou</item>
+        <item>Hyderabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Colombo</item>
+        <item>Chihuahua</item>
+        <item>Salvador</item>
+        <item>Gurgaon</item>
+        <item>Manchester</item>
+        <item>Kyiv</item>
+        <item>St. Petersburg</item>
+        <item>Kraków</item>
+        <item>Wroclaw</item>
+        <item>Hamburg</item>
+        <item>Oulu</item>
+        <item>Haifa</item>
+        <item>San Juan</item>
+        <item>Tegucigalpa</item>
+        <item>Paramaribo</item>
+        <item>Quito</item>
+    </string-array>
+    <string-array name="f">
+        <item>Africa/Abidjan</item>
+        <item>Africa/Accra</item>
+        <item>Africa/Addis_Ababa</item>
+        <item>Africa/Algiers</item>
+        <item>Africa/Blantyre</item>
+        <item>Africa/Brazzaville</item>
+        <item>Africa/Cairo</item>
+        <item>Africa/Casablanca</item>
+        <item>Africa/Conakry</item>
+        <item>Africa/Dakar</item>
+        <item>Africa/Dar_es_Salaam</item>
+        <item>Africa/Djibouti</item>
+        <item>Africa/Freetown</item>
+        <item>Africa/Gaborone</item>
+        <item>Africa/Harare</item>
+        <item>Africa/Johannesburg</item>
+        <item>Africa/Kampala</item>
+        <item>Africa/Khartoum</item>
+        <item>Africa/Kigali</item>
+        <item>Africa/Kinshasa</item>
+        <item>Africa/Lagos</item>
+        <item>Africa/Maseru</item>
+        <item>Africa/Mogadishu</item>
+        <item>Africa/Nairobi</item>
+        <item>Africa/Sao_Tome</item>
+        <item>Africa/Timbuktu</item>
+        <item>Africa/Tripoli</item>
+        <item>Africa/Tunis</item>
+        <item>America/Anchorage</item>
+        <item>America/Argentina/Mendoza</item>
+        <item>America/Aruba</item>
+        <item>America/Asuncion</item>
+        <item>America/Barbados</item>
+        <item>America/Belize</item>
+        <item>America/Bogota</item>
+        <item>America/Buenos_Aires</item>
+        <item>America/Cancun</item>
+        <item>America/Caracas</item>
+        <item>America/Cayman</item>
+        <item>America/Chicago</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Curacao</item>
+        <item>America/Dawson_Creek</item>
+        <item>America/Denver</item>
+        <item>America/Detroit</item>
+        <item>America/Dominica</item>
+        <item>America/Edmonton</item>
+        <item>America/El_Salvador</item>
+        <item>America/Fortaleza</item>
+        <item>America/Grand_Turk</item>
+        <item>America/Grenada</item>
+        <item>America/Guatemala</item>
+        <item>America/Guyana</item>
+        <item>America/Halifax</item>
+        <item>America/Havana</item>
+        <item>America/Indiana/Indianapolis</item>
+        <item>America/Indiana/Knox</item>
+        <item>America/Indiana/Marengo</item>
+        <item>America/Indiana/Petersburg</item>
+        <item>America/Indiana/Tell_City</item>
+        <item>America/Indiana/Vevay</item>
+        <item>America/Indiana/Vincennes</item>
+        <item>America/Indiana/Winamac</item>
+        <item>America/Jamaica</item>
+        <item>America/La_Paz</item>
+        <item>America/Lima</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Louisville</item>
+        <item>America/Managua</item>
+        <item>America/Martinique</item>
+        <item>America/Mendoza</item>
+        <item>America/Metlakatla</item>
+        <item>America/Mexico_City</item>
+        <item>America/Monterrey</item>
+        <item>America/Montevideo</item>
+        <item>America/Montreal</item>
+        <item>America/Nassau</item>
+        <item>America/New_York</item>
+        <item>America/North_Dakota/Beulah</item>
+        <item>America/North_Dakota/Center</item>
+        <item>America/North_Dakota/New_Salem</item>
+        <item>America/Panama</item>
+        <item>America/Phoenix</item>
+        <item>America/Port_of_Spain</item>
+        <item>America/Port-au-Prince</item>
+        <item>America/Puerto_Rico</item>
+        <item>America/Santo_Domingo</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/St_Johns</item>
+        <item>America/St_Kitts</item>
+        <item>America/St_Lucia</item>
+        <item>America/St_Thomas</item>
+        <item>America/Tijuana</item>
+        <item>America/Toronto</item>
+        <item>America/Vancouver</item>
+        <item>America/Winnipeg</item>
+        <item>Antarctica/South_Pole</item>
+        <item>Arctic/Longyearbyen</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Amman</item>
+        <item>Asia/Anadyr</item>
+        <item>Asia/Aqtau</item>
+        <item>Asia/Baghdad</item>
+        <item>Asia/Bahrain</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Beirut</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Damascus</item>
+        <item>Asia/Dhaka</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Gaza</item>
+        <item>Asia/Hebron</item>
+        <item>Asia/Ho_Chi_Minh</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Istanbul</item>
+        <item>Asia/Jakarta</item>
+        <item>Asia/Jerusalem</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Kathmandu</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Asia/Kuwait</item>
+        <item>Asia/Macau</item>
+        <item>Asia/Manila</item>
+        <item>Asia/Muscat</item>
+        <item>Asia/Phnom_Penh</item>
+        <item>Asia/Pyongyang</item>
+        <item>Asia/Qatar</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Riyadh</item>
+        <item>Asia/Saigon</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Singapore</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Tel_Aviv</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Ulaanbaatar</item>
+        <item>Atlantic/Bermuda</item>
+        <item>Atlantic/Canary</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Atlantic/Reykjavik</item>
+        <item>Atlantic/Stanley</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Canberra</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Melbourne</item>
+        <item>Australia/NSW</item>
+        <item>Australia/Perth</item>
+        <item>Australia/Queensland</item>
+        <item>Australia/Sydney</item>
+        <item>Australia/Victoria</item>
+        <item>Canada/Newfoundland</item>
+        <item>Canada/Saskatchewan</item>
+        <item>Chile/EasterIsland</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Andorra</item>
+        <item>Europe/Athens</item>
+        <item>Europe/Belfast</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Berlin</item>
+        <item>Europe/Bratislava</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Bucharest</item>
+        <item>Europe/Budapest</item>
+        <item>Europe/Chisinau</item>
+        <item>Europe/Copenhagen</item>
+        <item>Europe/Dublin</item>
+        <item>Europe/Gibraltar</item>
+        <item>Europe/Helsinki</item>
+        <item>Europe/Isle_of_Man</item>
+        <item>Europe/Istanbul</item>
+        <item>Europe/Kiev</item>
+        <item>Europe/Lisbon</item>
+        <item>Europe/London</item>
+        <item>Europe/Luxembourg</item>
+        <item>Europe/Madrid</item>
+        <item>Europe/Malta</item>
+        <item>Europe/Minsk</item>
+        <item>Europe/Monaco</item>
+        <item>Europe/Moscow</item>
+        <item>Europe/Oslo</item>
+        <item>Europe/Paris</item>
+        <item>Europe/Prague</item>
+        <item>Europe/Riga</item>
+        <item>Europe/Rome</item>
+        <item>Europe/San_Marino</item>
+        <item>Europe/Sarajevo</item>
+        <item>Europe/Simferopol</item>
+        <item>Europe/Skopje</item>
+        <item>Europe/Sofia</item>
+        <item>Europe/Stockholm</item>
+        <item>Europe/Tallinn</item>
+        <item>Europe/Vatican</item>
+        <item>Europe/Vienna</item>
+        <item>Europe/Vilnius</item>
+        <item>Europe/Warsaw</item>
+        <item>Europe/Zagreb</item>
+        <item>Europe/Zurich</item>
+        <item>Indian/Antananarivo</item>
+        <item>Indian/Maldives</item>
+        <item>Indian/Mauritius</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Guam</item>
+        <item>Pacific/Honolulu</item>
+        <item>Pacific/Kiritimati</item>
+        <item>Pacific/Noumea</item>
+        <item>Pacific/Samoa</item>
+        <item>Pacific/Tahiti</item>
+        <item>America/Antigua</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/Denver</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Denver</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Guatemala</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/Chicago</item>
+        <item>America/Chicago</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Denver</item>
+        <item>MST</item>
+        <item>America/Los_Angeles</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/Chicago</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/New_York</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Los_Angeles</item>
+        <item>Asia/Riyadh</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Kolkata</item>
+        <item>Asia/Kolkata</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Riyadh</item>
+        <item>Europe/Madrid</item>
+        <item>Europe/Berlin</item>
+        <item>Europe/Rome</item>
+        <item>Europe/Berlin</item>
+        <item>Asia/Bangkok</item>
+        <item>Europe/Istanbul</item>
+        <item>Asia/Kolkata</item>
+        <item>America/Sao_Paulo</item>
+        <item>Africa/Johannesburg</item>
+        <item>Asia/Karachi</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Detroit</item>
+        <item>America/Denver</item>
+        <item>America/New_York</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Chicago</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Kolkata</item>
+        <item>America/New_York</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Santiago</item>
+        <item>Africa/Monrovia</item>
+        <item>Asia/Colombo</item>
+        <item>America/Chihuahua</item>
+        <item>America/Sao_Paulo</item>
+        <item>Asia/Kolkata</item>
+        <item>Europe/London</item>
+        <item>Europe/Bucharest</item>
+        <item>Europe/Moscow</item>
+        <item>Europe/Warsaw</item>
+        <item>Europe/Warsaw</item>
+        <item>Europe/Berlin</item>
+        <item>Europe/Bucharest</item>
+        <item>Asia/Jerusalem</item>
+        <item>America/Puerto Rico</item>
+        <item>America/Tegucigalpa</item>
+        <item>America/Paramaribo</item>
+        <item>America/Panama</item>
+    </string-array>
+    <string-array name="g">
+        <item>same as local time</item>
+        <item>%1$s behind</item>
+        <item>%2$s behind</item>
+        <item>%1$s %2$s behind</item>
+        <item>%3$s behind</item>
+        <item>%1$s %3$s behind</item>
+        <item>%2$s %3$s behind</item>
+        <item>%1$s %2$s behind</item>
+    </string-array>
+    <string-array name="h">
+        <item>same as local time</item>
+        <item>%1$s ahead</item>
+        <item>%2$s ahead</item>
+        <item>%1$s %2$s ahead</item>
+        <item>%3$s ahead</item>
+        <item>%1$s %3$s ahead</item>
+        <item>%2$s %3$s ahead</item>
+        <item>%1$s %2$s ahead</item>
+    </string-array>
+    <string-array name="i">
+        <item>"Cote d'Ivoire"</item>
+        <item>Ghana</item>
+        <item>Ethiopia</item>
+        <item>Algeria</item>
+        <item>Malawi</item>
+        <item>Congo</item>
+        <item>Egypt</item>
+        <item>Morocco</item>
+        <item>Guinea</item>
+        <item>Senegal</item>
+        <item>Tanzania</item>
+        <item>Djibouti</item>
+        <item>Sierra Leone</item>
+        <item>Botswana</item>
+        <item>Zimbabwe</item>
+        <item>South Africa</item>
+        <item>Uganda</item>
+        <item>Sudan</item>
+        <item>Rwanda</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Nigeria</item>
+        <item>Lesotho</item>
+        <item>Somalia</item>
+        <item>Kenya</item>
+        <item>São Tomé and Príncipe</item>
+        <item>Mali</item>
+        <item>Libya</item>
+        <item>Tunisia</item>
+        <item>United States</item>
+        <item>Argentina</item>
+        <item>Aruba</item>
+        <item>Paraguay</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Colombia</item>
+        <item>Argentina</item>
+        <item>Mexico</item>
+        <item>Venezuela</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Costa Rica</item>
+        <item>Curaçao</item>
+        <item>Canada</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Dominica</item>
+        <item>Canada</item>
+        <item>Brazil</item>
+        <item>Brazil</item>
+        <item>C0</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Canada</item>
+        <item>Cuba</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Jamaica</item>
+        <item>Bolivia</item>
+        <item>Peru</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Nicaragua</item>
+        <item>Martinique</item>
+        <item>Argentina</item>
+        <item>United States</item>
+        <item>Mexico</item>
+        <item>Mexico</item>
+        <item>Uruguay</item>
+        <item>Canada</item>
+        <item>Bahamas</item>
+        <item>United States</item>
+        <item>C0</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Panama</item>
+        <item>United States</item>
+        <item>Trinidad and Tobago</item>
+        <item>Haiti</item>
+        <item>Puerto Rico</item>
+        <item>Dominican Republic</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>The Federation of Saint Kitts and Nevis</item>
+        <item>St Lucia</item>
+        <item>US Virgin Islands</item>
+        <item>Mexico</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>C0</item>
+        <item>Norway</item>
+        <item>Kazakhstan</item>
+        <item>Jordan</item>
+        <item>Russia</item>
+        <item>Kazakhstan</item>
+        <item>Iraq</item>
+        <item>Bahrain</item>
+        <item>Azerbaijan</item>
+        <item>Thailand</item>
+        <item>Lebanon</item>
+        <item>India</item>
+        <item>Syria</item>
+        <item>Bangladesh</item>
+        <item>United Arab Emirates</item>
+        <item>Palestine Territories</item>
+        <item>Palestine Territories</item>
+        <item>Vietnam</item>
+        <item>China</item>
+        <item>Turkey</item>
+        <item>Indonesia</item>
+        <item>C0</item>
+        <item>Afghanistan</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Malaysia</item>
+        <item>Kuwait</item>
+        <item>China</item>
+        <item>Philippines</item>
+        <item>Oman</item>
+        <item>Cambodia</item>
+        <item>North Korea</item>
+        <item>C0</item>
+        <item>Myanmar</item>
+        <item>Saudi Arabia</item>
+        <item>C0</item>
+        <item>South Korea</item>
+        <item>China</item>
+        <item>Singapore</item>
+        <item>China</item>
+        <item>Iran</item>
+        <item>Israel</item>
+        <item>Japan</item>
+        <item>Mongolia</item>
+        <item>Bermuda</item>
+        <item>Spain</item>
+        <item>Cape Verde</item>
+        <item>Iceland</item>
+        <item>Falkland Islands</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Australia</item>
+        <item>Canada</item>
+        <item>Canada</item>
+        <item>Republic of Chile</item>
+        <item>Netherlands</item>
+        <item>Andorra</item>
+        <item>Greece</item>
+        <item>United Kingdom</item>
+        <item>Serbia</item>
+        <item>Germany</item>
+        <item>Slovakia</item>
+        <item>Belgium</item>
+        <item>Romania</item>
+        <item>Hungary</item>
+        <item>Moldova</item>
+        <item>Denmark</item>
+        <item>Ireland</item>
+        <item>Gibraltar</item>
+        <item>Finland</item>
+        <item>Isle of Man</item>
+        <item>Turkey</item>
+        <item>Ukraine</item>
+        <item>Portugal</item>
+        <item>United Kingdom</item>
+        <item>Luxembourg</item>
+        <item>Spain</item>
+        <item>Malta</item>
+        <item>Belarus</item>
+        <item>Monaco</item>
+        <item>Russia</item>
+        <item>Norway</item>
+        <item>France</item>
+        <item>Czech Republic</item>
+        <item>Latvia</item>
+        <item>Italy</item>
+        <item>San Marino</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Ukraine</item>
+        <item>Macedonia (FYROM)</item>
+        <item>Bulgaria</item>
+        <item>Sweden</item>
+        <item>Estonia</item>
+        <item>Vatican</item>
+        <item>Austria</item>
+        <item>Lithuania</item>
+        <item>Poland</item>
+        <item>Croatia</item>
+        <item>Switzerland</item>
+        <item>Madagascar</item>
+        <item>Maldives</item>
+        <item>Mauritius</item>
+        <item>New Zealand</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>United States</item>
+        <item>Kiribati</item>
+        <item>New Caledonia</item>
+        <item>Samoa</item>
+        <item>French Polynesia</item>
+        <item>Antigua and Barbuda</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Canada</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Canada</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Costa Rica</item>
+        <item>El Salvador</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>Qatar</item>
+        <item>China</item>
+        <item>India</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Pakistan</item>
+        <item>Yemen</item>
+        <item>Spain</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Germany</item>
+        <item>Vietnam</item>
+        <item>Turkey</item>
+        <item>India</item>
+        <item>Brazil</item>
+        <item>South Africa</item>
+        <item>Pakistan</item>
+        <item>Brazil</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>United States</item>
+        <item>China</item>
+        <item>India</item>
+        <item>United States</item>
+        <item>Brazil</item>
+        <item>Chile</item>
+        <item>Liberia</item>
+        <item>Sri Lanka</item>
+        <item>Mexico</item>
+        <item>Brazil</item>
+        <item>India</item>
+        <item>C0</item>
+        <item>C0</item>
+        <item>Russia</item>
+        <item>Poland</item>
+        <item>Poland</item>
+        <item>Germany</item>
+        <item>Finland</item>
+        <item>Israel</item>
+        <item>Argentina</item>
+        <item>Honduras</item>
+        <item>Surinam</item>
+        <item>Ecuador</item>
+    </string-array>
+    <string-array name="j">
+        <item>1546272000000</item>
+        <item>1549209600000</item>
+        <item>1549296000000</item>
+        <item>1549382400000</item>
+        <item>1549555200000</item>
+        <item>1549641600000</item>
+        <item>1549728000000</item>
+        <item>1549468800000</item>
+        <item>1554480000000</item>
+        <item>1554566400000</item>
+        <item>1556640000000</item>
+        <item>1559923200000</item>
+        <item>1554393600000</item>
+        <item>1559836800000</item>
+        <item>1560009600000</item>
+        <item>1568304000000</item>
+        <item>1568390400000</item>
+        <item>1568476800000</item>
+        <item>1569859200000</item>
+        <item>1569945600000</item>
+        <item>1570032000000</item>
+        <item>1570118400000</item>
+        <item>1570204800000</item>
+        <item>1570377600000</item>
+        <item>1570291200000</item>
+        <item>1556726400000</item>
+        <item>1556812800000</item>
+        <item>1556899200000</item>
+        <item>1577808000000</item>
+        <item>1579795200000</item>
+        <item>1579881600000</item>
+        <item>1579968000000</item>
+        <item>1580054400000</item>
+        <item>1580140800000</item>
+        <item>1580227200000</item>
+        <item>1585929600000</item>
+        <item>1580313600000</item>
+        <item>1586102400000</item>
+        <item>1588435200000</item>
+        <item>1588348800000</item>
+        <item>1588262400000</item>
+        <item>1588608000000</item>
+        <item>1593187200000</item>
+        <item>1588521600000</item>
+        <item>1601827200000</item>
+        <item>1593100800000</item>
+        <item>1586016000000</item>
+        <item>1601481600000</item>
+        <item>1601568000000</item>
+        <item>1601913600000</item>
+        <item>1593014400000</item>
+        <item>1601654400000</item>
+        <item>1602000000000</item>
+        <item>1602086400000</item>
+        <item>1601740800000</item>
+    </string-array>
+    <string-array name="k">
+        <item>176.24|83.19</item>
+        <item>179.9|82.91</item>
+        <item>218.32|79.84</item>
+        <item>183.14|51.18</item>
+        <item>176.24|30.87</item>
+        <item>195.28|93.05</item>
+        <item>211.42|58.63</item>
+        <item>172.58|54.36</item>
+        <item>166.76|78.98</item>
+        <item>163.82|73.95</item>
+        <item>218.32|95.54</item>
+        <item>222.8|77.6</item>
+        <item>168.48|79.84</item>
+        <item>205.73|113.81</item>
+        <item>211.45|109.64</item>
+        <item>208.11|115.82</item>
+        <item>212.66|88.43</item>
+        <item>212.7|73.01</item>
+        <item>210.18|90.74</item>
+        <item>196.04|94.54</item>
+        <item>183.59|82.05</item>
+        <item>207.66|119.4</item>
+        <item>225.42|86.74</item>
+        <item>217.18|90.91</item>
+        <item>186.76|88.91</item>
+        <item>177.03|71.88</item>
+        <item>192.97|55.05</item>
+        <item>189.9|51.18</item>
+        <item>31.28|24.52</item>
+        <item>111.99|123.4</item>
+        <item>110.06|76.22</item>
+        <item>122.54|114.85</item>
+        <item>120.99|74.95</item>
+        <item>91.36|71.7</item>
+        <item>105.99|84.67</item>
+        <item>122.78|126.33</item>
+        <item>91.33|66.84</item>
+        <item>112.71|79.26</item>
+        <item>97.64|69.29</item>
+        <item>94.22|45.35</item>
+        <item>96.29|78.22</item>
+        <item>111.12|76.67</item>
+        <item>59.63|30.11</item>
+        <item>75.08|47.73</item>
+        <item>97.02|44.97</item>
+        <item>118.85|73.22</item>
+        <item>66.29|31.97</item>
+        <item>141.68|102.05</item>
+        <item>140.79|94.36</item>
+        <item>109.61|64.87</item>
+        <item>118.44|76.29</item>
+        <item>89.78|72.81</item>
+        <item>121.3|82.5</item>
+        <item>113.44|41.32</item>
+        <item>97.64|65.01</item>
+        <item>93.81|47.7</item>
+        <item>93.91|45.91</item>
+        <item>90.43|44.94</item>
+        <item>103.09|50.35</item>
+        <item>93.26|49.73</item>
+        <item>94.88|48.84</item>
+        <item>92.47|48.77</item>
+        <item>93.22|46.04</item>
+        <item>103.09|70.74</item>
+        <item>111.78|105.78</item>
+        <item>103.12|101.95</item>
+        <item>63.01|53.36</item>
+        <item>94.22|49.32</item>
+        <item>94.22|76.08</item>
+        <item>119.06|74.12</item>
+        <item>111.99|123.4</item>
+        <item>48.77|30.59</item>
+        <item>80.6|68.15</item>
+        <item>81.74|67.12</item>
+        <item>123.92|125.78</item>
+        <item>105.4|41.42</item>
+        <item>102.64|63.08</item>
+        <item>105.61|46.39</item>
+        <item>78.95|39.35</item>
+        <item>85.67|54.63</item>
+        <item>88.57|47.56</item>
+        <item>100.43|79.77</item>
+        <item>67.94|53.15</item>
+        <item>118.47|78.43</item>
+        <item>107.23|67.53</item>
+        <item>113.99|70.15</item>
+        <item>111.26|67.25</item>
+        <item>134.03|114.06</item>
+        <item>124.68|38.9</item>
+        <item>117.95|68.63</item>
+        <item>119.2|73.95</item>
+        <item>116.64|67.81</item>
+        <item>64.87|55.18</item>
+        <item>100.78|43.46</item>
+        <item>58.01|37.04</item>
+        <item>83.4|36.28</item>
+        <item>351.79|179.34</item>
+        <item>195.8|5.59</item>
+        <item>256.15|43.39</item>
+        <item>216.04|55.77</item>
+        <item>357.62|21.07</item>
+        <item>231.15|43.73</item>
+        <item>224.49|54.39</item>
+        <item>230.6|61.84</item>
+        <item>229.87|46.91</item>
+        <item>280.61|74.7</item>
+        <item>216.28|53.94</item>
+        <item>268.43|66.01</item>
+        <item>217.04|54.6</item>
+        <item>270.78|64.22</item>
+        <item>234.94|63.49</item>
+        <item>214.45|55.87</item>
+        <item>214.9|56.36</item>
+        <item>286.78|77.98</item>
+        <item>293.61|65.18</item>
+        <item>253.15|54.01</item>
+        <item>287.37|92.12</item>
+        <item>215.28|56.11</item>
+        <item>249.25|53.15</item>
+        <item>247.12|62.7</item>
+        <item>265.46|60.05</item>
+        <item>281.92|85.67</item>
+        <item>228.04|58.46</item>
+        <item>292.92|65.46</item>
+        <item>301.2|74.01</item>
+        <item>238.74|64.94</item>
+        <item>285.02|76.88</item>
+        <item>305.64|48.46</item>
+        <item>231.42|63.18</item>
+        <item>276.6|70.53</item>
+        <item>226.94|63.43</item>
+        <item>286.78|77.98</item>
+        <item>307.02|50.15</item>
+        <item>301.61|56.15</item>
+        <item>284.23|87.5</item>
+        <item>301.58|63.05</item>
+        <item>231.53|51.94</item>
+        <item>214.9|55.7</item>
+        <item>319.92|51.87</item>
+        <item>285.68|38.56</item>
+        <item>115.4|55.42</item>
+        <item>165.14|59.18</item>
+        <item>155.96|72.98</item>
+        <item>157.03|22.28</item>
+        <item>119.71|143.68</item>
+        <item>318.51|125.37</item>
+        <item>331.89|117.3</item>
+        <item>329.13|126.58</item>
+        <item>312.09|102.85</item>
+        <item>325.03|130.09</item>
+        <item>325.89|123.09</item>
+        <item>296.33|122.33</item>
+        <item>326.13|112.33</item>
+        <item>331.3|124.54</item>
+        <item>323.3|128.02</item>
+        <item>123.06|36.87</item>
+        <item>74.12|33.49</item>
+        <item>70.57|116.85</item>
+        <item>186.1|33.35</item>
+        <item>180.52|44.39</item>
+        <item>203.28|49.04</item>
+        <item>175.03|31.01</item>
+        <item>201|42.25</item>
+        <item>192.76|33.35</item>
+        <item>197.69|38.39</item>
+        <item>185.21|35.11</item>
+        <item>205.94|42.53</item>
+        <item>199.62|39.08</item>
+        <item>209.04|39.42</item>
+        <item>194|28.66</item>
+        <item>174.93|32.08</item>
+        <item>174.72|49.77</item>
+        <item>204.8|24.35</item>
+        <item>176.69|31.42</item>
+        <item>209.04|46.28</item>
+        <item>210.9|35.52</item>
+        <item>172.03|47.8</item>
+        <item>179|33.08</item>
+        <item>186.86|36.56</item>
+        <item>176|46.7</item>
+        <item>194.55|51.87</item>
+        <item>208.01|31.52</item>
+        <item>187.73|41.73</item>
+        <item>218.04|30.07</item>
+        <item>190.83|25.56</item>
+        <item>183.28|37.49</item>
+        <item>195.14|35.97</item>
+        <item>204.56|29.11</item>
+        <item>192.8|45.35</item>
+        <item>193.83|43.59</item>
+        <item>198.9|43.22</item>
+        <item>214.32|42.01</item>
+        <item>201.87|44.77</item>
+        <item>203.56|43.7</item>
+        <item>196.62|26.66</item>
+        <item>206.07|26.94</item>
+        <item>193.17|45.42</item>
+        <item>196.93|38.28</item>
+        <item>205.73|31.01</item>
+        <item>201.56|33.56</item>
+        <item>197.04|40.84</item>
+        <item>189.38|39.04</item>
+        <item>227.66|107.99</item>
+        <item>253.39|84.91</item>
+        <item>237.56|109.47</item>
+        <item>354.69|128.33</item>
+        <item>358.69|105.71</item>
+        <item>324.99|75.43</item>
+        <item>22.04|67.12</item>
+        <item>22.83|87.05</item>
+        <item>344.55|107.88</item>
+        <item>7.35|102.54</item>
+        <item>33.97|106.12</item>
+        <item>118.26|71.57</item>
+        <item>81.64|57.08</item>
+        <item>107.68|44.46</item>
+        <item>66.84|34.9</item>
+        <item>97.02|47.49</item>
+        <item>83.08|54.49</item>
+        <item>95.71|51.56</item>
+        <item>89.88|52.22</item>
+        <item>99.74|61.6</item>
+        <item>87.22|42.04</item>
+        <item>104.4|40.94</item>
+        <item>89.64|47.32</item>
+        <item>58.11|40.7</item>
+        <item>64.08|54.84</item>
+        <item>58.67|49.6</item>
+        <item>68.46|46.53</item>
+        <item>96.29|78.22</item>
+        <item>90.22|74.08</item>
+        <item>58.74|39.08</item>
+        <item>89.67|48.97</item>
+        <item>102.95|48.42</item>
+        <item>83.77|57.05</item>
+        <item>81.08|57.74</item>
+        <item>97.81|57.18</item>
+        <item>102.99|47.56</item>
+        <item>93.19|51.15</item>
+        <item>92.5|44.04</item>
+        <item>82.46|52.25</item>
+        <item>65.22|51.32</item>
+        <item>74.19|53.11</item>
+        <item>69.94|55.53</item>
+        <item>59.36|48.39</item>
+        <item>95.19|53.6</item>
+        <item>98.43|45.59</item>
+        <item>89.53|56.87</item>
+        <item>97.05|59.98</item>
+        <item>99.54|47.01</item>
+        <item>95.47|48.42</item>
+        <item>58.98|49.73</item>
+        <item>60.77|47.94</item>
+        <item>61.01|46.49</item>
+        <item>231.46|62.84</item>
+        <item>297.3|45.39</item>
+        <item>253.53|68.94</item>
+        <item>257.01|58.98</item>
+        <item>315.51|52.94</item>
+        <item>253.08|56.42</item>
+        <item>224.97|72.98</item>
+        <item>181.24|44.53</item>
+        <item>191.9|38.32</item>
+        <item>189.9|41.28</item>
+        <item>189.42|35.9</item>
+        <item>285.64|66.91</item>
+        <item>213.04|47.11</item>
+        <item>257.88|75.08</item>
+        <item>131.96|104.68</item>
+        <item>199.28|124.75</item>
+        <item>253.19|54.01</item>
+        <item>136.92|113.02</item>
+        <item>96.26|44.97</item>
+        <item>74.7|47.39</item>
+        <item>107.68|44.46</item>
+        <item>59.39|38.66</item>
+        <item>90.95|44.08</item>
+        <item>293.19|64.6</item>
+        <item>258.46|70.22</item>
+        <item>102.26|48.87</item>
+        <item>135.99|108.99</item>
+        <item>110.37|124.44</item>
+        <item>169.62|82.4</item>
+        <item>259.91|82.12</item>
+        <item>73.88|58.98</item>
+        <item>141.61|102.26</item>
+        <item>256.98|59.39</item>
+        <item>178.65|31.9</item>
+        <item>210.83|35.66</item>
+        <item>210.73|25.35</item>
+        <item>197.56|34.87</item>
+        <item>197.56|34.87</item>
+        <item>190.31|32.01</item>
+        <item>205.66|20.11</item>
+        <item>215.52|54.91</item>
+        <item>111.5|121.71</item>
+        <item>92.19|73.77</item>
+        <item>121.33|82.81</item>
+        <item>102.36|89.57</item>
+    </string-array>
+    <array name="l">
+        <item>#ff43b56b</item>
+        <item>#ff44aff9</item>
+        <item>#fff56455</item>
+        <item>#ff5ecddf</item>
+        <item>#fff6b944</item>
+        <item>#ffbd713b</item>
+    </array>
+    <string-array name="m">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="n">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="o">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="p">
+        <item>0.0f</item>
+        <item>0.00013f</item>
+        <item>0.00046f</item>
+        <item>0.00104f</item>
+        <item>0.00182f</item>
+        <item>0.00286f</item>
+        <item>0.0041f</item>
+        <item>0.0056f</item>
+        <item>0.00729f</item>
+        <item>0.00924f</item>
+        <item>0.01146f</item>
+        <item>0.01387f</item>
+        <item>0.01647f</item>
+        <item>0.01934f</item>
+        <item>0.0224f</item>
+        <item>0.02572f</item>
+        <item>0.0293f</item>
+        <item>0.03307f</item>
+        <item>0.03711f</item>
+        <item>0.04134f</item>
+        <item>0.04583f</item>
+        <item>0.05052f</item>
+        <item>0.05547f</item>
+        <item>0.06061f</item>
+        <item>0.06602f</item>
+        <item>0.07168f</item>
+        <item>0.07754f</item>
+        <item>0.08366f</item>
+        <item>0.08997f</item>
+        <item>0.09655f</item>
+        <item>0.10332f</item>
+        <item>0.11035f</item>
+        <item>0.11764f</item>
+        <item>0.1252f</item>
+        <item>0.13294f</item>
+        <item>0.14089f</item>
+        <item>0.14915f</item>
+        <item>0.15762f</item>
+        <item>0.16628f</item>
+        <item>0.17526f</item>
+        <item>0.18444f</item>
+        <item>0.19388f</item>
+        <item>0.20352f</item>
+        <item>0.21348f</item>
+        <item>0.22363f</item>
+        <item>0.23405f</item>
+        <item>0.24466f</item>
+        <item>0.2556f</item>
+        <item>0.26673f</item>
+        <item>0.27813f</item>
+        <item>0.28978f</item>
+        <item>0.30169f</item>
+        <item>0.31387f</item>
+        <item>0.3263f</item>
+        <item>0.339f</item>
+        <item>0.35195f</item>
+        <item>0.3651f</item>
+        <item>0.37858f</item>
+        <item>0.39232f</item>
+        <item>0.40632f</item>
+        <item>0.42057f</item>
+        <item>0.43516f</item>
+        <item>0.44993f</item>
+        <item>0.46504f</item>
+        <item>0.4804f</item>
+        <item>0.49609f</item>
+        <item>0.51204f</item>
+        <item>0.52826f</item>
+        <item>0.54479f</item>
+        <item>0.56165f</item>
+        <item>0.57878f</item>
+        <item>0.59622f</item>
+        <item>0.614f</item>
+        <item>0.63203f</item>
+        <item>0.65046f</item>
+        <item>0.66921f</item>
+        <item>0.68822f</item>
+        <item>0.70768f</item>
+        <item>0.72741f</item>
+        <item>0.74759f</item>
+        <item>0.7681f</item>
+        <item>0.789f</item>
+        <item>0.81035f</item>
+        <item>0.8321f</item>
+        <item>0.8543f</item>
+        <item>0.87702f</item>
+        <item>0.9002f</item>
+        <item>0.92402f</item>
+        <item>0.94844f</item>
+        <item>0.97363f</item>
+        <item>1f</item>
+    </string-array>
+    <string-array name="q">
+        <item>0.0f</item>
+        <item>0.02637f</item>
+        <item>0.05156f</item>
+        <item>0.07598f</item>
+        <item>0.0998f</item>
+        <item>0.12298f</item>
+        <item>0.1457f</item>
+        <item>0.1679f</item>
+        <item>0.18965f</item>
+        <item>0.211f</item>
+        <item>0.2319f</item>
+        <item>0.25241f</item>
+        <item>0.27259f</item>
+        <item>0.29232f</item>
+        <item>0.31178f</item>
+        <item>0.33079f</item>
+        <item>0.34954f</item>
+        <item>0.36797f</item>
+        <item>0.386f</item>
+        <item>0.40378f</item>
+        <item>0.42122f</item>
+        <item>0.43835f</item>
+        <item>0.45521f</item>
+        <item>0.47174f</item>
+        <item>0.48796f</item>
+        <item>0.50391f</item>
+        <item>0.5196f</item>
+        <item>0.53496f</item>
+        <item>0.55007f</item>
+        <item>0.56484f</item>
+        <item>0.57943f</item>
+        <item>0.59368f</item>
+        <item>0.60768f</item>
+        <item>0.62142f</item>
+        <item>0.6349f</item>
+        <item>0.64805f</item>
+        <item>0.661f</item>
+        <item>0.6737f</item>
+        <item>0.68613f</item>
+        <item>0.69831f</item>
+        <item>0.71022f</item>
+        <item>0.72188f</item>
+        <item>0.73327f</item>
+        <item>0.7444f</item>
+        <item>0.75534f</item>
+        <item>0.76595f</item>
+        <item>0.77637f</item>
+        <item>0.78652f</item>
+        <item>0.79648f</item>
+        <item>0.80612f</item>
+        <item>0.81556f</item>
+        <item>0.82474f</item>
+        <item>0.83372f</item>
+        <item>0.84238f</item>
+        <item>0.85085f</item>
+        <item>0.85911f</item>
+        <item>0.86706f</item>
+        <item>0.8748f</item>
+        <item>0.88236f</item>
+        <item>0.88965f</item>
+        <item>0.89668f</item>
+        <item>0.90345f</item>
+        <item>0.91003f</item>
+        <item>0.91634f</item>
+        <item>0.92246f</item>
+        <item>0.92832f</item>
+        <item>0.93398f</item>
+        <item>0.93939f</item>
+        <item>0.94453f</item>
+        <item>0.94948f</item>
+        <item>0.95417f</item>
+        <item>0.95866f</item>
+        <item>0.96289f</item>
+        <item>0.96693f</item>
+        <item>0.9707f</item>
+        <item>0.97428f</item>
+        <item>0.9776f</item>
+        <item>0.98066f</item>
+        <item>0.98353f</item>
+        <item>0.98613f</item>
+        <item>0.98854f</item>
+        <item>0.99076f</item>
+        <item>0.99271f</item>
+        <item>0.9944f</item>
+        <item>0.9959f</item>
+        <item>0.99714f</item>
+        <item>0.99818f</item>
+        <item>0.99896f</item>
+        <item>0.99954f</item>
+        <item>0.99987f</item>
+        <item>1f</item>
+    </string-array>
+    <array name="r">
+        <item>#ffc9c9c9</item>
+        <item>#ffc9c9c9</item>
+        <item>#ffc9c9c9</item>
+        <item>#ffc9c9c9</item>
+        <item>#ffc9c9c9</item>
+    </array>
+    <array name="s">
+        <item>#fffbc106</item>
+        <item>#fffcb10f</item>
+        <item>#fffc9c1b</item>
+        <item>#fffc8f21</item>
+        <item>#fffd7d2c</item>
+    </array>
+    <array name="t">
+        <item>#ff7f7f7f</item>
+        <item>#ff7f7f7f</item>
+        <item>#ff7f7f7f</item>
+        <item>#ff7f7f7f</item>
+        <item>#ff7f7f7f</item>
+    </array>
+    <string-array name="u">
+        <item>1f</item>
+        <item>0.9098163031f</item>
+        <item>0.8200344432f</item>
+        <item>0.7394374282f</item>
+        <item>0.6665901263f</item>
+        <item>0.600401837f</item>
+        <item>0.5400114811f</item>
+        <item>0.4847301952f</item>
+        <item>0.4340413318f</item>
+        <item>0.3874856487f</item>
+        <item>0.3446613088f</item>
+        <item>0.3052812859f</item>
+        <item>0.2691733639f</item>
+        <item>0.2359931114f</item>
+        <item>0.2056257176f</item>
+        <item>0.1778415614f</item>
+        <item>0.1525258324f</item>
+        <item>0.1295637199f</item>
+        <item>0.1088404133f</item>
+        <item>0.0901836969f</item>
+        <item>0.07347876f</item>
+        <item>0.07347876f</item>
+        <item>0.058783008f</item>
+        <item>0.0458094145f</item>
+        <item>0.0346727899f</item>
+        <item>0.0251435132f</item>
+        <item>0.0172789897f</item>
+        <item>0.0109070034f</item>
+        <item>0.0060849598f</item>
+        <item>0.0026406429f</item>
+        <item>0.0006314581f</item>
+        <item>0f</item>
+    </string-array>
+    <array name="v">
+        <item>#ffe26f41</item>
+        <item>#ffdd5847</item>
+        <item>#ff6e6bc8</item>
+        <item>#ff517bd1</item>
+        <item>#ff28bc92</item>
+        <item>#ff54ae56</item>
+        <item>#ffe9a63b</item>
+    </array>
+    <string-array name="w">
+        <item>%6$d%5$c ‎%2$d ‎%3$02d%5$c%4$02d</item>
+        <item>%6$d%5$c ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+        <item>%6$d%5$c ‎%1$d ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+        <item>%6$d%5$c ‎%1$02d ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+        <item>%6$d%5$c ‎%1$03d ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+    </string-array>
+    <string-array name="x">
+        <item>@string/af</item>
+        <item>@string/js</item>
+        <item>@string/ju</item>
+        <item>@string/jq</item>
+        <item>@string/jw</item>
+    </string-array>
+    <integer-array name="y">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+    </integer-array>
+    <string-array name="z">
+        <item>%2$d ‎%3$02d%5$c%4$02d</item>
+        <item>%2$02d ‎%3$02d%5$c%4$02d</item>
+        <item>%1$d ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+        <item>%1$02d ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+        <item>%1$03d ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+    </string-array>
+    <string-array name="a0">
+        <item>@string/kh</item>
+        <item>@string/ki</item>
+        <item>@string/kk</item>
+        <item>@string/kj</item>
+    </string-array>
+    <string-array name="a1">
+        <item>@string/km</item>
+        <item>@string/kn</item>
+        <item>@string/kp</item>
+        <item>@string/ko</item>
+    </string-array>
+    <string-array name="a2">
+        <item>0.0f</item>
+        <item>0.12734375f</item>
+        <item>0.290538194f</item>
+        <item>0.445486111f</item>
+        <item>0.579947917f</item>
+        <item>0.678038194f</item>
+        <item>0.747916667f</item>
+        <item>0.802170139f</item>
+        <item>0.845746528f</item>
+        <item>0.881510417f</item>
+        <item>0.911024306f</item>
+        <item>0.935503472f</item>
+        <item>0.95546875f</item>
+        <item>0.971440972f</item>
+        <item>0.983767361f</item>
+        <item>0.992708333f</item>
+        <item>0.998090278f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="a3">
+        <item>0.0</item>
+        <item>0.0047222222</item>
+        <item>0.0180555556</item>
+        <item>0.0391666667</item>
+        <item>0.0669444444</item>
+        <item>0.100462963</item>
+        <item>0.1387962963</item>
+        <item>0.1812037037</item>
+        <item>0.2268518519</item>
+        <item>0.2749074074</item>
+        <item>0.3247222222</item>
+        <item>0.3756481481</item>
+        <item>0.4271296296</item>
+        <item>0.4785185185</item>
+        <item>0.5294444444</item>
+        <item>0.5792592593</item>
+        <item>0.6277777778</item>
+        <item>0.6744444444</item>
+        <item>0.7188888889</item>
+        <item>0.7609259259</item>
+        <item>0.8002777778</item>
+        <item>0.8365740741</item>
+        <item>0.8696296296</item>
+        <item>0.8993518519</item>
+        <item>0.925462963</item>
+        <item>0.9478703704</item>
+        <item>0.9664814815</item>
+        <item>0.9810185185</item>
+        <item>0.9914814815</item>
+        <item>0.9978703704</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="a4">
+        <item>0.0</item>
+        <item>0.0037037037</item>
+        <item>0.0149074074</item>
+        <item>0.0334259259</item>
+        <item>0.0590740741</item>
+        <item>0.0915740741</item>
+        <item>0.1301851852</item>
+        <item>0.1741666667</item>
+        <item>0.2228703704</item>
+        <item>0.2750925926</item>
+        <item>0.3299074074</item>
+        <item>0.3862962963</item>
+        <item>0.4431481481</item>
+        <item>0.4996296296</item>
+        <item>0.5548148148</item>
+        <item>0.6081481481</item>
+        <item>0.6589814815</item>
+        <item>0.7068518519</item>
+        <item>0.7513888889</item>
+        <item>0.7924074074</item>
+        <item>0.8297222222</item>
+        <item>0.8632407407</item>
+        <item>0.892962963</item>
+        <item>0.9188888889</item>
+        <item>0.9410185185</item>
+        <item>0.959537037</item>
+        <item>0.9744444444</item>
+        <item>0.9857407407</item>
+        <item>0.9937962963</item>
+        <item>0.9984259259</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="a5">
+        <item>0.0f</item>
+        <item>0.240190972f</item>
+        <item>0.466145833f</item>
+        <item>0.617708333f</item>
+        <item>0.721440972f</item>
+        <item>0.7921875f</item>
+        <item>0.844270833f</item>
+        <item>0.886197917f</item>
+        <item>0.919010417f</item>
+        <item>0.944010417f</item>
+        <item>0.9625f</item>
+        <item>0.975954861f</item>
+        <item>0.985416667f</item>
+        <item>0.991840278f</item>
+        <item>0.996006944f</item>
+        <item>0.9984375f</item>
+        <item>0.999652778f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="a6">
+        <item>1549036800000</item>
+        <item>1549123200000</item>
+        <item>1569686400000</item>
+        <item>1570809600000</item>
+        <item>1556380800000</item>
+        <item>1556985600000</item>
+        <item>1579363200000</item>
+        <item>1580486400000</item>
+        <item>1587830400000</item>
+        <item>1588953600000</item>
+        <item>1593273600000</item>
+        <item>1601136000000</item>
+        <item>1602259200000</item>
+    </string-array>
+</resources>

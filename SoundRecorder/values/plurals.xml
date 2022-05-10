@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_item_selected">
+        <item quantity="other">Delete %1$d Recordings</item>
+        <item quantity="one">Delete 1 Recording</item>
+    </plurals>
+</resources>

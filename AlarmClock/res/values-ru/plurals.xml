@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Отложить на %d мин</item>
+        <item quantity="one">Отложить на %d минуту</item>
+        <item quantity="few">Отложить на %d мин</item>
+        <item quantity="many">Отложить на %d мин</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">%s дн.</item>
+        <item quantity="one">%s день</item>
+        <item quantity="few">%s дн.</item>
+        <item quantity="many">%s дн.</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Удалить %s оповещений</item>
+        <item quantity="one">Удалить %s оповещение</item>
+        <item quantity="few">Удалить %s оповещений</item>
+        <item quantity="many">Удалить %s оповещений</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Удалить %s городов</item>
+        <item quantity="one">Удалить %s город</item>
+        <item quantity="few">Удалить %s городов</item>
+        <item quantity="many">Удалить %s городов</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">%s час.</item>
+        <item quantity="one">%s час</item>
+        <item quantity="few">%s час.</item>
+        <item quantity="many">%s час.</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">%s мин.</item>
+        <item quantity="one">%s мин.</item>
+        <item quantity="few">%s мин.</item>
+        <item quantity="many">%s мин.</item>
+    </plurals>
+</resources>

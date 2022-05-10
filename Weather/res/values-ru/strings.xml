@@ -60,7 +60,7 @@
     <string name="bo">Не удалось найти местоположение</string>
     <string name="bp">Нажмите, чтобы установить погоду</string>
     <string name="bq">Нет подключения к сети</string>
-    <string name="br">Не напоминать снова</string>
+    <string name="br">Не напоминать</string>
     <string name="bs">Приложению Погода нужно это для уточнения данных о городе.</string>
     <string name="bt">Пожалуйста, откройте настройки геолокации.</string>
     <string name="bu">Установить разрешение на использование геолокации</string>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="a">
-        <item>周日</item>
-        <item>周一</item>
-        <item>周二</item>
-        <item>周三</item>
-        <item>周四</item>
-        <item>周五</item>
-        <item>周六</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
     </string-array>
     <integer-array name="b">
         <item>39</item>
@@ -24,18 +24,18 @@
         <item>886</item>
     </integer-array>
     <string-array name="c">
-        <item>上海市</item>
-        <item>北京市</item>
-        <item>杭州市</item>
-        <item>南京市</item>
-        <item>苏州市</item>
-        <item>深圳市</item>
-        <item>成都市</item>
-        <item>重庆市</item>
-        <item>天津市</item>
-        <item>武汉市</item>
-        <item>西安市</item>
-        <item>广州市</item>
+        <item>Shanghai</item>
+        <item>Beijing</item>
+        <item>Hangzhou</item>
+        <item>Nanjing</item>
+        <item>Suzhou</item>
+        <item>Shenzhen</item>
+        <item>Chengdu</item>
+        <item>Chongqing</item>
+        <item>Tianjin</item>
+        <item>Wuhan</item>
+        <item>Xian</item>
+        <item>Guangzhou</item>
     </string-array>
     <integer-array name="d">
         <item>286081</item>
@@ -48,14 +48,14 @@
         <item>286107</item>
     </integer-array>
     <string-array name="e">
-        <item>长城</item>
-        <item>龙庆峡</item>
-        <item>松山</item>
-        <item>龙潭</item>
-        <item>陶然亭</item>
-        <item>青龙湖</item>
-        <item>圣莲山</item>
-        <item>周口店</item>
+        <item>Great Wall</item>
+        <item>Longqing Gorge</item>
+        <item>Songshan</item>
+        <item>Longtan</item>
+        <item>Tao Ranting</item>
+        <item>Qinglong Lake</item>
+        <item>Shenglian Mountain</item>
+        <item>Zhoukoudian</item>
     </string-array>
     <array name="f">
         <item>#ff43b56b</item>

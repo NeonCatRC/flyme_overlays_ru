@@ -15,6 +15,7 @@ Overlays for f9 apps
 
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
+| AlarmClock | FULL n\t | Build-in clock app |
 | AlphaMe | FULL | Aicy Engine |
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |
@@ -38,7 +39,8 @@ Overlays for f9 apps
 | Pedometer | FULL n\t | Step counter |
 | PermissionController | Start |  |
 | SDKStage | Start |  |
-| Settings | Start |  |
+| Settings | WIP |  |
+| SoundRecorder | FULL n\t | Build-in recorder app |
 | Suggestion | WIP | |
 | SystemUI |  |  |
 | SystemUIEx |  |  |
