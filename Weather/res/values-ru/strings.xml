@@ -28,7 +28,7 @@
     <string name="al">Превышено количество символов на %1$d из %2$d</string>
     <string name="an">Выбрать город</string>
     <string name="ao">Нажмите, чтобы получить данные о погоде</string>
-    <string name="ar">Meizu Weather</string>
+    <string name="ar">Погода</string>
     <string name="as">Продолжить</string>
     <string name="at">текущая погода</string>
     <string name="au">Mмесяцdдень</string>
@@ -73,7 +73,6 @@
     <string name="c2">Настройки</string>
     <string name="c3">OK</string>
     <string name="c4">Всегда разрешать</string>
-    <string name="c5">MeizuCommon</string>
     <string name="c6">Отмена</string>
     <string name="c7">Отмена</string>
     <string name="c8">Отменено</string>
@@ -296,14 +295,14 @@
     <string name="is">Национальное качество воздуха</string>
     <string name="it">Нет данных о погоде</string>
     <string name="iu">Нет данных</string>
-    <string name="iv">N/A</string>
+    <string name="iv">Н/Д</string>
     <string name="iw">Результатов не найдено</string>
     <string name="ix">Включить уведомление о местоположении</string>
     <string name="iy">Уведомление о предупреждении</string>
     <string name="iz">Прогноз погоды</string>
     <string name="j0">Другие города</string>
     <string name="j1">Показать пароль</string>
-    <string name="j6">WeChat Moments</string>
+    <string name="j6">Моменты WeChat</string>
     <string name="j7">Получать информацию о местоположении</string>
     <string name="j8">Получать информацию о погоде</string>
     <string name="j9">Показать актуальные новости на странице предупреждений</string>
@@ -323,7 +322,7 @@
     <string name="jn">Прогноз погоды</string>
     <string name="jo">Сервис рекомендаций</string>
     <string name="jp">Предложенная рекомендация</string>
-    <string name="jq">Пожалуйста, обновите</string>
+    <string name="jq">Обновить</string>
     <string name="jr">Загрузка</string>
     <string name="js">Предложенная информация</string>
     <string name="jt">Обновить</string>
@@ -336,7 +335,7 @@
     <string name="k0">Город</string>
     <string name="k1">Создание настроения для обмена, пожалуйста, подождите</string>
     <string name="k2">Поделиться</string>
-    <string name="k3">Now%1$s20%2$s40%3$s60 min</string>
+    <string name="k3">Сейчас%1$s20%2$s40%3$s60 мин.</string>
     <string name="k4">"Срок действия сертификата безопасности сайта истек или он недоступен".</string>
     <string name="k6">Спорт</string>
     <string name="k7">Восход</string>
@@ -347,11 +346,9 @@
     <string name="kb">Траектория тайфуна в реальном времени</string>
     <string name="kc">Просмотр мер предосторожности</string>
     <string name="kd">%s Предупреждение</string>
-    <string name="ki">WeChat Friend</string>
-    <string name="kj">M/d</string>
+    <string name="ki">Друзья WeChat</string>
     <string name="kk">Поиск</string>
     <string name="kl">Принять...</string>
-    <string name="km">E</string>
     <string name="kn">Больше</string>
     <string name="ko">База знаний о качестве воздуха</string>
     <string name="kp">База знаний о раннем предупреждении</string>
