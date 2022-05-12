@@ -30,7 +30,7 @@ Overlays for f9 apps
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
 | MMS | WIP |  |
-| MusicFX | FULL | SquareSound |
+| MusicFX | FULL n\t | SquareSound |
 | MzBatteryManager | FULL n\t | Battery manager |
 | MzSecurity | WIP |  |
 | MzShare | Start |  |
