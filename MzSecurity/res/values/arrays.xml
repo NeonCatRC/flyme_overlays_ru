@@ -479,19 +479,19 @@
         <item>#ffe9a63b</item>
     </array>
     <string-array name="news_tip_report_article_array">
-        <item>广告</item>
-        <item>内容过时</item>
-        <item>低俗色情</item>
-        <item>标题夸张</item>
-        <item>与事实不符</item>
+        <item>AD</item>
+        <item>Outdated content</item>
+        <item>Vulgar pornography</item>
+        <item>Exaggerated title</item>
+        <item>Inconsistent with the facts</item>
     </string-array>
     <string-array name="news_tip_report_video_array">
-        <item>广告</item>
-        <item>低俗色情暴力</item>
-        <item>标题虚假夸张</item>
-        <item>侵权</item>
-        <item>视频质量差</item>
-        <item>封面令人反感</item>
+        <item>AD</item>
+        <item>Vulgar erotic violence</item>
+        <item>The title is false and exaggerated</item>
+        <item>infringement</item>
+        <item>Poor video quality</item>
+        <item>The cover is offensive</item>
     </string-array>
     <string-array name="operators_entry">
         <item>@string/traffic_correct_default_dialog_title</item>

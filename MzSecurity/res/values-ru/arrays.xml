@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="news_tip_report_article_array">
+        <item>Реклама</item>
+        <item>Устарело</item>
+        <item>Порнография</item>
+        <item>Преувеличенное название</item>
+        <item>Не согласуется с фактами</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>Реклама</item>
+        <item>Порнография</item>
+        <item>Ложный заголовок</item>
+        <item>Нарушение</item>
+        <item>Плохое качество</item>
+        <item>Обложка оскорбительна</item>
+    </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>

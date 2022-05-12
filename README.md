@@ -31,7 +31,7 @@ Overlays for f9 apps
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
 | MMS | WIP |  |
 | MusicFX | FULL | SquareSound |
-| MzBatteryManager | WIP | Battery manager |
+| MzBatteryManager | FULL n\t | Battery manager |
 | MzSecurity | WIP |  |
 | MzShare | Start |  |
 | NetAdmin | Start |  |
@@ -43,9 +43,9 @@ Overlays for f9 apps
 | Settings | WIP |  |
 | SoundRecorder | FULL n\t | Build-in recorder app |
 | Suggestion | WIP | |
-| SystemUI |  |  |
-| SystemUIEx |  |  |
-| SystemUITools |  |  |
+| SystemUI | WIP |  |
+| SystemUIEx | WIP |  |
+| SystemUITools | WIP |  |
 | TodoList | FULL | notes and to-do app |
 | ToolBox | FULL n\t | |
 | VoiceAssistant | WIP |  |
@@ -62,7 +62,6 @@ Overlays for f9 apps
 | Perfui | | |
 | SystemWallpaper | | |
 | StorageManager |  |  |
-| AlarmClock |  |  |
 | AppCenter |  |  |
 | AlwaysOnDisplay |  |  |
 | MzAccount |  |  |

@@ -26,9 +26,7 @@
     <string name="app_wakeup_time">Время экрана: %1$s</string>
     <string name="app_wakeup_times">Время использования CPU: %1$s</string>
     <string name="balance_mode">Баланс между батареей и производительностью</string>
-
-    <string name="battery_charge_protection_info">If the battery power is too high for a long time, it will accelerate the aging of the battery. We will learn your daily use habits, slow down the charging speed when the mobile phone is idle, and fill it up before you use it</string>
-    
+    <string name="battery_charge_protection_info">Если заряд батареи слишком высок в течение длительного времени, это ускорит старение батареи. Мы изучим ваш сценарий ежедневного использования, снизим скорость зарядки, когда телефон простаивает, и зарядим его перед использованием</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="bluetooth_power_ratio">Использование заряда Bluetooth:</string>
     <string name="button_disable_mode">Отключить</string>
@@ -38,7 +36,7 @@
     <string name="cell_standby_power_ratio">Использование заряда мобильной сетью:</string>
     <string name="charge_protection_off">Оптимизировать зарядку</string>
     <string name="charge_protection_off_subtitle">Когда заряд батареи превышает 90%, замедляется скорость зарядки и увеличивает срок службы батареи</string>
-    <string name="charing">Зарядка...</string>
+    <string name="charing">Зарядка</string>
     <string name="close_bg_app_msg">Совет по сохранению заряда: Закрывайте приложения запущенные в фоне</string>
     <string name="cpu_exception_time">Простой процессора: %1$s мин.</string>
     <string name="cpu_foreground_running_time">Время использования процессора: %1$s</string>
@@ -70,7 +68,7 @@
     <string name="intelligent_management">Умное</string> <!-- Smart (maybe Умно) -->
     <string name="item_is_selected">%1$s выбрано</string>
     <string name="jumpToSetup">Нажмите для перехода к установке</string>
-    <string name="low_power_mode_info">Режим энергосбережения будет контролировать Bluetooth, GPS, звуки, тактильную отдачу и другие функции, ограничивать фоновые приложения, и уменьшит визуальные эффекты и производительность системы. Ваш телефон автоматически выйдет из этого режима при достаточном заряде.</string>
+    <string name="low_power_mode_info">Режим экономии заряда будет контролировать Bluetooth, GPS, звуки, тактильную отдачу и другие функции, ограничивать фоновые приложения, и уменьшит визуальные эффекты и производительность системы. Ваш телефон автоматически выйдет из этого режима при достаточном заряде.</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
@@ -312,9 +310,9 @@
     <string name="password_toggle_content_description">Переключить видимость пароля</string>
     <string name="performance_mode">Режим производительности</string>
     <string name="permission_title">Разрешения</string>
-    <string name="phone_active">Выполняется</string> <!-- Running placeholder-->
-    <string name="phone_call">Голосовые вызовы</string>
-    <string name="phone_call_power_ratio">Использование заряда Голосовые вызовы:</string>
+    <string name="phone_active">Используется</string>
+    <string name="phone_call">Звонки</string>
+    <string name="phone_call_power_ratio">Использование заряда Звонки:</string>
     <string name="phone_idle">Режим ожидания</string>
     <string name="power_alert_dialog_ok">ОК</string>
     <string name="power_aod">AOD</string>
@@ -340,9 +338,7 @@
     <string name="power_setting">Настройки</string>
     <string name="processing_advice">Совет</string>
     <string name="runnint_time_unit">с.</string>
-
-    <string name="screen_cabc_description">CABC screen power-saving technology: by dynamically adjusting the contrast of the display, brightness is reduced, and a power-saving effect is achieved</string>
-    
+    <string name="screen_cabc_description">Технология сохранения заряда CABC: за счет динамической регулировки контрастности дисплея снижается яркость и достигается уменьшение потребления заряда</string>
     <string name="screen_cabc_title">Настройки CABC</string>
     <string name="screen_off">Экран выкл.</string>
     <string name="screen_off_network">Отключать соединения в режиме ожидания</string>
@@ -362,13 +358,13 @@
     <string name="smart_bg_mode0">Смарт-фон (рекомендуется)</string>
     <string name="smart_bg_mode1">Разрешить работу в фоне</string>
     <string name="smart_bg_mode2">Запретить работу в фоне</string>
-    <string name="subtitle_sleep_mode">Включение/выключение подключений на основе графиков ваших снов</string>
+    <string name="subtitle_sleep_mode">Включение/выключение сетевых подключений на основе графика вашего сна</string>
     <string name="summary_config_screen">Дисплей &amp; яркость</string>
     <string name="super_mode_app_select_title">Супер-энергосбережение позволяет добавить 2 приложения, помимо Телефона и Сообщений.</string>
     <string name="super_mode_no_use_app">Телефон, Сообщения</string>
     <string name="super_mode_no_use_app_multi_four">Телефон, Сообщения, %1$s, %2$s</string>
     <string name="super_mode_no_use_app_multi_three">Телефон, Сообщения, %1$s</string>
-    <string name="super_mode_use_app_title">Приложения в супер-энергосбережении</string>
+    <string name="super_mode_use_app_title">Доступные приложения</string>
     <string name="super_power_mode_info">Супер-энергосбережение изменяет цвета рабочего стола на черно-белые, и уменьшит энергопотребление до возможного минимума. Это может привести к отключению Bluetooth, GPS, звуков, вибрации и других функций, оставляя рабочими только Телефон, Сообщения и другие приложения по выбору.</string>
     <string name="super_power_mode_info_vice_screen">Супер-энергосбережение изменяет цвета рабочего стола на черно-белые, и уменьшит энергопотребление до возможного минимума. Это может привести к отключению Bluetooth, GPS, звуков, вибрации и других функций, оставляя рабочими только Телефон, Сообщения и другие приложения по выбору.</string>
     <string name="text_hour">ч.</string>
@@ -381,9 +377,7 @@
     <string name="title_acess_location">Доступ к местоположению</string>
     <string name="title_app_sleep_manager">Фоновые процессы</string>
     <string name="title_battery_protection">Оптимизация заряда батареи</string>
-
-    <string name="title_charge_optimization">Charge optimization</string>
-
+    <string name="title_charge_optimization">Оптимизация зарядки</string>
     <string name="title_connect_network">Подключение к интернету</string>
     <string name="title_end_time">Окончание</string>
     <string name="title_low_power_mode">Режим экономии энергии</string>
@@ -391,14 +385,14 @@
     <string name="title_performance_low_mode">Вы в режиме энергосбережения.</string>
     <string name="title_performance_supper_mode">Вы в режиме супер-энергосбережения</string>
     <string name="title_power_mode">Режим экономии энергии</string>
-    <string name="title_power_ranking">Детали потребления</string>
+    <string name="title_power_ranking">Детали энергопотребления</string>
     <string name="title_sleep_mode">Смарт сон</string>
-    <string name="title_standard_mode">Режим энергосбережения</string>
-    <string name="title_stardard_ps">Режим энергосбережения</string>
+    <string name="title_standard_mode">Экономия заряда</string>
+    <string name="title_stardard_ps">Экономия заряда</string>
     <string name="title_start_time">Начало</string>
     <string name="title_super_mode_app_select">Выбрать приложение</string>
-    <string name="title_supper_mode">Режим супер-энергосбережения</string>
-    <string name="title_supper_ps">Режим супер-энергосбережения</string>
+    <string name="title_supper_mode">Супер-энергосбережение</string>
+    <string name="title_supper_ps">Супер-энергосбережение</string>
     <string name="title_timer_ps">Сберегающий режим</string>
     <string name="title_user_define_mode">Настраиваемый режим</string>
     <string name="title_user_ps">Настраиваемый режим</string>
