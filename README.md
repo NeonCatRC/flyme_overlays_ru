@@ -19,7 +19,7 @@ Overlays for f9 apps
 | AlphaMe | FULL | Aicy Engine |
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |
-| Camera | FULL n\t | Camera app |
+| Camera | FULL n\t !!Flashlight bug!!| Camera app |
 | ConnectivitySettings | WIP | Connect app |
 | CustomizeCenter | FULL | Themes \ AOD settings app |
 | DataMigration | Stop | Data migration app |
@@ -32,7 +32,7 @@ Overlays for f9 apps
 | MMS | WIP |  |
 | MusicFX | FULL n\t | SquareSound |
 | MzBatteryManager | FULL n\t | Battery manager |
-| MzSecurity | WIP !!Some functions are not works!!| Build-in antivirus and cleaner |
+| MzSecurity | FULL n\t | Build-in antivirus and cleaner |
 | MzShare | Stop |  |
 | NetAdmin | FULL n\t | Build-in network check and diagnostics |
 | NotePaper | FULL n\t | Notepad app |
