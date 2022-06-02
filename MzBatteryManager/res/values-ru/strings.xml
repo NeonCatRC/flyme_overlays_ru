@@ -62,7 +62,7 @@
     <string name="high_power_close_app">Закрыть приложение</string>
     <string name="history_bat_use_chart">Использование заряда</string>
     <string name="histroy_detail">Включить отслеживание использованного заряда</string>
-    <string name="idle">Режим ожидания</string>
+    <string name="idle">Ожидание</string>
     <string name="idle_power_sum">Потребление в режиме ожидания:</string>
     <string name="idle_run_permission">Разрешение на выполнение в фоне</string> <!-- HM -->
     <string name="intelligent_management">Умное</string> <!-- Smart (maybe Умно) -->

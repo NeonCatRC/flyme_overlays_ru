@@ -273,7 +273,7 @@
     <string name="na_detect_dangerous">Опасно</string>
     <string name="na_detect_dns">Обнаружение подмены DNS</string>
     <string name="na_detect_done">Завершено</string>
-    <string name="na_detect_fake">Обнаружение фишинговой сети</string>
+    <string name="na_detect_fake">Обнаружение поддельной сети</string>
     <string name="na_detect_net_disconnected_summary">Нет подключения к сети. Проверьте настройки Wi-Fi</string>
     <string name="na_detect_phishing">Обнаружение фишинговых сетей</string>
     <string name="na_detect_result_dangerous">Небезопасная сеть</string>
@@ -281,7 +281,7 @@
     <string name="na_detect_result_safe">Безопасно</string>
     <string name="na_detect_result_unknown">Нет данных о безопасности сети. Используйте с осторожностью.</string>
     <string name="na_detect_safe">Безопасно</string>
-    <string name="na_detect_security">Обнаружение network encryption</string>
+    <string name="na_detect_security">Обнаружение шифрования сети</string>
     <string name="na_detect_security_none">Без шифрования</string>
     <string name="na_detect_support_firm_tip">Работает на базе Tencent WeSecure</string>
     <string name="na_detecting">Сканирование</string>

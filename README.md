@@ -32,7 +32,7 @@ Overlays for f9 apps
 | MMS | WIP |  |
 | MusicFX | FULL n\t | SquareSound |
 | MzBatteryManager | FULL n\t | Battery manager |
-| MzSecurity | WIP |  |
+| MzSecurity | WIP !!Some functions are not works!!| Build-in antivirus and cleaner |
 | MzShare | Stop |  |
 | NetAdmin | FULL n\t | Build-in network check and diagnostics |
 | NotePaper | FULL n\t | Notepad app |

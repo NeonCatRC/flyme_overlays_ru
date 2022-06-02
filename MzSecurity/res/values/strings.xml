@@ -895,7 +895,7 @@ Various power saving modes"</string>
     <string name="news_change">Change</string>
     <string name="news_confirm">OK</string>
     <string name="news_dislike">dislike</string>
-    <string name="news_dislike_hint">I don't like this content</string>
+    <string name="news_dislike_hint">"I don't like this content"</string>
     <string name="news_error_click_retry">The network is abnormal, click to try again</string>
     <string name="news_error_no_more">No more content</string>
     <string name="news_feedback_commit">submit</string>
@@ -1042,7 +1042,7 @@ Various power saving modes"</string>
     <string name="permission_title_privacy_mode">Privacy mode</string>
     <string name="permission_title_sensitive_notify">Permission surveillance</string>
     <string name="permission_title_storage_access_protect">Photo and file access</string>
-    <string name="permission_title_vault">Защищенное хранилище</string>
+    <string name="permission_title_vault">Vault</string>
     <string name="petabyteShort">P</string>
     <string name="phone_clean">Cleaner</string>
     <string name="phone_clean_f8">Cleanup</string>

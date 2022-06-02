@@ -224,6 +224,7 @@
     <item type="id" name="ci_image" />
     <item type="id" name="circularbutton" />
     <item type="id" name="circularbutton1" />
+    <item type="id" name="city_layout" />
     <item type="id" name="clean_button" />
     <item type="id" name="clean_result_view" />
     <item type="id" name="clean_virus" />
@@ -391,6 +392,7 @@
     <item type="id" name="guide_parent" />
     <item type="id" name="has_desc_top_text_paddingbottom" />
     <item type="id" name="head_cover_view" />
+    <item type="id" name="head_touch_view" />
     <item type="id" name="header_content" />
     <item type="id" name="header_divider" />
     <item type="id" name="header_view_title" />
@@ -838,21 +840,8 @@
     <item type="id" name="progress_viewPager" />
     <item type="id" name="progress_whole" />
     <item type="id" name="prompt" />
+    <item type="id" name="province_layout" />
     <item type="id" name="pull_icon" />
-    <item type="id" name="push_big_bigtext_defaultView" />
-    <item type="id" name="push_big_bigview_defaultView" />
-    <item type="id" name="push_big_defaultView" />
-    <item type="id" name="push_big_notification" />
-    <item type="id" name="push_big_notification_content" />
-    <item type="id" name="push_big_notification_date" />
-    <item type="id" name="push_big_notification_icon" />
-    <item type="id" name="push_big_notification_icon2" />
-    <item type="id" name="push_big_notification_title" />
-    <item type="id" name="push_big_pic_default_Content" />
-    <item type="id" name="push_big_text_notification_area" />
-    <item type="id" name="push_pure_bigview_banner" />
-    <item type="id" name="push_pure_bigview_expanded" />
-    <item type="id" name="push_pure_close" />
     <item type="id" name="quadr_ad_view" />
     <item type="id" name="quality_trim" />
     <item type="id" name="quick_trim" />
@@ -932,10 +921,12 @@
     <item type="id" name="second_title_view" />
     <item type="id" name="seekbar" />
     <item type="id" name="seekbar_value" />
+    <item type="id" name="select_area_layout" />
     <item type="id" name="select_dialog_listview" />
     <item type="id" name="select_state" />
     <item type="id" name="selected_size" />
     <item type="id" name="selected_size_text" />
+    <item type="id" name="selected_text" />
     <item type="id" name="sensitive_notify" />
     <item type="id" name="settings_layout" />
     <item type="id" name="settings_subtitle" />
@@ -1172,6 +1163,7 @@
     <item type="id" name="url_chk_tv_title" />
     <item type="id" name="url_chk_tv_url" />
     <item type="id" name="url_chk_visible_part" />
+    <item type="id" name="usable_size" />
     <item type="id" name="usage_details_1" />
     <item type="id" name="usage_details_2" />
     <item type="id" name="usage_details_3" />
@@ -1180,7 +1172,6 @@
     <item type="id" name="usb_install" />
     <item type="id" name="usedBytes4G" />
     <item type="id" name="used_custom_code_switch_container" />
-    <item type="id" name="used_size" />
     <item type="id" name="userPresentEventBtn" />
     <item type="id" name="user_have_no_app_textView" />
     <item type="id" name="vault" />
@@ -1189,7 +1180,6 @@
     <item type="id" name="view_pager" />
     <item type="id" name="virus_ad_download_view" />
     <item type="id" name="virus_detial_layout" />
-    <item type="id" name="virus_gradient_layout" />
     <item type="id" name="virus_list" />
     <item type="id" name="virus_name" />
     <item type="id" name="virus_name_title" />

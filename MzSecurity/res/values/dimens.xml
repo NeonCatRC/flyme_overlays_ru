@@ -1645,7 +1645,7 @@
     <dimen name="traffic_notifi_liquiView_width">42.0dip</dimen>
     <dimen name="traffic_notifi_liquidview_ring_borderwidth">4.0dip</dimen>
     <dimen name="traffic_notifi_value_size">16.0dip</dimen>
-    <dimen name="traffic_notific_content_margin_start">10.0dip</dimen>
+    <dimen name="traffic_notific_content_margin_start">14.0dip</dimen>
     <dimen name="traffic_notific_label_size">14.0dip</dimen>
     <dimen name="traffic_notific_lable_width">58.0dip</dimen>
     <dimen name="traffic_notific_seperator_width">8.0dip</dimen>
@@ -1709,7 +1709,7 @@
     <dimen name="traffic_wp_view_to_edge_margin">10.0dip</dimen>
     <dimen name="traffic_wp_view_to_edge_padding">2.0dip</dimen>
     <dimen name="traffic_wp_view_to_line_margin">3.0dip</dimen>
-    <dimen name="trafic_notific_icon_margin_start">10.0dip</dimen>
+    <dimen name="trafic_notific_icon_margin_start">16.0dip</dimen>
     <dimen name="trafic_widget_icon_margin_start">10.0dip</dimen>
     <dimen name="uninstall_app_btn_tx_size">7.5sp</dimen>
     <dimen name="update_button_size">12.0sp</dimen>
