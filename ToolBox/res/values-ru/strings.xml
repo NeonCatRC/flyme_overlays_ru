@@ -61,18 +61,24 @@
     <string name="ax">Пропустить</string>
     <string name="ay">ОК</string>
     <string name="az">Невозможно подключиться к камере</string>
+    <string name="b0">Превышен лимит символов %1$d из %2$d</string>
+    <string name="b1">%1$d / %2$d</string>
     <string name="b2">Нажмите на монету</string>
     <string name="b3">Компас</string>
     <string name="b4">Закончить калибровку</string>
     <string name="b5">Для начала калибровки поверните телефон V-образно</string>
+    <string name="b6">Компас</string>
+    <string name="b7">Компас</string>
     <string name="b8">Копировать</string>
     <string name="b9">Создание или удаление ярлыков</string>
     <string name="b_">Установить</string>
     <string name="ba">Шумомер</string>
-    <string name="bb">Уровень дБ</string>
+    <string name="bb">Уровень шума</string>
     <string name="bc">Макс.:</string>
     <string name="bd">Мин.:</string>
-    <string name="bg">Уровень дБ</string>
+    <string name="be">Шумомер</string>
+    <string name="bf">Шумомер</string>
+    <string name="bg">Уровень шума</string>
     <string name="bi">Коснитесь кубика или встряхните телефон</string>
     <string name="bj">В</string>
     <string name="bk">С</string>
@@ -101,6 +107,8 @@
     <string name="c_">Нажатие не обнаружено</string>
     <string name="ca">Норма: 60-100 уд/мин</string>
     <string name="cb">" уд/м"</string>
+    <string name="cc">Частота сердцебиения</string>
+    <string name="cd">Частота сердцебиения</string>
     <string name="ce">Сигнал частоты пульса нестабилен. Пожалуйста, держите палец неподвижно.</string>
     <string name="cf">Стоп</string>
     <string name="cg">Идёт измерение, не двигайте палец</string>
@@ -114,6 +122,8 @@
     <string name="cp">%1$s выбрано</string>
     <string name="cq">Уровень</string>
     <string name="cr">Режим подвешивания</string>
+    <string name="cs">Уровень</string>
+    <string name="ct">Уровень</string>
     <string name="cu">Восточная долгота</string>
     <string name="cv">Широта</string>
     <string name="cw">Долгота</string>
@@ -126,8 +136,12 @@
     <string name="d3">Настроить увеличение,</string>
     <string name="d4">Уменьшить</string>
     <string name="d5">Увеличить</string>
+    <string name="d6">Лупа</string>
+    <string name="d7">Лупа</string>
+    <string name="d8">Настройки</string>
     <string name="d9">Разрешить</string>
     <string name="d_">Разрешать всегда</string>
+    <string name="da">MeizuCommon</string>
     <string name="db">Отмена</string>
     <string name="dc">Отмена</string>
     <string name="dd">Отменено</string>
@@ -227,6 +241,9 @@
     <string name="g3">Очистить</string>
     <string name="g4">Поиск</string>
     <string name="g8">с.</string>
+    <string name="g9">Все</string>
+    <string name="g_" formatted="false">%-m/%-e</string>
+    <string name="ga" formatted="false">%Y/%-m/%-e</string>
     <string name="gb">ВС</string>
     <string name="gc">ЧТ</string>
     <string name="gd">Расписание</string>
@@ -251,9 +268,12 @@
     <string name="gw">Нормальный</string>
     <string name="gx">Растянуть</string>
     <string name="gy">Поворот</string>
+    <string name="gz">Зеркало</string>
+    <string name="h0">Зеркало</string>
     <string name="h1">Переключить эффект</string>
     <string name="h2">Снять</string>
     <string name="h3">Ещё</string>
+    <string name="h4">Удалить %1$s</string>
     <string name="h5">Отмена</string>
     <string name="h6">Все</string>
     <string name="h7">Нет</string>
@@ -321,6 +341,7 @@
     <string name="iw">Пользовательское соглашение</string>
     <string name="ix">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="iy">Настройки сети</string>
+    <string name="iz">Подсказки по обновлению приложения</string>
     <string name="j0">Отмена</string>
     <string name="j1">Отменить загрузку</string>
     <string name="j2">Отменить установку</string>
@@ -376,17 +397,31 @@
     <string name="kc">90-100 дБ</string>
     <string name="kd">Внешний накопитель отсутствует, вставьте SD-карту и попробуйте снова</string>
     <string name="ke">Не указано</string>
-    <string name="kq">Получить информацию об обновлении версии</string>
+    <string name="kf">Состояние фонарика</string>
+    <string name="kg">Ход обработки</string>
+    <string name="kh">Показать пароль</string>
+    <string name="km">Камера</string>
+    <string name="kn">Местоположение</string>
+    <string name="ko">Это разрешение необходимо для получения %s функций</string>
     <string name="kp">Получать информацию об обновлениях</string>
+    <string name="kq">Получить информацию об обновлении версии</string>
+    <string name="kr">Открыть</string>
+    <string name="ks">Запись</string>
+    <string name="kt">Предоставьте разрешение на %s</string>
     <string name="ku">По вертикали</string>
     <string name="kv">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="kw">Давление</string>
     <string name="kx">гПа</string>
     <string name="ky">Транспортир</string>
     <string name="kz">Орёл-решка</string>
+    <string name="l0">Орёл-решка</string>
+    <string name="l1">Орёл-решка</string>
     <string name="l2">По горизонтали</string>
     <string name="l3">"Очки: "</string>
     <string name="l4">Линейка</string>
+    <string name="l5">Линейка</string>
+    <string name="l6">Линейка</string>
+    <string name="l7">400.5285</string>
     <string name="l8">Поиск</string>
     <string name="l9">ОК</string>
     <string name="l_">Датчик не поддерживается</string>
@@ -415,6 +450,8 @@
     <string name="lw">выключить фонарик</string>
     <string name="lx">Фонарик включён</string>
     <string name="ly">включить фонарик</string>
+    <string name="lz">Фонарик</string>
+    <string name="m0">Фонарик</string>
     <string name="m1">Опасно: нет</string>
     <string name="m2">Описание: тихий ропот</string>
     <string name="m3">20-40 дБ</string>
@@ -424,3 +461,4 @@
     <string name="m7">Описание: тишина, почти без слышимого звука</string>
     <string name="m8">0-20 дБ</string>
 </resources>
+

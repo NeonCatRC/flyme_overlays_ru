@@ -4720,7 +4720,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="usb_mtp_tip_file_transfer_fragment_title">Советы по использованию</string>
     <string name="usb_mtp_tip_normal_one">Пользователи MacOS могут установить файл «filetransfer.dmg» в режиме CD-ROM или посетить %s</string>
     <string name="usb_mtp_tip_normal_title">Советы по использованию:</string>
-    <string name="usb_mtp_tip_normal_two">" "<font color="#198ded">Извлечение данных при неисправности экрана</font>" "</string>
+    <string name="usb_mtp_tip_normal_two"><font color="#198ded">Извлечение данных при неисправности экрана</font>"."</string>
     <string name="usb_mtp_tip_normal_two_content_title1">Как извлечь данные с устройства с неисправным экраном (если он разбит или не работает)?</string>
     <string name="usb_mtp_tip_normal_two_content_title2">"При отсутствии пароля блокировки: "</string>
     <string name="usb_mtp_tip_normal_two_content_title2_content1">1. Отправьте SMS с текстом: *##* на устройство с неисправным экраном. Номер с которого отправляется SMS должен быть сохранен в телефонной книге поврежденного устройства.</string>

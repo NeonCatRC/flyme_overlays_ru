@@ -4759,17 +4759,6 @@
     <public type="string" name="weibo_app" id="0x7f0f01ea" />
     <public type="string" name="with_friend_pk_speed_text" id="0x7f0f01eb" />
     <public type="string" name="with_friend_pk_speed_title" id="0x7f0f01ec" />
-    <public type="string" name="na_diagn_tip_ap_config_error" id="0x7f0f01ed" />
-    <public type="string" name="na_diagn_tip_ap_signal_so_weak" id="0x7f0f01ee" />
-    <public type="string" name="na_diagn_tip_ap_signal_weak" id="0x7f0f01ef" />
-    <public type="string" name="na_diagn_tip_client_connected_too_much" id="0x7f0f01f0" />
-    <public type="string" name="na_diagn_tip_dns_parse_fail" id="0x7f0f01f1" />
-    <public type="string" name="na_diagn_tip_dns_slow" id="0x7f0f01f2" />
-    <public type="string" name="na_diagn_tip_gateway_can_not_reach" id="0x7f0f01f3" />
-    <public type="string" name="na_diagn_tip_internet_can_not_reach" id="0x7f0f01f4" />
-    <public type="string" name="na_diagn_tip_net_connect_fail" id="0x7f0f01f5" />
-    <public type="string" name="na_diagn_tip_no_response" id="0x7f0f01f6" />
-    <public type="string" name="na_diagn_tip_weak_signal" id="0x7f0f01f7" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f100000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f100001" />
     <public type="style" name="Animation.AppCompat.Dialog" id="0x7f100002" />

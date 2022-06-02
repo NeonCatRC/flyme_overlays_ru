@@ -187,7 +187,8 @@
     <string name="more_item_label">Ещё</string>
     <string name="mouthAccount">Расчётный день</string>
     <string name="mouthOverFlow">Перерасход за месяц</string>
-    <string name="mouthRemain">Осталось на месяц</string>
+    <string name="mouthRemain">"Осталось 
+    на месяц"</string>
     <string name="mouthWarming">Оповещать при превышении: %1$s</string>
     <string name="msg_empty_contact">Информация о контакте пуста</string>
     <string name="msg_reject_all_heads_up_notify">Запретить уведомления поверх всего для всех приложений?</string>

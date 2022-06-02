@@ -1306,6 +1306,7 @@
     <string name="social_widget_label">Контакт</string>
     <string name="social_widget_loading">Загрузка…</string>
     <string name="sounds_and_vibrate_category_title">Звук и вибросигнал</string>
+    
     <string name="specail_number_anbang">安邦财产保险股份有限公司</string>
     <string name="specail_number_dadi">Имущественное страхование Китая Лтд</string>
     <string name="specail_number_debon">德邦物流</string>
@@ -1367,6 +1368,7 @@
     <string name="specail_number_zhiliang">质量监督服务热线</string>
     <string name="specail_number_zhongguo">中国银行</string>
     <string name="specail_number_zhongxin">中信银行</string>
+
     <string name="speed_dial_empty">Настройте быстрый набор, чтобы вам было удобнее звонить на часто используемые номера.</string>
     <string name="splitConfirmation">Этот контакт будет разделён на несколько.</string>
     <string name="splitConfirmation_title">Разделить контакт?</string>
@@ -1430,7 +1432,6 @@
     <string name="vibrate_on_ring_title">Вибросигнал при вызове</string>
     <string name="video_chat">Видеочат</string>
     <string name="viewContactTitle">Сведения о контакте</string>
-    <string name="view_full_call_history_font_family">sans-serif</string>
     <string name="view_updates_from_group">Просмотреть обновления</string>
     <string name="voice_search_not_available">Голосовой поиск недоступен</string>
     <string name="voicemail">Голосовая почта</string>

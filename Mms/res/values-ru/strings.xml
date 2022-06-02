@@ -759,6 +759,10 @@
     <string name="pref_summary_edit_quick_reply">Изменить сообщения для быстрого ответа</string>
     <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
     <string name="pref_summary_mms_read_reports">Запрашивать отчёт о прочтении для всех отправляемых сообщений</string>
+
+    <string name="pref_title_auto_delete">Automatically delete expired information</string>
+    <string name="pref_title_auto_delete_desc">Automatically delete expired information such as verification code and extraction code</string>
+    
     <string name="pref_title_key_message_capacity">Хранилище сообщений</string>
     <string name="pref_title_manage_messages_spam">Анти-спам</string>
     <string name="pref_title_manage_multi_sim_messages">Сообщения на SIM-карте (%s)</string>
@@ -991,7 +995,9 @@
     <string name="title_buy_tel">Входящие</string>
     <string name="title_coversation_contact_multi">Получатель</string>
     <string name="title_coversation_contact_single">Сведения о контакте</string>
+    
     <string name="title_mz_card">魅友卡</string>
+
     <string name="title_phone_recharge">Пополнить</string>
     <string name="to_address_label">Получатель:</string>
     <string name="toast_cannot_send_message">Отправка сообщений недоступна</string>

@@ -572,9 +572,9 @@
     <string name="mz_setting_video_super_night_title">SuperNight Видео</string>
     <string name="mz_setting_voice_action_label">Скажите \"Снимаю\" или \"Сыр\"</string>
     <string name="mz_setting_voice_action_title">Голосовое управление</string>
-    <string name="mz_setting_watermark">Ватермарк</string>
-    <string name="mz_setting_watermark_device">Метка девайса</string>
-    <string name="mz_setting_watermark_time">Временная метка</string>
+    <string name="mz_setting_watermark">Водяной знак</string>
+    <string name="mz_setting_watermark_device">Девайс</string>
+    <string name="mz_setting_watermark_time">Время и дата</string>
     <string name="mz_share_view_checkbox_text">Удалить после передачи</string>
     <string name="mz_share_view_title">Передать</string>
     <string name="mz_slow_motion_desc_120fps">120fps, 1080P</string>
@@ -727,7 +727,7 @@
     <string name="search_menu_title">Поиск</string>
     <string name="select_image">Выбрать фото</string>
     <string name="setting_auto_value">Авто</string>
-    <string name="setting_custom_value">Своё</string>
+    <string name="setting_custom_value">Изменить</string>
     <string name="setting_off_value">Выкл.</string>
     <string name="setting_on_value">Вкл.</string>
     <string name="setting_storage_value">SD-карта</string>

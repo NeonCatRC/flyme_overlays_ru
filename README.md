@@ -15,11 +15,11 @@ Overlays for f9 apps
 
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
-| AlarmClock | FULL n\t | Build-in clock app |
+| AlarmClock | FULL n\t !!Timer bug!!| Build-in clock app |
 | AlphaMe | FULL | Aicy Engine |
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |
-| Camera | FULL n\t | Camera app |
+| Camera | FULL n\t !!flashlight bug!!| Camera app |
 | ConnectivitySettings | WIP | Connect app |
 | CustomizeCenter | FULL | Themes \ AOD settings app |
 | DataMigration | Stop | Data migration app |
@@ -33,21 +33,21 @@ Overlays for f9 apps
 | MusicFX | FULL n\t | SquareSound |
 | MzBatteryManager | FULL n\t | Battery manager |
 | MzSecurity | WIP |  |
-| MzShare | Start |  |
-| NetAdmin | Start |  |
+| MzShare | Stop |  |
+| NetAdmin | FULL n\t | Build-in network check and diagnostics |
 | NotePaper | FULL n\t | Notepad app |
 | Pedometer | FULL n\t | Step counter |
-| PermissionController | Start |  |
+| PermissionController | Stop |  |
 | Picker | WIP |  |
-| SDKStage | Start |  |
+| SDKStage | Stop |  |
 | Settings | WIP |  |
-| SoundRecorder | FULL n\t | Build-in recorder app |
+| SoundRecorder | FULL n\t !!Unknown bug, cant record!! | Build-in recorder app |
 | Suggestion | WIP | |
 | SystemUI | WIP |  |
 | SystemUIEx | WIP |  |
 | SystemUITools | WIP |  |
 | TodoList | FULL | notes and to-do app |
-| ToolBox | FULL n\t | |
+| ToolBox | FULL n\t !!flashlight bug!!| |
 | VoiceAssistant | WIP |  |
 | Weather | FULL | Weather app |
 | ------ | ------ | ------ |
@@ -73,7 +73,6 @@ Overlays for f9 apps
 | MzSetupWizard |  |  |
 | PackageInstaller |  |  |
 | Search |  |  |
-| SoundRecorder |  |  |
 | Video |  |  |
 
 [ABOUT]: <https://mit-license.org/>
