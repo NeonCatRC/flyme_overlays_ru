@@ -15,11 +15,11 @@ Overlays for f9 apps
 
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
-| AlarmClock | FULL n\t !!Timer bug!!| Build-in clock app |
+| AlarmClock | FULL n\t | Build-in clock app |
 | AlphaMe | FULL | Aicy Engine |
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |
-| Camera | FULL n\t !!flashlight bug!!| Camera app |
+| Camera | FULL n\t | Camera app |
 | ConnectivitySettings | WIP | Connect app |
 | CustomizeCenter | FULL | Themes \ AOD settings app |
 | DataMigration | Stop | Data migration app |
@@ -41,13 +41,13 @@ Overlays for f9 apps
 | Picker | WIP |  |
 | SDKStage | Stop |  |
 | Settings | WIP |  |
-| SoundRecorder | FULL n\t !!Unknown bug, cant record!! | Build-in recorder app |
+| SoundRecorder | FULL n\t | Build-in recorder app |
 | Suggestion | WIP | |
 | SystemUI | WIP |  |
 | SystemUIEx | WIP |  |
 | SystemUITools | WIP |  |
 | TodoList | FULL | notes and to-do app |
-| ToolBox | FULL n\t !!flashlight bug!!| |
+| ToolBox | FULL n\t | |
 | VoiceAssistant | WIP |  |
 | Weather | FULL | Weather app |
 | ------ | ------ | ------ |
@@ -70,7 +70,6 @@ Overlays for f9 apps
 | FaceRecognition |  |  |
 | Music |  |  |
 | MzCallSettings |  |  |
-| MzSetupWizard |  |  |
 | PackageInstaller |  |  |
 | Search |  |  |
 | Video |  |  |

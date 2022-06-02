@@ -404,7 +404,7 @@
     <string name="na_speed_wifi_weak">Недоступно</string>
     <string name="network_quality_title">Качество сети</string>
     <string name="network_security_title">Безопасность</string>
-    <string name="now_speed_network">Текущая скорость сети:</string>
+    <string name="now_speed_network">Текущий способ подключения:</string>
     <string name="password_toggle_content_description">Переключить видимость пароля</string>
     <string name="primary_speed_test">Wi-Fi</string>
     <string name="restart_check_text">Запустить заного</string>
