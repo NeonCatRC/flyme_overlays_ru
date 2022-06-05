@@ -143,30 +143,31 @@
     <string name="folder_financial_planning">Планирование</string>
     <string name="folder_game">Игры</string>
     <string name="folder_hint_text">Редактировать</string>
+    <string name="folder_life_service">Услуги</string>
 
-    <string name="folder_life_service">Life Service</string>
-    <string name="folder_name_format_exact">Folder: %1$s, %2$d items</string>
-    <string name="folder_name_format_overflow">Folder: %1$s, %2$d or more items</string>
-    <string name="folder_name_provider_class" />
-    <string name="folder_opened">Folder opened, %1$d by %2$d</string>
-    <string name="folder_other">Other</string>
-    <string name="folder_read">Read</string>
-    <string name="folder_renamed">Folder renamed to %1$s</string>
-    <string name="folder_shopping">Shopping</string>
-    <string name="folder_social_im">Social IM</string>
-    <string name="folder_sports_health">Health</string>
-    <string name="folder_study_education">Education</string>
-    <string name="folder_system_tools">System Tools</string>
-    <string name="folder_tap_to_close">Tap to close folder</string>
-    <string name="folder_tap_to_rename">Tap to save rename</string>
-    <string name="folder_traffic_location">Traffic</string>
-    <string name="folder_video">Multimedia</string>
-    <string name="gadget_error_text">Problem loading widget</string>
-    <string name="gadget_setup_text">Setup</string>
-    <string name="gesture_tutorial_action_button_label_done">Done</string>
-    <string name="gesture_tutorial_action_button_label_settings">Settings</string>
-    <string name="gesture_tutorial_close_button_content_description">Close</string>
-    <string name="gesture_tutorial_confirm_title">All set</string>
+    <string name="folder_name_format_exact">Папка: %1$s, %2$d items</string>
+    <string name="folder_name_format_overflow">Папка: %1$s, %2$d or more items</string>
+
+    <string name="folder_opened">Папка открыта, %1$d на %2$d</string>
+    <string name="folder_other">Другое</string>
+    <string name="folder_read">Чтение</string>
+    <string name="folder_renamed">Папка переименована в %1$s</string>
+    <string name="folder_shopping">Покупки</string>
+    <string name="folder_social_im">Социальные сети</string>
+    <string name="folder_sports_health">Здоровье</string>
+    <string name="folder_study_education">Обучение</string>
+    <string name="folder_system_tools">Система</string>
+    <string name="folder_tap_to_close">Нажмите чтобы закрыть</string>
+    <string name="folder_tap_to_rename">Нажмите чтобы сохранить</string>
+    <string name="folder_traffic_location">Транспорт</string>
+    <string name="folder_video">Мультимедиа</string>
+    <string name="gadget_error_text">Ошибка загрузки виджета</string>
+    <string name="gadget_setup_text">Установить</string>
+    <string name="gesture_tutorial_action_button_label_done">Готово</string>
+    <string name="gesture_tutorial_action_button_label_settings">Настройки</string>
+    <string name="gesture_tutorial_close_button_content_description">Закрыть</string>
+    <string name="gesture_tutorial_confirm_title">Готово</string>
+
     <string name="home_gesture_feedback_overview_detected">"Make sure you don't pause before letting go"</string>
     <string name="home_gesture_feedback_swipe_too_far_from_edge">Make sure you swipe from the bottom edge of the screen</string>
     <string name="home_gesture_feedback_wrong_swipe_direction">Make sure you swipe straight up</string>
@@ -484,7 +485,7 @@
     <string name="overview_gesture_feedback_wrong_swipe_direction">Make sure you swipe straight up and pause</string>
     <string name="overview_gesture_tutorial_playground_subtitle">Swipe up from the bottom of the screen and hold</string>
     <string name="overview_gesture_tutorial_playground_title">Tutorial: Switch Apps</string>
-    
+
     <string name="package_state_unknown">Неизвестно</string>
 
     <string name="permdesc_install_shortcut">Allows an app to add shortcuts without user intervention.</string>
@@ -523,9 +524,10 @@
     <string name="remove_cloned_app_message">Removing cloned app deletes its data</string>
     <string name="remove_drop_target_label">Remove</string>
     <string name="remove_system_app_message_1">You can search in Setting to recovery</string>
-    <string name="remove_system_app_message_2" />
-    <string name="restor_text">"Can't move icons now"</string>
+
+    <string name="restor_text">"Сейчас нельзя перемещать иконки"</string>
     <string name="restore_button_text">OK</string>
+
     <string name="safemode_shortcut_error">Downloaded app disabled in Safe mode</string>
     <string name="safemode_widget_error">Widgets disabled in Safe mode</string>
     <string name="search_menu_title">Search</string>
