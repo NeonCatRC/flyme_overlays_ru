@@ -110,7 +110,7 @@
     <string name="completely_out_of_space">No free space on Home screen.</string>
     <string name="copy">Copy</string>
     <string name="corner_mark">Icon corner mark</string>
-    <string name="count_down_days_hours_minutes_seconds">倒计时 %1$s 天 %2$s 时 %3$s 分 %4$s 秒</string>
+    <string name="count_down_days_hours_minutes_seconds">Countdown %1$s d %2$s h %3$s min %4$s sec</string>
     <string name="create_folder">Group</string>
     <string name="create_folder_button">GROUP</string>
     <string name="create_folder_with">Create folder with: %1$s</string>

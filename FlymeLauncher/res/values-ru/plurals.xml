@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d выбрано</item>
-        <item quantity="zero">%1$d выбрано</item>
-        <item quantity="one">%1$d выбран</item>
+    <plurals name="dotted_app_label">
+        <item quantity="other">У %1$s %2$d уведомлений</item>
+        <item quantity="one">У %1$s %2$d уведомление</item>
     </plurals>
 </resources>
