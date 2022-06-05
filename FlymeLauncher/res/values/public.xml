@@ -5635,7 +5635,6 @@
     <public type="mipmap" name="ic_launcher_home" id="0x7f0d0000" />
     <public type="mipmap" name="ic_launcher_home_foreground" id="0x7f0d0001" />
     <public type="plurals" name="dotted_app_label" id="0x7f0e0000" />
-    <public type="plurals" name="number_of_items_selected" id="0x7f0e0001" />
     <public type="raw" name="apps_category" id="0x7f0f0000" />
     <public type="raw" name="downgrade_schema" id="0x7f0f0001" />
     <public type="raw" name="mc_picker_scrolled" id="0x7f0f0002" />
@@ -5810,8 +5809,6 @@
     <public type="string" name="hotseat_edu_message_migrate" id="0x7f1000a7" />
     <public type="string" name="hotseat_edu_message_migrate_alt" id="0x7f1000a8" />
     <public type="string" name="hotseat_edu_message_migrate_landscape" id="0x7f1000a9" />
-    <public type="string" name="APKTOOL_DUMMY_aa" id="0x7f1000aa" />
-    <public type="string" name="APKTOOL_DUMMY_ab" id="0x7f1000ab" />
     <public type="string" name="hotseat_edu_title_migrate" id="0x7f1000ac" />
     <public type="string" name="hotseat_edu_title_migrate_landscape" id="0x7f1000ad" />
     <public type="string" name="hotseat_out_of_space" id="0x7f1000ae" />
@@ -5819,7 +5816,6 @@
     <public type="string" name="hotseat_prediction_settings" id="0x7f1000b0" />
     <public type="string" name="hotseat_tip_gaps_filled" id="0x7f1000b1" />
     <public type="string" name="hotseat_tip_no_empty_slots" id="0x7f1000b2" />
-    <public type="string" name="APKTOOL_DUMMY_b3" id="0x7f1000b3" />
     <public type="string" name="iconarrange_click_tips" id="0x7f1000b4" />
     <public type="string" name="iconarrange_drag_overcount" id="0x7f1000b5" />
     <public type="string" name="iconarrange_drag_tips" id="0x7f1000b6" />
@@ -6207,235 +6203,6 @@
     <public type="string" name="work_switch_tip" id="0x7f100234" />
     <public type="string" name="workspace_new_page" id="0x7f100235" />
     <public type="string" name="workspace_scroll_format" id="0x7f100236" />
-    <public type="string" name="accessibility_all_apps_button" id="0x7f100237" />
-    <public type="string" name="accessibility_delete_button" id="0x7f100238" />
-    <public type="string" name="accessibility_search_button" id="0x7f100239" />
-    <public type="string" name="accessibility_voice_search_button" id="0x7f10023a" />
-    <public type="string" name="add_item_btn_cancel" id="0x7f10023b" />
-    <public type="string" name="add_item_btn_ok" id="0x7f10023c" />
-    <public type="string" name="add_item_title" id="0x7f10023d" />
-    <public type="string" name="all_apps_cling_add_item" id="0x7f10023e" />
-    <public type="string" name="all_apps_cling_title" id="0x7f10023f" />
-    <public type="string" name="announce_selection" id="0x7f100240" />
-    <public type="string" name="app_search_cling_btn" id="0x7f100241" />
-    <public type="string" name="app_search_cling_msg" id="0x7f100242" />
-    <public type="string" name="app_search_cling_title" id="0x7f100243" />
-    <public type="string" name="app_suggestion" id="0x7f100244" />
-    <public type="string" name="application_name" id="0x7f100245" />
-    <public type="string" name="apps_customize_apps_scroll_format" id="0x7f100246" />
-    <public type="string" name="apps_customize_widgets_scroll_format" id="0x7f100247" />
-    <public type="string" name="bottom_alignment" id="0x7f100248" />
-    <public type="string" name="cab_app_selection_text" id="0x7f100249" />
-    <public type="string" name="cab_folder_selection_text" id="0x7f10024a" />
-    <public type="string" name="cab_menu_app_info" id="0x7f10024b" />
-    <public type="string" name="cab_menu_delete_app" id="0x7f10024c" />
-    <public type="string" name="cab_shortcut_selection_text" id="0x7f10024d" />
-    <public type="string" name="cab_widget_selection_text" id="0x7f10024e" />
-    <public type="string" name="choiceness" id="0x7f10024f" />
-    <public type="string" name="cling_dismiss" id="0x7f100250" />
-    <public type="string" name="cling_overview_gathering" id="0x7f100251" />
-    <public type="string" name="cling_overview_longpress" id="0x7f100252" />
-    <public type="string" name="cling_search_fling" id="0x7f100253" />
-    <public type="string" name="crop_wallpaper" id="0x7f100254" />
-    <public type="string" name="debug_memory_activity" id="0x7f100255" />
-    <public type="string" name="default_folder_name" id="0x7f100256" />
-    <public type="string" name="delete_target_label" id="0x7f100257" />
-    <public type="string" name="delete_target_uninstall_label" id="0x7f100258" />
-    <public type="string" name="delete_zone_label_all_apps" id="0x7f100259" />
-    <public type="string" name="delete_zone_label_all_apps_system_app" id="0x7f10025a" />
-    <public type="string" name="delete_zone_label_workspace" id="0x7f10025b" />
-    <public type="string" name="dream_name" id="0x7f10025c" />
-    <public type="string" name="dummy_custom_cling_error_message" id="0x7f10025d" />
-    <public type="string" name="e002" id="0x7f10025e" />
-    <public type="string" name="e004" id="0x7f10025f" />
-    <public type="string" name="e005" id="0x7f100260" />
-    <public type="string" name="e006" id="0x7f100261" />
-    <public type="string" name="e007" id="0x7f100262" />
-    <public type="string" name="e008" id="0x7f100263" />
-    <public type="string" name="e00c" id="0x7f100264" />
-    <public type="string" name="e00d" id="0x7f100265" />
-    <public type="string" name="e00e" id="0x7f100266" />
-    <public type="string" name="e010" id="0x7f100267" />
-    <public type="string" name="e012" id="0x7f100268" />
-    <public type="string" name="e013" id="0x7f100269" />
-    <public type="string" name="e014" id="0x7f10026a" />
-    <public type="string" name="e017" id="0x7f10026b" />
-    <public type="string" name="e018" id="0x7f10026c" />
-    <public type="string" name="e01a" id="0x7f10026d" />
-    <public type="string" name="e01b" id="0x7f10026e" />
-    <public type="string" name="e01e" id="0x7f10026f" />
-    <public type="string" name="e020" id="0x7f100270" />
-    <public type="string" name="e021" id="0x7f100271" />
-    <public type="string" name="e022" id="0x7f100272" />
-    <public type="string" name="e024" id="0x7f100273" />
-    <public type="string" name="e025" id="0x7f100274" />
-    <public type="string" name="e026" id="0x7f100275" />
-    <public type="string" name="e028" id="0x7f100276" />
-    <public type="string" name="e02b" id="0x7f100277" />
-    <public type="string" name="e02e" id="0x7f100278" />
-    <public type="string" name="e030" id="0x7f100279" />
-    <public type="string" name="e031" id="0x7f10027a" />
-    <public type="string" name="e032" id="0x7f10027b" />
-    <public type="string" name="e050" id="0x7f10027c" />
-    <public type="string" name="e051" id="0x7f10027d" />
-    <public type="string" name="e052" id="0x7f10027e" />
-    <public type="string" name="e053" id="0x7f10027f" />
-    <public type="string" name="e054" id="0x7f100280" />
-    <public type="string" name="e055" id="0x7f100281" />
-    <public type="string" name="e056" id="0x7f100282" />
-    <public type="string" name="e057" id="0x7f100283" />
-    <public type="string" name="e058" id="0x7f100284" />
-    <public type="string" name="e059" id="0x7f100285" />
-    <public type="string" name="e05a" id="0x7f100286" />
-    <public type="string" name="e05b" id="0x7f100287" />
-    <public type="string" name="e05c" id="0x7f100288" />
-    <public type="string" name="e05d" id="0x7f100289" />
-    <public type="string" name="e05e" id="0x7f10028a" />
-    <public type="string" name="e05f" id="0x7f10028b" />
-    <public type="string" name="e060" id="0x7f10028c" />
-    <public type="string" name="e062" id="0x7f10028d" />
-    <public type="string" name="e063" id="0x7f10028e" />
-    <public type="string" name="e066" id="0x7f10028f" />
-    <public type="string" name="e067" id="0x7f100290" />
-    <public type="string" name="e06a" id="0x7f100291" />
-    <public type="string" name="e06e" id="0x7f100292" />
-    <public type="string" name="e070" id="0x7f100293" />
-    <public type="string" name="e071" id="0x7f100294" />
-    <public type="string" name="e072" id="0x7f100295" />
-    <public type="string" name="e07b" id="0x7f100296" />
-    <public type="string" name="e07c" id="0x7f100297" />
-    <public type="string" name="e07d" id="0x7f100298" />
-    <public type="string" name="e07e" id="0x7f100299" />
-    <public type="string" name="e085" id="0x7f10029a" />
-    <public type="string" name="e088" id="0x7f10029b" />
-    <public type="string" name="e089" id="0x7f10029c" />
-    <public type="string" name="e08a" id="0x7f10029d" />
-    <public type="string" name="e08b" id="0x7f10029e" />
-    <public type="string" name="e08c" id="0x7f10029f" />
-    <public type="string" name="e08d" id="0x7f1002a0" />
-    <public type="string" name="e08e" id="0x7f1002a1" />
-    <public type="string" name="e08f" id="0x7f1002a2" />
-    <public type="string" name="e090" id="0x7f1002a3" />
-    <public type="string" name="e092" id="0x7f1002a4" />
-    <public type="string" name="e093" id="0x7f1002a5" />
-    <public type="string" name="e094" id="0x7f1002a6" />
-    <public type="string" name="e095" id="0x7f1002a7" />
-    <public type="string" name="e096" id="0x7f1002a8" />
-    <public type="string" name="e097" id="0x7f1002a9" />
-    <public type="string" name="e098" id="0x7f1002aa" />
-    <public type="string" name="e099" id="0x7f1002ab" />
-    <public type="string" name="e09a" id="0x7f1002ac" />
-    <public type="string" name="e09b" id="0x7f1002ad" />
-    <public type="string" name="e09c" id="0x7f1002ae" />
-    <public type="string" name="e09d" id="0x7f1002af" />
-    <public type="string" name="e09e" id="0x7f1002b0" />
-    <public type="string" name="e09f" id="0x7f1002b1" />
-    <public type="string" name="e0a0" id="0x7f1002b2" />
-    <public type="string" name="e0a1" id="0x7f1002b3" />
-    <public type="string" name="e0a2" id="0x7f1002b4" />
-    <public type="string" name="e0a3" id="0x7f1002b5" />
-    <public type="string" name="e0a4" id="0x7f1002b6" />
-    <public type="string" name="e0a5" id="0x7f1002b7" />
-    <public type="string" name="e0aa" id="0x7f1002b8" />
-    <public type="string" name="e0ab" id="0x7f1002b9" />
-    <public type="string" name="e0ac" id="0x7f1002ba" />
-    <public type="string" name="e0d8" id="0x7f1002bb" />
-    <public type="string" name="e0da" id="0x7f1002bc" />
-    <public type="string" name="e0db" id="0x7f1002bd" />
-    <public type="string" name="education_folder" id="0x7f1002be" />
-    <public type="string" name="efe0" id="0x7f1002bf" />
-    <public type="string" name="efe1" id="0x7f1002c0" />
-    <public type="string" name="external_drop_widget_error" id="0x7f1002c1" />
-    <public type="string" name="external_drop_widget_pick_format" id="0x7f1002c2" />
-    <public type="string" name="external_drop_widget_pick_title" id="0x7f1002c3" />
-    <public type="string" name="f02f" id="0x7f1002c4" />
-    <public type="string" name="f030" id="0x7f1002c5" />
-    <public type="string" name="featured_plug" id="0x7f1002c6" />
-    <public type="string" name="finance_folder" id="0x7f1002c7" />
-    <public type="string" name="first_double_click_name" id="0x7f1002c8" />
-    <public type="string" name="first_double_click_tips_1" id="0x7f1002c9" />
-    <public type="string" name="first_double_click_tv_left_tips" id="0x7f1002ca" />
-    <public type="string" name="first_double_click_tv_right_tips" id="0x7f1002cb" />
-    <public type="string" name="first_run_cling_create_screens_hint" id="0x7f1002cc" />
-    <public type="string" name="first_run_cling_description" id="0x7f1002cd" />
-    <public type="string" name="first_run_cling_title" id="0x7f1002ce" />
-    <public type="string" name="flyme_shortcut" id="0x7f1002cf" />
-    <public type="string" name="folder_cling_create_folder" id="0x7f1002d0" />
-    <public type="string" name="folder_cling_title" id="0x7f1002d1" />
-    <public type="string" name="folder_name_format" id="0x7f1002d2" />
-    <public type="string" name="game_folder" id="0x7f1002d3" />
-    <public type="string" name="group_applications" id="0x7f1002d4" />
-    <public type="string" name="group_shortcuts" id="0x7f1002d5" />
-    <public type="string" name="group_wallpapers" id="0x7f1002d6" />
-    <public type="string" name="group_widgets" id="0x7f1002d7" />
-    <public type="string" name="has_mark_read" id="0x7f1002d8" />
-    <public type="string" name="has_mark_unread" id="0x7f1002d9" />
-    <public type="string" name="health_folder" id="0x7f1002da" />
-    <public type="string" name="home" id="0x7f1002db" />
-    <public type="string" name="iconarrange_alignment_tips" id="0x7f1002dc" />
-    <public type="string" name="info_target_label" id="0x7f1002dd" />
-    <public type="string" name="invalid_hotseat_item" id="0x7f1002de" />
-    <public type="string" name="life_folder" id="0x7f1002df" />
-    <public type="string" name="lifecenter_load_error" id="0x7f1002e0" />
-    <public type="string" name="lifecenter_reload" id="0x7f1002e1" />
-    <public type="string" name="lifecenter_update_msg" id="0x7f1002e2" />
-    <public type="string" name="load_fail" id="0x7f1002e3" />
-    <public type="string" name="loading" id="0x7f1002e4" />
-    <public type="string" name="local_gallery" id="0x7f1002e5" />
-    <public type="string" name="market" id="0x7f1002e6" />
-    <public type="string" name="menu_item_add_item" id="0x7f1002e7" />
-    <public type="string" name="more_wallpaper" id="0x7f1002e8" />
-    <public type="string" name="navigation_folder" id="0x7f1002e9" />
-    <public type="string" name="nfc_share" id="0x7f1002ea" />
-    <public type="string" name="nfc_share_title" id="0x7f1002eb" />
-    <public type="string" name="no_ad" id="0x7f1002ec" />
-    <public type="string" name="online_gallery" id="0x7f1002ed" />
-    <public type="string" name="other_folder" id="0x7f1002ee" />
-    <public type="string" name="out_of_widget_space" id="0x7f1002ef" />
-    <public type="string" name="overview_icon_scale_x" id="0x7f1002f0" />
-    <public type="string" name="overview_icon_scale_y" id="0x7f1002f1" />
-    <public type="string" name="pick_image" id="0x7f1002f2" />
-    <public type="string" name="pick_wallpaper" id="0x7f1002f3" />
-    <public type="string" name="popular_folder" id="0x7f1002f4" />
-    <public type="string" name="privacy_text" id="0x7f1002f5" />
-    <public type="string" name="productivity_folder" id="0x7f1002f6" />
-    <public type="string" name="pull_to_mark_read" id="0x7f1002f7" />
-    <public type="string" name="pull_to_mark_unread" id="0x7f1002f8" />
-    <public type="string" name="read_folder" id="0x7f1002f9" />
-    <public type="string" name="recommend" id="0x7f1002fa" />
-    <public type="string" name="recreation_folder" id="0x7f1002fb" />
-    <public type="string" name="rename_action" id="0x7f1002fc" />
-    <public type="string" name="rename_folder_label" id="0x7f1002fd" />
-    <public type="string" name="rename_folder_title" id="0x7f1002fe" />
-    <public type="string" name="set_wallpaper" id="0x7f1002ff" />
-    <public type="string" name="share" id="0x7f100300" />
-    <public type="string" name="shopping_folder" id="0x7f100301" />
-    <public type="string" name="shortcut_duplicate" id="0x7f100302" />
-    <public type="string" name="shortcut_installed" id="0x7f100303" />
-    <public type="string" name="shortcut_uninstalled" id="0x7f100304" />
-    <public type="string" name="social_network_folder" id="0x7f100305" />
-    <public type="string" name="system_tools" id="0x7f100306" />
-    <public type="string" name="title_select_application" id="0x7f100307" />
-    <public type="string" name="title_select_shortcut" id="0x7f100308" />
-    <public type="string" name="toggle_weight_watcher" id="0x7f100309" />
-    <public type="string" name="tools_folder" id="0x7f10030a" />
-    <public type="string" name="top_alignment" id="0x7f10030b" />
-    <public type="string" name="uid_name" id="0x7f10030c" />
-    <public type="string" name="unicom_phone" id="0x7f10030d" />
-    <public type="string" name="unicom_usim" id="0x7f10030e" />
-    <public type="string" name="uninstall_notice" id="0x7f10030f" />
-    <public type="string" name="uninstall_title" id="0x7f100310" />
-    <public type="string" name="uninstallcache" id="0x7f100311" />
-    <public type="string" name="wallpaper_accessibility_name" id="0x7f100312" />
-    <public type="string" name="wallpaper_delete" id="0x7f100313" />
-    <public type="string" name="wallpaper_instructions" id="0x7f100314" />
-    <public type="string" name="widget_adder" id="0x7f100315" />
-    <public type="string" name="widgets_tab_label" id="0x7f100316" />
-    <public type="string" name="widgets_tab_label_click" id="0x7f100317" />
-    <public type="string" name="workspace_cling_move_item" id="0x7f100318" />
-    <public type="string" name="workspace_cling_title" id="0x7f100319" />
-    <public type="string" name="workspace_description_format" id="0x7f10031a" />
-    <public type="string" name="zhengli" id="0x7f10031b" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f110000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f110001" />
     <public type="style" name="AllAppsEmptySearchBackground" id="0x7f110002" />
