@@ -31,9 +31,7 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-
-    <string name="accessibility_app_usage_settings">App usage settings</string>
-
+    <string name="accessibility_app_usage_settings">Настройки использования приложения</string>
     <string name="accessibility_close">Закрыть</string>
 
     <string name="accessibility_recent_apps">Recent apps</string>
@@ -44,11 +42,11 @@
     <string name="action_dismiss_notification">Dismiss</string>
     <string name="action_increase_height">Increase height</string>
     <string name="action_increase_width">Increase width</string>
-    <string name="action_move">Move item</string>
-    <string name="action_move_here">Move item here</string>
-    <string name="action_move_to_workspace">Move to Home screen</string>
-    <string name="action_resize">Resize</string>
 
+    <string name="action_move">Переместить</string>
+    <string name="action_move_here">Переместить сюда</string>
+    <string name="action_move_to_workspace">Переместить на домашний экран</string>
+    <string name="action_resize">Изменить</string>
     <string name="action_screenshot">Снимок экрана</string>
     <string name="action_share">Поделиться</string>
     <string name="activity_not_available">"Приложение недоступно"</string>
@@ -75,19 +73,16 @@
     <string name="all_apps_no_search_results">No apps found matching \"%1$s\"</string>
     <string name="all_apps_personal_tab">Personal</string>
     <string name="all_apps_prediction_tip">Your predicted apps</string>
-    <string name="all_apps_search_bar_hint">Search apps</string>
-    <string name="all_apps_search_market_message">Search for more apps</string>
-    <string name="all_apps_work_tab">Work</string>
-    <string name="allow_rotation_desc">When phone is rotated</string>
-    <string name="allow_rotation_title">Allow Home screen rotation</string>
 
+    <string name="all_apps_search_bar_hint">Поиск приложений</string>
+    <string name="all_apps_search_market_message">Искать больше приложений</string>
+    <string name="all_apps_work_tab">Работа</string>
+    <string name="allow_rotation_desc">Когда телефон повёрнут</string>
+    <string name="allow_rotation_title">Разрешить поворот домашнего экрана</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
-
-    <string name="app_downloading_title">%1$s downloading, %2$s complete</string>
-
+    <string name="app_downloading_title">%1$s загружается, %2$s завершено</string>
     <string name="app_info">О приложении</string>
     <string name="app_info_drop_target_label">О приложении</string>
-
     <string name="app_name">Launcher3</string>
 
     <string name="app_waiting_download_title">%1$s waiting to install</string>
@@ -129,11 +124,11 @@
     <string name="default_scroll_format">Page %1$d of %2$d</string>
 
     <string name="derived_app_name">Системный лаунчер</string>
+    <string name="disabled_app_label">Отключено %1$s</string>
+    <string name="dismiss_prediction_label">"Не предлагать приложения"</string>
+    <string name="edit_button_text">Настройки</string>
+    <string name="expand_button_title">Больше</string>
 
-    <string name="disabled_app_label">Disabled %1$s</string>
-    <string name="dismiss_prediction_label">"Don't suggest app"</string>
-    <string name="edit_button_text">Desktop Settings</string>
-    <string name="expand_button_title">Advanced</string>
     <string name="explain_for_demo_1">The experience machine does not support layout modification</string>
 
     <string name="folder_business">Бизнес</string>
@@ -207,7 +202,7 @@
     <string name="launcher_change_wallpaper">Сменить обои</string>
 
     <string name="launcher_edit_panel_completed">Готово</string>
-    <string name="launcher_edit_panel_default_size">Восстановить настройки</string>
+    <string name="launcher_edit_panel_default_size">Сбросить настройки</string>
     <string name="launcher_edit_panel_flyme_style_icon">Flyme</string>
     <string name="launcher_edit_panel_grid_title">Сетка иконок</string>
     <string name="launcher_edit_panel_more_setting">Больше настроек</string>
@@ -517,28 +512,30 @@
 
     <string name="recommend_swtich">Recommendation of selected activities</string>
     <string name="recommend_swtich_explain">Show recommendation in app title</string>
-    <string name="remote_action_failed">Failed: %1$s</string>
 
-    <string name="remove">Удалить</string>
+    <string name="remote_action_failed">Ошибка: %1$s</string>
+    <string name="remove">Убрать</string>
+    <string name="remove_cloned_app_message">Удаление клонированного приложения удаляет его данные</string>
+    <string name="remove_drop_target_label">Удалить</string>
 
-    <string name="remove_cloned_app_message">Removing cloned app deletes its data</string>
-    <string name="remove_drop_target_label">Remove</string>
     <string name="remove_system_app_message_1">You can search in Setting to recovery</string>
 
     <string name="restor_text">"Сейчас нельзя перемещать иконки"</string>
     <string name="restore_button_text">OK</string>
+    <string name="safemode_shortcut_error">Загруженные приложения отключены в безопасном режиме</string>
+    <string name="safemode_widget_error">Виджеты отключены в безопасном режиме</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="search_switch">Поиск</string>
 
-    <string name="safemode_shortcut_error">Downloaded app disabled in Safe mode</string>
-    <string name="safemode_widget_error">Widgets disabled in Safe mode</string>
-    <string name="search_menu_title">Search</string>
-    <string name="search_switch">Search</string>
     <string name="search_switch_explain">Swipeup in workspace</string>
     <string name="settings_button_text">Home settings</string>
-    <string name="settings_name">Launcher Settings</string>
-    <string name="shortcut_not_available">"Shortcut isn't available"</string>
-    <string name="shortcuts_menu_with_notifications_description">Shortcuts and notifications</string>
-    <string name="shorter_duration_less_than_one_minute">&lt; 1 minute</string>
+
+    <string name="settings_name">Настройки лаунчера</string>
+    <string name="shortcut_not_available">"Ярлык недоступен"</string>
+    <string name="shortcuts_menu_with_notifications_description">Ярлыки и уведомления</string>
+    <string name="shorter_duration_less_than_one_minute">&lt; 1 минута</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+
     <string name="styles_wallpaper_button_text">Styles &amp; wallpapers</string>
     <string name="sure">OK</string>
     <string name="swipe_again">Swipe again</string>

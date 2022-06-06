@@ -360,7 +360,7 @@
     <string name="note_agreement">Политика конфиденциальности</string>
     <string name="note_create">Создать</string>
     <string name="note_encrpted">Содержимое защищено паролем</string>
-    <string name="note_feedback">Отклик</string>
+    <string name="note_feedback">Обратная связь</string>
     <string name="note_group">Группа</string>
     <string name="note_remind">Напоминание</string>
     <string name="notification_channel_download">Загрузить</string>
