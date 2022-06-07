@@ -216,12 +216,12 @@
     <style name="AppTheme.PopupOverlay" parent="@style/ThemeOverlay.AppCompat.Light" />
     <style name="BarChart.Text" parent="@android:style/TextAppearance.Material.Subhead">
         <item name="android:textColor">?android:textColorPrimary</item>
-        <item name="android:fontFamily">@android:string/config_headlineFontFamilyMedium</item>
+        <item name="android:fontFamily">@android:string/autofill_update_title_with_2types</item>
     </style>
     <style name="BarChart.Text.HeaderTitle" parent="@style/BarChart.Text">
         <item name="android:textSize">14.0sp</item>
     </style>
-    <style name="BarChart.Text.Summary" parent="@android:style/TextAppearance.DeviceDefault.Body1">
+    <style name="BarChart.Text.Summary" parent="@android:style/TextAppearance.DeviceDefault.Headline">
         <item name="android:textSize">12.0sp</item>
         <item name="android:textColor">?android:textColorSecondary</item>
     </style>
@@ -2076,7 +2076,7 @@
         <item name="preferenceFragmentListStyle">@style/CarPreferenceFragmentList</item>
     </style>
     <style name="CarSettings" parent="@android:style/Theme.DeviceDefault.NoActionBar">
-        <item name="carDividerColor">@android:color/car_list_divider</item>
+        <item name="carDividerColor">@android:color/car_list_divider_dark</item>
         <item name="preferenceTheme">@style/CarPreferenceTheme</item>
     </style>
     <style name="CardView" parent="@style/Base.CardView">
@@ -3511,7 +3511,7 @@
         <item name="android:textSize">@dimen/mz_text_size_medium</item>
         <item name="android:textColor">?android:textColorAlertDialogListItem</item>
     </style>
-    <style name="TextAppearance.EntityHeaderSummary" parent="@android:style/TextAppearance.DeviceDefault.Body1">
+    <style name="TextAppearance.EntityHeaderSummary" parent="@android:style/TextAppearance.DeviceDefault.Headline">
         <item name="android:textColor">?android:textColorSecondary</item>
         <item name="android:ellipsize">marquee</item>
         <item name="android:singleLine">true</item>
@@ -3520,7 +3520,7 @@
     <style name="TextAppearance.EntityHeaderTitle" parent="@android:style/TextAppearance.Material.Subhead">
         <item name="android:textSize">20.0sp</item>
         <item name="android:textColor">?android:textColorPrimary</item>
-        <item name="android:fontFamily">@android:string/config_headlineFontFamilyMedium</item>
+        <item name="android:fontFamily">@android:string/autofill_update_title_with_2types</item>
     </style>
     <style name="TextAppearance.Flyme" parent="@android:style/TextAppearance.DeviceDefault">
         <item name="android:textSize">@dimen/mz_text_size_normal</item>

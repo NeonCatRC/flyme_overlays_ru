@@ -329,7 +329,6 @@
     <public type="array" name="wifi_wapi_psk_type" id="0x7f0300f9" />
     <public type="array" name="window_animation_scale_entries" id="0x7f0300fa" />
     <public type="array" name="window_animation_scale_values" id="0x7f0300fb" />
-    <public type="array" name="debug_hw_renderer_entries" id="0x7f0300fc" />
     <public type="attr" name="MeizuCommon.AnimSeekBarStyle" id="0x7f040000" />
     <public type="attr" name="MeizuCommon.AuraSeekBarStyle" id="0x7f040001" />
     <public type="attr" name="MeizuCommon.CircleProgressBarStyle" id="0x7f040002" />
@@ -7258,7 +7257,6 @@
     <public type="string" name="preferred_lte_summary" id="0x7f12048b" />
     <public type="string" name="preferred_network_mode_dialogtitle" id="0x7f12048c" />
     <public type="string" name="preferred_network_mode_title" id="0x7f12048d" />
-    <public type="string" name="APKTOOL_DUMMY_48e" id="0x7f12048e" />
     <public type="string" name="private_dns_help_message" id="0x7f12048f" />
     <public type="string" name="private_dns_mode_off" id="0x7f120490" />
     <public type="string" name="private_dns_mode_opportunistic" id="0x7f120491" />
@@ -7764,7 +7762,6 @@
     <public type="string" name="wifi_bridge_settings_password_digit" id="0x7f120685" />
     <public type="string" name="wifi_bridge_settings_ssid" id="0x7f120686" />
     <public type="string" name="wifi_bridge_settings_title" id="0x7f120687" />
-    <public type="string" name="APKTOOL_DUMMY_688" id="0x7f120688" />
     <public type="string" name="wifi_bridge_state_disabled" id="0x7f120689" />
     <public type="string" name="wifi_bridge_state_ready" id="0x7f12068a" />
     <public type="string" name="wifi_bridge_state_started" id="0x7f12068b" />
@@ -8085,24 +8082,6 @@
     <public type="string" name="zen_mode_forever" id="0x7f1207c6" />
     <public type="string" name="zen_mode_settings_summary_off" id="0x7f1207c7" />
     <public type="string" name="zen_mode_settings_turn_on_dialog_title" id="0x7f1207c8" />
-    <public type="string" name="wifi_random_mac_option" id="0x7f1207c9" />
-    <public type="string" name="wifi_random_mac_option_summary" id="0x7f1207ca" />
-    <public type="string" name="wifi_aggressive_handover" id="0x7f1207cb" />
-    <public type="string" name="wifi_allow_scan_with_traffic" id="0x7f1207cc" />
-    <public type="string" name="bluetooth_enable_inband_ringing" id="0x7f1207cd" />
-    <public type="string" name="wifi_aggressive_handover_summary" id="0x7f1207ce" />
-    <public type="string" name="wifi_allow_scan_with_traffic_summary" id="0x7f1207cf" />
-    <public type="string" name="bluetooth_enable_inband_ringing_summary" id="0x7f1207d0" />
-    <public type="string" name="telephony_monitor_switch" id="0x7f1207d1" />
-    <public type="string" name="telephony_monitor_switch_summary" id="0x7f1207d2" />
-    <public type="string" name="debug_hw_renderer" id="0x7f1207d3" />
-    <public type="string" name="force_hw_ui" id="0x7f1207d4" />
-    <public type="string" name="force_hw_ui_summary" id="0x7f1207d5" />
-    <public type="string" name="power_remaining_duration_only_short_enhanced" id="0x7f1207d6" />
-    <public type="string" name="power_discharging_duration_short" id="0x7f1207d7" />
-    <public type="string" name="setup_wizard_next_button_label" id="0x7f1207d8" />
-    <public type="string" name="setup_wizard_back_button_label" id="0x7f1207d9" />
-    <public type="string" name="free_wifi_protocol_content" id="0x7f1207da" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f130000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f130001" />
     <public type="style" name="Animation.AppCompat.Dialog" id="0x7f130002" />

@@ -81,9 +81,9 @@
     <dimen name="alert_dialog_button_bar_height">48.0dip</dimen>
     <dimen name="alert_dialog_button_bar_width">64.0dip</dimen>
     <dimen name="arrow_drawable_size">16.0dip</dimen>
-    <item type="dimen" name="car_action_bar_height">@android:dimen/car_app_bar_height</item>
-    <item type="dimen" name="car_icon_size">@android:dimen/car_primary_icon_size</item>
-    <item type="dimen" name="car_margin">@android:dimen/car_margin</item>
+    <item type="dimen" name="car_action_bar_height">@android:dimen/button_pressed_z_material</item>
+    <item type="dimen" name="car_icon_size">@android:dimen/car_radius_1</item>
+    <item type="dimen" name="car_margin">@android:dimen/car_padding_1</item>
     <dimen name="cardview_compat_inset_shadow">1.0dip</dimen>
     <dimen name="cardview_default_elevation">2.0dip</dimen>
     <dimen name="cardview_default_radius">2.0dip</dimen>

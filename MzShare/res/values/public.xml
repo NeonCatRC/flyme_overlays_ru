@@ -5641,7 +5641,6 @@
     <public type="string" name="upload_succ_ok" id="0x7f1001fd" />
     <public type="string" name="upload_success" id="0x7f1001fe" />
     <public type="string" name="wifi_tether_configure_ssid_default" id="0x7f1001ff" />
-    <public type="string" name="hello" id="0x7f100200" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f110000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f110001" />
     <public type="style" name="Animation.AppCompat.Dialog" id="0x7f110002" />

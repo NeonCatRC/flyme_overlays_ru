@@ -68,8 +68,10 @@
     <string name="all_apps_button_personal_label">Personal apps list</string>
     <string name="all_apps_button_work_label">Work apps list</string>
     <string name="all_apps_home_button_label">Home</string>
-    <string name="all_apps_label">All apps</string>
-    <string name="all_apps_loading_message">Loading apps…</string>
+
+    <string name="all_apps_label">Все приложения</string>
+    <string name="all_apps_loading_message">Загрузка…</string>
+    
     <string name="all_apps_no_search_results">No apps found matching \"%1$s\"</string>
     <string name="all_apps_personal_tab">Personal</string>
     <string name="all_apps_prediction_tip">Your predicted apps</string>

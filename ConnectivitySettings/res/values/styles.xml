@@ -36,20 +36,20 @@
     </style>
     <style name="AppEntitiesHeader.Text" parent="@android:style/TextAppearance.Material.Subhead">
         <item name="android:textColor">?android:textColorPrimary</item>
-        <item name="android:fontFamily">@android:string/config_headlineFontFamilyMedium</item>
+        <item name="android:fontFamily">@android:string/autofill_update_title_with_2types</item>
     </style>
     <style name="AppEntitiesHeader.Text.HeaderTitle" parent="@style/AppEntitiesHeader.Text">
         <item name="android:textSize">14.0sp</item>
     </style>
-    <style name="AppEntitiesHeader.Text.Summary" parent="@android:style/TextAppearance.DeviceDefault.Body1">
+    <style name="AppEntitiesHeader.Text.Summary" parent="@android:style/TextAppearance.DeviceDefault.Headline">
         <item name="android:textSize">14.0sp</item>
         <item name="android:textColor">?android:textColorSecondary</item>
     </style>
     <style name="AppEntitiesHeader.Text.Title" parent="@style/AppEntitiesHeader.Text">
         <item name="android:textSize">16.0sp</item>
     </style>
-    <style name="AppListSwitchPreference" parent="@android:style/Preference.Material.DialogPreference">
-        <item name="android:widgetLayout">@android:layout/preference_widget_switch</item>
+    <style name="AppListSwitchPreference" parent="@android:style/Preference.Material.Information">
+        <item name="android:widgetLayout">@android:layout/preference_widget_seekbar_material</item>
     </style>
     <style name="BackgroundOnlyTheme" parent="@android:style/Theme.DeviceDefault.Light">
         <item name="android:windowBackground">@null</item>
@@ -61,12 +61,12 @@
     </style>
     <style name="BarChart.Text" parent="@android:style/TextAppearance.Material.Subhead">
         <item name="android:textColor">?android:textColorPrimary</item>
-        <item name="android:fontFamily">@android:string/config_headlineFontFamilyMedium</item>
+        <item name="android:fontFamily">@android:string/autofill_update_title_with_2types</item>
     </style>
     <style name="BarChart.Text.HeaderTitle" parent="@style/BarChart.Text">
         <item name="android:textSize">14.0sp</item>
     </style>
-    <style name="BarChart.Text.Summary" parent="@android:style/TextAppearance.DeviceDefault.Body1">
+    <style name="BarChart.Text.Summary" parent="@android:style/TextAppearance.DeviceDefault.Headline">
         <item name="android:textSize">12.0sp</item>
         <item name="android:textColor">?android:textColorSecondary</item>
     </style>
@@ -1255,7 +1255,7 @@
     </style>
     <style name="BorderlessButton">
         <item name="android:gravity">center</item>
-        <item name="android:background">@android:drawable/btn_borderless_rect</item>
+        <item name="android:background">@android:drawable/background_holo_dark</item>
         <item name="android:padding">12.0dip</item>
     </style>
     <style name="ConnSettingsTheme.Translucent.NoTitleBar" parent="@android:style/Theme.Translucent.NoTitleBar">
@@ -1545,17 +1545,17 @@
         <item name="android:paddingStart">0.0dip</item>
         <item name="android:paddingEnd">0.0dip</item>
     </style>
-    <style name="PreferenceFragmentListSinglePane" parent="@android:style/PreferenceFragmentList">
+    <style name="PreferenceFragmentListSinglePane" parent="@android:style/PreferenceHeaderPanel">
         <item name="android:scrollbarStyle">outsideOverlay</item>
         <item name="android:paddingStart">@dimen/settings_side_margin</item>
         <item name="android:paddingEnd">@dimen/settings_side_margin</item>
         <item name="android:layout_marginStart">0.0dip</item>
         <item name="android:layout_marginEnd">0.0dip</item>
     </style>
-    <style name="PreferenceFragmentStyle" parent="@android:style/PreferenceFragment">
+    <style name="PreferenceFragmentStyle" parent="@android:style/PreferenceFragmentList.Material">
         <item name="android:layout">@layout/preference_list_fragment</item>
     </style>
-    <style name="PreferenceHeaderListSinglePane" parent="@android:style/PreferenceHeaderList">
+    <style name="PreferenceHeaderListSinglePane" parent="@android:style/PreferencePanel">
         <item name="android:scrollbarStyle">outsideOverlay</item>
         <item name="android:paddingTop">0.0dip</item>
         <item name="android:paddingBottom">0.0dip</item>
@@ -1571,7 +1571,7 @@
         <item name="android:layout_marginStart">0.0dip</item>
         <item name="android:layout_marginEnd">0.0dip</item>
     </style>
-    <style name="PreferencePanelSinglePane" parent="@android:style/PreferencePanel">
+    <style name="PreferencePanelSinglePane" parent="@android:style/PreviewWallpaperSettings">
         <item name="android:scrollbarStyle">outsideOverlay</item>
         <item name="android:background">@null</item>
         <item name="android:paddingStart">0.0dip</item>
@@ -1701,7 +1701,7 @@
         <item name="android:paddingBottom">20.0dip</item>
         <item name="android:drawablePadding">4.0dip</item>
         <item name="android:layout_marginEnd">8.0dip</item>
-        <item name="android:drawableTint">@android:color/btn_colored_borderless_text_material</item>
+        <item name="android:drawableTint">@android:color/btn_colored_text_material</item>
     </style>
     <style name="SettingsBarChart">
         <item name="android:gravity">center</item>
@@ -1760,8 +1760,8 @@
         <item name="android:layout_marginStart">8.0dip</item>
         <item name="android:layout_marginEnd">8.0dip</item>
     </style>
-    <style name="SettingsPreferenceHeaderList" parent="@android:style/PreferenceHeaderList" />
-    <style name="SettingsPreferenceHeaderPanel" parent="@android:style/PreferenceHeaderPanel" />
+    <style name="SettingsPreferenceHeaderList" parent="@android:style/PreferencePanel" />
+    <style name="SettingsPreferenceHeaderPanel" parent="@android:style/PreferencePanel.Material" />
     <style name="SettingsSpinnerTitleBar">
         <item name="android:textAppearance">?android:textAppearanceButton</item>
         <item name="android:paddingTop">8.0dip</item>
@@ -1854,7 +1854,7 @@
         <item name="android:textSize">@dimen/mz_text_size_medium</item>
         <item name="android:textColor">?android:textColorAlertDialogListItem</item>
     </style>
-    <style name="TextAppearance.EntityHeaderSummary" parent="@android:style/TextAppearance.DeviceDefault.Body1">
+    <style name="TextAppearance.EntityHeaderSummary" parent="@android:style/TextAppearance.DeviceDefault.Headline">
         <item name="android:textColor">?android:textColorSecondary</item>
         <item name="android:ellipsize">marquee</item>
         <item name="android:singleLine">true</item>
@@ -1863,7 +1863,7 @@
     <style name="TextAppearance.EntityHeaderTitle" parent="@android:style/TextAppearance.Material.Subhead">
         <item name="android:textSize">20.0sp</item>
         <item name="android:textColor">?android:textColorPrimary</item>
-        <item name="android:fontFamily">@android:string/config_headlineFontFamilyMedium</item>
+        <item name="android:fontFamily">@android:string/autofill_update_title_with_2types</item>
     </style>
     <style name="TextAppearance.Flyme" parent="@android:style/TextAppearance.DeviceDefault">
         <item name="android:textSize">@dimen/mz_text_size_normal</item>

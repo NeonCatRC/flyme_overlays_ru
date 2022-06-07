@@ -17,7 +17,7 @@
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
-    <string name="about_us">关于我们</string>
+    <string name="about_us">О нас</string>
     <string name="accessibility_desc">Помощь при получении заказа в магазине</string>
     <string name="action_finished">Завершено</string>
     <string name="action_settings">Настройки</string>

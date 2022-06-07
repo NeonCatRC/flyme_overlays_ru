@@ -2793,7 +2793,7 @@
         <item name="MeizuCommon.VerticalSeekBarStyle">@style/Widget.MeizuCommon.SeekBar.Vertical</item>
     </style>
     <style name="Theme.PopupActivity" parent="@android:style/Theme.DeviceDefault.Dialog">
-        <item name="android:windowBackground">@android:drawable/dialog_divider_horizontal_light</item>
+        <item name="android:windowBackground">@android:drawable/dark_header_dither</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowContentOverlay">@null</item>

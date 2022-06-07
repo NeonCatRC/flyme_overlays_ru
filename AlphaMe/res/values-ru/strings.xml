@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aicy_app_name">Aicy Engine</string>
+    <string name="app_name">OAuth SDK</string>
+    <string name="context_is_null">Неверный параметр</string>
+    <string name="error_is_throwed">Ошибка авторизации, повторите попытку позже.</string>
+    <string name="future_result_is_null">Ошибка авторизации, повторите попытку позже.</string>
+    <string name="get_cancel">Отменено пользователем</string>
+    <string name="get_token_failed">Ошибка авторизации, проверьте сеть или системное время и попробуйте снова</string>
+    <string name="intent_handle">Пожалуйста, обработайте возвращаемое значение</string>
+    <string name="scope_null_token">Ошибка авторизации. Ошибка получения информации о %s</string>
+    <string name="sync_timeout">Request timeout. Попробуйте снова.</string>
+    <string name="uid_not_match">UID не соответвует имени пакета</string>
+    <string name="unkown_error">Ошибка авторизации, повторите попытку позже.</string>
+    <string name="unsupport_operation">Слишком частые запросы</string>
+</resources>

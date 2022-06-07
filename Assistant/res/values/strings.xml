@@ -29,7 +29,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="about_us">关于我们</string>
+    <string name="about_us">About us</string>
     <string name="action_finished">Finished</string>
     <string name="action_settings">Settings</string>
     <string name="activity_bookmark_select">Select item</string>
@@ -46,7 +46,7 @@
     <string name="amc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
     <string name="anniversary_title">year anniversary</string>
     <string name="anniversary_zero_title">" anniversary"</string>
-    <string name="ap_db_save_fail">[DB] AP 保存缓存失败，注意报错</string>
+    <string name="ap_db_save_fail">[DB] AP Saving the cache failed, pay attention to the error</string>
     <string name="app_name">TrafficSDK</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="assistant_app_name">Aicy Glance</string>
@@ -82,20 +82,22 @@
     <string name="bind_phone_success_title_1">Recognized local number</string>
     <string name="birthday_title">year old birthday</string>
     <string name="birthday_zero_title">"'s birthday"</string>
-    <string name="ble_cache_contentsame">[蓝牙缓存] 明文数据一致，不更新缓存</string>
-    <string name="ble_cache_notdata">[蓝牙缓存] 服务端没有下发缓存数据</string>
-    <string name="ble_cache_updatemd5">[蓝牙缓存] 保存Ble缓存成功，更新MD5</string>
-    <string name="bluetooch_ble">BLE蓝牙</string>
-    <string name="bluetooch_close">[蓝牙识别] 手机蓝牙关闭，释放资源，结束流程</string>
-    <string name="bluetooch_context_null">[蓝牙识别] Context is null，结束流程</string>
-    <string name="bluetooch_enable">[蓝牙识别] %1$s: 手机不支持蓝牙或者蓝牙没打开</string>
-    <string name="bluetooch_finish">[蓝牙识别] 适配器不可用，结束流程</string>
-    <string name="bluetooch_init_success_scan">[蓝牙识别] 初始化成功，准备开始扫描</string>
-    <string name="bluetooch_open">[蓝牙识别] 手机蓝牙开打，准备开始扫描</string>
-    <string name="bluetooch_release">[蓝牙识别] 释放资源，结束流程</string>
-    <string name="bluetooch_screen_close">[蓝牙识别] 黑屏下或者正在请求接口，不做识别流程</string>
-    <string name="bluetooch_size_zero">[蓝牙识别] 本次扫描到的蓝牙列表为空，不做识别流程，等待下次扫描</string>
-    <string name="bluetooch_updatecount_lists">[蓝牙识别] 更新出现次数后的列表为： %1$s</string>
+    
+    <string name="ble_cache_contentsame">[Bluetooth cache] 明文数据一致，不更新缓存</string>
+    <string name="ble_cache_notdata">[Bluetooth cache] 服务端没有下发缓存数据</string>
+    <string name="ble_cache_updatemd5">[Bluetooth cache] 保存Ble缓存成功，更新MD5</string>
+    <string name="bluetooch_ble">Bluetooth BLE</string>
+    <string name="bluetooch_close">[Bluetooth recognition] 手机蓝牙关闭，释放资源，结束流程</string>
+    <string name="bluetooch_context_null">[Bluetooth recognition] Context is null，结束流程</string>
+    <string name="bluetooch_enable">[Bluetooth recognition] %1$s: 手机不支持蓝牙或者蓝牙没打开</string>
+    <string name="bluetooch_finish">[Bluetooth recognition] 适配器不可用，结束流程</string>
+    <string name="bluetooch_init_success_scan">[Bluetooth recognition] 初始化成功，准备开始扫描</string>
+    <string name="bluetooch_open">[Bluetooth recognition] 手机蓝牙开打，准备开始扫描</string>
+    <string name="bluetooch_release">[Bluetooth recognition] 释放资源，结束流程</string>
+    <string name="bluetooch_screen_close">[Bluetooth recognition] 黑屏下或者正在请求接口，不做识别流程</string>
+    <string name="bluetooch_size_zero">[Bluetooth recognition] 本次扫描到的蓝牙列表为空，不做识别流程，等待下次扫描</string>
+    <string name="bluetooch_updatecount_lists">[Bluetooth recognition] 更新出现次数后的列表为： %1$s</string>
+
     <string name="bookmark">My Favorites</string>
     <string name="bookmark_add_succeed">Successfully added</string>
     <string name="bookmark_add_to_my_favorite">To Aicy Glance</string>
@@ -109,10 +111,11 @@
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="btn_play">Play</string>
     <string name="bus_support_tips">Real-time Bus Info Supported By CheLaiLe</string>
-    <string name="cache_ap_city">[ap缓存] server返回city==0，改用本地定位的 cityId: %1$d 作为缓存文件名</string>
-    <string name="cache_ap_fullsave">[ap缓存] 保存全量缓存成功--- %1$s</string>
-    <string name="cache_ap_save">[ap缓存] 版本号、md5 不一致，执行的插入数据</string>
-    <string name="cache_ap_savefail">[ap缓存] 保存失败</string>
+
+    <string name="cache_ap_city">[ap cache] server返回city==0，改用本地定位的 cityId: %1$d 作为缓存文件名</string>
+    <string name="cache_ap_fullsave">[ap cache] 保存全量缓存成功--- %1$s</string>
+    <string name="cache_ap_save">[ap cache] 版本号、md5 不一致，执行的插入数据</string>
+    <string name="cache_ap_savefail">[ap cache] 保存失败</string>
     <string name="cache_ble_city">[ble缓存] server返回city==0，改用本地定位的 cityId : %1$d 作为缓存文件名</string>
     <string name="cache_ble_save">[ble缓存] 保存成功</string>
     <string name="cache_ble_savefail">[ble缓存] 下载失败</string>
@@ -123,6 +126,7 @@
     <string name="cache_fence_city">[fence缓存] server返回city==0，改用本地定位的cityId: %1$d 作为缓存文件名</string>
     <string name="cache_fence_save">[fence缓存] 保存成功</string>
     <string name="cache_fence_savefail">[fence缓存] 保存失败</string>
+
     <string name="calendar_pkg_name">Calendar</string>
     <string name="cancel_remind">Cancel alert</string>
     <string name="card_added">Added</string>
@@ -339,9 +343,9 @@
     <string name="card_unadded">Not added</string>
     <string name="card_video_more">More videos</string>
     <string name="card_weather_title">Real-time weather</string>
-    <string name="center_setting_item_add_description">添加</string>
-    <string name="center_setting_item_content_description">排序按钮，双击不松手可拖动排序</string>
-    <string name="center_setting_item_remove_description">移除按钮</string>
+    <string name="center_setting_item_add_description">Add</string>
+    <string name="center_setting_item_content_description">Sort button, double-click and drag to sort without letting go</string>
+    <string name="center_setting_item_remove_description">Remove</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_appcenter_failure">No App Center installed to download</string>
     <string name="clear">Clear</string>
@@ -374,18 +378,18 @@
     <string name="default_sans_serif">sans-serif</string>
     <string name="delete_todo">Delete %d to-do(s)</string>
     <string name="deleting">Deleting</string>
-    <string name="description_edit">编辑</string>
-    <string name="description_search">搜索</string>
+    <string name="description_edit">Edit</string>
+    <string name="description_search">Search</string>
     <string name="device_off">Off</string>
     <string name="device_on">On</string>
     <string name="device_status_disable">Disable</string>
     <string name="disconnect_bl">Locating Your Parking</string>
     <string name="distance_to_parking">Distance to Parking</string>
     <string name="do_not_record">Ignore this mark</string>
-    <string name="duoqu_tip_duoqu_name">多趣</string>
-    <string name="duoqu_web_aboutus">服务说明</string>
-    <string name="duoqu_web_network_fail">网络失效了，打开网络看看</string>
-    <string name="duoqu_web_network_setting">网络设置</string>
+    <string name="duoqu_tip_duoqu_name">Much fun</string>
+    <string name="duoqu_web_aboutus">Service description</string>
+    <string name="duoqu_web_network_fail">The network is down, turn on the network to see</string>
+    <string name="duoqu_web_network_setting">Network settings</string>
     <string name="edit_tittle">Edit title</string>
     <string name="error_is_throwed">Authorization failed, please retry later.</string>
     <string name="express_cp_name">%1$s express</string>
@@ -399,6 +403,7 @@
     <string name="flyme_sans_serif_normal">sans-serif-normal</string>
     <string name="future_result_is_null">Authorization failed, please retry later.</string>
     <string name="gaode_pkg">Gaode Map</string>
+
     <string name="geek_sdk_collection_statemap_null">%1$s:初始化的eventStateMap为空，内存被回收了吧</string>
     <string name="geek_sdk_log_add_current_connected_ssid_to_map">将当前连接的WiFi加入到进店逻辑的判断里</string>
     <string name="geek_sdk_log_add_request_list">将%1$s添加到预请求列表</string>
@@ -408,10 +413,10 @@
     <string name="geek_sdk_log_after_filter_duplicate_wifi_no_has_other_wifi">去除重复的WiFi后,已经没有其他WiFi</string>
     <string name="geek_sdk_log_after_filter_resident_ssid_wifi_no_has_other_wifi">去除驻店的Ssid后,已经没有其他WiFi</string>
     <string name="geek_sdk_log_already_all_leave_shop_but_switch_logic_work_continue_to_work_switch">已经全部离店,但是此时切换逻辑还在进行着,继续走完切换逻辑</string>
-    <string name="geek_sdk_log_ap_cache_file_data_is_null">ap缓存文件数据为空</string>
-    <string name="geek_sdk_log_ap_cache_file_encryption_and_decryption_error">ap缓存文件加解密出错</string>
-    <string name="geek_sdk_log_ap_data_response_city_and_request_city_not_same">[ap缓存]返回缓存城市(city=%1$s)与请求城市(city=%2$s)不一致或者等于0</string>
-    <string name="geek_sdk_log_ap_diff_data_version_not_change">[ap缓存]版本号没有变化,不更新缓存</string>
+    <string name="geek_sdk_log_ap_cache_file_data_is_null">ap cache文件数据为空</string>
+    <string name="geek_sdk_log_ap_cache_file_encryption_and_decryption_error">ap cache文件加解密出错</string>
+    <string name="geek_sdk_log_ap_data_response_city_and_request_city_not_same">[ap cache]返回缓存城市(city=%1$s)与请求城市(city=%2$s)不一致或者等于0</string>
+    <string name="geek_sdk_log_ap_diff_data_version_not_change">[ap cache]版本号没有变化,不更新缓存</string>
     <string name="geek_sdk_log_ap_in_db_ap_cache">本地数据库有WiFi:%1$s[%2$s]</string>
     <string name="geek_sdk_log_ap_in_db_ssid_cache">本地数据库有SSID:%1$s</string>
     <string name="geek_sdk_log_ap_no_in_db_ap_cache">本地数据无WiFi:%1$s[%2$s]</string>
@@ -427,8 +432,8 @@
     <string name="geek_sdk_log_cache_data_parse_error">[缓存]json解析错误%1$s为null</string>
     <string name="geek_sdk_log_cache_data_verify_file">[断点下载]校验文件%1$s</string>
     <string name="geek_sdk_log_cache_data_version_not_same_content_same">[缓存]明文数据一致,直接更新版本号</string>
-    <string name="geek_sdk_log_cache_download_ap_data">[ap缓存]下载全量ap缓存</string>
-    <string name="geek_sdk_log_cache_download_ap_diff_data">[ap缓存]下载增量ap缓存</string>
+    <string name="geek_sdk_log_cache_download_ap_data">[ap cache]下载全量ap cache</string>
+    <string name="geek_sdk_log_cache_download_ap_diff_data">[ap cache]下载增量ap cache</string>
     <string name="geek_sdk_log_cache_file_not_exists">当前缓存文件不存在,文件名:%1$s</string>
     <string name="geek_sdk_log_cache_folder_not_exists">当前缓存文件夹不存在</string>
     <string name="geek_sdk_log_calculate_result">计算结果,第一个样本的模:%1$f,第二个样本的模:%2$f,数量积:%3$d</string>
@@ -542,7 +547,7 @@
     <string name="geek_sdk_log_network_error_code">网络异常返回码:%1$d</string>
     <string name="geek_sdk_log_network_error_when_get_scene">获取场景时,网络出现异常</string>
     <string name="geek_sdk_log_network_has_changed">网络发生了变化</string>
-    <string name="geek_sdk_log_no_ap_cache">[快速识别] ap缓存内无此ap, ssid: %1$s , bssid: %2$s , level: %3$d</string>
+    <string name="geek_sdk_log_no_ap_cache">[快速识别] ap cache内无此ap, ssid: %1$s , bssid: %2$s , level: %3$d</string>
     <string name="geek_sdk_log_no_ap_meet_discern_condition">[快速识别] 无ap满足快速识别条件</string>
     <string name="geek_sdk_log_no_cache">本地没有缓存</string>
     <string name="geek_sdk_log_no_calculate_sqrt_average_is_substandard">没有计算出平均方差则视为不达标</string>
@@ -703,12 +708,13 @@
     <string name="geek_sdk_update_state_control_fail">上传状态接口数据准备异常：poiIds==null||poiIds.size=0</string>
     <string name="geek_sdk_update_state_control_suc">调用上传状态接口成功：%1$s</string>
     <string name="geek_sdk_update_state_switch">上传状态接口：（切换）从缓存中直接走切换5002</string>
+
     <string name="get_cancel">Canceled by user</string>
     <string name="get_token_failed">Authorization failed, please check network or system time and try again</string>
     <string name="getting_data">Retrieving data</string>
     <string name="global_collection_select_title">Selected apps will auto-sync to Favorites</string>
     <string name="global_collection_support_title">Supported</string>
-    <string name="global_collection_tips">已同步收藏到 Aicy 纵览</string>
+    <string name="global_collection_tips">Synced favorites to Aicy overview</string>
     <string name="global_collection_title">Manage auto favorited apps</string>
     <string name="guide_app_summary">Converging information at a glance</string>
     <string name="guide_behavior_summary">Count mobile phone usage behavior</string>
@@ -716,30 +722,30 @@
     <string name="guide_dialog_title">Swipe right from the first screen to Aicy Glance</string>
     <string name="guide_exit">Exit</string>
     <string name="guide_express_summary">Aggregate express delivery info from different platforms</string>
-    <string name="head_card_setting_description_edit">管理</string>
+    <string name="head_card_setting_description_edit">management</string>
     <string name="hide_suggestion_app">Hide apps</string>
     <string name="hide_suggestion_app_head_tips">Selected app will not display in the App Suggestion card and app widget</string>
     <string name="home_control_no_device_tips">Use %s to add device</string>
     <string name="home_control_supported_tips">Support smart device:Lipro SmartHome、Mi SmartHome</string>
-    <string name="hybrid_cancel">取消</string>
-    <string name="hybrid_msg_loading">正在加载</string>
-    <string name="hybrid_network_error_to_refresh">网络异常，点击重新加载</string>
-    <string name="hybrid_no_network_to_setting">无网络连接，请检查网络设置</string>
-    <string name="hybrid_ok">确定</string>
-    <string name="hybrid_setting_network">设置网络</string>
+    <string name="hybrid_cancel">Cancel</string>
+    <string name="hybrid_msg_loading">Loading</string>
+    <string name="hybrid_network_error_to_refresh">The network is abnormal, click reload</string>
+    <string name="hybrid_no_network_to_setting">No network connection, please check the network settings</string>
+    <string name="hybrid_ok">OK</string>
+    <string name="hybrid_setting_network">Set up the network</string>
     <string name="install">Install</string>
     <string name="install_app">Install</string>
     <string name="install_button_cancel">Cancel</string>
     <string name="install_button_hide">Hide</string>
     <string name="install_button_install">Install</string>
     <string name="install_button_install_mobile">Install by mobile network</string>
-    <string name="install_complete_text">打开</string>
+    <string name="install_complete_text">Open</string>
     <string name="install_download_progress">%d%%</string>
     <string name="install_error">An error occurred, code = %d</string>
     <string name="install_failure">Failed to install</string>
     <string name="install_game_center_title_prompt">Install Little Game</string>
     <string name="install_game_title_prompt">Install DirectService to open quick app</string>
-    <string name="install_idle_text">安装</string>
+    <string name="install_idle_text">installing</string>
     <string name="install_map_tips">Please install the Maps app first</string>
     <string name="install_progress_default">0%</string>
     <string name="install_start">Start to install</string>
@@ -749,7 +755,7 @@
     <string name="install_title_launching">Launching</string>
     <string name="install_title_prompt">Install DirectService to open quick app</string>
     <string name="installing">Installing</string>
-    <string name="installing_text">正在安装</string>
+    <string name="installing_text">Installing</string>
     <string name="intent_handle">Please process the return value</string>
     <string name="introduce_about_bookmark">Learn about My Favorites</string>
     <string name="introduce_about_bookmark_1">Learn about My Favorites</string>
@@ -923,7 +929,7 @@
     <string name="more_quick_app">More QuickApps</string>
     <string name="more_quick_card">More card</string>
     <string name="more_quick_game">More QuickGames</string>
-    <string name="msg_empty_contact">联系人信息为空</string>
+    <string name="msg_empty_contact">Contact information is empty</string>
     <string name="mz_action_bar_multi_choice_cancel">Cancel</string>
     <string name="mz_action_bar_multi_choice_select_all">All</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">None</string>
@@ -1042,6 +1048,7 @@
     <string name="mzuc_wait_tip">Please wait</string>
     <string name="mzuc_warn_later">Remind Later</string>
     <string name="network_exception">Network error. Try later</string>
+
     <string name="network_execption">网络异常，请稍后重试</string>
     <string name="network_fail">无网络连接，请检查网络设置</string>
     <string name="network_html_load_exception">405 Not Found</string>
@@ -1074,7 +1081,8 @@
     <string name="news_report_reason">内容低俗、标题夸张等</string>
     <string name="news_slide_more">上滑加载</string>
     <string name="news_tip_dialog_wifi_not_connected">无网络连接, 请检查网络设置</string>
-    <string name="news_update">立即更新</string>
+    <string name="news_update">Update now</string>
+
     <string name="no_express">No express</string>
     <string name="no_more_data">No More Data</string>
     <string name="no_net">No Net</string>
@@ -1152,17 +1160,17 @@
     <string name="recall_app_tips">Need to install %s</string>
     <string name="recognize_car_bl_auto">Recognize Car Bluetooth by Aicy</string>
     <string name="record_fail">Parking Record Failed</string>
-    <string name="reload_ap_fail">[reload] 本地没有ap缓存文件</string>
-    <string name="reload_ble_fail">[reload] 本地没有ble缓存文件</string>
-    <string name="reload_ble_success">[reload] 加载ble缓存成功</string>
-    <string name="reload_cell_fail">[reload] 本地没有cell缓存文件</string>
-    <string name="reload_cell_success">[reload] 加载cell缓存成功</string>
-    <string name="reload_city_change">[DB] 定位成功后的城市id和最后一次操作缓存的城市id不一致,apversion重置为0</string>
+    <string name="reload_ap_fail">[reload] There is no ap cache file locally</string>
+    <string name="reload_ble_fail">[reload] There is no ble cache file locally</string>
+    <string name="reload_ble_success">[reload] Successfully loaded the ble cache</string>
+    <string name="reload_cell_fail">[reload] There is no cell cache file locally</string>
+    <string name="reload_cell_success">[reload] Successfully loaded the cell cache</string>
+    <string name="reload_city_change">[DB] The city id after the positioning is successful is inconsistent with the city id of the last operation cache, apversion is reset to 0</string>
     <string name="reload_cityid">[reload] reloadCache cityID = %1$d</string>
-    <string name="reload_fence_fail">[reload] 本地没有fence缓存文件</string>
-    <string name="reload_fence_success">[reload] 加载fence缓存成功</string>
-    <string name="reload_resetapversion">[DB] 当前有表没数据,并且从缓存文件中加载不成功,apversion重置为0</string>
-    <string name="reload_success">[DB] reloadCache 成功，记录最后操作缓存的 cityID = %1$d</string>
+    <string name="reload_fence_fail">[reload] There is no fence cache file locally</string>
+    <string name="reload_fence_success">[reload] Successfully loaded the fence cache</string>
+    <string name="reload_resetapversion">[DB] There is currently no data in the table and loading from the cache file was unsuccessful,apversion is reset to 0</string>
+    <string name="reload_success">[DB] reloadCache success, record the last operation of the cache cityID = %1$d</string>
     <string name="remind_add">Set alert</string>
     <string name="remind_set">Set alert</string>
     <string name="remove">Remove</string>
@@ -1172,7 +1180,7 @@
     <string name="remove_express_number">Delete %1$d messages</string>
     <string name="remove_quick_engine_card">Remove from my cards</string>
     <string name="restore_dialog_text">%1$s has been uninstalled, want to install?</string>
-    <string name="retry">重试</string>
+    <string name="retry">Retry</string>
     <string name="save">Save</string>
     <string name="schedule_add">Select syllabus widget</string>
     <string name="schedule_configure">Tap to complete configuration</string>
@@ -1187,7 +1195,7 @@
     <string name="select_car_bl_summary">"Only record selected device's parking info"</string>
     <string name="select_car_bl_title">Select Your Car Bluetooth</string>
     <string name="set_aicy_car_info">Set vehicle information</string>
-    <string name="set_network">设置网络</string>
+    <string name="set_network">Set up the network</string>
     <string name="setting_network">Setting Network</string>
     <string name="setting_no_matched_address">No matching address</string>
     <string name="settings_register_login">Login/Register</string>
@@ -1253,15 +1261,15 @@
     <string name="tab_me">Me</string>
     <string name="tab_more">More</string>
     <string name="tecent_pkg">Tencent Map</string>
-    <string name="text_input_hint_text">输入内容</string>
+    <string name="text_input_hint_text">Input</string>
     <string name="time_now">Now</string>
     <string name="tip_delete_record">Delete recordings</string>
     <string name="tip_no_file">Record not found</string>
     <string name="title_activity_voice_support_setting">Settings</string>
-    <string name="title_buy_data">充流量</string>
-    <string name="title_buy_tel">充话费</string>
-    <string name="title_mz_card">魅友卡</string>
-    <string name="title_phone_recharge">手机充值</string>
+    <string name="title_buy_data">Charge flow</string>
+    <string name="title_buy_tel">Recharge the phone bill</string>
+    <string name="title_mz_card">Meizu Card</string>
+    <string name="title_phone_recharge">Mobile phone recharge</string>
     <string name="todo">To-do</string>
     <string name="todo_add">Add to-do</string>
     <string name="todo_cancel">Uncompleted</string>
@@ -1304,7 +1312,7 @@
     <string name="wechat_friends">WeChat Friends</string>
     <string name="wechat_pengyouquan">WeChat Moments</string>
     <string name="wechat_shoucang">WeChat Favorites</string>
-    <string name="week_tomorrow">明天</string>
+    <string name="week_tomorrow">Tomorrow</string>
     <string name="weibo_app">Weibo</string>
     <string name="weixin_app_name">WeChat</string>
     <string name="widget_card_manager">Manage widgets</string>

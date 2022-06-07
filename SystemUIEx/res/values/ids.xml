@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="id" name="action0" />
     <item type="id" name="action_bar" />
     <item type="id" name="action_bar_activity_content" />
     <item type="id" name="action_bar_container" />
@@ -10,8 +9,6 @@
     <item type="id" name="action_bar_title" />
     <item type="id" name="action_container" />
     <item type="id" name="action_context_bar" />
-    <item type="id" name="action_copy" />
-    <item type="id" name="action_detail" />
     <item type="id" name="action_divider" />
     <item type="id" name="action_image" />
     <item type="id" name="action_menu_divider" />
@@ -23,7 +20,6 @@
     <item type="id" name="actions" />
     <item type="id" name="activity_chooser_view_content" />
     <item type="id" name="alertTitle" />
-    <item type="id" name="app_bar_layout" />
     <item type="id" name="applyAnimTitle" />
     <item type="id" name="applyAnimView" />
     <item type="id" name="arrow" />
@@ -31,14 +27,19 @@
     <item type="id" name="arrow_right_new_message_number" />
     <item type="id" name="arrow_right_new_message_point" />
     <item type="id" name="arrow_right_number_message" />
+    <item type="id" name="audio_check" />
+    <item type="id" name="audio_item1" />
+    <item type="id" name="audio_item2" />
+    <item type="id" name="audio_layout" />
     <item type="id" name="blurArea" />
     <item type="id" name="blurTitle" />
     <item type="id" name="body" />
     <item type="id" name="borderless" />
     <item type="id" name="bottom_action_menu_presenter" />
+    <item type="id" name="button" />
     <item type="id" name="buttonBarPanel_vertical" />
     <item type="id" name="buttonPanel" />
-    <item type="id" name="cancel_action" />
+    <item type="id" name="cancel" />
     <item type="id" name="card_partition_divider" />
     <item type="id" name="card_partition_right_pic" />
     <item type="id" name="card_partition_right_text" />
@@ -49,21 +50,25 @@
     <item type="id" name="check_box" />
     <item type="id" name="checkbox" />
     <item type="id" name="checked" />
+    <item type="id" name="checkmark_1080" />
+    <item type="id" name="checkmark_480" />
+    <item type="id" name="checkmark_720" />
     <item type="id" name="chronometer" />
     <item type="id" name="circularbutton" />
     <item type="id" name="circularbutton1" />
+    <item type="id" name="clipStageView" />
+    <item type="id" name="close" />
     <item type="id" name="comment_content_ratingstar" />
     <item type="id" name="comment_content_text" />
     <item type="id" name="comment_content_title" />
     <item type="id" name="comment_content_wise_title" />
     <item type="id" name="comment_imageview" />
     <item type="id" name="comment_right_text" />
+    <item type="id" name="commit" />
     <item type="id" name="container" />
+    <item type="id" name="content" />
     <item type="id" name="contentPanel" />
-    <item type="id" name="content_container" />
     <item type="id" name="content_panel" />
-    <item type="id" name="content_view" />
-    <item type="id" name="coordinator" />
     <item type="id" name="customPanel" />
     <item type="id" name="datePicker" />
     <item type="id" name="day_status" />
@@ -72,32 +77,30 @@
     <item type="id" name="default_activity_button" />
     <item type="id" name="descOne" />
     <item type="id" name="descTwo" />
-    <item type="id" name="design_bottom_sheet" />
-    <item type="id" name="design_menu_item_action_area" />
-    <item type="id" name="design_menu_item_action_area_stub" />
-    <item type="id" name="design_menu_item_text" />
-    <item type="id" name="design_navigation_view" />
     <item type="id" name="dialogSpace1" />
     <item type="id" name="dialogSpace2" />
     <item type="id" name="dialogSpace3" />
     <item type="id" name="dialogSpace4" />
+    <item type="id" name="divide" />
     <item type="id" name="divider" />
+    <item type="id" name="draw_blur" />
+    <item type="id" name="draw_line" />
+    <item type="id" name="draw_rect" />
+    <item type="id" name="draw_text" />
+    <item type="id" name="editStageView" />
     <item type="id" name="edit_query" />
     <item type="id" name="edittext_container" />
-    <item type="id" name="emptyToast" />
     <item type="id" name="empty_image" />
     <item type="id" name="empty_summary" />
     <item type="id" name="empty_tips_panel" />
     <item type="id" name="empty_title" />
-    <item type="id" name="end_padder" />
     <item type="id" name="expand_activities_button" />
     <item type="id" name="expand_listview" />
     <item type="id" name="expanded_menu" />
-    <item type="id" name="fast_scroll_letter" />
-    <item type="id" name="fastscroller_letterbar" />
-    <item type="id" name="fastscroller_letterbar_layout" />
-    <item type="id" name="fastscroller_overlay" />
-    <item type="id" name="ghost_view" />
+    <item type="id" name="foot" />
+    <item type="id" name="frame" />
+    <item type="id" name="frame_right" />
+    <item type="id" name="group_divider" />
     <item type="id" name="group_header_title" />
     <item type="id" name="group_header_wise_text" />
     <item type="id" name="guide_bg_left" />
@@ -108,13 +111,13 @@
     <item type="id" name="guide_content" />
     <item type="id" name="guide_message" />
     <item type="id" name="guide_parent" />
+    <item type="id" name="head" />
     <item type="id" name="home" />
     <item type="id" name="icon" />
     <item type="id" name="icon_group" />
     <item type="id" name="image" />
+    <item type="id" name="imageView" />
     <item type="id" name="info" />
-    <item type="id" name="item_touch_helper_previous_elevation" />
-    <item type="id" name="largeLabel" />
     <item type="id" name="layout" />
     <item type="id" name="line1" />
     <item type="id" name="line3" />
@@ -123,7 +126,6 @@
     <item type="id" name="list_partition_header_text1" />
     <item type="id" name="loading" />
     <item type="id" name="loadingView" />
-    <item type="id" name="masked" />
     <item type="id" name="mc_background_img" />
     <item type="id" name="mc_chooser_text" />
     <item type="id" name="mc_column1Layout" />
@@ -185,7 +187,6 @@
     <item type="id" name="mc_toast_separator" />
     <item type="id" name="mc_tv_layout" />
     <item type="id" name="mc_voice_icon" />
-    <item type="id" name="media_actions" />
     <item type="id" name="menu_image" />
     <item type="id" name="menu_text" />
     <item type="id" name="message" />
@@ -217,12 +218,6 @@
     <item type="id" name="mz_control_title_bar_btn_ok" />
     <item type="id" name="mz_divider_bar1" />
     <item type="id" name="mz_divider_bar2" />
-    <item type="id" name="mz_f8_banner_itemview_container" />
-    <item type="id" name="mz_f8_banner_itemview_overlayer" />
-    <item type="id" name="mz_f8_banner_itemview_overlayout" />
-    <item type="id" name="mz_f8_banner_itemview_primary_element" />
-    <item type="id" name="mz_f8_banner_itemview_primary_element_container" />
-    <item type="id" name="mz_f8_banner_itemview_shadow_view" />
     <item type="id" name="mz_icon_input_clear" />
     <item type="id" name="mz_input_clear_layout" />
     <item type="id" name="mz_input_text" />
@@ -231,14 +226,15 @@
     <item type="id" name="mz_password_btn" />
     <item type="id" name="mz_password_input_option" />
     <item type="id" name="mz_permission_dialog_checkbox" />
-    <item type="id" name="mz_permission_dialog_container" />
     <item type="id" name="mz_permission_dialog_content_layout" />
+    <item type="id" name="mz_permission_dialog_inform" />
     <item type="id" name="mz_permission_dialog_item_summary" />
     <item type="id" name="mz_permission_dialog_item_title" />
     <item type="id" name="mz_permission_dialog_message" />
     <item type="id" name="mz_permission_dialog_scroll_indicator_down" />
     <item type="id" name="mz_permission_dialog_scroll_indicator_up" />
     <item type="id" name="mz_permission_dialog_scroll_view" />
+    <item type="id" name="mz_permission_dialog_space" />
     <item type="id" name="mz_permission_dialog_terms" />
     <item type="id" name="mz_permission_dialog_title" />
     <item type="id" name="mz_pm_textView" />
@@ -255,16 +251,6 @@
     <item type="id" name="mz_specific_permission_dialog_summary" />
     <item type="id" name="mz_toolbar_nav_button" />
     <item type="id" name="native_picker_root" />
-    <item type="id" name="navigation_header_container" />
-    <item type="id" name="nested_scrolling_layout" />
-    <item type="id" name="night_mode_select_dark_checkbox" />
-    <item type="id" name="night_mode_select_dark_layout" />
-    <item type="id" name="night_mode_select_dark_tv" />
-    <item type="id" name="night_mode_select_light_checkbox" />
-    <item type="id" name="night_mode_select_light_layout" />
-    <item type="id" name="night_mode_switch_anim_bg" />
-    <item type="id" name="night_mode_switch_anim_svga" />
-    <item type="id" name="night_mode_switch_anim_text" />
     <item type="id" name="not_checked" />
     <item type="id" name="noticePanel" />
     <item type="id" name="noticeView" />
@@ -272,39 +258,33 @@
     <item type="id" name="notification_background" />
     <item type="id" name="notification_main_column" />
     <item type="id" name="notification_main_column_container" />
+    <item type="id" name="oval" />
     <item type="id" name="parentPanel" />
-    <item type="id" name="parent_matrix" />
     <item type="id" name="picker_holder" />
     <item type="id" name="praise" />
     <item type="id" name="preference_text_layout" />
+    <item type="id" name="progress" />
     <item type="id" name="progress_circular" />
     <item type="id" name="progress_horizontal" />
     <item type="id" name="pull_icon" />
-    <item type="id" name="push_big_bigtext_defaultView" />
-    <item type="id" name="push_big_bigview_defaultView" />
-    <item type="id" name="push_big_defaultView" />
-    <item type="id" name="push_big_notification" />
-    <item type="id" name="push_big_notification_content" />
-    <item type="id" name="push_big_notification_date" />
-    <item type="id" name="push_big_notification_icon" />
-    <item type="id" name="push_big_notification_icon2" />
-    <item type="id" name="push_big_notification_title" />
-    <item type="id" name="push_big_pic_default_Content" />
-    <item type="id" name="push_big_text_notification_area" />
-    <item type="id" name="push_pure_bigview_banner" />
-    <item type="id" name="push_pure_bigview_expanded" />
     <item type="id" name="radio" />
+    <item type="id" name="radio_1080" />
+    <item type="id" name="radio_480" />
+    <item type="id" name="radio_720" />
+    <item type="id" name="radio_select" />
     <item type="id" name="right_icon" />
     <item type="id" name="right_side" />
     <item type="id" name="rootLayout" />
     <item type="id" name="round_corner_progress" />
     <item type="id" name="round_corner_progress_text" />
     <item type="id" name="round_corner_promotion_status_price_text" />
-    <item type="id" name="save_image_matrix" />
-    <item type="id" name="save_non_transition_alpha" />
-    <item type="id" name="save_scale_type" />
+    <item type="id" name="save" />
+    <item type="id" name="screen_click" />
+    <item type="id" name="screenrecord_stable" />
+    <item type="id" name="screenrecord_translate" />
     <item type="id" name="scrollIndicatorDown" />
     <item type="id" name="scrollIndicatorUp" />
+    <item type="id" name="scrollStageView" />
     <item type="id" name="scrollView" />
     <item type="id" name="search_badge" />
     <item type="id" name="search_bar" />
@@ -318,15 +298,17 @@
     <item type="id" name="search_voice_btn" />
     <item type="id" name="seekbar" />
     <item type="id" name="select_dialog_listview" />
+    <item type="id" name="select_menu" />
+    <item type="id" name="setting" />
     <item type="id" name="shape_id" />
+    <item type="id" name="share" />
     <item type="id" name="shortcut" />
     <item type="id" name="showlunar" />
-    <item type="id" name="smallLabel" />
-    <item type="id" name="snackbar_action" />
-    <item type="id" name="snackbar_text" />
+    <item type="id" name="size" />
     <item type="id" name="spacer" />
     <item type="id" name="split_action_bar" />
-    <item type="id" name="status_bar_latest_event_content" />
+    <item type="id" name="stage" />
+    <item type="id" name="stop" />
     <item type="id" name="submenuarrow" />
     <item type="id" name="submit_area" />
     <item type="id" name="switch1" />
@@ -336,14 +318,15 @@
     <item type="id" name="tab_layout" />
     <item type="id" name="tab_text" />
     <item type="id" name="tag_transition_group" />
+    <item type="id" name="tag_unhandled_key_event_manager" />
+    <item type="id" name="tag_unhandled_key_listeners" />
     <item type="id" name="text" />
     <item type="id" name="text1" />
     <item type="id" name="text2" />
     <item type="id" name="textSpacerNoButtons" />
     <item type="id" name="textSpacerNoTitle" />
-    <item type="id" name="text_input_password_toggle" />
-    <item type="id" name="textinput_counter" />
-    <item type="id" name="textinput_error" />
+    <item type="id" name="textView" />
+    <item type="id" name="text_behind" />
     <item type="id" name="textlink" />
     <item type="id" name="time" />
     <item type="id" name="timePicker" />
@@ -351,7 +334,6 @@
     <item type="id" name="title" />
     <item type="id" name="titleDivider" />
     <item type="id" name="titleDividerNoCustom" />
-    <item type="id" name="title_bar" />
     <item type="id" name="title_content_layout" />
     <item type="id" name="title_indicator" />
     <item type="id" name="title_layout" />
@@ -360,36 +342,8 @@
     <item type="id" name="title_template" />
     <item type="id" name="toast_complete" />
     <item type="id" name="toast_text" />
+    <item type="id" name="tools" />
     <item type="id" name="topPanel" />
-    <item type="id" name="touch_outside" />
-    <item type="id" name="transition_current_scene" />
-    <item type="id" name="transition_layout_save" />
-    <item type="id" name="transition_position" />
-    <item type="id" name="transition_scene_layoutid_cache" />
-    <item type="id" name="transition_transform" />
-    <item type="id" name="translation_container" />
-    <item type="id" name="translation_copy_view" />
-    <item type="id" name="translation_detail_view" />
-    <item type="id" name="translation_line" />
-    <item type="id" name="translation_loadingview" />
-    <item type="id" name="translation_network_container" />
-    <item type="id" name="translation_network_iv" />
-    <item type="id" name="translation_network_tv" />
-    <item type="id" name="translation_operation_area_layout" />
-    <item type="id" name="translation_original_scrollview" />
-    <item type="id" name="translation_original_speak_iv" />
-    <item type="id" name="translation_original_speak_playing_iv" />
-    <item type="id" name="translation_original_text" />
-    <item type="id" name="translation_original_title" />
-    <item type="id" name="translation_scrollview_layout" />
-    <item type="id" name="translation_source_tv" />
-    <item type="id" name="translation_tip_tv" />
-    <item type="id" name="translation_title" />
-    <item type="id" name="translation_translation_scrollview" />
-    <item type="id" name="translation_translation_speak_iv" />
-    <item type="id" name="translation_translation_speak_playing_iv" />
-    <item type="id" name="translation_translation_text" />
     <item type="id" name="up" />
-    <item type="id" name="view_offset_helper" />
-    <item type="id" name="visible" />
+    <item type="id" name="waitView" />
 </resources>

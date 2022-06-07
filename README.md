@@ -17,6 +17,7 @@ Overlays for f9 apps
 | ------ | ------ | ------ |
 | AlarmClock | FULL n\t | Build-in clock app |
 | AlphaMe | FULL | Aicy Engine |
+| Assistant | WIP | --- |
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |
 | Camera | FULL n\t !!Flashlight bug!!| Camera app |
@@ -44,7 +45,7 @@ Overlays for f9 apps
 | SoundRecorder | FULL n\t | Build-in recorder app |
 | Suggestion | WIP | |
 | SystemUI | WIP | System app |
-| SystemUIEx | WIP | System app |
+| SystemUIEx | FULL n\t | System app |
 | SystemUITools | WIP | System app |
 | TodoList | FULL | notes and to-do app |
 | ToolBox | FULL n\t | Flyme tools app |
