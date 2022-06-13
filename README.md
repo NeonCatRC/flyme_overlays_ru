@@ -31,6 +31,7 @@ Overlays for f9 apps
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
 | MMS | WIP | Standart Flyme SMS/MMS messager |
+| Music | WIP | Standart Flyme music app |
 | MusicFX | FULL n\t | SquareSound |
 | MzBatteryManager | FULL n\t | Battery manager |
 | MzSecurity | FULL n\t | Build-in antivirus and cleaner |
@@ -49,6 +50,7 @@ Overlays for f9 apps
 | SystemUITools | WIP | System app |
 | TodoList | FULL | notes and to-do app |
 | ToolBox | FULL n\t | Flyme tools app |
+| Video | FULL n\t | Standart Flyme video player |
 | VoiceAssistant | WIP |  |
 | Weather | FULL | Weather app |
 | ------ | ------ | ------ |
@@ -69,10 +71,8 @@ Overlays for f9 apps
 | MzUpdate |  |  |
 | DownloadProvider |  |  |
 | FaceRecognition |  |  |
-| Music |  | Standart Flyme music app |
 | MzCallSettings |  |  |
 | PackageInstaller |  |  |
 | Search |  |  |
-| Video |  | Standart Flyme video player |
 
 [ABOUT]: <https://mit-license.org/>

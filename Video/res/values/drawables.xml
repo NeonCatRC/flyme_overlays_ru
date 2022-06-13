@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="ao">#ff32a5e7</item>
+    <item type="drawable" name="ap">#ff32a5e7</item>
+    <item type="drawable" name="c1">@color/g6</item>
+    <item type="drawable" name="c2">@color/g7</item>
+    <item type="drawable" name="h6">#3333b5e5</item>
+    <item type="drawable" name="h7">#0cffffff</item>
+    <item type="drawable" name="hc">#00000000</item>
+    <item type="drawable" name="hi">#00000000</item>
+</resources>
