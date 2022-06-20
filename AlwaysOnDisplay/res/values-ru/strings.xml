@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ВЫКЛ</string>
+    <string name="abc_capital_on">ВКЛ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Введите запрос</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
+    <string name="aod_calendar_txt">Дата</string>
+    <string name="aod_choose_style">Выберите стиль AOD</string>
+    <string name="aod_confirm_btn_txt">Применить</string>
+    <string name="aod_delete">удалить</string>
+    <string name="aod_delete_records">удалить %s записей</string>
+    <string name="aod_incoming_noti_anim">Эффект получения уведомления</string>
+    <string name="aod_lunar_calendar_txt">Лунный календарь</string>
+    <string name="aod_navi_title_color">Цвет</string>
+    <string name="aod_navi_title_composing">Шрифт</string>
+    <string name="aod_navi_title_info">Информация</string>
+    <string name="aod_navi_title_signature">Надпись</string>
+    <string name="aod_notification_txt">Увед.</string>
+
+    <string name="aod_personal_signature_four">"STAY
+TRUE"</string>
+    <string name="aod_personal_signature_one">"Стремление
+рождённое из
+любви"</string>
+    <string name="aod_personal_signature_three">"Стремление к высшему"</string>
+    <string name="aod_personal_signature_two">Мечта</string>
+    <string name="aod_res_not_ready">Ресурс находится в стадии подготовки. Попробуйте позже</string>
+    <string name="aod_style_select_title">Стиль AOD</string>
+    <string name="aod_style_settings_success">Успешно применено</string>
+    <string name="aod_time_txt">Время</string>
+    <string name="aod_type_animals">Животные</string>
+    <string name="aod_type_classic_clock">Классический стиль</string>
+
+    <string name="aod_type_deep_blue">Deep In Blue</string>
+    <string name="aod_type_dolphin">White Dolphin</string>
+
+    <string name="aod_type_flora">Флора</string>
+    <string name="aod_type_merry">Узор</string>
+    <string name="aod_type_multi_flora">Калейдоскоп</string>
+    <string name="aod_type_my_aod">Мои стили</string>
+    <string name="aod_type_new_born">Насекомые</string>
+    <string name="aod_type_personal_image">Свой шаблон</string>
+    <string name="aod_type_personal_signature">Статус</string>
+
+    <string name="aod_type_planet">Textured Planet</string>
+
+    <string name="aod_type_space">Пространство</string>
+
+    <string name="aod_type_walker">Walker</string>
+
+    <string name="app_name">AlwaysOnDisplay</string>
+    <string name="change_style_txt">Изменить стиль</string>
+    <string name="character_counter_content_description">Превышен лимит символов</string>
+    <string name="date_time_set">Установить</string>
+    <string name="item_is_selected">%1$s выбрано</string>
+
+    <string name="lock_month_day">MMM d</string>
+    <string name="lock_week">yyyy年M月d日(EEE)</string>
+
+    <string name="mc_action_settings">Настройки</string>
+    <string name="mc_allow">Разрешить</string>
+    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_cancel">Отмена</string>
+    <string name="mc_cancel_button_text">Отмена</string>
+    <string name="mc_cancel_collected_message">Отменено</string>
+    <string name="mc_cancel_praised_message">Отменить</string>
+    <string name="mc_change_num">Обновление</string>
+    <string name="mc_collected_message">Избранное</string>
+    <string name="mc_custom_date_time_days_after">%1$d дней спустя</string>
+    <string name="mc_custom_date_time_days_before">%1$d дней назад</string>
+    <string name="mc_custom_date_time_gregorian">Григорианский</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_lunar">Лунный</string>
+    <string name="mc_custom_date_time_one_day_after">1 день спустя</string>
+    <string name="mc_custom_date_time_one_day_before">1 день назад</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
+    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_today">Сегодня</string>
+    <string name="mc_date_time_day">д.</string>
+    <string name="mc_date_time_hour">ч.</string>
+    <string name="mc_date_time_min">м.</string>
+    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_sec">с.</string>
+    <string name="mc_date_time_set">Установить</string>
+    <string name="mc_date_time_year">г</string>
+    <string name="mc_description_target_answer">Ответ</string>
+    <string name="mc_description_target_decline">Отклонить</string>
+    <string name="mc_disable">Отключить</string>
+    <string name="mc_downloading_patch_prefix">Скачать обновление</string>
+    <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
+    <string name="mc_every_day">Каждый день</string>
+    <string name="mc_friday">ПТ</string>
+    <string name="mc_go_Refreshing">Обновить</string>
+    <string name="mc_hour">ч.</string>
+    <string name="mc_is_Refreshing">Обновление</string>
+    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh_hour">ч. назад</string>
+    <string name="mc_last_refresh_just_now">Сейчас</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
+    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_loading_animation_alert">Сохранение изображения</string>
+    <string name="mc_loading_view_text">Загрузка</string>
+    <string name="mc_minute">м.</string>
+    <string name="mc_monday">ПН</string>
+    <string name="mc_never">Единожды</string>
+    <string name="mc_pattern_a_hour_before">1 час назад</string>
+    <string name="mc_pattern_a_minute_before">1 минуту назад</string>
+    <string name="mc_pattern_hour_before">, часов назад</string>
+    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_today">Сегодня</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
+    <string name="mc_pattern_yesterday">Вчера</string>
+    <string name="mc_permission_apply">Запрос разрешения</string>
+    <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_bluetooth">Bluetooth</string>
+    <string name="mc_pm_call">Вызов</string>
+    <string name="mc_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mc_pm_camera">Камера (Фото/Видео)</string>
+    <string name="mc_pm_close">Закрыть</string>
+    <string name="mc_pm_contacts">Чтение контактов</string>
+    <string name="mc_pm_dialog_push">Всплывающие Push</string>
+    <string name="mc_pm_dlg_cancel">Отмена</string>
+    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_location">Найти</string>
+    <string name="mc_pm_network">Передача данных</string>
+    <string name="mc_pm_nfc">NFC</string>
+    <string name="mc_pm_not_allow_check_app">Выход</string>
+    <string name="mc_pm_not_allow_dialog_push">Отключить</string>
+    <string name="mc_pm_online_intenert">Интернет</string>
+    <string name="mc_pm_open">Открыть</string>
+    <string name="mc_pm_r_mms">Чтение MMS</string>
+    <string name="mc_pm_r_sms">Чтение SMS</string>
+    <string name="mc_pm_recordaudio_local">Запись вызовов</string>
+    <string name="mc_pm_recordaudio_phone">Запись вызовов</string>
+    <string name="mc_pm_s_mms">Отправка MMS</string>
+    <string name="mc_pm_s_sms">Отправка SMS</string>
+    <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
+    <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
+    <string name="mc_praised_message">Как</string>
+    <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
+    <string name="mc_reject">Отклонить</string>
+    <string name="mc_saturday">СБ</string>
+    <string name="mc_search">Поиск</string>
+    <string name="mc_search_button_text">Поиск</string>
+    <string name="mc_search_icon">Поиск</string>
+    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_text">Поиск</string>
+    <string name="mc_second">с.</string>
+    <string name="mc_selectionbutton_all">Все</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_sunday">ВС</string>
+    <string name="mc_thursday">ЧТ</string>
+    <string name="mc_time_picker_dialog_title">Расписание</string>
+    <string name="mc_time_picker_leap">Високосный месяц</string>
+    <string name="mc_tuesday">ВТ</string>
+    <string name="mc_updating_prefix">Обновление</string>
+    <string name="mc_value_checked">Выбрано</string>
+    <string name="mc_value_not_checked">Не выбрано</string>
+    <string name="mc_voice_icon">Голосовой поиск</string>
+    <string name="mc_wednesday">СР</string>
+    <string name="mc_weekend">Выходные</string>
+    <string name="mc_working_day">Рабочие дни</string>
+    <string name="mc_yes">ОК</string>
+    <string name="more_item_label">Ещё</string>
+    <string name="mtrl_chip_close_icon_content_description">Убрать %1$s</string>
+    <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
+    <string name="mz_action_bar_multi_choice_select_all">Все</string>
+    <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
+    <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_allow">ОК</string>
+    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_permission_agree">Принимаю</string>
+    <string name="mz_permission_allow">Разрешить</string>
+    <string name="mz_permission_almost_deny">Не предлагать запрос после отказа</string>
+    <string name="mz_permission_always_allow">Разрешать всегда</string>
+    <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_deny">Отклонить</string>
+    <string name="mz_permission_disagree">Запретить</string>
+    <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
+    <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
+    <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
+    <string name="mz_permission_title_terms">Разрешения и заявления</string>
+    <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
+    <string name="mz_permissiongroup_name_change_network">Wi-Fi</string>
+    <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
+    <string name="mz_permissiongroup_name_other">Другое</string>
+    <string name="mz_pm_allow_check_app">ОК</string>
+    <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_bluetooth">Переключение Bluetooth</string>
+    <string name="mz_pm_call">Вызовы</string>
+    <string name="mz_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mz_pm_camera">Камера (Фото/Видео)</string>
+    <string name="mz_pm_close">Выкл.</string>
+    <string name="mz_pm_contacts">Чтение контактов</string>
+    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dlg_cancel">Отмена</string>
+    <string name="mz_pm_dlg_ok">ОК</string>
+    <string name="mz_pm_location">Местоположение</string>
+    <string name="mz_pm_network">Передача данных</string>
+    <string name="mz_pm_nfc">Переключение NFC</string>
+    <string name="mz_pm_not_allow_check_app">Выход</string>
+    <string name="mz_pm_not_allow_dialog_push">Откл.</string>
+    <string name="mz_pm_online_intenert">Доступ в интернет</string>
+    <string name="mz_pm_open">Вкл.</string>
+    <string name="mz_pm_r_mms">Чтение MMS</string>
+    <string name="mz_pm_r_sms">Чтение SMS</string>
+    <string name="mz_pm_recordaudio_local">Запись вызовов</string>
+    <string name="mz_pm_recordaudio_phone">Запись вызовов</string>
+    <string name="mz_pm_s_mms">Отправка MMS</string>
+    <string name="mz_pm_s_sms">Отправка SMS</string>
+    <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
+    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
+    <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
+    <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
+    <string name="mz_reject">Выход</string>
+    <string name="mz_specific_permission_allow">Все ещё разрешено</string>
+    <string name="mz_specific_permission_deny">Отказать в разрешении</string>
+    <string name="mz_user_agreement">Пользовательское соглашение</string>
+    <string name="mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_set">Настройки сети</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="search_menu_title">Поиск</string>
+    <string name="select_all">Все</string>
+    <string name="select_none">none</string> <!--!!-->
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

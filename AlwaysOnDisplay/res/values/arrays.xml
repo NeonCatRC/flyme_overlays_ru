@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="a">
-        <item>@color/mt</item>
-        <item>@color/mu</item>
-        <item>@color/mv</item>
-        <item>@color/mw</item>
-        <item>@color/mx</item>
-        <item>@color/my</item>
-        <item>@color/mz</item>
-    </array>
-    <array name="b">
-        <item>@color/n0</item>
-        <item>@color/n1</item>
-        <item>@color/n2</item>
-        <item>@color/n3</item>
-        <item>@color/n4</item>
-        <item>@color/n5</item>
-        <item>@color/n6</item>
-    </array>
-    <string-array name="c">
-        <item>Themes</item>
-        <item>Fonts</item>
-        <item>Ringtones</item>
-        <item>Wallpapers</item>
-        <item>Keyboard</item>
-    </string-array>
-    <array name="d">
+    <array name="mc_colorful_round">
         <item>#ff43b56b</item>
         <item>#ff44aff9</item>
         <item>#fff56455</item>
@@ -33,7 +8,7 @@
         <item>#fff6b944</item>
         <item>#ffbd713b</item>
     </array>
-    <string-array name="e">
+    <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -65,7 +40,7 @@
         <item>29</item>
         <item>30</item>
     </string-array>
-    <string-array name="f">
+    <string-array name="mc_custom_time_picker_lunar_month">
         <item>Jan</item>
         <item>Feb</item>
         <item>Mar</item>
@@ -79,7 +54,7 @@
         <item>Nov</item>
         <item>Dec</item>
     </string-array>
-    <string-array name="g">
+    <string-array name="mc_custom_weekday">
         <item>Sun</item>
         <item>Mon</item>
         <item>Tue</item>
@@ -88,7 +63,7 @@
         <item>Fri</item>
         <item>Sat</item>
     </string-array>
-    <string-array name="h">
+    <string-array name="mc_pullline_move_end">
         <item>0.0f</item>
         <item>0.00013f</item>
         <item>0.00046f</item>
@@ -181,7 +156,7 @@
         <item>0.97363f</item>
         <item>1f</item>
     </string-array>
-    <string-array name="i">
+    <string-array name="mc_pullline_move_start">
         <item>0.0f</item>
         <item>0.02637f</item>
         <item>0.05156f</item>
@@ -274,28 +249,28 @@
         <item>0.99987f</item>
         <item>1f</item>
     </string-array>
-    <array name="j">
+    <array name="mc_rating_bar_black_bg_colors">
         <item>#ffc9c9c9</item>
         <item>#ffc9c9c9</item>
         <item>#ffc9c9c9</item>
         <item>#ffc9c9c9</item>
         <item>#ffc9c9c9</item>
     </array>
-    <array name="k">
+    <array name="mc_rating_bar_default_colors">
         <item>#fffbc106</item>
         <item>#fffcb10f</item>
         <item>#fffc9c1b</item>
         <item>#fffc8f21</item>
         <item>#fffd7d2c</item>
     </array>
-    <array name="l">
+    <array name="mc_rating_bar_white_bg_colors">
         <item>#ff7f7f7f</item>
         <item>#ff7f7f7f</item>
         <item>#ff7f7f7f</item>
         <item>#ff7f7f7f</item>
         <item>#ff7f7f7f</item>
     </array>
-    <string-array name="m">
+    <string-array name="mz_app_to_next_open_enter_translate_y">
         <item>1f</item>
         <item>0.9098163031f</item>
         <item>0.8200344432f</item>
@@ -329,7 +304,7 @@
         <item>0.0006314581f</item>
         <item>0f</item>
     </string-array>
-    <array name="n">
+    <array name="mz_colorful_round">
         <item>#ffe26f41</item>
         <item>#ffdd5847</item>
         <item>#ff6e6bc8</item>
@@ -338,52 +313,13 @@
         <item>#ff54ae56</item>
         <item>#ffe9a63b</item>
     </array>
-    <string-array name="o">
-        <item>B</item>
-        <item>KB</item>
-        <item>MB</item>
-        <item>GB</item>
+    <string-array name="noti_anim">
+        <item>none</item>
+        <item>screen on</item>
+        <item>circle</item>
+        <item>light</item>
     </string-array>
-    <string-array name="p">
-        <item>vlifelockscreen</item>
-        <item>zklockscreen</item>
-        <item>com.meizu.media.reader</item>
-        <item>wallpaper</item>
-        <item>icons</item>
-        <item>com.android.dialer</item>
-        <item>com.android.mms</item>
-        <item>com.android.systemui</item>
-        <item>com.meizu.media.music</item>
-        <item>com.meizu.notepaper</item>
-        <item>com.meizu.flyme.weather</item>
-        <item>com.android.calendar</item>
-    </string-array>
-    <string-array name="q">
-        <item>%ds</item>
-        <item>%1$dm%2$ds</item>
-        <item>>1h</item>
-    </string-array>
-    <string-array name="r">
-        <item>Accelerate 1x</item>
-        <item>Accelerate 10x</item>
-        <item>Accelerate 100x</item>
-        <item>Accelerate 1000x</item>
-    </string-array>
-    <string-array name="s">
-        <item>1</item>
-        <item>10</item>
-        <item>100</item>
-        <item>1000</item>
-    </string-array>
-    <string-array name="t">
-        <item>Every time when screen is turned on</item>
-        <item>Every 15 minutes</item>
-        <item>Every 30 minutes</item>
-        <item>Every hour</item>
-        <item>Every 3 hours</item>
-        <item>Every 24 hours</item>
-    </string-array>
-    <string-array name="u">
+    <string-array name="values_close_exit_translate_app">
         <item>0.0f</item>
         <item>0.12734375f</item>
         <item>0.290538194f</item>
@@ -403,7 +339,7 @@
         <item>0.998090278f</item>
         <item>1.0f</item>
     </string-array>
-    <string-array name="v">
+    <string-array name="values_extra_close_exit_translate_app">
         <item>0.0</item>
         <item>0.0047222222</item>
         <item>0.0180555556</item>
@@ -436,7 +372,7 @@
         <item>0.9978703704</item>
         <item>1.0</item>
     </string-array>
-    <string-array name="w">
+    <string-array name="values_extra_open_enter_translate_app">
         <item>0.0</item>
         <item>0.0037037037</item>
         <item>0.0149074074</item>
@@ -469,7 +405,7 @@
         <item>0.9984259259</item>
         <item>1.0</item>
     </string-array>
-    <string-array name="x">
+    <string-array name="values_open_enter_translate_app">
         <item>0.0f</item>
         <item>0.240190972f</item>
         <item>0.466145833f</item>
@@ -488,11 +424,5 @@
         <item>0.9984375f</item>
         <item>0.999652778f</item>
         <item>1.0f</item>
-    </string-array>
-    <string-array name="y">
-        <item>Call number</item>
-        <item>Send message</item>
-        <item>Copy</item>
-        <item>Add to contacts</item>
     </string-array>
 </resources>

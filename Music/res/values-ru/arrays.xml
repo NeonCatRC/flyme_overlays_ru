@@ -7,15 +7,15 @@
         <item>group</item>
     </string-array>
     <string-array name="artist_classify_genre_tag">
-        <item>all</item>
-        <item>popular</item>
-        <item>hop</item>
-        <item>rock</item>
-        <item>electronic</item>
-        <item>ballad</item>
-        <item>folk</item>
-        <item>light</item>
-        <item>classical</item>
+        <item>Все</item>
+        <item>Популярное</item>
+        <item>Хип-Хоп</item>
+        <item>Рок</item>
+        <item>Электроника</item>
+        <item>Баллады</item>
+        <item>Фолк</item>
+        <item>Лёгкая</item>
+        <item>Классика</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>

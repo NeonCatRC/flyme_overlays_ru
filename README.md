@@ -10,13 +10,14 @@ Overlays for f9 apps
 - Stop - Work stoped
 - WIP- work-in-progress
 - Start - early state of translation
-- n\a- Do not check this
+- n\a- Not checked
 - n\t- not tested on Flyme
 
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
 | AlarmClock | FULL n\t | Build-in clock app |
 | AlphaMe | FULL | Aicy Engine |
+| AlwaysOnDisplay | WIP | AOD settings app |
 | Assistant | WIP | --- |
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |

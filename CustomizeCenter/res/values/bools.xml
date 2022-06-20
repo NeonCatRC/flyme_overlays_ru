@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <bool name="abc_action_bar_embed_tabs">true</bool>
-    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
-    <bool name="abc_allow_stacked_button_bar">false</bool>
-    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
-    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
-    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <bool name="isTablet">false</bool>
-    <bool name="mz_split_action_bar_is_narrow">true</bool>
+    <bool name="a">true</bool>
+    <bool name="b">false</bool>
+    <bool name="c">false</bool>
+    <bool name="d">true</bool>
+    <bool name="e">true</bool>
+    <bool name="f">false</bool>
+    <bool name="g">false</bool>
+    <bool name="h">true</bool>
 </resources>
