@@ -40,12 +40,11 @@
     <string name="aod_navi_title_info">Информация</string>
     <string name="aod_navi_title_signature">Надпись</string>
     <string name="aod_notification_txt">Увед.</string>
-
     <string name="aod_personal_signature_four">"STAY
 TRUE"</string>
     <string name="aod_personal_signature_one">"Стремление
-рождённое из
-любви"</string>
+рождённое
+любвью"</string>
     <string name="aod_personal_signature_three">"Стремление к высшему"</string>
     <string name="aod_personal_signature_two">Мечта</string>
     <string name="aod_res_not_ready">Ресурс находится в стадии подготовки. Попробуйте позже</string>
@@ -65,9 +64,7 @@ TRUE"</string>
     <string name="aod_type_new_born">Насекомые</string>
     <string name="aod_type_personal_image">Свой шаблон</string>
     <string name="aod_type_personal_signature">Статус</string>
-
-    <string name="aod_type_planet">Textured Planet</string>
-
+    <string name="aod_type_planet">Фактурные планеты</string>
     <string name="aod_type_space">Пространство</string>
 
     <string name="aod_type_walker">Walker</string>
