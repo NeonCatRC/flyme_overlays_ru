@@ -22,7 +22,7 @@ Overlays for f9 apps
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |
 | Camera | FULL n\t !!Flashlight bug!!| Camera app |
-| ConnectivitySettings | WIP | Connect app |
+
 | CustomizeCenter | FULL | Themes \ AOD settings app |
 | Dialer | FULL | Phone app |
 | Email | FULL | Standart Flyme e-mail client |
@@ -45,6 +45,7 @@ Overlays for f9 apps
 | Weather | FULL | Weather app |
 | ------ | WIP/START/STOP | ------ |
 | Assistant | WIP | --- |
+| ConnectivitySettings | WIP | Connect app |
 | DataMigration | Stop | Data migration app |
 | FlymeLauncher | WIP | Standart Flyme launcher |
 | FlymeMusic | WIP | Standart Flyme music app (Flyme 9.2) |
