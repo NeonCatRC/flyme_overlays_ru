@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_album_confirm">
+        <item quantity="other">Delete %1$d album(s)</item>
+        <item quantity="one">Delete 1 album</item>
+    </plurals>
+    <plurals name="delete_artist_confirm">
+        <item quantity="other">Delete %1$d artists</item>
+        <item quantity="one">Delete 1 artist</item>
+    </plurals>
+    <plurals name="delete_podcast_confirm">
+        <item quantity="other">Delete %1$d podcasts</item>
+        <item quantity="one">Delete %1$d podcast</item>
+    </plurals>
+    <plurals name="delete_song_confirm">
+        <item quantity="other">Delete %1$d song(s)</item>
+        <item quantity="one">Delete 1 Song</item>
+    </plurals>
+    <plurals name="delete_song_from_playlist_prompt">
+        <item quantity="other">Remove %1$d songs and delete the local files</item>
+        <item quantity="one">Remove 1 song and delete the local file</item>
+    </plurals>
+    <plurals name="play_list_count">
+        <item quantity="other">%1$d Playlist</item>
+        <item quantity="one">1 Playlist</item>
+    </plurals>
+    <plurals name="remove_song">
+        <item quantity="other">Delete %1$d Songs</item>
+        <item quantity="one">Remove 1 song</item>
+    </plurals>
+    <plurals name="song_item_count">
+        <item quantity="other">%1$d song(s)</item>
+        <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="will_expire_in_days">
+        <item quantity="other">Membership expires in %1$d days</item>
+        <item quantity="one">Membership expires in 1 day</item>
+    </plurals>
+</resources>

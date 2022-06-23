@@ -1,84 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abandon">Отменить</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
-    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_activity_chooser_view_see_all">Показать все</string>
-    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
-    <string name="abc_capital_off">ВЫКЛ</string>
-    <string name="abc_capital_on">ВКЛ</string>
-    <string name="abc_menu_alt_shortcut_label">Alt +</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">Delete</string>
-    <string name="abc_menu_enter_shortcut_label">Ввод</string>
-    <string name="abc_menu_function_shortcut_label">Fn +</string>
-    <string name="abc_menu_meta_shortcut_label">Meta +</string>
-    <string name="abc_menu_shift_shortcut_label">Shift +</string>
-    <string name="abc_menu_space_shortcut_label">Пробел</string>
-    <string name="abc_menu_sym_shortcut_label">Sym +</string>
-    <string name="abc_prepend_shortcut_label">Меню +</string>
-    <string name="abc_search_hint">Введите запрос</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_capital_off">ОТКЛ.</string>
+    <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_search_hint">Поиск</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
     <string name="abc_searchview_description_search">Поиск</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
-    <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
-    <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="action_mark">Метка</string>
+    <string name="action_pause_play">Приостановить</string>
+    <string name="action_play">Воспроизвести</string>
     <string name="alwaysUse">Использовать эту опцию по умолчанию</string>
-    <string name="aod_calendar_txt">Дата</string>
-    <string name="aod_choose_style">Выберите стиль AOD</string>
-    <string name="aod_confirm_btn_txt">Применить</string>
-    <string name="aod_delete">удалить</string>
-    <string name="aod_delete_records">удалить %s записей</string>
-    <string name="aod_incoming_noti_anim">Эффект получения уведомления</string>
-    <string name="aod_lunar_calendar_txt">Лунный календарь</string>
-    <string name="aod_navi_title_color">Цвет</string>
-    <string name="aod_navi_title_composing">Шрифт</string>
-    <string name="aod_navi_title_info">Информация</string>
-    <string name="aod_navi_title_signature">Надпись</string>
-    <string name="aod_notification_txt">Увед.</string>
-    <string name="aod_personal_signature_four">"STAY
-TRUE"</string>
-    <string name="aod_personal_signature_one">"Стремление
-рождённое
-любвью"</string>
-    <string name="aod_personal_signature_three">"Стремление к высшему"</string>
-    <string name="aod_personal_signature_two">Мечта</string>
-    <string name="aod_res_not_ready">Ресурс находится в стадии подготовки. Попробуйте позже</string>
-    <string name="aod_style_select_title">Стиль AOD</string>
-    <string name="aod_style_settings_success">Успешно применено</string>
-    <string name="aod_time_txt">Время</string>
-    <string name="aod_type_animals">Животные</string>
-    <string name="aod_type_classic_clock">Классический стиль</string>
-
-    <string name="aod_type_deep_blue">Deep In Blue</string>
-
-    <string name="aod_type_dolphin">Белый дельфин</string>
-    <string name="aod_type_flora">Флора</string>
-    <string name="aod_type_merry">Узор</string>
-    <string name="aod_type_multi_flora">Калейдоскоп</string>
-    <string name="aod_type_my_aod">Мои стили</string>
-    <string name="aod_type_new_born">Насекомые</string>
-    <string name="aod_type_personal_image">Свой шаблон</string>
-    <string name="aod_type_personal_signature">Статус</string>
-    <string name="aod_type_planet">Фактурные планеты</string>
-    <string name="aod_type_space">Пространство</string>
-
-    <string name="aod_type_walker">Walker</string>
-
-    <string name="app_name">AlwaysOnDisplay</string>
-    <string name="change_style_txt">Изменить стиль</string>
-    <string name="character_counter_content_description">Превышен лимит символов</string>
+    <string name="app_name">Диктофон</string>
+    <string name="create_order_fial_toast">Не удалось разместить заказ. Пожалуйста, повторите попытку позже.</string>
     <string name="date_time_set">Установить</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_all_mark">Удалить все</string>
+    <string name="delete_all_node">Удалить все метки</string>
+    <string name="delete_node">Удалить метку</string>
+    <string name="deleting">Удаление</string>
+    <string name="dialog_button_prompt">Понятно</string>
+    <string name="dialog_text_message">"В режиме Звукового давления концертные и иные звуки, содержащие треск на высоких децибелах, будут исправлены. 
+ Тем не менее, этот режим отключает динамик, и вы можете пропустить звонки и уведомления."</string>
+    <string name="edit">Правка</string>
+    <string name="edit_delete_zh">Удалить</string>
+    <string name="edit_error_tip">Размер файла записи слишком велик, чтобы обрезать</string>
+    <string name="edit_extract">Извлечь</string>
+    <string name="edit_progress_dialog">Анализ аудио</string>
+    <string name="empty_name">Имя файла не может быть пустым</string>
+    <string name="error_app_internal">Внутренняя ошибка приложения</string>
+    <string name="file_existed">Имя файла уже существует, пожалуйста, переименуйте.</string>
+    <string name="file_list_empty_text">Нет голосовых записей</string>
+    <string name="finish">Готово</string>
+    <string name="high_spl">Звуковое давление</string>
+    <string name="insert_sd_card">Подключите USB-накопитель</string>
     <string name="item_is_selected">%1$s выбрано</string>
-
-    <string name="lock_month_day">MMM d</string>
-    <string name="lock_week">yyyy年M月d日(EEE)</string>
-
-    <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
     <string name="mc_cancel">Отмена</string>
@@ -168,8 +135,8 @@ TRUE"</string>
     <string name="mc_pm_s_sms">Отправка SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
-    <string name="mc_pm_wlan">Wi-Fi</string>
+    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
+    <string name="mc_pm_wlan">WLAN</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
@@ -180,9 +147,6 @@ TRUE"</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
-    <string name="mc_selectionbutton_all">Все</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -196,14 +160,21 @@ TRUE"</string>
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">ОК</string>
+    <string name="more">ещё</string>
     <string name="more_item_label">Ещё</string>
-    <string name="mtrl_chip_close_icon_content_description">Убрать %1$s</string>
+    <string name="my_order_title">Заказ (голос в текст)</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_allow">ОК</string>
     <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_date_time_day">д.</string>
+    <string name="mz_date_time_hour">ч.</string>
+    <string name="mz_date_time_min">м.</string>
+    <string name="mz_date_time_month">м.</string>
+    <string name="mz_date_time_sec">с.</string>
+    <string name="mz_date_time_year">г</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_allow">Разрешить</string>
@@ -219,7 +190,7 @@ TRUE"</string>
     <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
     <string name="mz_permission_title_terms">Разрешения и заявления</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">Wi-Fi</string>
+    <string name="mz_permissiongroup_name_change_network">WLAN</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
@@ -248,8 +219,8 @@ TRUE"</string>
     <string name="mz_pm_s_sms">Отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
-    <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
+    <string name="mz_pm_set_wifi_on">Включение WLAN</string>
+    <string name="mz_pm_wlan">Доступ к WLAN</string>
     <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Все ещё разрешено</string>
@@ -257,9 +228,91 @@ TRUE"</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
-    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="mzuc_cancel">Отмена</string>
+    <string name="mzuc_cancel_download">Отменить загрузку</string>
+    <string name="mzuc_cancel_install">Отменить установку</string>
+    <string name="mzuc_delete">Удалить</string>
+    <string name="mzuc_download">Скачать</string>
+    <string name="mzuc_download_fail">Ошибка загрузки</string>
+    <string name="mzuc_download_finish_install">Загрузка завершена, нажмите для установки</string>
+    <string name="mzuc_download_finish_s" formatted="false">%s %s - загрузка завершена</string>
+    <string name="mzuc_download_progress_desc_s" formatted="false">Загружается %s %s</string>
+    <string name="mzuc_downloading">Загружается</string>
+    <string name="mzuc_file_size_s">Будет потреблено %s данных</string>
+    <string name="mzuc_found_update_s">Доступно обновление: %s</string>
+    <string name="mzuc_install_cancel_tip">Загрузка отменена</string>
+    <string name="mzuc_install_fail">Ошибка установки</string>
+    <string name="mzuc_install_immediately">"Установить
+сейчас"</string>
+    <string name="mzuc_install_later">"Установить
+позже"</string>
+    <string name="mzuc_installing">Установка</string>
+    <string name="mzuc_manual_checking_update">Проверка обновления</string>
+    <string name="mzuc_manual_current_version">Текущая версия %s</string>
+    <string name="mzuc_manual_download_cancel">Загрузка отменена</string>
+    <string name="mzuc_manual_download_fail">Ошибка загрузки</string>
+    <string name="mzuc_manual_downloading">Загрузка %s%%</string>
+    <string name="mzuc_manual_found_new_version">Найдена новая версия. Нажмите для обновления</string>
+    <string name="mzuc_manual_install_fail">Ошибка установки</string>
+    <string name="mzuc_manual_install_new_version">Обновление загружено, нажмите для установки</string>
+    <string name="mzuc_manual_installing">Установка...</string>
+    <string name="mzuc_manual_latest_version">Текущая версия - актуальная</string>
+    <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
+    <string name="mzuc_manual_update_title">Проверить обновления</string>
+    <string name="mzuc_msg_indicator">Что нового:</string>
+    <string name="mzuc_notification_message_s">%s</string>
+    <string name="mzuc_ok">ОК</string>
+    <string name="mzuc_reboot_update_now">Перезапустить обновление</string>
+    <string name="mzuc_retry">Повтор</string>
+    <string name="mzuc_skip_version">Пропустить</string>
+    <string name="mzuc_skip_warn_tip">Если пропустить эту версию, то предложение об установке не последует</string>
+    <string name="mzuc_update_finish">Обновление завершено</string>
+    <string name="mzuc_update_finish_format">Обновлено до последней версии %s</string>
+    <string name="mzuc_update_immediately">Обновить сейчас</string>
+    <string name="mzuc_update_immediately_roaming">Обновление в сети (%s)</string>
+    <string name="mzuc_update_later">Напомнить позже</string>
+    <string name="mzuc_update_mobile_network">Загрузить через мобильную сеть?</string>
+    <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
+    <string name="mzuc_update_title_s" formatted="false">Вышла %s %s</string>
+    <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
+    <string name="mzuc_warn_later">Напомнить позже</string>
+    <string name="new_edit_name_template">Клип %d</string>
+    <string name="new_file_name_template">Новая запись %d</string>
+    <string name="notification_pause_text">Пауза</string>
+    <string name="notification_play_service_menu_close_text">Закрыть</string>
+    <string name="notification_play_service_play_text">Продолжить игру</string>
+    <string name="notification_playing">Воспроизв.</string>
+    <string name="notification_record_service_finish_text">Завершить и сохранить</string>
+    <string name="notification_record_service_record_text">Продолжить запись</string>
+    <string name="notification_record_service_save_success_tip">Успешно сохранено</string>
+    <string name="notification_recording">Запись</string>
+    <string name="phone_hookoff">Выполняется вызов, начните запись вызова</string>
+    <string name="priority_file_save_path">Приоритет сохранения на SD-карту</string>
+    <string name="record_mute_flag">Без звука</string>
+    <string name="recorder_already_exist">Невозможно записать. Диктофон используется</string>
+    <string name="recorder_permissions">Приложение должно иметь доступ к сетевому подключению для загрузки обновлений и резервных копий</string>
+    <string name="recording_file_limit_is_reached_title">Запись достигла максимального размера для MMS. Использовать данную запись?</string>
+    <string name="recording_pause">Приостановить запись</string>
+    <string name="recording_stopped">Остановить запись</string>
+    <string name="rename">Переименовать</string>
+    <string name="save">Готово</string>
+    <string name="save_new_record">Сохранить запись</string>
+    <string name="sdcard_busy_message">USB-накопитель занят</string>
+    <string name="sdcard_error_message">Ошибка USB-накопителя</string>
+    <string name="sdcard_missing_message">USB-накопитель не подключён</string>
+    <string name="sdcard_unavailable">USB-накопитель не подключён</string>
     <string name="search_menu_title">Поиск</string>
-    <string name="select_all">Все</string>
-    <string name="select_none">none</string> <!--!!-->
-    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="selected_title">Выберите файл записи</string>
+    <string name="settings_title">Настройки</string>
+    <string name="share">Передать</string>
+    <string name="speaker_play_mode">Через громкоговоритель</string>
+    <string name="speech_to_text_title">Обращение к тексту</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="storage_is_full">Память переполнена. Запись невозможна</string>
+    <string name="storage_is_full_recording">Память заполнена. Запись сохранена автоматически.</string>
+    <string name="unacceptable_char">Запрещены символы |\\/:*?\"&lt;>.</string>
+    <string name="unknown_phone_num">Неизвестный номер</string>
+    <string name="use">Использовать</string>
+    <string name="use_recording_title">Использовать эту запись?</string>
+    <string name="wind_noise_suppression">Уменьшение шума ветра</string>
 </resources>

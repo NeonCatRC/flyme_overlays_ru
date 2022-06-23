@@ -14,47 +14,50 @@ Overlays for f9 apps
 - n\t- not tested on Flyme
 
 | APP | STATE | PURPOUSE |
-| ------ | ------ | ------ |
+| ------ | FULL | ------ |
 | AlarmClock | FULL n\t | Build-in clock app |
 | AlphaMe | FULL | Aicy Engine |
-| AlwaysOnDisplay | WIP | AOD settings app |
-| Assistant | WIP | --- |
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |
 | Camera | FULL n\t !!Flashlight bug!!| Camera app |
 | ConnectivitySettings | WIP | Connect app |
 | CustomizeCenter | FULL | Themes \ AOD settings app |
-| DataMigration | Stop | Data migration app |
-| Dialer | WIP | Phone app |
 | FileManager | FULL n\t | Standart Flyme file manager |
-| FlymeLauncher | WIP | Standart Flyme launcher |
-| framework-res | WIP | System framework |
+| FlymeMusic | WIP | Standart Flyme music app (Flyme 9.2) |
+| FlymeSoundRecorder | WIP | Build-in recorder app (Flyme 9.2) |
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
-| MMS | WIP | Standart Flyme SMS/MMS messager |
-| Music | WIP | Standart Flyme music app |
 | MusicFX | FULL n\t | SquareSound |
 | MzBatteryManager | FULL n\t | Battery manager |
 | MzSecurity | FULL n\t | Build-in antivirus and cleaner |
-| MzShare | Stop |  |
 | NetAdmin | FULL n\t | Build-in network check and diagnostics |
 | NotePaper | FULL n\t | Notepad app |
 | Pedometer | FULL n\t | Step counter |
+| SoundRecorder | FULL n\t | Build-in recorder app |
+| SystemUIEx | FULL n\t | System app |
+| TodoList | FULL | notes and to-do app |
+| ToolBox | FULL n\t | Flyme tools app |
+| Video | FULL n\t | Standart Flyme video player |
+| Weather | FULL | Weather app |
+| ------ | WIP/START/STOP | ------ |
+| AlwaysOnDisplay | WIP | AOD settings app |
+| Assistant | WIP | --- |
+| DataMigration | Stop | Data migration app |
+| Dialer | WIP | Phone app |
+| FlymeLauncher | WIP | Standart Flyme launcher |
+| framework-res | WIP | System framework |
+| MMS | WIP | Standart Flyme SMS/MMS messager |
+| Music | WIP | Standart Flyme music app |
+| MzShare | Stop |  |
 | PermissionController | Stop |  |
 | Picker | WIP |  |
 | SDKStage | Stop | System app |
 | Settings | WIP | Settings app |
-| SoundRecorder | FULL n\t | Build-in recorder app |
 | Suggestion | WIP | |
 | SystemUI | WIP | System app |
-| SystemUIEx | FULL n\t | System app |
 | SystemUITools | WIP | System app |
-| TodoList | FULL | notes and to-do app |
-| ToolBox | FULL n\t | Flyme tools app |
-| Video | FULL n\t | Standart Flyme video player |
 | VoiceAssistant | WIP |  |
-| Weather | FULL | Weather app |
-| ------ | ------ | ------ |
+| ------ | N/A | ------ |
 | DesktopBackup | | |
 | Email | | Standart Flyme e-mail client |
 | FamilyGuard | | |
