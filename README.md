@@ -23,8 +23,7 @@ Overlays for f9 apps
 | ConnectivitySettings | WIP | Connect app |
 | CustomizeCenter | FULL | Themes \ AOD settings app |
 | FileManager | FULL n\t | Standart Flyme file manager |
-| FlymeMusic | WIP | Standart Flyme music app (Flyme 9.2) |
-| FlymeSoundRecorder | WIP | Build-in recorder app (Flyme 9.2) |
+| FlymeSoundRecorder | FULL | Build-in recorder app (Flyme 9.2) |
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
 | MusicFX | FULL n\t | SquareSound |
@@ -45,6 +44,7 @@ Overlays for f9 apps
 | DataMigration | Stop | Data migration app |
 | Dialer | WIP | Phone app |
 | FlymeLauncher | WIP | Standart Flyme launcher |
+| FlymeMusic | WIP | Standart Flyme music app (Flyme 9.2) |
 | framework-res | WIP | System framework |
 | MMS | WIP | Standart Flyme SMS/MMS messager |
 | Music | WIP | Standart Flyme music app |

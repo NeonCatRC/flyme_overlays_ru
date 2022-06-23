@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_album_confirm">
+        <item quantity="other">Удалить %1$d альбома(-ов)</item>
+        <item quantity="one">Удалить 1 альбом</item>
+    </plurals>
+    <plurals name="delete_artist_confirm">
+        <item quantity="other">Удалить %1$d исполнителей</item>
+        <item quantity="one">Удалить 1 исполнителя</item>
+    </plurals>
+    <plurals name="delete_podcast_confirm">
+        <item quantity="other">Удалить %1$d подкастов</item>
+        <item quantity="one">Удалить %1$d подкаст</item>
+    </plurals>
+    <plurals name="delete_song_confirm">
+        <item quantity="other">Удалить %1$d композиций</item>
+        <item quantity="one">Удалить 1 композицию</item>
+    </plurals>
+    <plurals name="delete_song_from_playlist_prompt">
+        <item quantity="other">Убрать %1$d композиций и удалить локальные файлы</item>
+        <item quantity="one">Убрать 1 композицию и удалить локальный файл</item>
+    </plurals>
+    <plurals name="play_list_count">
+        <item quantity="other">%1$d плейлистов</item>
+        <item quantity="one">1 плейлист</item>
+    </plurals>
+    <plurals name="remove_song">
+        <item quantity="other">Удалить %1$d композиций</item>
+        <item quantity="one">Удалить 1 композицию</item>
+    </plurals>
+    <plurals name="song_item_count">
+        <item quantity="other">%1$d композиций</item>
+        <item quantity="one">1 композиция</item>
+    </plurals>
+    <plurals name="will_expire_in_days">
+        <item quantity="other">Подписка истечёт через %1$d дней</item>
+        <item quantity="one">Подписка истечёт через 1 день</item>
+    </plurals>
+</resources>

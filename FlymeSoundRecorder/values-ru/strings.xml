@@ -30,6 +30,8 @@
     <string name="delete_all_node">Удалить все метки</string>
     <string name="delete_node">Удалить метку</string>
     <string name="deleting">Удаление</string>
+    <string name="description_record_pause_icon">Остановить запись</string>
+    <string name="description_record_start_icon">Начать запись</string>
     <string name="dialog_button_prompt">Понятно</string>
     <string name="dialog_text_message">"В режиме Звукового давления концертные и иные звуки, содержащие треск на высоких децибелах, будут исправлены. 
  Тем не менее, этот режим отключает динамик, и вы можете пропустить звонки и уведомления."</string>
@@ -46,6 +48,8 @@
     <string name="high_spl">Звуковое давление</string>
     <string name="insert_sd_card">Подключите USB-накопитель</string>
     <string name="item_is_selected">%1$s выбрано</string>
+    <string name="mark">Метка</string>
+    <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
     <string name="mc_cancel">Отмена</string>
@@ -135,18 +139,22 @@
     <string name="mc_pm_s_sms">Отправка SMS</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mc_pm_set_wifi_on">Включить WLAN</string>
-    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
     <string name="mc_praised_message">Как</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
+    <string name="mc_search_description">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
+    <string name="mc_selectionbutton_all">Все</string>
+    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -160,6 +168,7 @@
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">ОК</string>
+    <string name="migrate_progress_text">Перенос данных %d%%</string>
     <string name="more">ещё</string>
     <string name="more_item_label">Ещё</string>
     <string name="my_order_title">Заказ (голос в текст)</string>
@@ -181,16 +190,27 @@
     <string name="mz_permission_almost_deny">Не предлагать запрос после отказа</string>
     <string name="mz_permission_always_allow">Разрешать всегда</string>
     <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_continue_allow">Продолжить</string>
     <string name="mz_permission_deny">Отклонить</string>
     <string name="mz_permission_disagree">Запретить</string>
+    <string name="mz_permission_i_know">ОК</string>
     <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения и подключение к сети</string>
+    <string name="mz_permission_inform_f9_no_internet">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9_only_internet">Для предоставления основных услуг этому приложению необходимо подключение к сети</string>
+    <string name="mz_permission_inform_secondary_confirmation_summary">Для предоставления основных услуг этому приложению необходимы следующие разрешения:</string>
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
     <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_noly_internet">Для пользования перечисленными выше функциями и службами</string>
+    <string name="mz_permission_policy_description_update">Для того, чтобы полностью защитить ваши права, мы обновили нашу политику приватности, которую можно увидеть %1$s</string>
+    <string name="mz_permission_secondary_confirmation_title">Необходимые полномочия разрешение</string>
     <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
     <string name="mz_permission_title_terms">Разрешения и заявления</string>
+    <string name="mz_permission_use_info">Инструкции по использованию</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">WLAN</string>
+    <string name="mz_permissiongroup_name_change_network">Wi-Fi</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
@@ -219,8 +239,8 @@
     <string name="mz_pm_s_sms">Отправка SMS</string>
     <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
     <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
-    <string name="mz_pm_set_wifi_on">Включение WLAN</string>
-    <string name="mz_pm_wlan">Доступ к WLAN</string>
+    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
+    <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
     <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Все ещё разрешено</string>
@@ -228,6 +248,7 @@
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
+    <string name="mzuc_app_update_channel">Подсказки по обновлению</string>
     <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
     <string name="mzuc_cancel_install">Отменить установку</string>
@@ -262,7 +283,7 @@
     <string name="mzuc_msg_indicator">Что нового:</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">ОК</string>
-    <string name="mzuc_reboot_update_now">Перезапустить обновление</string>
+    <string name="mzuc_reboot_update_now">Перезапустить для обновления</string>
     <string name="mzuc_retry">Повтор</string>
     <string name="mzuc_skip_version">Пропустить</string>
     <string name="mzuc_skip_warn_tip">Если пропустить эту версию, то предложение об установке не последует</string>
@@ -276,8 +297,10 @@
     <string name="mzuc_update_title_s" formatted="false">Вышла %s %s</string>
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
+    <string name="network_error_and_reload">Ошибка сети, нажмите для повтора</string>
     <string name="new_edit_name_template">Клип %d</string>
     <string name="new_file_name_template">Новая запись %d</string>
+    <string name="notification_channel_name_status">Push-уведомления</string>
     <string name="notification_pause_text">Пауза</string>
     <string name="notification_play_service_menu_close_text">Закрыть</string>
     <string name="notification_play_service_play_text">Продолжить игру</string>
@@ -286,10 +309,19 @@
     <string name="notification_record_service_record_text">Продолжить запись</string>
     <string name="notification_record_service_save_success_tip">Успешно сохранено</string>
     <string name="notification_recording">Запись</string>
+    <string name="password_toggle_content_description">Переключить видимость пароля</string>
+    <string name="permission_contacts">Контакты</string>
+    <string name="permission_message">Разрешения нужны для работоспособности %s функций</string>
+    <string name="permission_positive_btn">Открыть</string>
+    <string name="permission_request_title">Предоставьте разрешение на %s</string>
+    <string name="permission_save_storage">Сохранить запись</string>
+    <string name="permission_show_contacts">Показать контакты для записи звонков</string>
+    <string name="permission_storage">Внутреннее хранилище</string>
     <string name="phone_hookoff">Выполняется вызов, начните запись вызова</string>
     <string name="priority_file_save_path">Приоритет сохранения на SD-карту</string>
     <string name="record_mute_flag">Без звука</string>
     <string name="recorder_already_exist">Невозможно записать. Диктофон используется</string>
+    <string name="recorder_artist">Диктофон Meizu</string>
     <string name="recorder_permissions">Приложение должно иметь доступ к сетевому подключению для загрузки обновлений и резервных копий</string>
     <string name="recording_file_limit_is_reached_title">Запись достигла максимального размера для MMS. Использовать данную запись?</string>
     <string name="recording_pause">Приостановить запись</string>
@@ -303,10 +335,18 @@
     <string name="sdcard_unavailable">USB-накопитель не подключён</string>
     <string name="search_menu_title">Поиск</string>
     <string name="selected_title">Выберите файл записи</string>
+    <string name="settings_category_check_update">Проверить обновления</string>
+    <string name="settings_category_check_update_get">Проверка обновлений</string>
+    <string name="settings_category_check_update_have_new">Доступно обновление</string>
+    <string name="settings_category_check_update_newest">Это последняя версия</string>
+    <string name="settings_category_check_update_summary">Текущая версия: </string>
+    <string name="settings_category_other">Другие</string>
+    <string name="settings_category_privacy_policy">Политика приватности</string>
     <string name="settings_title">Настройки</string>
     <string name="share">Передать</string>
     <string name="speaker_play_mode">Через громкоговоритель</string>
     <string name="speech_to_text_title">Обращение к тексту</string>
+    <string name="speed">Скорость</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="storage_is_full">Память переполнена. Запись невозможна</string>
     <string name="storage_is_full_recording">Память заполнена. Запись сохранена автоматически.</string>
