@@ -126,6 +126,7 @@
     <string name="draft_separator">,</string>
     <string name="draft_sub_tittle_mms">MMS: %1$s</string>
     <string name="draft_tittle_large">"[Черновик] "</string>
+
     <string name="duoqu_613_change">切换车次</string>
     <string name="duoqu_613_select">选择车次</string>
     <string name="duoqu_air_arriver_city">到达</string>
@@ -330,6 +331,7 @@
     <string name="duqou_seek_assistance">求助人</string>
     <string name="duqou_select_arrive_city">选择终点站</string>
     <string name="duqou_view_the_orgmessage">(更多请点击卡片查看)</string>
+
     <string name="duration_not_a_number">Должно быть указано числовое значение.</string>
     <string name="duration_sec">Продолжительность (%s с.)</string>
     <string name="duration_selector_title">Продолжительность показа слайда</string>
@@ -572,7 +574,6 @@
     <string name="mms_noti_rectrive_statu_msg">Получение MMS</string>
     <string name="mms_noti_subject_view">MMS: 1 уведомление</string>
     <string name="mms_notifi_subject">(MMS-уведомление)</string>
-    <string name="mms_slide_show_duration" formatted="false">%02d:%02d</string>
     <string name="mms_slideshow_view_title">Детали</string>
     <string name="mms_x_year">В %s</string>
     <string name="more_item_label">Ещё</string>
@@ -801,8 +802,9 @@
     <string name="rcs_banner_text_01">Бесплатно, если другой стороной является абонент China Mobile</string>
     <string name="rcs_banner_text_02">Поддерживаются голосовой чат и мультимедийные сообщения, такие как изображения и видео</string>
     <string name="rcs_banner_text_03">Дизайн информационной визуальной карты для повышения эффективности чтения</string>
-    <string name="rcs_common_cancel">取消</string>
-    <string name="rcs_common_confirm">确认</string>
+    <string name="rcs_common_cancel">Отмена</string>
+    <string name="rcs_common_confirm">ОК</string>
+
     <string name="rcs_common_get_data_failed">数据获取失败</string>
     <string name="rcs_common_invalid_params">参数无效</string>
     <string name="rcs_common_loading">正在加载</string>
@@ -813,6 +815,7 @@
     <string name="rcs_complaint_only_cmcc">仅限中国移动号码可提交举报</string>
     <string name="rcs_complaint_title">举报</string>
     <string name="rcs_file_subject_view">[файл]</string>
+
     <string name="rcs_guide_notification">Отправка и получение SMS бесплатно. Хотите узнать больше?</string>
     <string name="rcs_image_subject_view">[изображение]</string>
     <string name="rcs_introduce">Meizu Smart SMS - это услуга, предоставляемая платформой конвергентной связи China Mobile. Для полноценной работы платформа (и служба Fetion) будет открыта бесплатно. Для дополнительной информации посетите http://feixin.10086.cn/native</string>
@@ -827,6 +830,7 @@
     <string name="rcs_no_use_threshold">Нужен только номер телефона получателя. Нет установки приложения или добавления друзей</string>
     <string name="rcs_open_toasttext">Smart SMS включено</string>
     <string name="rcs_public_message">Умные сообщения</string>
+
     <string name="rcs_red_packet_text">[Красный конверт]</string>
     <string name="rcs_redpacket_detail_title">流量红包</string>
     <string name="rcs_redpacket_only_cmcc">此红包仅限中国移动号码领取</string>
@@ -843,6 +847,7 @@
     <string name="rcs_share_platform_wechat">微信好友</string>
     <string name="rcs_share_platform_wechat_moment">朋友圈</string>
     <string name="rcs_share_to">分享到</string>
+
     <string name="rcs_support_multiple_formats">SMS, изображения, аудио, видео, данные местоположения и карточки vCard поддерживаются для отправки</string>
     <string name="rcs_switch_description">Отправка и получение SMS через Wi-Fi и сотовую сеть</string>
     <string name="rcs_switch_dialog_message">Поддерживаются только карты China Mobile</string>
@@ -850,6 +855,7 @@
     <string name="rcs_translate_sms_key">Ключ конвертации SMS</string>
     <string name="rcs_translate_sms_summary">При ошибке отправки сообщения размером менее 900 Б, выполните конвертацию.</string>
     <string name="rcs_vcard_subject_view">[имя карты]</string>
+
     <string name="rcs_video_continue_play">播放</string>
     <string name="rcs_video_default_time">00:00</string>
     <string name="rcs_video_error">视频出错了! 点击重播</string>
@@ -867,6 +873,7 @@
     <string name="rcs_web_mobile_network_tip">流量提醒</string>
     <string name="rcs_web_network_fail">网络失效了，打开网络看看</string>
     <string name="rcs_web_network_setting">网络设置</string>
+
     <string name="rcs_web_share">Поделиться</string>
     <string name="read_report_dialog_cancel">Отмена</string>
     <string name="read_report_dialog_send">Отправить</string>
@@ -995,9 +1002,7 @@
     <string name="title_buy_tel">Входящие</string>
     <string name="title_coversation_contact_multi">Получатель</string>
     <string name="title_coversation_contact_single">Сведения о контакте</string>
-    
-    <string name="title_mz_card">魅友卡</string>
-
+    <string name="title_mz_card">Meiyou Card</string>
     <string name="title_phone_recharge">Пополнить</string>
     <string name="to_address_label">Получатель:</string>
     <string name="toast_cannot_send_message">Отправка сообщений недоступна</string>
@@ -1086,24 +1091,24 @@
     <string name="message_unfavoriting_label">Удалить из избранного</string>
     <string name="mms_flyme_noti_subject_view">MMS: Уведомление Flyme</string>
     <string name="mms_talk_noti_subject_view">MMS: голосовое сообщение</string>
-    <string name="networkRequestError">Network Request Error</string>
-    <string name="network_error_to_refresh">Network error, tap to reload</string>
+    <string name="networkRequestError">Ошибка сети</string>
+    <string name="network_error_to_refresh">Ошибка подключения, нажмите чтобы повторить</string>
     <string name="no_network_to_setting">Нет подключения к сети. Пожалуйста, проверьте настройки.</string>
-    <string name="open_pay_auto_pay_permission_title">Payment service authorization</string>
-    <string name="orderInfoIncomplete">Illegal request, order incomplete</string>
-    <string name="pay_base_channel_access_server_error">The system is busy, please try again later</string>
-    <string name="pay_base_channel_pay_fail">Payment failed</string>
-    <string name="pay_base_channel_pay_success">Payment made successfully</string>
-    <string name="pay_base_channel_pay_unknown_error">Payment failed, unknown exception</string>
-    <string name="pay_fail">Payment failed</string>
-    <string name="pay_success">Payment made successfully</string>
-    <string name="pay_unknown_error">Payment failed, unknown exception</string>
+    <string name="open_pay_auto_pay_permission_title">Авторизация платёжного сервиса</string>
+    <string name="orderInfoIncomplete">Неверный запрос, заказ не выполнен</string>
+    <string name="pay_base_channel_access_server_error">Система занята, попробуйте позже</string>
+    <string name="pay_base_channel_pay_fail">Ошибка платежа</string>
+    <string name="pay_base_channel_pay_success">Платёж выполнен успешно</string>
+    <string name="pay_base_channel_pay_unknown_error">Ошибка платежа, неизвестная ошибка</string>
+    <string name="pay_fail">Ошибка платежа</string>
+    <string name="pay_success">Платёж выполнен успешно</string>
+    <string name="pay_unknown_error">Ошибка платежа, неизвестная ошибка</string>
     <string name="pref_summary_default_message_is_system_own">Системное приложение</string>
     <string name="pref_title_default_message_app">SMS-приложение по умолчанию</string>
     <string name="prepare_mms_pdu_data">Подготовка данных к отправке</string>
     <string name="recoder_time_limit_short">Время записи слишком короткое</string>
     <string name="record_failed">Ошибка записи</string>
-    <string name="request_too_fast">Request too fast</string>
+    <string name="request_too_fast">Слишком частые запросы</string>
     <string name="sd_mount_err">Карта памяти не готова</string>
     <string name="setting_network">Настроить</string>
     <string name="talk_subject">MMS: 1 аудио</string>

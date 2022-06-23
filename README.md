@@ -18,15 +18,19 @@ Overlays for f9 apps
 | ------ | FULL | ------ |
 | AlarmClock | FULL n\t | Build-in clock app |
 | AlphaMe | FULL | Aicy Engine |
+| AlwaysOnDisplay | FULL | AOD settings app |
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |
 | Camera | FULL n\t !!Flashlight bug!!| Camera app |
 | ConnectivitySettings | WIP | Connect app |
 | CustomizeCenter | FULL | Themes \ AOD settings app |
+| Dialer | FULL | Phone app |
+| Email | FULL | Standart Flyme e-mail client |
 | FileManager | FULL n\t | Standart Flyme file manager |
 | FlymeSoundRecorder | FULL | Build-in recorder app (Flyme 9.2) |
 | Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
+| MMS | FULL (except china shit) | Standart Flyme SMS/MMS messager |
 | MusicFX | FULL n\t | SquareSound |
 | MzBatteryManager | FULL n\t | Battery manager |
 | MzSecurity | FULL n\t | Build-in antivirus and cleaner |
@@ -40,15 +44,12 @@ Overlays for f9 apps
 | Video | FULL n\t | Standart Flyme video player |
 | Weather | FULL | Weather app |
 | ------ | WIP/START/STOP | ------ |
-| AlwaysOnDisplay | WIP | AOD settings app |
 | Assistant | WIP | --- |
 | DataMigration | Stop | Data migration app |
-| Dialer | WIP | Phone app |
 | FlymeLauncher | WIP | Standart Flyme launcher |
 | FlymeMusic | WIP | Standart Flyme music app (Flyme 9.2) |
 | framework-res | WIP | System framework |
-| MMS | WIP | Standart Flyme SMS/MMS messager |
-| Music | WIP | Standart Flyme music app |
+| Music | Stop | Standart Flyme music app |
 | MzShare | Stop |  |
 | PermissionController | Stop |  |
 | Picker | WIP |  |
@@ -59,25 +60,11 @@ Overlays for f9 apps
 | SystemUITools | WIP | System app |
 | VoiceAssistant | WIP |  |
 | ------ | N/A | ------ |
-| DesktopBackup | | |
-| Email | | Standart Flyme e-mail client |
-| FamilyGuard | | |
-| GameCenter | | |
-| GameSDKService | | |
-| mCareNew | | |
-| MzStore | | |
-| NetContactService | | |
-| Perfui | | |
+
 | SystemWallpaper | | |
-| StorageManager |  |  |
-| AppCenter |  |  |
-| AlwaysOnDisplay |  |  |
 | MzAccount |  |  |
 | MzUpdate |  |  |
 | DownloadProvider |  |  |
-| FaceRecognition |  |  |
 | MzCallSettings |  |  |
-| PackageInstaller |  |  |
-| Search |  |  |
 
 [ABOUT]: <https://mit-license.org/>

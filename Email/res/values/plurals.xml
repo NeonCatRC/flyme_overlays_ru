@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Remind in %1$d day %2$d hours</item>
+        <item quantity="one">Remind in %1$d day %2$d hours</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">Remind in %1$d day %2$d hour</item>
+        <item quantity="one">Remind in %1$d day %2$d hour</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Remind in %1$d day</item>
+        <item quantity="one">Remind in %1$d day</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Remind in %1$d hour %2$d minutes</item>
+        <item quantity="one">Remind in %1$d hour %2$d minutes</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">Remind in %1$d hour %2$d minute</item>
+        <item quantity="one">Remind in %1$d hour %2$d minute</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">Remind in %1$d hour</item>
+        <item quantity="one">Remind in %1$d hour</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">Remind in %1$d minute</item>
+        <item quantity="one">Remind in %1$d minute</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%1$d account(s)</item>
+        <item quantity="one">%1$d account(s)</item>
+    </plurals>
+</resources>

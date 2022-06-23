@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="cv">@color/g8</item>
+    <item type="drawable" name="cw">@color/g9</item>
+    <item type="drawable" name="go">#3333b5e5</item>
+    <item type="drawable" name="gp">#0cffffff</item>
+</resources>

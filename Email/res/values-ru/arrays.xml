@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="mc_custom_time_picker_lunar_day">
+    <string-array name="a1">
+        <item>Очень мелкий</item>
+        <item>Мелкий</item>
+        <item>Нормальный</item>
+        <item>Крупный</item>
+        <item>Очень крупный</item>
+    </string-array>
+    <string-array name="ab">
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -32,7 +39,7 @@
         <item>29</item>
         <item>30</item>
     </string-array>
-    <string-array name="mc_custom_time_picker_lunar_month">
+    <string-array name="ac">
         <item>Янв</item>
         <item>Фев</item>
         <item>Мар</item>
@@ -46,7 +53,7 @@
         <item>Ноя</item>
         <item>Дек</item>
     </string-array>
-    <string-array name="mc_custom_weekday">
+    <string-array name="ad">
         <item>Вс</item>
         <item>Пн</item>
         <item>Вт</item>
@@ -54,11 +61,5 @@
         <item>Чт</item>
         <item>Пт</item>
         <item>Сб</item>
-    </string-array>
-    <string-array name="noti_anim">
-        <item>Ничего</item>
-        <item>Вкл. экран</item>
-        <item>Круги</item> <!-- !!! circle -->
-        <item>Свечение</item>
     </string-array>
 </resources>

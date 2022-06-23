@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">Напомнить через %1$d д. %2$d ч.</item>
+        <item quantity="one">Напомнить через %1$d д. %2$d ч.</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="other">Напомнить через %1$d д. %2$d ч.</item>
+        <item quantity="one">Напомнить через %1$d д. %2$d ч.</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="other">Напомнить через %1$d д.</item>
+        <item quantity="one">Напомнить через %1$d д.</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="other">Напомнить через %1$d ч. %2$d м.</item>
+        <item quantity="one">Напомнить через %1$d ч. %2$d м.</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="other">Напомнить через %1$d ч. %2$d м.</item>
+        <item quantity="one">Напомнить через %1$d ч. %2$d м.</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="other">Напомнить через %1$d ч.</item>
+        <item quantity="one">Напомнить через %1$d ч.</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="other">Напомнить через %1$d мин.</item>
+        <item quantity="one">Напомнить через %1$d мин.</item>
+    </plurals>
+    <plurals name="h">
+        <item quantity="other">%d Б</item>
+        <item quantity="one">%d Б</item>
+    </plurals>
+    <plurals name="i">
+        <item quantity="other">%d ГБ</item>
+        <item quantity="one">%d ГБ</item>
+    </plurals>
+    <plurals name="j">
+        <item quantity="other">%d КБ</item>
+        <item quantity="one">%d КБ</item>
+    </plurals>
+    <plurals name="k">
+        <item quantity="other">%d МБ</item>
+        <item quantity="one">%d МБ</item>
+    </plurals>
+    <plurals name="l">
+        <item quantity="other">%1$d аккаунтов</item>
+        <item quantity="one">%1$d аккаунтов</item>
+    </plurals>
+</resources>

@@ -53,9 +53,7 @@ TRUE"</string>
     <string name="aod_time_txt">Время</string>
     <string name="aod_type_animals">Животные</string>
     <string name="aod_type_classic_clock">Классический стиль</string>
-
-    <string name="aod_type_deep_blue">Deep In Blue</string>
-
+    <string name="aod_type_deep_blue">Глубогий океан</string>  <!--Deep in Blue (placeholder)-->
     <string name="aod_type_dolphin">Белый дельфин</string>
     <string name="aod_type_flora">Флора</string>
     <string name="aod_type_merry">Узор</string>
@@ -66,18 +64,12 @@ TRUE"</string>
     <string name="aod_type_personal_signature">Статус</string>
     <string name="aod_type_planet">Фактурные планеты</string>
     <string name="aod_type_space">Пространство</string>
-
-    <string name="aod_type_walker">Walker</string>
-
+    <string name="aod_type_walker">Пешеход</string> <!--Walker (placeholder)-->
     <string name="app_name">AlwaysOnDisplay</string>
     <string name="change_style_txt">Изменить стиль</string>
     <string name="character_counter_content_description">Превышен лимит символов</string>
     <string name="date_time_set">Установить</string>
     <string name="item_is_selected">%1$s выбрано</string>
-
-    <string name="lock_month_day">MMM d</string>
-    <string name="lock_week">yyyy年M月d日(EEE)</string>
-
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">Разрешить</string>
     <string name="mc_alway_allow">Разрешать всегда</string>
