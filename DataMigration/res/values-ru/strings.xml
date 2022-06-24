@@ -752,7 +752,6 @@ to get app information"</string>
     <string name="sync_update">"Не удается выполнить это действие во время резервного копирования в облаке"</string>
     <string name="system_setting">Системные настройки</string>
     <string name="text_input_hint_text"> </string>
-    <string name="title_activity_main">MainActivity</string> <!--Maybe script word-->
     <string name="title_settings_dialog">Требуются разрешения</string>
     <string name="unknown_file">Неизвестный файл</string>
     <string name="v7_preference_off">ВЫКЛ.</string>

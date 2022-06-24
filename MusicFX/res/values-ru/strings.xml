@@ -181,17 +181,17 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_3D">3D</string>
     <string name="str_3d_12sp">Объемный звук</string>
-    <string name="str_3d_16sp">3D эффекты</string>
+    <string name="str_3d_16sp">3D эффект</string>
     <string name="str_Bass">БАСС</string>
     <string name="str_alert_dialog_square_sound">Во время работы эквалайзера Square Sound будет выключен</string>
-    <string name="str_alert_dialog_square_sound_no_use_heaset">Для работы Square Sound эффектов нужно подключение наушников</string>
+    <string name="str_alert_dialog_square_sound_no_use_heaset">Для работы Square Sound нужно подключение наушников</string>
     <string name="str_back">&lt;</string>
     <string name="str_bass">Басс</string>
     <string name="str_bass_12sp">Отличный сабвуфер</string>
     <string name="str_bass_16sp">Мощный бас</string>
     <string name="str_classical">Классика</string>
     <string name="str_custom">Своё</string>
-    <string name="str_env_12sp">Погружение</string>
+    <string name="str_env_12sp">Полное погружение</string>
     <string name="str_env_16sp">Живая музыка</string>
     <string name="str_eq">Эквалайзер</string>
     <string name="str_got_it">Хорошо</string>
@@ -199,7 +199,7 @@
     <string name="str_jazz">Джаз</string>
     <string name="str_live">Живая музыка</string>
     <string name="str_more">Больше звуковых эффектов</string>
-    <string name="str_more_effect_12sp">Привет от NeonCatRC и c0nfid</string>
+    <string name="str_more_effect_12sp">Никогда c:</string>
     <string name="str_more_effect_16sp">Больше эффектов</string>
     <string name="str_original_12sp">Без эффектов</string>
     <string name="str_original_16sp">Оригинал</string>
@@ -213,5 +213,5 @@
 и лучшими музыкальными специалистами"</string>
     <string name="use_eq">Использовать эквалайзер</string>
     <string name="user">Пользователь</string>
-    <string name="virtualizer_strength">3D эффекты</string>
+    <string name="virtualizer_strength">3D эффект</string>
 </resources>

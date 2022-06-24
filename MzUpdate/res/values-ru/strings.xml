@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Ещё</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_capital_off">ВЫКЛ</string>
+    <string name="abc_capital_on">ВКЛ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Ввод</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
+    <string name="abc_search_hint">Поиск</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться с помощью</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с помощью %s</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+
+    <string name="activities_channel_name">Интерактивные сообщения</string>
+    <string name="activity_uri_entry_error_msg">Please install %s</string>
+    <string name="add_comment_input_comment">Show on “Selected Comments” when chosen</string>
+
+    <string name="already_latest_version">У вас установлена последняя версия.</string>
+    <string name="alwaysUse">Использовать по умолчанию</string>
+    <string name="always_upgrade_tonight_dialog_cancel">Не сейчас</string>
+    <string name="always_upgrade_tonight_dialog_ok">Включить</string>
+
+    <string name="always_upgrade_tonight_dialog_summary">Your system has updated overnight 3 consecutive times. You may want to enable Auto-update Overnight.</string>
+    
+    <string name="app_all_update">Обновить все</string>
+
+    <string name="app_download" formatted="false">Applications download %s/%s</string>
+    <string name="app_install_1" formatted="false">Applications install %s/%s</string>
+
+    <string name="app_install_2">Установка ПО</string>
+
+    <string name="app_name">Update</string>
+    <string name="app_update_channel">App update tips</string>
+    <string name="app_update_notify_title">%s uninstalled App Updates Available</string>
+    <string name="app_update_notify_title_single">Uninstalled %s has upgrade</string>
+
+    <string name="apps_upgrade_label">Обновление системных приложений</string>
+
+    <string name="backup_data">Backup data</string>
+
+    <string name="beta_firmware_label_text">Оптимизация</string>
+    <string name="beta_firmware_text">Бета</string>
+    <string name="cancel">Отмена</string>
+
+    <string name="cancel_update">Cancel Update</string>
+    <string name="cellular_install_app_to_gifts">You’re using cellular data. Do you want to continue installing the app to win gifts</string>
+
+    <string name="changelog">Список обновлений</string>
+
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="check_firmware_failure">The current update is unavailable. Wait for later push</string>
+
+    <string name="check_later">Попробовать позже</string>
+    <string name="check_new_firmware_dialog_cancel">Не сейчас</string>
+    <string name="check_new_firmware_dialog_comfig">Загрузить последнюю версию</string>
+
+    <string name="check_new_firmware_dialog_content">Found a later version of the system update package and it can be updated directly to the latest system after downloading</string>
+    
+    <string name="check_now">Попробовать сейчас</string>
+    <string name="check_update_text">Проверить обновления</string>
+    <string name="checking_update">Проверяем наличие обновлений</string>
+    <string name="choice_down_case">Причины понижения версии:</string>
+
+    <string name="clear_and_upgrade">Wipe &amp; downgrade</string>
+    <string name="clear_now">Clean Up</string>
+    <string name="clear_userdata_all_text">Wipe data and format storage</string>
+    <string name="clear_userdata_text">Wipe data</string>
+
+    <string name="comment_add_comment">Комментировать</string>
+    <string name="comment_comment_success">Комментарий оставлен</string>
+    <string name="comment_has_comment">Уже прокомментированно</string>
+    <string name="comment_login_and_comment">Войти и прокомментировать</string>
+    <string name="comment_login_error">Ошибка при входе</string>
+
+    <string name="comment_need_update">Update it before you can Comment</string>
+    <string name="comment_network_error">Error submitting. Please try later</string>
+    <string name="comment_next">Next</string>
+    <string name="comment_no_comment">No comments</string>
+    <string name="comment_no_network">No network connection</string>
+    <string name="comment_notify_summary_default">What do you think of the new version?</string>
+    <string name="comment_notify_title_default">Write a comment for the new version</string>
+    <string name="comment_official_reply_index">Meizu replied:</string>
+    <string name="comment_praise_multi">Already liked</string>
+    <string name="comment_praise_need_update">Update it before you can Like</string>
+    <string name="comment_re_login">Please re-login and comment</string>
+    <string name="comment_reason_app_crash">Flashback</string>
+    <string name="comment_reason_camera">Low-quality camera</string>
+    <string name="comment_reason_conversation">Poor call quality</string>
+    <string name="comment_reason_design">Ugly design</string>
+    <string name="comment_reason_function">Unfriendly function</string>
+    <string name="comment_reason_network">Poor network</string>
+    <string name="comment_reason_performance">Lagging</string>
+    <string name="comment_reason_system_crash">Crash</string>
+    <string name="comment_reason_system_power">High power usage</string>
+    <string name="comment_reason_system_power_charge">Slow charging</string>
+    <string name="comment_submit">Submit</string>
+    <string name="comment_submit_success">Submitted successfully</string>
+    <string name="comment_title_five_star">Highly recommended</string>
+    <string name="comment_title_four_star">Very good</string>
+    <string name="comment_title_one_star">Bad</string>
+    <string name="comment_title_three_star">Can be improved</string>
+
+    <string name="comment_title_two_star">Не нравится</string>
+    <string name="confirm">ОК</string>
+    <string name="continue_download">Продолжить загрузку</string>
+    <string name="continue_upgrade">Продолжить</string>
+    <string name="copy">Копировать</string>
+    <string name="current_firmware_text">Текущая версия прошивки</string>
+    <string name="current_version">Текущая версия: %s</string>
+    <string name="data_get_error">Ошибка</string>
+    <string name="date_time_set">Установить</string>
+    <string name="day">Дней</string>
+    <string name="delete_current_task">Удалить текущую задачу</string>
+    <string name="demo_firmware_label_text">Демо</string>
+    <string name="demo_firmware_text">Демо</string>
+
+    <string name="dialog_verify_timeout_message">Firmware verification timed out. Please try again.</string>
+    
+    <string name="download_again">Загрузить заново</string>
+    <string name="download_and_upgrade_now">Загрузить &amp; обновить</string>
+    <string name="download_error">Ошибка загрузки</string>
+
+    <string name="download_error_content_connection">Server exception. Please try again later.</string>
+    <string name="download_error_content_io">Download was interrupted because of failure to access download directory. Please contact customer service for help.</string>
+    <string name="download_error_content_no_space">Insufficient storage space. Please free up some space.</string>
+    <string name="download_error_content_no_space_notify">To resume downloading, tap \"Clean Up\" to free up space</string>
+    <string name="download_error_inner_connection">Network error or did not download via company intranet. Check and try again</string>
+    <string name="download_error_title_io_notify">Download interrupted</string>
+    <string name="download_error_title_no_space_notify">Download was interrupted due to insufficient storage space</string>
+    
+    <string name="download_later">Загрузить позже</string>
+    <string name="download_now">Загрузить сейчас</string>
+    <string name="downloading">Загрузка</string>
+
+    <string name="empty_text_retry">Network error, tap to reload</string>
+    <string name="encrypt_check_error">Server error. Please retry later</string>
+    <string name="encrypt_check_fail">Current account or device has no alpha test qualification</string>
+    <string name="encrypt_check_success">Verified successfully</string>
+    <string name="encrypt_checking">Verifying</string>
+    <string name="encrypt_text1">The current system is only open to beta users. Please visit&lt;a href=https://www.flyme.cn/firmware.html>Flyme official website&lt;/a> to download and update to the stable system.</string>
+    <string name="encrypt_text2">Qualified for alpha test? &lt;a href=mzupdate://com.meizu.flyme.update/internal/encrypt_check?action=check>Tap here to verify&lt;/a></string>
+    
+    <string name="expand_button_title">Дополнительно</string>
+
+    <string name="experience_firmware_hint">"Note: 
+1. The factory firmware is a stable version.
+2. Stable firmware updates will still be pushed when \"Allow beta firmware\" is enabled."</string>
+    <string name="experience_firmware_switch_summary">Receive beta firmware push to experience latest features</string>
+    <string name="experience_firmware_switch_title">Allow beta firmware</string>
+
+    <string name="find_version">Новая версия %s</string>
+    <string name="firmware_comment">%d комментариев</string>
+
+    <string name="firmware_comment_less">Less than %d comments</string>
+    <string name="firmware_details_link_text">Details</string>
+    <string name="firmware_download_pause">Pause Download</string>
+    <string name="firmware_release_note_details_text">"What's new"</string>
+    <string name="firmware_spot_card_title">Highlights</string>
+    <string name="firmware_spot_detail_link_label">Details</string>
+    <string name="firmware_spot_experience_title">Try now</string>
+    <string name="firmware_spot_label">Firmware highlights</string>
+    <string name="firmware_spot_label_2">Firmware highlights:</string>
+    <string name="firmware_stable_dialog_btn_2">Flyme website</string>
+    <string name="firmware_stable_dialog_positive_btn">Service center</string>
+    <string name="firmware_stable_dialog_tips">For proper functioning, you need to go to the Flyme official website to downgrade the system to the latest stable version. If you failed, please go to the MEIZU Authorized Service Center and ask the expert for help. Downgrading will wipe all data, please back up in advance</string>
+    <string name="firmware_stable_dialog_tips_strong">The system will be returned to the latest stable version. When returned, personal data such as contacts will be cleared, all applications will be cleared, and all data such as photos and videos of the disk will be stored. Please pay attention to backup.</string>
+    <string name="firmware_stable_dialog_title">Back to the stable version</string>
+    <string name="firmware_stable_update_dialog_tips">The system will downgrade to the latest stable version. For proper functioning, apps, contacts and other personal data will be wiped</string>
+    <string name="firmware_stable_update_dialog_tips_strong">The system will downgrade to the latest stable version. For proper functioning, apps, contacts and other personal data, and files in storage such as photos and videos will be wiped</string>
+    <string name="firmware_switch_beta_tag">Beta</string>
+    <string name="firmware_switch_content">Join in %s and experience the latest functions of Flyme. Quitting the plan will stop updating to the beta version and will wait for the next stable version push, which does not wipe personal data</string>
+    <string name="firmware_switch_content_2">Join in %1$s and experience the latest functions of Flyme. The system will not update to the version %2$s if you quit.</string>
+    <string name="firmware_switch_daily_tag">Daily</string>
+    <string name="firmware_switch_main_summary_enter">Thank you for joining in %1$s. Please wait for %2$s system to push</string>
+    <string name="firmware_switch_main_summary_out">Please wait for the next stable version of the system update push. You can check the system update notice or %s</string>
+    <string name="firmware_switch_main_summary_out_action">back to the stable version now</string>
+    <string name="firmware_switch_notify_summary">Please wait for %s system push</string>
+    <string name="firmware_switch_notify_title_enter">You have joined %s</string>
+    <string name="firmware_switch_notify_title_out">You quitted from %s</string>
+    <string name="firmware_switch_preference_text">Flyme beta plan</string>
+    <string name="firmware_switch_quit">Quit plan</string>
+    <string name="firmware_switch_quit_error">Error quitting</string>
+    <string name="firmware_switch_quit_successful">Quitted</string>
+    <string name="firmware_switch_quit_tips">Please wait for the next stable version push after quitted</string>
+    <string name="firmware_switch_quit_tips_2">Will not update to the version %s if you quit</string>
+    <string name="firmware_switch_stable_tag">Stable</string>
+    <string name="firmware_type_switch_error">Network anomalies, please try again</string>
+    <string name="firmware_type_switching_title">Please wait...</string>
+    <string name="flyme_account_error">Flyme account exception,please log out and log back in</string>
+    <string name="for_security_please_repair">For security, please repair system soon</string>
+    <string name="fw_comment_hot_category">Подобранные комментарии</string>
+    <string name="fw_comment_label">Комментарии</string>
+    <string name="fw_comment_latest_category">Последние комментарии</string>
+
+    <string name="go_on">Далее</string>
+    <string name="goon">Далее</string>
+    <string name="hours_ago">%d ч. назад</string>
+    <string name="i_know_text">Понятно</string>
+    <string name="install">Установить</string>
+    <string name="install_app_to_gifts">Установить приложение и получить шанс выиграть призы</string>
+    <string name="install_error">Ошибка установки</string>
+    <string name="install_success">Установлено</string>
+    <string name="installing">Установка</string>
+    <string name="item_is_selected">%1$s выбрано</string>
+
+    <string name="join_beta_plan_hint_text">After joining the beta program, you can receive push notifications of beta firmwares and get early access to new features. There may be risks of instability, so please be cautious.</string>
+    <string name="join_beta_plan_text">Join beta program</string>
+    <string name="just_now">just now</string>
+    <string name="last_check">Last checked:</string>
+
+    <string name="mc_action_settings">Настройки</string>
+    <string name="mc_allow">Разрешить</string>
+    <string name="mc_alway_allow">Разрешать всегда</string>
+    <string name="mc_cancel">Отмена</string>
+    <string name="mc_cancel_button_text">Отмена</string>
+    <string name="mc_cancel_collected_message">Отменено</string>
+    <string name="mc_cancel_praised_message">Отменить</string>
+    <string name="mc_change_num">Обновление</string>
+    <string name="mc_collected_message">Избранное</string>
+    <string name="mc_custom_date_time_days_after">%1$d дней спустя</string>
+    <string name="mc_custom_date_time_days_before">%1$d дней назад</string>
+    <string name="mc_custom_date_time_gregorian">Григорианский</string>
+    <string name="mc_custom_date_time_hide_lunar">Скрыть Лунный</string>
+    <string name="mc_custom_date_time_lunar">Лунный</string>
+    <string name="mc_custom_date_time_one_day_after">1 день спустя</string>
+    <string name="mc_custom_date_time_one_day_before">1 день назад</string>
+    <string name="mc_custom_date_time_show_gregorian">Показать Григорианский</string>
+    <string name="mc_custom_date_time_show_lunar">Показать Лунный</string>
+    <string name="mc_custom_date_time_today">Сегодня</string>
+    <string name="mc_date_time_day">д.</string>
+    <string name="mc_date_time_hour">ч.</string>
+    <string name="mc_date_time_min">м.</string>
+    <string name="mc_date_time_month">м.</string>
+    <string name="mc_date_time_sec">с.</string>
+    <string name="mc_date_time_set">Установить</string>
+    <string name="mc_date_time_year">г</string>
+    <string name="mc_description_target_answer">Ответ</string>
+    <string name="mc_description_target_decline">Отклонить</string>
+    <string name="mc_disable">Отключить</string>
+    <string name="mc_downloading_patch_prefix">Скачать обновление</string>
+    <string name="mc_downloading_prefix">Загружено</string>
+    <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
+    <string name="mc_every_day">Каждый день</string>
+    <string name="mc_friday">ПТ</string>
+    <string name="mc_go_Refreshing">Обновить</string>
+    <string name="mc_hour">ч.</string>
+    <string name="mc_is_Refreshing">Обновление</string>
+    <string name="mc_last_refresh">Последнее обновление</string>
+    <string name="mc_last_refresh_hour">ч. назад</string>
+    <string name="mc_last_refresh_just_now">Сейчас</string>
+    <string name="mc_last_refresh_minute">мин. назад</string>
+    <string name="mc_last_refresh_second">с. назад</string>
+    <string name="mc_loading_animation_alert">Сохранение изображения</string>
+    <string name="mc_loading_view_text">Загрузка</string>
+    <string name="mc_minute">м.</string>
+    <string name="mc_monday">ПН</string>
+    <string name="mc_never">Единожды</string>
+    <string name="mc_pattern_a_hour_before">1 час назад</string>
+    <string name="mc_pattern_a_minute_before">1 минуту назад</string>
+    <string name="mc_pattern_hour_before">, часов назад</string>
+    <string name="mc_pattern_minute_before">, минут назад</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_today">Сегодня</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
+    <string name="mc_pattern_yesterday">Вчера</string>
+    <string name="mc_permission_apply">Запрос разрешения</string>
+    <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
+    <string name="mc_pm_allow_check_app">ОК</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_bluetooth">Bluetooth</string>
+    <string name="mc_pm_call">Вызов</string>
+    <string name="mc_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mc_pm_camera">Камера (Фото/Видео)</string>
+    <string name="mc_pm_close">Закрыть</string>
+    <string name="mc_pm_contacts">Чтение контактов</string>
+    <string name="mc_pm_dialog_push">Всплывающие Push</string>
+    <string name="mc_pm_dlg_cancel">Отмена</string>
+    <string name="mc_pm_dlg_ok">ОК</string>
+    <string name="mc_pm_location">Найти</string>
+    <string name="mc_pm_network">Передача данных</string>
+    <string name="mc_pm_nfc">NFC</string>
+    <string name="mc_pm_not_allow_check_app">Выход</string>
+    <string name="mc_pm_not_allow_dialog_push">Отключить</string>
+    <string name="mc_pm_online_intenert">Интернет</string>
+    <string name="mc_pm_open">Открыть</string>
+    <string name="mc_pm_r_mms">Чтение MMS</string>
+    <string name="mc_pm_r_sms">Чтение SMS</string>
+    <string name="mc_pm_recordaudio_local">Запись вызовов</string>
+    <string name="mc_pm_recordaudio_phone">Запись вызовов</string>
+    <string name="mc_pm_s_mms">Отправка MMS</string>
+    <string name="mc_pm_s_sms">Отправка SMS</string>
+    <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
+    <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
+    <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
+    <string name="mc_pm_wlan">Wi-Fi</string>
+    <string name="mc_praised_message">Как</string>
+    <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
+    <string name="mc_reject">Отклонить</string>
+    <string name="mc_saturday">СБ</string>
+    <string name="mc_search">Поиск</string>
+    <string name="mc_search_button_text">Поиск</string>
+    <string name="mc_search_icon">Поиск</string>
+    <string name="mc_search_icon_input_clear">Очистить</string>
+    <string name="mc_search_text">Поиск</string>
+    <string name="mc_second">с.</string>
+    <string name="mc_selectionbutton_all">Все</string>
+    <string name="mc_sunday">ВС</string>
+    <string name="mc_thursday">ЧТ</string>
+    <string name="mc_time_picker_dialog_title">Расписание</string>
+    <string name="mc_time_picker_leap">Високосный месяц</string>
+    <string name="mc_tuesday">ВТ</string>
+    <string name="mc_updating_prefix">Обновление</string>
+    <string name="mc_value_checked">Выбрано</string>
+    <string name="mc_value_not_checked">Не выбрано</string>
+    <string name="mc_voice_icon">Голосовой поиск</string>
+    <string name="mc_wednesday">СР</string>
+    <string name="mc_weekend">Выходные</string>
+    <string name="mc_working_day">Рабочие дни</string>
+    <string name="mc_yes">ОК</string>
+
+    <string name="minutes_ago">%d min ago</string>
+    <string name="missed_firmware_days_text">Not updated for %d day(s). View major updates missed</string>
+    <string name="missed_firmware_details_text">Major updates missed</string>
+    <string name="missed_firmware_times_text">%d updates I missed</string>
+    <string name="missed_firmware_to_newest_text">Update to Latest</string>
+    <string name="mobile_hotspot_download_prompt">You are using a mobile hotspot. The other party will be charged if you start downloading</string>
+    <string name="module_name">Common</string>
+
+    <string name="more_item_label">Ещё</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+
+    <string name="multitude_function">, etc. %d item new content</string>
+
+    <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
+    <string name="mz_action_bar_multi_choice_select_all">Все</string>
+    <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
+    <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
+    <string name="mz_allow">ОК</string>
+    <string name="mz_alway_allow">Разрешать всегда</string>
+    <string name="mz_date_time_day">д.</string>
+    <string name="mz_date_time_hour">ч.</string>
+    <string name="mz_date_time_min">м.</string>
+    <string name="mz_date_time_month">м.</string>
+    <string name="mz_date_time_sec">с.</string>
+    <string name="mz_date_time_year">г</string>
+
+    <string name="mz_manual_upgrade_account_lost">This upgrade package is a alpha version. Please log in to the Flyme account to verify for alpha test</string>
+    <string name="mz_manual_upgrade_build_prop_lost">"Couldn't get update file info"</string>
+    <string name="mz_manual_upgrade_connect_error">Error during online verification</string>
+    <string name="mz_manual_upgrade_device_lost">Unable to get device information</string>
+    <string name="mz_manual_upgrade_error_suffix">The update package version type is inconsistent with the current version.Please go to Flyme website to download again</string>
+    <string name="mz_manual_upgrade_error_suffix_wipe_data_and_update">When updating to another version of system, for proper functioning, the following data should be wiped: apps, contacts and other personal data</string>
+    <string name="mz_manual_upgrade_incremental_package">The incremental package could not be updated. Please go to Flyme website to download again</string>
+    <string name="mz_manual_upgrade_login_account">Login account</string>
+    <string name="mz_manual_upgrade_mismatch_sw_version">This update package is not compatible with the current version. please go to Flyme website to download again</string>
+    <string name="mz_manual_upgrade_no_network">No network connection. Please check your network settings.</string>
+    <string name="mz_manual_upgrade_off_shell">The current update is unavailable. Wait for later push</string>
+    <string name="mz_manual_upgrade_pass_tips">System update is about to begin. If you choose to clear the data, it will clear: apps, contacts and other personal data</string>
+    <string name="mz_manual_upgrade_pass_tips_no_wipe_data">System update is about to begin</string>
+    <string name="mz_manual_upgrade_patch_reduce">Android patch downgrading.Please go to Flyme website to download again</string>
+    <string name="mz_manual_upgrade_root_wipe_data_and_update">"Your system has been rooted. To ensure its proper functioning, it's strongly suggested that you wipe your data when updating"</string>
+    <string name="mz_manual_upgrade_root_wipe_data_before_update">Your system has been rooted. Please erase the data and try again</string>
+    <string name="mz_manual_upgrade_user_no_permission">This upgrade package is a alpha version. Please go to the UPDATE to apply for the alpha test qualification</string>
+    <string name="mz_manual_upgrade_version_reduce">This update version is earlier than current system version.Please go to Flyme website to download again</string>
+    <string name="mz_manual_upgrade_version_reduce_wipe_data_and_update">This update version is earlier than current system version,for proper functioning, the following data should be wiped: apps, contacts and other personal data</string>
+    
+    <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_permission_agree">Принимаю</string>
+    <string name="mz_permission_allow">Разрешить</string>
+    <string name="mz_permission_almost_deny">Не предлагать запрос после отказа</string>
+    <string name="mz_permission_always_allow">Разрешать всегда</string>
+    <string name="mz_permission_apply">Запрос разрешения</string>
+    <string name="mz_permission_deny">Отклонить</string>
+    <string name="mz_permission_disagree">Запретить</string>
+    <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
+    <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
+    <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
+    <string name="mz_permission_title_terms">Разрешения и заявления</string>
+    <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
+    <string name="mz_permissiongroup_name_change_network">Wi-Fi</string>
+    <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
+    <string name="mz_permissiongroup_name_other">Другое</string>
+    <string name="mz_pm_allow_check_app">ОК</string>
+    <string name="mz_pm_allow_dialog_push">Push-уведомления</string>
+    <string name="mz_pm_bluetooth">Переключение Bluetooth</string>
+    <string name="mz_pm_call">Вызовы</string>
+    <string name="mz_pm_call_log">Чтение журнала вызовов</string>
+    <string name="mz_pm_camera">Камера (Фото/Видео)</string>
+    <string name="mz_pm_close">Выкл.</string>
+    <string name="mz_pm_contacts">Чтение контактов</string>
+    <string name="mz_pm_dialog_push">Push-сообщения</string>
+    <string name="mz_pm_dlg_cancel">Отмена</string>
+    <string name="mz_pm_dlg_ok">ОК</string>
+    <string name="mz_pm_location">Местоположение</string>
+    <string name="mz_pm_network">Передача данных</string>
+    <string name="mz_pm_nfc">Переключение NFC</string>
+    <string name="mz_pm_not_allow_check_app">Выход</string>
+    <string name="mz_pm_not_allow_dialog_push">Откл.</string>
+    <string name="mz_pm_online_intenert">Доступ в интернет</string>
+    <string name="mz_pm_open">Вкл.</string>
+    <string name="mz_pm_r_mms">Чтение MMS</string>
+    <string name="mz_pm_r_sms">Чтение SMS</string>
+    <string name="mz_pm_recordaudio_local">Запись вызовов</string>
+    <string name="mz_pm_recordaudio_phone">Запись вызовов</string>
+    <string name="mz_pm_s_mms">Отправка MMS</string>
+    <string name="mz_pm_s_sms">Отправка SMS</string>
+    <string name="mz_pm_set_bluetooth_on">Включение Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
+    <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
+    <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
+    <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
+    <string name="mz_reject">Выход</string>
+    <string name="mz_specific_permission_allow">Все ещё разрешено</string>
+    <string name="mz_specific_permission_deny">Отказать в разрешении</string>
+    <string name="mz_user_agreement">Пользовательское соглашение</string>
+
+    <string name="mz_version_down_clear_all">Will be cleared when updating: personal data such as contacts, all applications, and all data such as photos and videos in the storage disk</string>
+    <string name="mz_version_down_clear_data">Will be cleared when updating: personal data such as contacts and applications</string>
+    
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
+    <string name="mz_wif_setting_dialog_set">Настройки сети</string>
+    <string name="mzuc_app_update_channel">Подсказки по обновлению</string>
+    <string name="mzuc_cancel">Отмена</string>
+    <string name="mzuc_cancel_download">Отменить загрузку</string>
+    <string name="mzuc_cancel_install">Отменить установку</string>
+    <string name="mzuc_delete">Удалить</string>
+    <string name="mzuc_download">Скачать</string>
+    <string name="mzuc_download_fail">Ошибка загрузки</string>
+    <string name="mzuc_download_finish_install">Загрузка завершена, нажмите для установки</string>
+    <string name="mzuc_download_finish_s" formatted="false">%s %s - загрузка завершена</string>
+    <string name="mzuc_download_progress_desc_s" formatted="false">Загружается %s %s</string>
+    <string name="mzuc_downloading">Загружается</string>
+    <string name="mzuc_file_size_s">Будет потреблено %s данных</string>
+    <string name="mzuc_found_update_s">Доступно обновление: %s</string>
+    <string name="mzuc_install_cancel_tip">Загрузка отменена</string>
+    <string name="mzuc_install_fail">Ошибка установки</string>
+    <string name="mzuc_install_immediately">"Установить
+сейчас"</string>
+    <string name="mzuc_install_later">"Установить
+позже"</string>
+    <string name="mzuc_installing">Установка</string>
+    <string name="mzuc_manual_checking_update">Проверка обновления</string>
+    <string name="mzuc_manual_current_version">Текущая версия %s</string>
+    <string name="mzuc_manual_download_cancel">Загрузка отменена</string>
+    <string name="mzuc_manual_download_fail">Ошибка загрузки</string>
+    <string name="mzuc_manual_downloading">Загрузка %s%%</string>
+    <string name="mzuc_manual_found_new_version">Найдена новая версия. Нажмите для обновления</string>
+    <string name="mzuc_manual_install_fail">Ошибка установки</string>
+    <string name="mzuc_manual_install_new_version">Обновление загружено, нажмите для установки</string>
+    <string name="mzuc_manual_installing">Установка...</string>
+    <string name="mzuc_manual_latest_version">Текущая версия - актуальная</string>
+    <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
+    <string name="mzuc_manual_update_title">Проверить обновления</string>
+    <string name="mzuc_msg_indicator">Что нового:</string>
+    <string name="mzuc_notification_message_s">%s</string>
+    <string name="mzuc_ok">ОК</string>
+    <string name="mzuc_reboot_update_now">Перезапустить обновление</string>
+    <string name="mzuc_retry">Повтор</string>
+    <string name="mzuc_skip_version">Пропустить</string>
+    <string name="mzuc_skip_warn_tip">Если пропустить эту версию, то предложение об установке не последует</string>
+    <string name="mzuc_update_finish">Обновление завершено</string>
+    <string name="mzuc_update_finish_format">Обновлено до последней версии %s</string>
+    <string name="mzuc_update_immediately">Обновить сейчас</string>
+    <string name="mzuc_update_immediately_roaming">Обновление в сети (%s)</string>
+    <string name="mzuc_update_later">Напомнить позже</string>
+    <string name="mzuc_update_mobile_network">Загрузить через мобильную сеть?</string>
+    <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
+    <string name="mzuc_update_title_s" formatted="false">Вышла %s %s</string>
+    <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
+    <string name="mzuc_warn_later">Напомнить позже</string>
+
+    <string name="network_connect_error">Network error. Please check your network settings and try again.</string>
+    <string name="network_error_dialog_content">Update verification failed. Please re-download and keep the network connected.</string>
+    <string name="network_param_error">Device information error. Please go to the official website to download the update, or contact us via the User Support app or Meizu Customer Service.</string>
+    <string name="network_timeout_error">The server is busy. Please try again later</string>
+    <string name="new_firmware_coming_date_text">New version will be released at %s</string>
+    <string name="new_firmware_coming_now_text">New version will be released today</string>
+    <string name="new_firmware_default_slogan_text">New firmware, new journey</string>
+    <string name="new_firmware_detail_index">View the full log</string>
+    <string name="next_new_firmware_count_text">Next update expected in %d day(s)</string>
+    <string name="next_new_firmware_spots_text">Update notice</string>
+    <string name="next_reminder">Remind next time</string>
+    <string name="night_upgrade_tips">Automatically finish this update during night if battery is sufficient</string>
+    
+    <string name="no">Нет</string>
+    <string name="no_apps_tips">Нет обновлений для приложений</string>
+
+    <string name="no_detail">No information found about latest version</string>
+    <string name="no_network">No network connection. Please check your network settings.</string>
+    
+    <string name="not_set">Не указано</string>
+    <string name="not_wifi">Вы используете мобильную сеть</string>
+    <string name="not_wifi_verbose">За загрузку обновления через мобильную сеть может взыматься плата</string>
+
+    <string name="not_wifi_video_verbose">Watching video will cost mobile data and fees</string>
+    <string name="notice_bright_spot_category">Highlights analysis</string>
+    <string name="notice_bright_spot_item_text">Recommend</string>
+    <string name="notice_none">Нет уведомлений</string>
+    <string name="notice_title">Уведомления</string>
+
+    <string name="notification_before_upgrade">You are using cellular data. Downloading now will incur extra charges.</string>
+
+    <string name="notification_done_download_title">Обновление загружено</string>
+    <string name="notification_done_title">Приложение загружено</string>
+
+    <string name="notification_encrypt_content">The alpha version system may be unstable. Please update to the stable version</string>
+    <string name="notification_encrypt_title">The current system is only open to alpha test users</string>
+    <string name="notification_error_network_content">Update verification failed. Please re-download and keep the network connected.</string>
+    <string name="notification_error_network_title">Failed to download %s</string>
+    <string name="notification_error_rsa_content">Update verification failed. Please re-download and keep the network connected.</string>
+    <string name="notification_error_rsa_incremental_content">Update verification failed. Please re-download and keep the network connected.</string>
+    <string name="notification_error_rsa_title">%s update file error</string>
+    <string name="notify_tip_to_update">The update is ready. Restart to update</string>
+    <string name="only_enter">Enter</string>
+    <string name="open_auto_upgrade">Enable Update overnight</string>
+    <string name="open_auto_upgrade_instruction">Turn on automatic update, which will be done automatically when the system is on Wi-Fi and has plenty of power. You can turn it on or off later in Update Settings.</string>
+    <string name="open_enter">Enable</string>
+
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string name="pause">Пауза</string>
+    <string name="paused">Остановлено</string>
+    <string name="pending">Ожидание</string>
+    <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
+    <string name="preference_freeback_text">Обратная связь</string>
+    <string name="preference_instruction_text">ЧАВО</string>
+
+    <string name="privacy_policy">To provide normal functions and services, you are required to agree with &lt;a href=mzupdate://com.meizu.flyme.update/web?targetUrl=file:///android_asset/privacy_policy.html> Meizu Privacy Policy &lt;/a>(a child who has not reached the age of fourteen must be approved by the guardian)</string>
+    <string name="privacy_policy_agree">Agree</string>
+    <string name="privacy_policy_refuse">Exit</string>
+    <string name="privacy_policy_title">Statement and Terms</string>
+    <string name="private_beta_firmware_label_text">Bug fix</string>
+    <string name="private_beta_firmware_text">A</string>
+    <string name="quit_beta_plan_text">Leave beta program</string>
+    <string name="rcpb_downloaded">%s %% Downloaded</string>
+    <string name="rcpb_installing">Installing %s %%</string>
+    <string name="rcpb_paused">Continue %s %%</string>
+    <string name="ready_to_repair">Ready to repair system</string>
+    <string name="reboot">Reboot Now</string>
+    <string name="reboot_noti_content">Updated to %s successfully</string>
+    <string name="reboot_noti_title">The system is updated!</string>
+    <string name="reboot_tonight">reboot Tonight</string>
+    <string name="repair_system">REPAIR SYSTEM</string>
+    <string name="restart_to_repair">RESTART TO REPAIR</string>
+    <string name="risks_exist_please_repair">Risks exist. Please repair the system now</string>
+    <string name="risks_reduced">Risks reduced</string>
+    <string name="rooted_not_support_ota">OTA updating not supported on rooted device</string>
+    <string name="rooted_ota_hint">Download update file on the official website for updating</string>
+    <string name="sd_space_panic">"Can't download this update because free storage space is less than 200 MB. Please free up some space and try again."</string>
+    
+    <string name="search_menu_title">Поиск</string>
+    <string name="set_network">Настроить сеть</string>
+    <string name="setup_network">Настройки сети</string>
+
+    <string name="signle_function">,%d item update content</string>
+    <string name="spotlight">Version Highlights</string>
+    <string name="stable_firmware_label_text">Big update</string>
+    <string name="stable_firmware_text">Stable</string>
+    <string name="standard_aliyunbeta">domestic PBY public version</string>
+    <string name="standard_aliyundaily">domestic PBY alpha version</string>
+    <string name="standard_aliyunstable">domestic PBY public version</string>
+    <string name="standard_beta">domestic public version</string>
+    <string name="standard_ctstable">domestic CT public version</string>
+    <string name="standard_czstable">Czech version</string>
+    <string name="standard_daily">domestic alpha version</string>
+    <string name="standard_demoaliyunstable">domestic PBY demo version</string>
+    <string name="standard_demostable">domestic demo version</string>
+    <string name="standard_g3aliyunstable">domestic PBY CMCC custom version</string>
+    <string name="standard_g3stable">domestic CMCC custom version</string>
+    <string name="standard_indiabeta">Indian version</string>
+    <string name="standard_indiadaily">Indian alpha version</string>
+    <string name="standard_indiastable">Indian version</string>
+    <string name="standard_intlbeta">international version</string>
+    <string name="standard_intldaily">international alpha version</string>
+    <string name="standard_intlstable">international version</string>
+    <string name="standard_publicaliyunstable">domestic PBY CMCC public version</string>
+    <string name="standard_sp">stock version</string>
+    <string name="standard_stable">domestic public version</string>
+    <string name="standard_telaliyunbeta">domestic PBY CT custom version</string>
+    <string name="standard_telaliyundaily">domestic PBY CT alpha version</string>
+    <string name="standard_telaliyunstable">domestic PBY CT custom version</string>
+    <string name="standard_telbeta">domestic CT custom version</string>
+    <string name="standard_teldaily">domestic CT alpha version</string>
+    <string name="standard_telstable">domestic CT custom version</string>
+    <string name="standard_tnstable">institutional/enterprise version</string>
+    <string name="standard_woaliyunstable">domestic PBY CU custom version</string>
+    <string name="standard_wostable">domestic CU custom version</string>
+
+    <string name="status_bar_notification_info_overflow">>999</string>
+
+    <string name="system_firm_size_hint">Need to download %s of system update package</string>
+    <string name="system_install_fail">System update failed</string>
+    <string name="system_install_fail_and_feedback">System update failed,please feedback by the User Support App</string>
+    <string name="system_install_success">System installation completed</string>
+    <string name="system_install_waiting_reboot">The update can be completed by rebooting the phone</string>
+    <string name="system_installing">System updating</string>
+    <string name="system_modified">System maliciously modified</string>
+    <string name="system_repair_hint">"Risks exist. Please repair the system now. Personal data won't be wiped when repairing the system"</string>
+    <string name="system_repaired">System repaired</string>
+    <string name="system_update_channel_name">New version push</string>
+    <string name="task_error_connection">Network error, failed to download update</string>
+    <string name="task_error_file_existed">Update already downloaded</string>
+    <string name="task_error_io">Failed to download due to SD card error</string>
+    <string name="task_error_none">Downloading error</string>
+    <string name="ten_thousand">%s K</string>
+    <string name="test_firmware_label_text">Alpha</string>
+    <string name="test_firmware_text">Alpha</string>
+    <string name="tips">Tips</string>
+    <string name="title_activity_settings">Update settings</string>
+    <string name="title_activity_system_upgrade_detail">Current version</string>
+    <string name="to_feedback">please feedback by the User Support App</string>
+    <string name="unsupported_player">No player installed</string>
+
+    <string name="update">Обновить</string>
+    <string name="update_available">Доступно обновление</string>
+
+    <string name="update_instruction_summary_1">"The stable version, revised version of the beta version, is suitable for all users. More perfect functions bring more excellent experience. With great improvement in stability, fluency and power consumption, the stable version is highly performed and recommended for users pursuing version quality.
+ The beta version, revised version of the alpha version, is suitable for challenge-preferred users. Improved and optimized the problems of the alpha version, the beta version provides not only developed new functions, but also stable performance.
+ The alpha version, tailed with the mark “daily”, is available for users whose applications are accepted. The alpha version is frequently updated and provides developing new functions. It’s not fully tested and unexpected errors or bugs may occur. The alpha version is not recommended for daily use."</string>
+    <string name="update_instruction_summary_2">Incremental package and whole package have the same updating method and contain the same content. Both support for OTA updating. The difference is that the incremental package is based on the iteration of a certain time node and is small. The whole package is all-inclusive, which is suitable for all users to upgrade. The incremental package is provided only in the Update app, which is the safest and fastest way.</string>
+    <string name="update_instruction_summary_3">"System update generally does not need to wipe data.
+ OTA updating through the Update app needs no data wiping.
+ For manual updating, the system will check the update files and automatically judge the update files and the current version of the system. Please follow the pop-up prompt to operate."</string>
+    <string name="update_instruction_summary_4">"The system update replaces the original system by overwriting it, making the mobile phone always have new functions without occupying the storage space in the system partition. In terms of the update method: 
+ • Downloading updates through the Update app, the update files are first stored in a fixed path. After the updating is completed, the update files in the path are automatically deleted, so there is no impact on the storage space. 
+ • Downloading updates in the official website, the update files should be deleted manually. Because the storage path of the update file may be different, to avoid accidental deletion, or deletion failure due to the update file is renamed, users need to manually delete it."</string>
+    <string name="update_instruction_summary_5">It takes about 5 to 10 minutes to update the system, and the phone heating up a little is normal. Please be patient, do not press the volume button or power button on the side to avoid the update failure.If there is any problem in the update process, please consult and give feedback to user help, Meizu customer service, Meizu community and other channels in time.</string>
+    <string name="update_instruction_summary_6">The changelog describes new functions and problems repaired. Some changes to system update may vary by version, model, or network carrier, so the changelog is for reference only.Some highlights can be found in Meizu community, official Weibo or WeChat official account and other official channels for more detailed introduction.</string>
+    <string name="update_instruction_title_1">What are the differences among stable version, alpha version and beta version?</string>
+    <string name="update_instruction_title_2">What is the difference between the incremental package and the whole package of system update push?</string>
+    <string name="update_instruction_title_3">Does system update need to wipe data?</string>
+    <string name="update_instruction_title_4">Does system updates affect the mobile phone space?</string>
+    <string name="update_instruction_title_5">Tips for updating?</string>
+    <string name="update_instruction_title_6">Is the changelog accurate? Why are some descriptions not consistent with the phone?</string>
+
+    <string name="update_log">Детали обновления</string>
+    <string name="update_log_summary">Вся информация о данном обновлении</string>
+
+    <string name="update_system_text_battry">"Can't update as battery is below 25%. Please charge the phone."</string>
+    <string name="update_system_text_countdown">To complete the update, your phone will restart in %s sec.</string>
+
+    <string name="update_verify">Проверяем обновление</string>
+    <string name="upgrade">Загрузить обновление</string>
+
+    <string name="upgrade_activity_dialog_btn_nor">Copy lucky draw code</string>
+    <string name="upgrade_activity_dialog_btn_pre">Lucky draw code copied</string>
+    <string name="upgrade_activity_dialog_content">"Copy the lucky draw code above --> go to Flyme's official account on WeChat --> paste the code into the input field at the bottom and hit Send to enter the lucky draw"</string>
+    <string name="upgrade_activity_dialog_lottery_rule">Lucky draw rules:</string>
+    <string name="upgrade_activity_dialog_title">"Successfully updated to Flyme 6. 
+Congrats on getting a lucky draw chance!"</string>
+    <string name="upgrade_activity_notification_content">"Thank you for updating! You are rewarded with a lucky draw code. 
+Tap to get code"</string>
+    <string name="upgrade_activity_notification_title">Updated successfully. Get your reward!</string>
+    <string name="upgrade_activity_setting_tip">This version comes with a lucky draw chance. Tap to get code</string>
+    <string name="upgrade_appointment_cancel">Unschedule</string>
+    <string name="upgrade_appointment_dlg_content">You have scheduled an overnight update. System auto-update will be completed when the conditions are satisfied.</string>
+    <string name="upgrade_appointment_title">Scheduled to update overnight</string>
+    <string name="upgrade_dialog_version_title">Flyme activities in progress</string>
+    <string name="upgrade_failed_of_deep_sleep_summary">"Overnight update was not performed because system didn't go into deep sleep. Please update manually."</string>
+    <string name="upgrade_failed_of_failed_get_prop_summary">"Couldn't complete update verification because of failure to get update file info. Please update manually."</string>
+    <string name="upgrade_failed_of_no_network_summary">"Couldn't complete update verification because the phone was disconnected from the internet. Please update manually."</string>
+    <string name="upgrade_failed_of_root_meet_full_summary">"Your system has been rooted. To ensure its proper functioning, it's strongly suggested that you clear your data when updating."</string>
+    <string name="upgrade_failed_of_root_meet_incremental_summary">Your system has been rooted and can not be updated using the incremental package. Please download the full update package and try again.</string>
+    <string name="upgrade_failed_of_root_off_shelf_summary">The current update is unavailable. Wait for later push</string>
+    <string name="upgrade_failed_of_server_error_summary">"Couldn't complete update verification due to a server error. Please update manually."</string>
+    
+    <string name="upgrade_file_ready_tip">Обновление готово к установке</string>
+    <string name="upgrade_now">Обновить сейчас</string>
+    <string name="upgrade_now_or_tonight_summary">Вы можете установить обновление ночью</string>
+    <string name="upgrade_tonight">Автоматические обновления</string>
+
+    <string name="upgrade_tonight_button_title">Overnight</string>
+    <string name="upgrade_tonight_cancel_dlg_summary">Please update manually after canceling scheduled update</string>
+    <string name="upgrade_tonight_dlg_summary">System will update automatically overnight if battery is sufficient.</string>
+    <string name="upgrade_tonight_failed">Overnight update not performed</string>
+    <string name="upgrade_tonight_not_work_summary">Overnight update was not performed because battery was below 50%. Please update manually.</string>
+
+    <string name="upgrade_tonight_summary">При достаточной скорости беспроводной сети, система автоматически завершит обновление системы.</string>
+    <string name="upgrade_tonight_warning">Телефон перезагрузится для завершения обновления.</string>
+
+    <string name="upgrade_verify_fail">Update packet check failed. Please go to Flyme website to download again</string>
+    <string name="upgrade_verify_root_meet_incremental_upgrade">Your system has been rooted and can not be updated using the incremental package. Please check for the full update package and try again.</string>
+    <string name="usage_param_plugin_reason">reason</string>
+
+    <string name="user_installation">%s загрузок</string>
+    <string name="v7_preference_off">ВЫКЛ.</string>
+    <string name="v7_preference_on">ВКЛ.</string>
+
+    <string name="validating">Проверка файла обновления</string>
+    <string name="verify_again">Проверить заново</string>
+
+    <string name="version_bright_spots">bright spots</string>
+
+    <string name="version_down_cancel">Отменить</string>
+
+    <string name="version_down_clear_all_tips">This update version is earlier than current system version. For proper functioning, please wipe the following data when downgrading: apps, contacts and other personal data, and files in storage such as photos and videos</string>
+    <string name="version_down_tips">This update version is earlier than current system version. For proper functioning, please wipe the following data when downgrading: apps, contacts and other personal data</string>
+    
+    <string name="video_upgrade">Вводное видео обновления</string>
+    <string name="wait_download">Ожидание загрузки</string>
+    <string name="wait_install">Ожидание установки</string>
+    <string name="wait_resume">Пауза загрузки</string>
+    <string name="watermark_text">Альфа версия Flyme</string>
+
+    <string name="wipe_data_now">Wipe Now</string>
+
+    <string name="yes">Да</string>
+</resources>

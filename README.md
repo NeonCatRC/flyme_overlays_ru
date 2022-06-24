@@ -15,7 +15,7 @@ Overlays for f9 apps
 
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
-| ------ | FULL | ------ |
+|  | FULL |  |
 | AlarmClock | FULL n\t | Build-in clock app |
 | AlphaMe | FULL | Aicy Engine |
 | AlwaysOnDisplay | FULL | AOD settings app |
@@ -31,6 +31,7 @@ Overlays for f9 apps
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
 | MMS | FULL (except china shit) | Standart Flyme SMS/MMS messager |
 | MusicFX | FULL n\t | SquareSound |
+| MzAccount | FULL n\t | Meizu account app |
 | MzBatteryManager | FULL n\t | Battery manager |
 | MzSecurity | FULL n\t | Build-in antivirus and cleaner |
 | NetAdmin | FULL n\t | Build-in network check and diagnostics |
@@ -42,7 +43,7 @@ Overlays for f9 apps
 | ToolBox | FULL n\t | Flyme tools app |
 | Video | FULL n\t | Standart Flyme video player |
 | Weather | FULL | Weather app |
-| ------ | WIP/START/STOP | ------ |
+|  | WIP/START/STOP |  |
 | Assistant | WIP | --- |
 | ConnectivitySettings | WIP | Connect app |
 | DataMigration | Stop | Data migration app |
@@ -51,6 +52,7 @@ Overlays for f9 apps
 | framework-res | WIP | System framework |
 | Music | Stop | Standart Flyme music app |
 | MzShare | Stop |  |
+| MzUpdate | WIP | Meizu update center |
 | PermissionController | Stop |  |
 | Picker | WIP |  |
 | SDKStage | Stop | System app |
@@ -59,10 +61,8 @@ Overlays for f9 apps
 | SystemUI | WIP | System app |
 | SystemUITools | WIP | System app |
 | VoiceAssistant | WIP |  |
-| ------ | N/A | ------ |
+|  | N/A |  |
 | SystemWallpaper | | |
-| MzAccount |  |  |
-| MzUpdate |  |  |
 | DownloadProvider |  |  |
 | MzCallSettings |  |  |
 
