@@ -60,7 +60,6 @@ Overlays for f9 apps
 | SystemUITools | WIP | System app |
 | VoiceAssistant | WIP |  |
 | ------ | N/A | ------ |
-
 | SystemWallpaper | | |
 | MzAccount |  |  |
 | MzUpdate |  |  |
