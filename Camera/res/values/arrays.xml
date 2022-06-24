@@ -487,22 +487,6 @@
         <item>1000000</item>
         <item>20000000</item>
     </string-array>
-    <string-array name="mz_aicy_content_values">
-        <item>@string/mz_aicy_asd_content</item>
-        <item>@string/mz_aicy_beauty_content</item>
-        <item>@string/mz_aicy_super_night_content</item>
-        <item>@string/mz_aicy_search_photo_content</item>
-        <item>@string/mz_aicy_things_clues_content</item>
-        <item>@string/mz_aicy_document_content</item>
-    </string-array>
-    <string-array name="mz_aicy_title_values">
-        <item>@string/mz_aicy_asd_title</item>
-        <item>@string/mz_aicy_beauty_title</item>
-        <item>@string/mz_aicy_super_night_title</item>
-        <item>@string/mz_aicy_search_photo_title</item>
-        <item>@string/mz_aicy_things_clues_title</item>
-        <item>@string/mz_aicy_document_title</item>
-    </string-array>
     <string-array name="mz_app_to_next_open_enter_translate_y">
         <item>1f</item>
         <item>0.9098163031f</item>

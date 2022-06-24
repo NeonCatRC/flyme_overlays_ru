@@ -21,8 +21,7 @@ Overlays for f9 apps
 | AlwaysOnDisplay | FULL | AOD settings app |
 | Calculator | FULL | Calc app |
 | Calendar | FULL n\t | Calendar app |
-| Camera | FULL n\t !!Flashlight bug!!| Camera app |
-
+| Camera | FULL | Camera app |
 | CustomizeCenter | FULL | Themes \ AOD settings app |
 | Dialer | FULL | Phone app |
 | Email | FULL | Standart Flyme e-mail client |
