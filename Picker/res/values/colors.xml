@@ -185,7 +185,7 @@
     <color name="mc_text_color_black_alpha_40">#66000000</color>
     <color name="mc_tip_color">#ff32a5e7</color>
     <color name="mc_titlebar_background">#e5ededed</color>
-    <color name="mz_action_bar_drop_down_view_background">#33000000</color>
+    <color name="mz_action_bar_drop_down_view_background">#1a000000</color>
     <color name="mz_action_bar_right_text_color">#ff333333</color>
     <color name="mz_action_bar_scrollview_divider_default_color">#4cffffff</color>
     <color name="mz_action_bar_search_text_color_hint">#66ffffff</color>
@@ -283,6 +283,7 @@
     <color name="mz_secondary_text_color_light">#ff999999</color>
     <color name="mz_seekbar_background_color_disable">#fff9f9f9</color>
     <color name="mz_seekbar_background_color_normal">#fff5f5f5</color>
+    <color name="mz_seekbar_progress_disable">#ffc3dafa</color>
     <color name="mz_selection_button_text_color">#ffffffff</color>
     <color name="mz_slidingmenu_background_light">#fff6f6f6</color>
     <color name="mz_slidingmenu_item_activated">#ffececec</color>

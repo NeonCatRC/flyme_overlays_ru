@@ -314,8 +314,6 @@
         <item>#ffe9a63b</item>
     </array>
     <string-array name="setting_more_tab1_grid2_desc">
-        <item>Taobao link</item>
-        <item>Alipay link</item>
         <item>Express</item>
         <item>Celebrity</item>
         <item>Movie</item>
@@ -329,8 +327,6 @@
         <item>Music</item>
     </string-array>
     <integer-array name="setting_more_tab1_grid2_type">
-        <item>15</item>
-        <item>201</item>
         <item>31</item>
         <item>101</item>
         <item>6</item>

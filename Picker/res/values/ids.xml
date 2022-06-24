@@ -365,6 +365,7 @@
     <item type="id" name="mz_scroll3" />
     <item type="id" name="mz_scroll3_text" />
     <item type="id" name="mz_search_icon" />
+    <item type="id" name="mz_secondary_confirmation_dialog_summary" />
     <item type="id" name="mz_select_box" />
     <item type="id" name="mz_specific_permission_dialog_checkbox" />
     <item type="id" name="mz_specific_permission_dialog_summary" />
@@ -413,12 +414,15 @@
     <item type="id" name="rl_content" />
     <item type="id" name="rl_content_tips" />
     <item type="id" name="rl_download" />
+    <item type="id" name="rl_download_layout" />
     <item type="id" name="rl_edit" />
+    <item type="id" name="rl_edit_layout" />
     <item type="id" name="rl_gif_layout" />
     <item type="id" name="rl_head" />
     <item type="id" name="rl_icon_container" />
     <item type="id" name="rl_layout" />
     <item type="id" name="rl_phone_model" />
+    <item type="id" name="rl_policy" />
     <item type="id" name="rl_window_mode" />
     <item type="id" name="rootLayout" />
     <item type="id" name="round_corner_progress" />
@@ -513,7 +517,6 @@
     <item type="id" name="transition_scene_layoutid_cache" />
     <item type="id" name="transition_transform" />
     <item type="id" name="tv_address" />
-    <item type="id" name="tv_agreement" />
     <item type="id" name="tv_article_from" />
     <item type="id" name="tv_article_title" />
     <item type="id" name="tv_back" />

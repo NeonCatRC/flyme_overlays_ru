@@ -265,6 +265,7 @@
         <item name="MeizuCommon.LoadingStyle">@style/Widget.MeizuCommon.LoadingView.Light</item>
         <item name="MeizuCommon.LoadingViewStyle">@style/Widget.MeizuCommon.LoadingView.Color.Blue</item>
         <item name="MeizuCommon.SelectionButtonStyle">@style/Widget.MeizuCommon.SeletionButton.Color.Blue</item>
+        <item name="MeizuCommon.StepSeekBarStyle">@style/Widget.MeizuCommon.StepSeekBar</item>
         <item name="MeizuCommon.StretchSearchViewStyle">@style/Widget.MeizuCommon.StretchSearch.Color.Blue</item>
         <item name="MeizuCommon.SubscribeButtonStyle">@style/Widget.MeizuCommon.SubscribeButton.Color.Blue</item>
         <item name="MeizuCommon.Switch">@style/Widget.MeizuCommon.Switch.Color.Blue</item>
@@ -329,7 +330,7 @@
         <item name="windowMinWidthMinor">@dimen/mz_alert_dialog_width</item>
     </style>
     <style name="Base.Theme.Flyme.Light" parent="@style/Theme.Flyme.V7Overlay.Light">
-        <item name="android:backgroundDimAmount">0.2</item>
+        <item name="android:backgroundDimAmount">0.1</item>
         <item name="android:textAppearance">@style/TextAppearance.Flyme.Light</item>
         <item name="android:textAppearanceInverse">@style/TextAppearance.Flyme.Light.Inverse</item>
         <item name="android:textColorPrimary">@color/mz_primary_text_light</item>
@@ -425,7 +426,7 @@
         <item name="mzSearchButtonStyle">@style/Widget.Flyme.Light.ActionBar.SearchButton</item>
     </style>
     <style name="Base.Theme.Flyme.Light.Dialog.Alert" parent="@style/Theme.Flyme.V7Overlay.Light.Dialog.Alert">
-        <item name="android:backgroundDimAmount">0.2</item>
+        <item name="android:backgroundDimAmount">0.1</item>
         <item name="android:textAppearance">@style/TextAppearance.Flyme.Light.DialogListItem</item>
         <item name="android:textAppearanceMedium">@style/TextAppearance.Flyme.Light.Medium.AlertDialog</item>
         <item name="android:textAppearanceSmall">@style/TextAppearance.Flyme.Light.Small.AlertDialog</item>
@@ -542,8 +543,6 @@
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:navigationBarColor">#00ffffff</item>
-        <item name="android:windowLightNavigationBar">true</item>
-        <item name="android:enforceNavigationBarContrast">false</item>
     </style>
     <style name="Base.V21.Theme.AppCompat" parent="@style/Base.V7.Theme.AppCompat">
         <item name="android:colorControlNormal">?colorControlNormal</item>
@@ -1304,7 +1303,7 @@
         <item name="android:divider">@drawable/mz_popup_divider_line</item>
     </style>
     <style name="LoadingDialogTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
-        <item name="android:backgroundDimAmount">0.2</item>
+        <item name="android:backgroundDimAmount">0.1</item>
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowElevation">@dimen/mc_floating_window_z</item>
     </style>
@@ -1919,6 +1918,7 @@
         <item name="MeizuCommon.LoadingStyle">@style/Widget.MeizuCommon.LoadingView.Light</item>
         <item name="MeizuCommon.LoadingViewStyle">@style/Widget.MeizuCommon.LoadingView.Color.Blue</item>
         <item name="MeizuCommon.SelectionButtonStyle">@style/Widget.MeizuCommon.SeletionButton.Color.Blue</item>
+        <item name="MeizuCommon.StepSeekBarStyle">@style/Widget.MeizuCommon.StepSeekBar.Color.Blue</item>
         <item name="MeizuCommon.StretchSearchViewStyle">@style/Widget.MeizuCommon.StretchSearch.Color.Blue</item>
         <item name="MeizuCommon.SubscribeButtonStyle">@style/Widget.MeizuCommon.SubscribeButton.Color.Blue</item>
         <item name="MeizuCommon.Switch">@style/Widget.MeizuCommon.Switch.Color.Blue</item>
@@ -2170,6 +2170,7 @@
         <item name="MeizuCommon.PagerIndicator">@style/Widget.MeizuCommon.PagerIndicator</item>
         <item name="MeizuCommon.ProgressBarStyle">@style/Widget.MeizuCommon.ProgressBar</item>
         <item name="MeizuCommon.SelectionButtonStyle">@style/Widget.MeizuCommon.SeletionButton</item>
+        <item name="MeizuCommon.StepSeekBarStyle">@style/Widget.MeizuCommon.StepSeekBar</item>
         <item name="MeizuCommon.StretchSearchViewStyle">@style/Widget.MeizuCommon.StretchSearchView</item>
         <item name="MeizuCommon.SubscribeButtonStyle">@style/Widget.MeizuCommon.SubscribeButton</item>
         <item name="MeizuCommon.Switch">@style/Widget.MeizuCommon.Switch</item>
@@ -2524,7 +2525,6 @@
         <item name="android:textAppearance">@style/TextAppearance.Flyme.H9.Medium</item>
         <item name="android:textColor">?mzColorActionBarTextPrimary</item>
         <item name="android:ellipsize">marquee</item>
-        <item name="android:paddingTop">2.0dip</item>
         <item name="android:maxWidth">180.0dip</item>
         <item name="android:maxLines">1</item>
         <item name="textAllCaps">false</item>
@@ -2978,6 +2978,8 @@
         <item name="android:background">@drawable/mz_btn_list_default</item>
         <item name="android:minWidth">@dimen/mz_button_minWidht</item>
         <item name="android:minHeight">@dimen/mz_button_minHeight</item>
+        <item name="android:paddingStart">10.0dip</item>
+        <item name="android:paddingEnd">10.0dip</item>
     </style>
     <style name="Widget.Flyme.Light.Button.Borderless.AlertDialog" parent="@android:style/Widget.DeviceDefault.Button.Borderless">
         <item name="android:textSize">@dimen/mz_text_size_normal</item>
@@ -3012,17 +3014,21 @@
     <style name="Widget.Flyme.Light.EditText" parent="@android:style/Widget.Material.EditText">
         <item name="android:textAppearance">@style/TextAppearance.Flyme.Inverse</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Clear.Icon.Black" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_delete_dark</item>
+    <style name="Widget.Flyme.Light.EditText.Clear.Icon.Black" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_delete_dark</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Clear.Icon.White" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_delete_light</item>
+    <style name="Widget.Flyme.Light.EditText.Clear.Icon.White" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_delete_light</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Search.Icon.Black" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_search_dark</item>
+    <style name="Widget.Flyme.Light.EditText.Search.Icon.Black" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_search_dark</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">0.0dip</item>
     </style>
     <style name="Widget.Flyme.Light.EditText.Search.Icon.White" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_search_light</item>
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_search_light</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">0.0dip</item>
     </style>
     <style name="Widget.Flyme.Light.EditText.SearchEditText" parent="@style/Widget.Flyme.Light.EditText.SearchEditText.Black">
         <item name="android:textColorHighlight">@color/mz_search_edit_text_light</item>
@@ -3044,11 +3050,11 @@
         <item name="android:textSelectHandleRight">@drawable/mz_search_edittext_handle_right_color_blue</item>
         <item name="android:textSelectHandle">@drawable/mz_input_select_handle_color_blue</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Voice.Icon.Black" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_voice_dark</item>
+    <style name="Widget.Flyme.Light.EditText.Voice.Icon.Black" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_voice_dark</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Voice.Icon.White" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_voice_light</item>
+    <style name="Widget.Flyme.Light.EditText.Voice.Icon.White" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_voice_light</item>
     </style>
     <style name="Widget.Flyme.Light.ListPopupWindow" parent="@style/Base.Widget.Flyme.Light.ListPopupWindow">
         <item name="android:overlapAnchor">false</item>
@@ -3109,18 +3115,23 @@
         <item name="android:minWidth">10.399994dip</item>
         <item name="android:minHeight">10.399994dip</item>
     </style>
+    <style name="Widget.Flyme.Light.SearchBar.Icon" parent="">
+        <item name="android:paddingStart">9.0dip</item>
+        <item name="android:paddingEnd">9.0dip</item>
+    </style>
     <style name="Widget.Flyme.Light.SeekBar" parent="@android:style/Widget.DeviceDefault.Light.SeekBar">
-        <item name="android:background">@null</item>
-        <item name="android:paddingTop">@dimen/mz_seekbar_padding</item>
-        <item name="android:paddingBottom">@dimen/mz_seekbar_padding</item>
+        <item name="android:background">@drawable/mz_seekbar_background</item>
+        <item name="android:paddingTop">@dimen/mz_seekbar_background_padding_top</item>
+        <item name="android:paddingBottom">@dimen/mz_seekbar_background_padding_top</item>
         <item name="android:maxHeight">@dimen/mz_seekbar_height</item>
+        <item name="android:indeterminateOnly">false</item>
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_rectangle_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_rectangle_progress</item>
         <item name="android:minHeight">@dimen/mz_seekbar_height</item>
-        <item name="android:thumb">@null</item>
+        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
         <item name="android:height">@dimen/mz_seekbar_height</item>
-        <item name="android:paddingStart">@dimen/mz_seekbar_padding</item>
-        <item name="android:paddingEnd">@dimen/mz_seekbar_padding</item>
+        <item name="android:paddingStart">11.0dip</item>
+        <item name="android:paddingEnd">11.0dip</item>
         <item name="android:splitTrack">false</item>
     </style>
     <style name="Widget.Flyme.Light.Spinner" parent="@android:style/Widget.DeviceDefault.Light.Spinner">
@@ -3362,9 +3373,8 @@
         <item name="android:paddingStart">@dimen/mz_page_padding_default</item>
         <item name="android:paddingEnd">@dimen/mz_page_padding_default</item>
     </style>
-    <style name="Widget.Flyme.Preference.Desc.Normal.AdjoinTitle" parent="@style/Widget.Flyme.MultipleList.Desc.Normal.AdjoinTitle">
+    <style name="Widget.Flyme.Preference.Desc.Normal.AdjoinTitle" parent="@style/Widget.Flyme.List.Summary.Adjoin.Level2">
         <item name="android:ellipsize">end</item>
-        <item name="android:maxLines">4</item>
         <item name="android:lineSpacingExtra">@dimen/mz_list_desc_line_spacing_extra</item>
         <item name="android:textDirection">locale</item>
     </style>
@@ -3379,7 +3389,7 @@
     <style name="Widget.Flyme.Preference.Title" parent="@style/Widget.Flyme.MultipleList.Title">
         <item name="android:ellipsize">end</item>
         <item name="android:fadingEdge">horizontal</item>
-        <item name="android:singleLine">true</item>
+        <item name="android:singleLine">false</item>
         <item name="android:textDirection">locale</item>
     </style>
     <style name="Widget.Flyme.SearchList.ContentLinearLayout" parent="">
@@ -3474,7 +3484,7 @@
     <style name="Widget.MeizuCommon.AnimSeekBar" parent="@style/Widget.Flyme.Light.SeekBar">
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_progress</item>
-        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
+        <item name="android:thumb">@drawable/mz_step_seekbar_thumb</item>
         <item name="mcDistanceToCircle">2.0dip</item>
         <item name="mcLargeCircleDrawble">@drawable/mz_slider_btn_hover_color_blue</item>
         <item name="mcLargeCircleRadis">13.0dip</item>
@@ -3484,7 +3494,7 @@
     <style name="Widget.MeizuCommon.AnimSeekBar.Color.Blue" parent="@style/Widget.MeizuCommon.AnimSeekBar">
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_progress</item>
-        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
+        <item name="android:thumb">@drawable/mz_step_seekbar_thumb</item>
         <item name="mcLargeCircleDrawble">@drawable/mz_slider_btn_hover_color_blue</item>
     </style>
     <style name="Widget.MeizuCommon.AuraSeekBar" parent="@style/Widget.Flyme.Light.SeekBar">
@@ -3493,8 +3503,8 @@
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:minHeight">42.0dip</item>
-        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
-        <item name="android:thumbOffset">7.0dip</item>
+        <item name="android:thumb">@drawable/mz_step_seekbar_thumb</item>
+        <item name="android:thumbOffset">-4.0dip</item>
         <item name="android:height">42.0dip</item>
         <item name="android:paddingStart">@dimen/mz_aura_seekbar_padding</item>
         <item name="android:paddingEnd">@dimen/mz_aura_seekbar_padding</item>
@@ -3723,6 +3733,19 @@
     <style name="Widget.MeizuCommon.SeletionButton.Color.Blue" parent="@style/Widget.MeizuCommon.SeletionButton">
         <item name="mcBackground">@drawable/mz_selection_button_background_color_blue</item>
     </style>
+    <style name="Widget.MeizuCommon.StepSeekBar" parent="@style/Widget.MeizuCommon">
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">22.0dip</item>
+        <item name="mcStepItemsCount">0</item>
+        <item name="mcStepStrokeColor">@color/mz_scrubber_track_color_blue</item>
+        <item name="mcStepThumb">@drawable/mz_seekbar_thumb_color_blue</item>
+        <item name="mzStepSpotPadding">8.0dip</item>
+    </style>
+    <style name="Widget.MeizuCommon.StepSeekBar.Color.Blue" parent="@style/Widget.MeizuCommon.StepSeekBar" />
     <style name="Widget.MeizuCommon.StretchSearch.Color.Blue" parent="@style/Widget.MeizuCommon.StretchSearchView" />
     <style name="Widget.MeizuCommon.StretchSearchView" parent="@style/Widget.MeizuCommon">
         <item name="mcLayoutMarginLeftAdjust">@dimen/mc_stretch_search_margin_left_adjust</item>
@@ -3752,6 +3775,7 @@
         <item name="mcBtnNormalBg">@drawable/mz_btn_corner_default_color_blue</item>
     </style>
     <style name="Widget.MeizuCommon.Switch" parent="@style/Widget.MeizuCommon">
+        <item name="android:gravity">center_vertical</item>
         <item name="android:focusable">true</item>
         <item name="android:clickable">true</item>
         <item name="mcSwitchMinWidth">40.0dip</item>

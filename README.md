@@ -2,6 +2,8 @@
 
 Overlays for f9 apps
 
+![f9ru](https://user-images.githubusercontent.com/48006934/175659979-cae9bda2-6b4a-4d86-a056-3915581714f5.png)
+
 ## This repository is distributed openly and for free
 
 **If you want to use the developments that are presented in this repository, you must comply with the MIT license, under which this repository is distributed.** [ABOUT]
