@@ -33,16 +33,14 @@
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="accessibility_app_usage_settings">Настройки использования приложения</string>
     <string name="accessibility_close">Закрыть</string>
-
-    <string name="accessibility_recent_apps">Recent apps</string>
-    <string name="action_add_to_workspace">Add to Home screen</string>
-    <string name="action_decrease_height">Decrease height</string>
-    <string name="action_decrease_width">Decrease width</string>
-    <string name="action_deep_shortcut">Shortcuts</string>
-    <string name="action_dismiss_notification">Dismiss</string>
-    <string name="action_increase_height">Increase height</string>
-    <string name="action_increase_width">Increase width</string>
-
+    <string name="accessibility_recent_apps">Последние приложения</string>
+    <string name="action_add_to_workspace">Добавить на домашний экран</string>
+    <string name="action_decrease_height">Уменьшить высоту</string>
+    <string name="action_decrease_width">Уменьшить ширину</string>
+    <string name="action_deep_shortcut">Ярлыки</string>
+    <string name="action_dismiss_notification">Отклонить</string>
+    <string name="action_increase_height">Увеличить высоту</string>
+    <string name="action_increase_width">Увеличить ширину</string>
     <string name="action_move">Переместить</string>
     <string name="action_move_here">Переместить сюда</string>
     <string name="action_move_to_workspace">Переместить на домашний экран</string>
@@ -52,30 +50,26 @@
     <string name="activity_not_available">"Приложение недоступно"</string>
     <string name="activity_not_found">Приложение не установлено</string>
     <string name="add">Добавить</string>
+    <string name="add_item_request_drag_hint">Нажмите &amp; держите чтобы расположить вручную</string>
+    <string name="add_shortcut_explain">Добавить ярлык на рабочий стол</string>
+    <string name="add_to_folder">Добавить в папку: %1$s</string>
+    <string name="add_to_folder_with_app">Добавить в папку с %1$s</string>
+    <string name="added_to_folder">Добавлено в папку</string>
 
-    <string name="add_item_request_drag_hint">Touch &amp; hold to place manually</string>
-    <string name="add_shortcut_explain">Add shortcut to desktop</string>
-    <string name="add_to_folder">Add to folder: %1$s</string>
-    <string name="add_to_folder_with_app">Add to folder with %1$s</string>
-    <string name="added_to_folder">Item added to folder</string>
     <string name="aicy_appguess_tip">Aicy dynamically updates app suggestions here</string>
     <string name="aicy_swtich">Aicy overview</string>
     <string name="aicy_swtich_explain">Swiperight in workspace home page</string>
 
     <string name="align">Выровнять</string>
     <string name="all_apps_button_label">Список приложений</string>
-
-    <string name="all_apps_button_personal_label">Personal apps list</string>
-    <string name="all_apps_button_work_label">Work apps list</string>
-    <string name="all_apps_home_button_label">Home</string>
-
+    <string name="all_apps_button_personal_label">Список персональных приложений</string>
+    <string name="all_apps_button_work_label">Список рабочих приложений</string>
+    <string name="all_apps_home_button_label">Дом</string>
     <string name="all_apps_label">Все приложения</string>
     <string name="all_apps_loading_message">Загрузка…</string>
-    
-    <string name="all_apps_no_search_results">No apps found matching \"%1$s\"</string>
-    <string name="all_apps_personal_tab">Personal</string>
-    <string name="all_apps_prediction_tip">Your predicted apps</string>
-
+    <string name="all_apps_no_search_results">Не найдено подходящих приложений \"%1$s\"</string>
+    <string name="all_apps_personal_tab">Персональные</string>
+    <string name="all_apps_prediction_tip">Ваши любимые приложения</string>
     <string name="all_apps_search_bar_hint">Поиск приложений</string>
     <string name="all_apps_search_market_message">Искать больше приложений</string>
     <string name="all_apps_work_tab">Работа</string>
@@ -86,8 +80,8 @@
     <string name="app_info">О приложении</string>
     <string name="app_info_drop_target_label">О приложении</string>
     <string name="app_name">Launcher3</string>
+    <string name="app_waiting_download_title">%1$s ожидает установки</string>
 
-    <string name="app_waiting_download_title">%1$s waiting to install</string>
     <string name="assistant_gesture_feedback_swipe_not_diagonal">Make sure you swipe diagonally</string>
     <string name="assistant_gesture_feedback_swipe_not_long_enough">Try swiping further</string>
     <string name="assistant_gesture_feedback_swipe_too_far_from_corner">Make sure you swipe from a bottom corner of the screen</string>
@@ -107,32 +101,26 @@
     <string name="back_gesture_tutorial_playground_title_swipe_inward_left_edge">Try the other side</string>
     <string name="back_gesture_tutorial_playground_title_swipe_inward_right_edge">Try the back gesture</string>
     <string name="blocked_by_policy">"This action isn't allowed by the app or your organization"</string>
-    <string name="can_not_move_to_target_screen_explain">Space is not enough</string>
-    <string name="cancel_action">Cancel</string>
-    <string name="cloned">cloned</string>
-    <string name="completely_out_of_space">No free space on Home screen.</string>
 
+    <string name="can_not_move_to_target_screen_explain">Недостаточно места</string>
+    <string name="cancel_action">Отмена</string>
+    <string name="cloned">Склонированно</string>
+    <string name="completely_out_of_space">Нет свободного места на экране.</string>
     <string name="copy">Копировать</string>
     <string name="corner_mark">Значок уведомления на иконке</string>
     <string name="count_down_days_hours_minutes_seconds">Отсчёт %1$s д. %2$s ч. %3$s мин. %4$s с.</string>
     <string name="create_folder">Папка</string>
     <string name="create_folder_button">ПАПКА</string>
     <string name="create_folder_with">Создать папку с: %1$s</string>
-
-    <string name="custom_actions">Custom actions</string>
-
+    <string name="custom_actions">Пользовательские действия</string>
     <string name="date_time_set">Установить</string>
-
-    <string name="default_scroll_format">Page %1$d of %2$d</string>
-
+    <string name="default_scroll_format">Страница %1$d из %2$d</string>
     <string name="derived_app_name">Системный лаунчер</string>
     <string name="disabled_app_label">Отключено %1$s</string>
     <string name="dismiss_prediction_label">"Не предлагать приложения"</string>
     <string name="edit_button_text">Настройки</string>
     <string name="expand_button_title">Больше</string>
-
-    <string name="explain_for_demo_1">The experience machine does not support layout modification</string>
-
+    <string name="explain_for_demo_1">Демо не поддерживает изменение расположения</string>
     <string name="folder_business">Бизнес</string>
     <string name="folder_closed">Папка закрыта</string>
     <string name="folder_created">Папка создана</string>
@@ -141,10 +129,8 @@
     <string name="folder_game">Игры</string>
     <string name="folder_hint_text">Редактировать</string>
     <string name="folder_life_service">Услуги</string>
-
-    <string name="folder_name_format_exact">Папка: %1$s, %2$d items</string>
-    <string name="folder_name_format_overflow">Папка: %1$s, %2$d or more items</string>
-
+    <string name="folder_name_format_exact">Папка: %1$s, %2$d элементов</string>
+    <string name="folder_name_format_overflow">Папка: %1$s, %2$d или больше элементов</string>
     <string name="folder_opened">Папка открыта, %1$d на %2$d</string>
     <string name="folder_other">Другое</string>
     <string name="folder_read">Чтение</string>
@@ -169,8 +155,10 @@
     <string name="home_gesture_feedback_swipe_too_far_from_edge">Make sure you swipe from the bottom edge of the screen</string>
     <string name="home_gesture_feedback_wrong_swipe_direction">Make sure you swipe straight up</string>
     <string name="home_gesture_tutorial_playground_subtitle">Try swiping upward from the bottom edge of the screen</string>
-    <string name="home_gesture_tutorial_playground_title">Tutorial: Go Home</string>
-    <string name="home_screen">Home screen</string>
+
+    <string name="home_gesture_tutorial_playground_title">Обучение: Перейдите на домашний экран</string>
+    <string name="home_screen">Домашний экран</string>
+    
     <string name="hotsaet_tip_prediction_disabled">App suggestions are disabled</string>
     <string name="hotsaet_tip_prediction_enabled">App suggestions enabled</string>
     <string name="hotseat_auto_enrolled">Most-used apps appear here, and change based on routines</string>
@@ -196,20 +184,16 @@
     <string name="install_drop_target_label">Установить</string>
     <string name="item_added_to_workspace">Добавлено на главный экран</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
-
-    <string name="item_moved">Item moved</string>
-    <string name="item_removed">Item removed</string>
-
+    <string name="item_moved">Перемещено</string>
+    <string name="item_removed">Удалено</string>
     <string name="label_application">Приложение</string>
     <string name="launcher_change_wallpaper">Сменить обои</string>
-
     <string name="launcher_edit_panel_completed">Готово</string>
     <string name="launcher_edit_panel_default_size">Сбросить настройки</string>
     <string name="launcher_edit_panel_flyme_style_icon">Flyme</string>
     <string name="launcher_edit_panel_grid_title">Сетка иконок</string>
     <string name="launcher_edit_panel_more_setting">Больше настроек</string>
-    <string name="launcher_edit_panel_round_rect_style_icon">Round rect</string>
-
+    <string name="launcher_edit_panel_round_rect_style_icon">Скругление иконок</string> <!--Round rect-->
     <string name="launcher_edit_panel_size_title">Размер иконок</string>
 
     <string name="launcher_edit_panel_style_explain">Only in force on default theme</string>
@@ -346,11 +330,9 @@
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">OK</string>
     <string name="more_item_label">Ещё</string>
-
-    <string name="move_to_empty_cell">Move to row %1$s column %2$s</string>
-    <string name="move_to_hotseat_position">Move to favorites position %1$s</string>
-    <string name="move_to_position">Move to position %1$s</string>
-
+    <string name="move_to_empty_cell">Переместить в ряд %1$s колонка %2$s</string>
+    <string name="move_to_hotseat_position">Переместить в избранное положение %1$s</string>
+    <string name="move_to_position">Переместить на позицию %1$s</string>
     <string name="msg_disabled_by_admin">Отключено администратором</string>
     <string name="msg_missing_notification_access">Для показа меток уведомления, включите уведомления для %1$s</string>
     <string name="msg_no_phone_permission">%1$s не разрешено совершать звонки.</string>
@@ -413,9 +395,7 @@
     <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
     <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
     <string name="mz_privacy_policy">Политика приватности Meizu</string>
-
-    <string name="mz_recents_window_mode_message">Pause will apply suspension</string>
-
+    <string name="mz_recents_window_mode_message">Пауза приведет к приостановке</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Все ещё разрешено</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
@@ -519,36 +499,30 @@
     <string name="remove">Убрать</string>
     <string name="remove_cloned_app_message">Удаление клонированного приложения удаляет его данные</string>
     <string name="remove_drop_target_label">Удалить</string>
-
-    <string name="remove_system_app_message_1">You can search in Setting to recovery</string>
-
+    <string name="remove_system_app_message_1">Вы можете выполнить поиск в Настройках для восстановления</string>
     <string name="restor_text">"Сейчас нельзя перемещать иконки"</string>
     <string name="restore_button_text">OK</string>
     <string name="safemode_shortcut_error">Загруженные приложения отключены в безопасном режиме</string>
     <string name="safemode_widget_error">Виджеты отключены в безопасном режиме</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_switch">Поиск</string>
-
-    <string name="search_switch_explain">Swipeup in workspace</string>
-    <string name="settings_button_text">Home settings</string>
-
+    <string name="search_switch_explain">Проведите вверх по экрану</string>
+    <string name="settings_button_text">Настройки</string>
     <string name="settings_name">Настройки лаунчера</string>
     <string name="shortcut_not_available">"Ярлык недоступен"</string>
     <string name="shortcuts_menu_with_notifications_description">Ярлыки и уведомления</string>
     <string name="shorter_duration_less_than_one_minute">&lt; 1 минута</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-
-    <string name="styles_wallpaper_button_text">Styles &amp; wallpapers</string>
-    <string name="sure">OK</string>
-    <string name="swipe_again">Swipe again</string>
-    <string name="time_left_for_app">%1$s left today</string>
-    <string name="title_app_suggestions">App suggestions</string>
-    <string name="title_change_settings">Change settings</string>
-    <string name="title_missing_notification_access">Notification access needed</string>
-    <string name="toast_unenable_create_folder1">Single app cannot merge into folder</string>
-    <string name="toast_unenable_create_folder2">No enough space for generating folder</string>
-    <string name="toast_unenable_create_folder3">System apps and shortcuts cannot be set as private apps</string>
-    
+    <string name="styles_wallpaper_button_text">Стили &amp; обои</string>
+    <string name="sure">ОК</string>
+    <string name="swipe_again">Проведите снова</string>
+    <string name="time_left_for_app">%1$s осталось сегодня</string>
+    <string name="title_app_suggestions">Рекомендации приложений</string>
+    <string name="title_change_settings">Изменить настройки</string>
+    <string name="title_missing_notification_access">Нужен доступ к уведомлениям</string>
+    <string name="toast_unenable_create_folder1">Одно приложение не может создать папку</string>
+    <string name="toast_unenable_create_folder2">Не хватает места для создания папки</string>
+    <string name="toast_unenable_create_folder3">Системные приложения и ярлыки не могут быть установлены как приватные приложения</string>
     <string name="undo">Отменить</string>
     <string name="uninstall">Удалить</string>
     <string name="uninstall_cache">"Очистить "</string>
@@ -562,17 +536,13 @@
     <string name="widget_accessible_dims_format">%1$d ширины на %2$d высоты</string>
     <string name="widget_add_tips">Добавить виджет</string>
     <string name="widget_button_text">Виджет</string>
-
-    <string name="widget_resized">Widget resized to width %1$s height %2$s</string>
-    
+    <string name="widget_resized">Размер виджета изменен: Ширина %1$s Высота %2$s</string>
     <string name="widgets_bottom_sheet_title">%1$s виджетов</string>
     <string name="widgets_list">Список виджетов</string>
     <string name="widgets_list_closed">Список виджетов закрыт</string>
-
-    <string name="work_apps_paused_body">"Work apps can't send you notifications, use your battery, or access your location"</string>
-    <string name="work_apps_paused_content_description">Work profile is paused. Work apps can’t send you notifications, use your battery, or access your location</string>
-    <string name="work_apps_paused_title">Work profile is paused</string>
-
+    <string name="work_apps_paused_body">"Рабочие приложения не могут отправлять вам уведомления, использовать батарею или получать информацию о геолокации"</string>
+    <string name="work_apps_paused_content_description">Рабочий профиль приостановлен. Рабочие приложения не могут отправлять вам уведомления, использовать батарею или получать информацию о геолокации.</string>
+    <string name="work_apps_paused_title">Рабочий профиль приостановлен</string>
     <string name="work_folder_name">Работа</string>
     <string name="work_profile_edu_accept">Понятно</string>
     <string name="work_profile_edu_next">Дальше</string>
@@ -583,6 +553,5 @@
     <string name="work_profile_toggle_label">Рабочий профиль</string>
     <string name="work_switch_tip">Остановить рабочие приложения и уведомления</string>
     <string name="workspace_new_page">Добавить новый экран</string>
-    
-    <string name="workspace_scroll_format">Home screen %1$d of %2$d</string>
+    <string name="workspace_scroll_format">Экран %1$d из %2$d</string>
 </resources>

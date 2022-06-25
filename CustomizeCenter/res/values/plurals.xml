@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a">
+    <plurals name="local_delete_badge">
         <item quantity="other">Delete %d secondary wallpapers</item>
         <item quantity="one">Delete %d secondary wallpapers</item>
     </plurals>
-    <plurals name="b">
+    <plurals name="local_delete_font">
         <item quantity="other">Delete %d Fonts</item>
         <item quantity="one">Delete %d Fonts</item>
     </plurals>
-    <plurals name="c">
+    <plurals name="local_delete_keyboard_skin">
         <item quantity="other">Delete %d keyboard skins</item>
         <item quantity="one">Delete %d keyboard skins</item>
     </plurals>
-    <plurals name="d">
+    <plurals name="local_delete_live_pager">
         <item quantity="other">Delete %d dynamic wallpapers</item>
         <item quantity="one">Delete %d dynamic wallpapers</item>
     </plurals>
-    <plurals name="e">
+    <plurals name="local_delete_pap">
         <item quantity="other">Delete %d Wallpapers</item>
         <item quantity="one">Delete %d Wallpapers</item>
     </plurals>
-    <plurals name="f">
+    <plurals name="local_delete_ringtone">
         <item quantity="other">Delete %d Ringtone</item>
         <item quantity="one">Delete %d Ringtone</item>
     </plurals>
-    <plurals name="g">
+    <plurals name="local_delete_theme">
         <item quantity="other">Delete %d Themes</item>
         <item quantity="one">Delete %d Themes</item>
     </plurals>
-    <plurals name="h">
+    <plurals name="local_delete_tof_live_pager">
         <item quantity="other">Delete %d 3D wallpapers</item>
         <item quantity="one">Delete %d 3D wallpapers</item>
     </plurals>
-    <plurals name="i">
+    <plurals name="update_incremental_complete_title">
         <item quantity="other">Updated %d Themes</item>
         <item quantity="one">Updated %d Themes</item>
     </plurals>
-    <plurals name="j">
+    <plurals name="updates">
         <item quantity="other">%1$d %2$s can be updated</item>
     </plurals>
-    <plurals name="k">
+    <plurals name="updates_complete">
         <item quantity="other">%1$d %2$s updated</item>
     </plurals>
 </resources>

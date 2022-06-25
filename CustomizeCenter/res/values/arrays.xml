@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="a">
-        <item>@color/mt</item>
-        <item>@color/mu</item>
-        <item>@color/mv</item>
-        <item>@color/mw</item>
-        <item>@color/mx</item>
-        <item>@color/my</item>
-        <item>@color/mz</item>
+    <array name="label_item_bgcolor_f8">
+        <item>@color/one_search_label_bgcolor_1</item>
+        <item>@color/one_search_label_bgcolor_2</item>
+        <item>@color/one_search_label_bgcolor_3</item>
+        <item>@color/one_search_label_bgcolor_4</item>
+        <item>@color/one_search_label_bgcolor_5</item>
+        <item>@color/one_search_label_bgcolor_6</item>
+        <item>@color/one_search_label_bgcolor_7</item>
     </array>
-    <array name="b">
-        <item>@color/n0</item>
-        <item>@color/n1</item>
-        <item>@color/n2</item>
-        <item>@color/n3</item>
-        <item>@color/n4</item>
-        <item>@color/n5</item>
-        <item>@color/n6</item>
+    <array name="label_item_textcolor_f8">
+        <item>@color/one_search_label_textcolor_1</item>
+        <item>@color/one_search_label_textcolor_2</item>
+        <item>@color/one_search_label_textcolor_3</item>
+        <item>@color/one_search_label_textcolor_4</item>
+        <item>@color/one_search_label_textcolor_5</item>
+        <item>@color/one_search_label_textcolor_6</item>
+        <item>@color/one_search_label_textcolor_7</item>
     </array>
-    <string-array name="c">
+    <string-array name="main_tab_array">
         <item>Themes</item>
         <item>Fonts</item>
         <item>Ringtones</item>
         <item>Wallpapers</item>
         <item>Keyboard</item>
     </string-array>
-    <array name="d">
+    <array name="mc_colorful_round">
         <item>#ff43b56b</item>
         <item>#ff44aff9</item>
         <item>#fff56455</item>
@@ -33,7 +33,7 @@
         <item>#fff6b944</item>
         <item>#ffbd713b</item>
     </array>
-    <string-array name="e">
+    <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -65,7 +65,7 @@
         <item>29</item>
         <item>30</item>
     </string-array>
-    <string-array name="f">
+    <string-array name="mc_custom_time_picker_lunar_month">
         <item>Jan</item>
         <item>Feb</item>
         <item>Mar</item>
@@ -79,7 +79,7 @@
         <item>Nov</item>
         <item>Dec</item>
     </string-array>
-    <string-array name="g">
+    <string-array name="mc_custom_weekday">
         <item>Sun</item>
         <item>Mon</item>
         <item>Tue</item>
@@ -88,214 +88,214 @@
         <item>Fri</item>
         <item>Sat</item>
     </string-array>
-    <string-array name="h">
-        <item>0.0f</item>
-        <item>0.00013f</item>
-        <item>0.00046f</item>
-        <item>0.00104f</item>
-        <item>0.00182f</item>
-        <item>0.00286f</item>
-        <item>0.0041f</item>
-        <item>0.0056f</item>
-        <item>0.00729f</item>
-        <item>0.00924f</item>
-        <item>0.01146f</item>
-        <item>0.01387f</item>
-        <item>0.01647f</item>
-        <item>0.01934f</item>
-        <item>0.0224f</item>
-        <item>0.02572f</item>
-        <item>0.0293f</item>
-        <item>0.03307f</item>
-        <item>0.03711f</item>
-        <item>0.04134f</item>
-        <item>0.04583f</item>
-        <item>0.05052f</item>
-        <item>0.05547f</item>
-        <item>0.06061f</item>
-        <item>0.06602f</item>
-        <item>0.07168f</item>
-        <item>0.07754f</item>
-        <item>0.08366f</item>
-        <item>0.08997f</item>
-        <item>0.09655f</item>
-        <item>0.10332f</item>
-        <item>0.11035f</item>
-        <item>0.11764f</item>
-        <item>0.1252f</item>
-        <item>0.13294f</item>
-        <item>0.14089f</item>
-        <item>0.14915f</item>
-        <item>0.15762f</item>
-        <item>0.16628f</item>
-        <item>0.17526f</item>
-        <item>0.18444f</item>
-        <item>0.19388f</item>
-        <item>0.20352f</item>
-        <item>0.21348f</item>
-        <item>0.22363f</item>
-        <item>0.23405f</item>
-        <item>0.24466f</item>
-        <item>0.2556f</item>
-        <item>0.26673f</item>
-        <item>0.27813f</item>
-        <item>0.28978f</item>
-        <item>0.30169f</item>
-        <item>0.31387f</item>
-        <item>0.3263f</item>
-        <item>0.339f</item>
-        <item>0.35195f</item>
-        <item>0.3651f</item>
-        <item>0.37858f</item>
-        <item>0.39232f</item>
-        <item>0.40632f</item>
-        <item>0.42057f</item>
-        <item>0.43516f</item>
-        <item>0.44993f</item>
-        <item>0.46504f</item>
-        <item>0.4804f</item>
-        <item>0.49609f</item>
-        <item>0.51204f</item>
-        <item>0.52826f</item>
-        <item>0.54479f</item>
-        <item>0.56165f</item>
-        <item>0.57878f</item>
-        <item>0.59622f</item>
-        <item>0.614f</item>
-        <item>0.63203f</item>
-        <item>0.65046f</item>
-        <item>0.66921f</item>
-        <item>0.68822f</item>
-        <item>0.70768f</item>
-        <item>0.72741f</item>
-        <item>0.74759f</item>
-        <item>0.7681f</item>
-        <item>0.789f</item>
-        <item>0.81035f</item>
-        <item>0.8321f</item>
-        <item>0.8543f</item>
-        <item>0.87702f</item>
-        <item>0.9002f</item>
-        <item>0.92402f</item>
-        <item>0.94844f</item>
-        <item>0.97363f</item>
-        <item>1f</item>
-    </string-array>
-    <string-array name="i">
-        <item>0.0f</item>
-        <item>0.02637f</item>
-        <item>0.05156f</item>
-        <item>0.07598f</item>
-        <item>0.0998f</item>
-        <item>0.12298f</item>
-        <item>0.1457f</item>
-        <item>0.1679f</item>
-        <item>0.18965f</item>
-        <item>0.211f</item>
-        <item>0.2319f</item>
-        <item>0.25241f</item>
-        <item>0.27259f</item>
-        <item>0.29232f</item>
-        <item>0.31178f</item>
-        <item>0.33079f</item>
-        <item>0.34954f</item>
-        <item>0.36797f</item>
-        <item>0.386f</item>
-        <item>0.40378f</item>
-        <item>0.42122f</item>
-        <item>0.43835f</item>
-        <item>0.45521f</item>
-        <item>0.47174f</item>
-        <item>0.48796f</item>
-        <item>0.50391f</item>
-        <item>0.5196f</item>
-        <item>0.53496f</item>
-        <item>0.55007f</item>
-        <item>0.56484f</item>
-        <item>0.57943f</item>
-        <item>0.59368f</item>
-        <item>0.60768f</item>
-        <item>0.62142f</item>
-        <item>0.6349f</item>
-        <item>0.64805f</item>
-        <item>0.661f</item>
-        <item>0.6737f</item>
-        <item>0.68613f</item>
-        <item>0.69831f</item>
-        <item>0.71022f</item>
-        <item>0.72188f</item>
-        <item>0.73327f</item>
-        <item>0.7444f</item>
-        <item>0.75534f</item>
-        <item>0.76595f</item>
-        <item>0.77637f</item>
-        <item>0.78652f</item>
-        <item>0.79648f</item>
-        <item>0.80612f</item>
-        <item>0.81556f</item>
-        <item>0.82474f</item>
-        <item>0.83372f</item>
-        <item>0.84238f</item>
-        <item>0.85085f</item>
-        <item>0.85911f</item>
-        <item>0.86706f</item>
-        <item>0.8748f</item>
-        <item>0.88236f</item>
-        <item>0.88965f</item>
-        <item>0.89668f</item>
-        <item>0.90345f</item>
-        <item>0.91003f</item>
-        <item>0.91634f</item>
-        <item>0.92246f</item>
-        <item>0.92832f</item>
-        <item>0.93398f</item>
-        <item>0.93939f</item>
-        <item>0.94453f</item>
-        <item>0.94948f</item>
-        <item>0.95417f</item>
-        <item>0.95866f</item>
-        <item>0.96289f</item>
-        <item>0.96693f</item>
-        <item>0.9707f</item>
-        <item>0.97428f</item>
-        <item>0.9776f</item>
-        <item>0.98066f</item>
-        <item>0.98353f</item>
-        <item>0.98613f</item>
-        <item>0.98854f</item>
-        <item>0.99076f</item>
-        <item>0.99271f</item>
-        <item>0.9944f</item>
-        <item>0.9959f</item>
-        <item>0.99714f</item>
-        <item>0.99818f</item>
-        <item>0.99896f</item>
-        <item>0.99954f</item>
-        <item>0.99987f</item>
-        <item>1f</item>
-    </string-array>
-    <array name="j">
+    <array name="mc_pullline_move_end">
+        <item>0.0</item>
+        <item>1.3E-4</item>
+        <item>4.6E-4</item>
+        <item>0.00104</item>
+        <item>0.00182</item>
+        <item>0.00286</item>
+        <item>0.0041</item>
+        <item>0.0056</item>
+        <item>0.00729</item>
+        <item>0.00924</item>
+        <item>0.01146</item>
+        <item>0.01387</item>
+        <item>0.01647</item>
+        <item>0.01934</item>
+        <item>0.0224</item>
+        <item>0.02572</item>
+        <item>0.0293</item>
+        <item>0.03307</item>
+        <item>0.03711</item>
+        <item>0.04134</item>
+        <item>0.04583</item>
+        <item>0.05052</item>
+        <item>0.05547</item>
+        <item>0.06061</item>
+        <item>0.06602</item>
+        <item>0.07168</item>
+        <item>0.07754</item>
+        <item>0.08366</item>
+        <item>0.08997</item>
+        <item>0.09655</item>
+        <item>0.10332</item>
+        <item>0.11035</item>
+        <item>0.11764</item>
+        <item>0.1252</item>
+        <item>0.13294</item>
+        <item>0.14089</item>
+        <item>0.14915</item>
+        <item>0.15762</item>
+        <item>0.16628</item>
+        <item>0.17526</item>
+        <item>0.18444</item>
+        <item>0.19388</item>
+        <item>0.20352</item>
+        <item>0.21348</item>
+        <item>0.22363</item>
+        <item>0.23405</item>
+        <item>0.24466</item>
+        <item>0.2556</item>
+        <item>0.26673</item>
+        <item>0.27813</item>
+        <item>0.28978</item>
+        <item>0.30169</item>
+        <item>0.31387</item>
+        <item>0.3263</item>
+        <item>0.339</item>
+        <item>0.35195</item>
+        <item>0.3651</item>
+        <item>0.37858</item>
+        <item>0.39232</item>
+        <item>0.40632</item>
+        <item>0.42057</item>
+        <item>0.43516</item>
+        <item>0.44993</item>
+        <item>0.46504</item>
+        <item>0.4804</item>
+        <item>0.49609</item>
+        <item>0.51204</item>
+        <item>0.52826</item>
+        <item>0.54479</item>
+        <item>0.56165</item>
+        <item>0.57878</item>
+        <item>0.59622</item>
+        <item>0.614</item>
+        <item>0.63203</item>
+        <item>0.65046</item>
+        <item>0.66921</item>
+        <item>0.68822</item>
+        <item>0.70768</item>
+        <item>0.72741</item>
+        <item>0.74759</item>
+        <item>0.7681</item>
+        <item>0.789</item>
+        <item>0.81035</item>
+        <item>0.8321</item>
+        <item>0.8543</item>
+        <item>0.87702</item>
+        <item>0.9002</item>
+        <item>0.92402</item>
+        <item>0.94844</item>
+        <item>0.97363</item>
+        <item>1.0</item>
+    </array>
+    <array name="mc_pullline_move_start">
+        <item>0.0</item>
+        <item>0.02637</item>
+        <item>0.05156</item>
+        <item>0.07598</item>
+        <item>0.0998</item>
+        <item>0.12298</item>
+        <item>0.1457</item>
+        <item>0.1679</item>
+        <item>0.18965</item>
+        <item>0.211</item>
+        <item>0.2319</item>
+        <item>0.25241</item>
+        <item>0.27259</item>
+        <item>0.29232</item>
+        <item>0.31178</item>
+        <item>0.33079</item>
+        <item>0.34954</item>
+        <item>0.36797</item>
+        <item>0.386</item>
+        <item>0.40378</item>
+        <item>0.42122</item>
+        <item>0.43835</item>
+        <item>0.45521</item>
+        <item>0.47174</item>
+        <item>0.48796</item>
+        <item>0.50391</item>
+        <item>0.5196</item>
+        <item>0.53496</item>
+        <item>0.55007</item>
+        <item>0.56484</item>
+        <item>0.57943</item>
+        <item>0.59368</item>
+        <item>0.60768</item>
+        <item>0.62142</item>
+        <item>0.6349</item>
+        <item>0.64805</item>
+        <item>0.661</item>
+        <item>0.6737</item>
+        <item>0.68613</item>
+        <item>0.69831</item>
+        <item>0.71022</item>
+        <item>0.72188</item>
+        <item>0.73327</item>
+        <item>0.7444</item>
+        <item>0.75534</item>
+        <item>0.76595</item>
+        <item>0.77637</item>
+        <item>0.78652</item>
+        <item>0.79648</item>
+        <item>0.80612</item>
+        <item>0.81556</item>
+        <item>0.82474</item>
+        <item>0.83372</item>
+        <item>0.84238</item>
+        <item>0.85085</item>
+        <item>0.85911</item>
+        <item>0.86706</item>
+        <item>0.8748</item>
+        <item>0.88236</item>
+        <item>0.88965</item>
+        <item>0.89668</item>
+        <item>0.90345</item>
+        <item>0.91003</item>
+        <item>0.91634</item>
+        <item>0.92246</item>
+        <item>0.92832</item>
+        <item>0.93398</item>
+        <item>0.93939</item>
+        <item>0.94453</item>
+        <item>0.94948</item>
+        <item>0.95417</item>
+        <item>0.95866</item>
+        <item>0.96289</item>
+        <item>0.96693</item>
+        <item>0.9707</item>
+        <item>0.97428</item>
+        <item>0.9776</item>
+        <item>0.98066</item>
+        <item>0.98353</item>
+        <item>0.98613</item>
+        <item>0.98854</item>
+        <item>0.99076</item>
+        <item>0.99271</item>
+        <item>0.9944</item>
+        <item>0.9959</item>
+        <item>0.99714</item>
+        <item>0.99818</item>
+        <item>0.99896</item>
+        <item>0.99954</item>
+        <item>0.99987</item>
+        <item>1.0</item>
+    </array>
+    <array name="mc_rating_bar_black_bg_colors">
         <item>#ffc9c9c9</item>
         <item>#ffc9c9c9</item>
         <item>#ffc9c9c9</item>
         <item>#ffc9c9c9</item>
         <item>#ffc9c9c9</item>
     </array>
-    <array name="k">
+    <array name="mc_rating_bar_default_colors">
         <item>#fffbc106</item>
         <item>#fffcb10f</item>
         <item>#fffc9c1b</item>
         <item>#fffc8f21</item>
         <item>#fffd7d2c</item>
     </array>
-    <array name="l">
+    <array name="mc_rating_bar_white_bg_colors">
         <item>#ff7f7f7f</item>
         <item>#ff7f7f7f</item>
         <item>#ff7f7f7f</item>
         <item>#ff7f7f7f</item>
         <item>#ff7f7f7f</item>
     </array>
-    <string-array name="m">
+    <string-array name="mz_app_to_next_open_enter_translate_y">
         <item>1f</item>
         <item>0.9098163031f</item>
         <item>0.8200344432f</item>
@@ -329,7 +329,7 @@
         <item>0.0006314581f</item>
         <item>0f</item>
     </string-array>
-    <array name="n">
+    <array name="mz_colorful_round">
         <item>#ffe26f41</item>
         <item>#ffdd5847</item>
         <item>#ff6e6bc8</item>
@@ -338,13 +338,13 @@
         <item>#ff54ae56</item>
         <item>#ffe9a63b</item>
     </array>
-    <string-array name="o">
+    <string-array name="sizeUnit">
         <item>B</item>
         <item>KB</item>
         <item>MB</item>
         <item>GB</item>
     </string-array>
-    <string-array name="p">
+    <string-array name="theme_component_id">
         <item>vlifelockscreen</item>
         <item>zklockscreen</item>
         <item>com.meizu.media.reader</item>
@@ -358,24 +358,24 @@
         <item>com.meizu.flyme.weather</item>
         <item>com.android.calendar</item>
     </string-array>
-    <string-array name="q">
+    <string-array name="timeEn">
         <item>%ds</item>
         <item>%1$dm%2$ds</item>
         <item>>1h</item>
     </string-array>
-    <string-array name="r">
+    <string-array name="time_acceleration_entry">
         <item>Accelerate 1x</item>
         <item>Accelerate 10x</item>
         <item>Accelerate 100x</item>
         <item>Accelerate 1000x</item>
     </string-array>
-    <string-array name="s">
+    <string-array name="time_acceleration_entry_value">
         <item>1</item>
         <item>10</item>
         <item>100</item>
         <item>1000</item>
     </string-array>
-    <string-array name="t">
+    <string-array name="update_wallpaper_frequency">
         <item>Every time when screen is turned on</item>
         <item>Every 15 minutes</item>
         <item>Every 30 minutes</item>
@@ -383,7 +383,7 @@
         <item>Every 3 hours</item>
         <item>Every 24 hours</item>
     </string-array>
-    <string-array name="u">
+    <string-array name="values_close_exit_translate_app">
         <item>0.0f</item>
         <item>0.12734375f</item>
         <item>0.290538194f</item>
@@ -403,7 +403,7 @@
         <item>0.998090278f</item>
         <item>1.0f</item>
     </string-array>
-    <string-array name="v">
+    <string-array name="values_extra_close_exit_translate_app">
         <item>0.0</item>
         <item>0.0047222222</item>
         <item>0.0180555556</item>
@@ -436,7 +436,7 @@
         <item>0.9978703704</item>
         <item>1.0</item>
     </string-array>
-    <string-array name="w">
+    <string-array name="values_extra_open_enter_translate_app">
         <item>0.0</item>
         <item>0.0037037037</item>
         <item>0.0149074074</item>
@@ -469,7 +469,7 @@
         <item>0.9984259259</item>
         <item>1.0</item>
     </string-array>
-    <string-array name="x">
+    <string-array name="values_open_enter_translate_app">
         <item>0.0f</item>
         <item>0.240190972f</item>
         <item>0.466145833f</item>
@@ -489,7 +489,7 @@
         <item>0.999652778f</item>
         <item>1.0f</item>
     </string-array>
-    <string-array name="y">
+    <string-array name="webview_tel_dialog_title">
         <item>Call number</item>
         <item>Send message</item>
         <item>Copy</item>

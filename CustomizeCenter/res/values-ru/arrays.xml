@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="c">
-        <item>Themes</item>
-        <item>Fonts</item>
-        <item>Ringtones</item>
-        <item>Wallpapers</item>
-        <item>Keyboard</item>
+        <item>Темы</item>
+        <item>Шрифты</item>
+        <item>Рингтоны</item>
+        <item>Обои</item>
+        <item>Клавиатуры</item>
     </string-array>
     <string-array name="e">
         <item>1</item>

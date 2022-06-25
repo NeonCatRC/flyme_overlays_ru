@@ -18,18 +18,17 @@ Overlays for f9 apps
 | APP | STATE | PURPOUSE |
 | ------ | ------ | ------ |
 |  | FULL |  |
-| AlarmClock | FULL n\t | Build-in clock app |
+| AlarmClock | FULL | Build-in clock app |
 | AlphaMe | FULL | Aicy Engine |
 | AlwaysOnDisplay | FULL | AOD settings app |
 | Calculator | FULL | Calc app |
-| Calendar | FULL n\t | Calendar app |
+| Calendar | FULL | Calendar app |
 | Camera | FULL | Camera app |
-| CustomizeCenter | FULL | Themes \ AOD settings app |
 | Dialer | FULL | Phone app |
 | Email | FULL | Standart Flyme e-mail client |
-| FileManager | FULL n\t | Standart Flyme file manager |
+| FileManager | FULL | Standart Flyme file manager |
 | FlymeSoundRecorder | FULL | Build-in recorder app (Flyme 9.2) |
-| Gallery | FULL n\t !!'More' button in share in Chinese!! | Standart Flyme gallery app |
+| Gallery | FULL n\t | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
 | MMS | FULL (except china shit) | Standart Flyme SMS/MMS messager |
 | MusicFX | FULL n\t | SquareSound |
@@ -37,18 +36,19 @@ Overlays for f9 apps
 | MzBatteryManager | FULL n\t | Battery manager |
 | MzSecurity | FULL n\t | Build-in antivirus and cleaner |
 | NetAdmin | FULL n\t | Build-in network check and diagnostics |
-| NotePaper | FULL n\t | Notepad app |
-| Pedometer | FULL n\t | Step counter |
+| NotePaper | FULL | Notepad app |
+| Pedometer | FULL | Step counter |
 | Picker | FULL | Aicy Touch main app |
-| SoundRecorder | FULL n\t | Build-in recorder app |
+| SoundRecorder | FULL | Build-in recorder app |
 | SystemUIEx | FULL n\t | System app |
 | TodoList | FULL | notes and to-do app |
-| ToolBox | FULL n\t | Flyme tools app |
+| ToolBox | FULL | Flyme tools app |
 | Video | FULL n\t | Standart Flyme video player |
 | Weather | FULL | Weather app |
 |  | WIP/START/STOP |  |
-| Assistant | WIP | --- |
+| Assistant | WIP | Aicy settings app |
 | ConnectivitySettings | WIP | Connect app |
+| CustomizeCenter | WIP | Themes \ AOD settings app |
 | DataMigration | Stop | Data migration app |
 | FlymeLauncher | WIP | Standart Flyme launcher |
 | FlymeMusic | WIP | Standart Flyme music app (Flyme 9.2) |
@@ -59,10 +59,10 @@ Overlays for f9 apps
 | PermissionController | Stop |  |
 | SDKStage | Stop | System app |
 | Settings | WIP | Settings app |
-| Suggestion | WIP | |
+| Suggestion | WIP | Aicy suggestion app |
 | SystemUI | WIP | System app |
 | SystemUITools | WIP | System app |
-| VoiceAssistant | WIP |  |
+| VoiceAssistant | WIP | Aicy voice app |
 |  | N/A |  |
 | SystemWallpaper | | |
 | DownloadProvider |  |  |
