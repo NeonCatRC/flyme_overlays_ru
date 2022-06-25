@@ -86,7 +86,7 @@
     <string name="birthday_zero_title">день рождения</string>
     <string name="bookmark">Мое Избранное</string>
     <string name="bookmark_add_succeed">Успешно добавлено</string>
-    <string name="bookmark_add_to_my_favorite">Добавить к ледяным взглядам</string>
+    <string name="bookmark_add_to_my_favorite">Добавить в Aicy Glance</string>
     <string name="bookmark_auto_set">Настройка автоматического сбора данных</string>
     <string name="bookmark_collect_from">От: %1$s</string>
     <string name="bookmark_search_failed">Результаты не Найдены</string>

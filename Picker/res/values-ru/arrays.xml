@@ -56,34 +56,34 @@
         <item>Сб</item>
     </string-array>
     <string-array name="setting_more_tab1_grid2_desc">
-        <item>Express</item>
-        <item>Celebrity</item>
+        <item>Почта</item>
+        <item>Знаменитость</item>
         <item>Фильм</item>
-        <item>TV series</item>
-        <item>Variety</item>
+        <item>ТВ сериал</item>
+        <item>Одежда</item> <!--Variety-->
         <item>Адрес</item>
-        <item>Attractions</item>
+        <item>Отпуск</item>
         <item>Приложение</item>
-        <item>URL</item>
+        <item>Ссылка</item>
         <item>Слова</item>
         <item>Музыка</item>
     </string-array>
     <string-array name="setting_more_tab2_grid1_desc">
         <item>Сохранить</item>
         <item>Поделиться</item>
-        <item>TTS</item>
+        <item>Прочесть</item>
         <item>Сканировать</item>
         <item>Позвонить</item>
     </string-array>
     <string-array name="setting_more_tab3_grid_desc">
-        <item>Store links to Minus 1 Screen</item>
+        <item>Показать ссылки на экране</item>
         <item>Поделиться ссылкой в другое приложение</item>
         <item>Распознать музыку из Tik Tok/Kuaishou</item>
     </string-array>
     <string-array name="setting_more_tab3_grid_title">
         <item>Понравилось</item>
         <item>Поделиться</item>
-        <item>Listening to songs and recognizing music</item>
+        <item>Распознавание музыки и песен</item>
     </string-array>
 </resources>
 

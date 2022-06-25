@@ -2,7 +2,7 @@
 
 Overlays for f9 apps
 
-![f9ru](https://user-images.githubusercontent.com/48006934/175659979-cae9bda2-6b4a-4d86-a056-3915581714f5.png)
+![f9ru](https://user-images.githubusercontent.com/48006934/175773266-31f9adde-1e08-467f-861b-fca7d3bad649.png)
 
 ## This repository is distributed openly and for free
 
@@ -39,6 +39,7 @@ Overlays for f9 apps
 | NetAdmin | FULL n\t | Build-in network check and diagnostics |
 | NotePaper | FULL n\t | Notepad app |
 | Pedometer | FULL n\t | Step counter |
+| Picker | FULL | Aicy Touch main app |
 | SoundRecorder | FULL n\t | Build-in recorder app |
 | SystemUIEx | FULL n\t | System app |
 | TodoList | FULL | notes and to-do app |
@@ -56,7 +57,6 @@ Overlays for f9 apps
 | MzShare | Stop |  |
 | MzUpdate | WIP | Meizu update center |
 | PermissionController | Stop |  |
-| Picker | WIP |  |
 | SDKStage | Stop | System app |
 | Settings | WIP | Settings app |
 | Suggestion | WIP | |
