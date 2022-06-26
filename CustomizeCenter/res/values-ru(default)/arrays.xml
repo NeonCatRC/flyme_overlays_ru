@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="c">
+        <item>Темы</item>
+        <item>Шрифты</item>
+        <item>Рингтоны</item>
+        <item>Обои</item>
+        <item>Клавиатуры</item>
+    </string-array>
+    <string-array name="e">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="f">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="g">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="o">
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
+    <string-array name="q">
+        <item>%dс</item>
+        <item>%1$dм%2$dс</item>
+        <item>>1ч</item>
+    </string-array>
+    <string-array name="r">
+        <item>Accelerate 1x</item>
+        <item>Accelerate 10x</item>
+        <item>Accelerate 100x</item>
+        <item>Accelerate 1000x</item>
+    </string-array>
+    <string-array name="t">
+        <item>Каждый раз, когда экран включен</item>
+        <item>Каждые 15 минут</item>
+        <item>Каждые 30 минут</item>
+        <item>Каждый час</item>
+        <item>Каждые 3 часа</item>
+        <item>Каждые 24 часа</item>
+    </string-array>
+    <string-array name="y">
+        <item>Позвонить</item>
+        <item>Отправить сообщение</item>
+        <item>Копировать</item>
+        <item>Добавить в контакты</item>
+    </string-array>
+</resources>
