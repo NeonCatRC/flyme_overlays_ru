@@ -415,7 +415,7 @@
     <string name="l2">Выходные</string>
     <string name="l3">Рабочие дни</string>
     <string name="l4">ОК</string>
-    <string name="l5">Не нравиться</string>
+    <string name="l5">Не нравится</string>
     <string name="l6">Показать список</string>
     <string name="l7">Сохранить</string>
     <string name="l8">Установить на экр.блокировки</string>
@@ -829,7 +829,7 @@
     <string name="wm">Нет</string>
     <string name="wn">Обнаружена неизвестная системная ошибка.</string>
     <string name="wo">Неизвестная ошибка sdk</string>
-    <string name="wp">Не нравиться</string>
+    <string name="wp">Не нравится</string>
     <string name="wq">Слишком частые запросы</string>
     <string name="wr">Не поддерживается в текущей версии системы. Пожалуйста, обновите систему и попробуйте еще раз</string>
     <string name="ws">Обновить</string>

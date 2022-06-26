@@ -57,8 +57,8 @@
     </string-array>
     <string-array name="noti_anim">
         <item>Ничего</item>
-        <item>Вкл. экран</item>
-        <item>Круги</item> <!-- !!! circle -->
-        <item>Свечение</item>
+        <item>Пробуждение</item>
+        <item>Круг</item> <!-- !!! circle -->
+        <item>Волны</item>
     </string-array>
 </resources>
