@@ -24,6 +24,7 @@ Overlays for f9 apps
 | Calculator | FULL | Calc app |
 | Calendar | FULL | Calendar app |
 | Camera | FULL | Camera app |
+| CustomizeCenter | FULL n\t | Themes \ AOD settings app |
 | Dialer | FULL | Phone app |
 | Email | FULL | Standart Flyme e-mail client |
 | FileManager | FULL | Standart Flyme file manager |
@@ -48,7 +49,6 @@ Overlays for f9 apps
 |  | WIP/START/STOP |  |
 | Assistant | WIP | Aicy settings app |
 | ConnectivitySettings | WIP | Connect app |
-| CustomizeCenter | WIP | Themes \ AOD settings app |
 | DataMigration | Stop | Data migration app |
 | FlymeLauncher | WIP | Standart Flyme launcher |
 | FlymeMusic | WIP | Standart Flyme music app (Flyme 9.2) |

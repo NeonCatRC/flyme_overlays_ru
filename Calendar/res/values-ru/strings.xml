@@ -573,7 +573,7 @@
     <string name="news_update">Обновить сейчас</string>
     <string name="no_calendars_found">Добавить событие можно только в видимый календарь, настроенный на устройстве. Нажмите \"Добавить аккаунт\" или, если он недавно добавлен, дождитесь окончания синхронизации и повторите попытку. Либо нажмите \"Отмена\" и сделайте видимым хотя бы один календарь.</string>
     <string name="no_data">Нет</string>
-    <string name="no_event">Сегодня нет событий</string>
+    <string name="no_event">Нет событий</string>
     <string name="no_import_birthday">Нет дней рождений</string>
     <string name="no_live">Нет прямого эфира</string>
     <string name="no_more_data">Нет данных</string>
