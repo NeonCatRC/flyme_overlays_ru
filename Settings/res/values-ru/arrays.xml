@@ -203,6 +203,12 @@
         <item>Умное пробуждение</item>
         <item>Запрет пробуждения</item>
     </string-array>
+    <string-array name="apps_filter_spinner_items_text">
+        <item>Недавние</item>
+        <item>Частые увед.</item>
+        <item>Отключены</item>
+        <item>Все приложения</item>
+    </string-array>
     <string-array name="automatic_storage_management_days">
         <item>Старше 30 дн.</item>
         <item>Старше 60 дн.</item>
