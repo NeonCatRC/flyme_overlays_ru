@@ -760,10 +760,8 @@
     <string name="pref_summary_edit_quick_reply">Изменить сообщения для быстрого ответа</string>
     <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
     <string name="pref_summary_mms_read_reports">Запрашивать отчёт о прочтении для всех отправляемых сообщений</string>
-
-    <string name="pref_title_auto_delete">Automatically delete expired information</string>
-    <string name="pref_title_auto_delete_desc">Automatically delete expired information such as verification code and extraction code</string>
-    
+    <string name="pref_title_auto_delete">Автоматически удалять ненужные сообщения</string>
+    <string name="pref_title_auto_delete_desc">Автоматически удалять ненужные сообщения, такие как коды верификации</string>
     <string name="pref_title_key_message_capacity">Хранилище сообщений</string>
     <string name="pref_title_manage_messages_spam">Анти-спам</string>
     <string name="pref_title_manage_multi_sim_messages">Сообщения на SIM-карте (%s)</string>

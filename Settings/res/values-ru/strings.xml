@@ -419,7 +419,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="applock">Блокировка приложений</string>
     <string name="applock_category">Блокируемое ПО</string>
     <string name="apply">Принять</string>
-    <string name="apps_allow_badge_notification">Оповещения на иконках включены</string>
+    <string name="apps_allow_badge_notification">Приложения с уведомлениями на иконке</string>
     <string name="apps_allow_heads_up_notification">Всплывающие уведомления включены</string>
     <string name="apps_allow_lock_screen_notification">Уведомления на заблокированном экране включены</string>
     <string name="apps_allow_ongoing_notification">Липкие уведомления включены</string>
@@ -1499,7 +1499,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="dialog_stop_message_wakeup_alarm">Ваш телефон не может нормально управлять батареей, потому что %1$s продолжает пробуждать ваш телефон. Чтобы попытаться исправить эту проблему, вы можете остановить %1$s. Если это продолжается, возможно, вам придется удалить приложение, чтобы повысить производительность аккумулятора</string>
     <string name="dialog_stop_ok">Остановить</string>
     <string name="dialog_stop_title">Остановить приложение?</string>
-    <string name="diaplay_and_brightness">Дисплей</string>
+    <string name="diaplay_and_brightness">Экран</string>
     <string name="digital_health_title">Цифровое благополучие</string>
     <string name="digital_style_spring">Весенний</string>
     <string name="digital_style_text_1">По умолчанию</string>
@@ -1515,7 +1515,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="disable_service_title">Остановить «%1$s»?</string>
     <string name="disable_text">Отключить</string>
     <string name="disabled">Отключено</string>
-    <string name="disabled_all_apps">Disable all</string>
+    <string name="disabled_all_apps">Отключить все</string>
     <string name="disabled_because_no_backup_security">Сначала необходимо настроить блокировку экрана</string>
     <string name="disabled_by_admin">Отключено администратором</string>
     <string name="disabled_by_admin_summary_text">Контролируется администратором</string>
@@ -1543,7 +1543,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="display_font_size_tips">Все ещё мало? Попробуйте облегчённый режим</string>
     <string name="display_label">Экран</string>
     <string name="display_mode_settings_summary">Настройка цветового диапазона, насыщенности и резкости дисплея на основе ваших предпочтений</string>
-    <string name="display_mode_settings_title">Настройки экрана</string>
+    <string name="display_mode_settings_title">Настройки цветопередачи</string>
     <string name="display_order_text">Упорядочить по:</string>
     <string name="display_settings">Экран</string>
     <string name="display_settings_title">Экран</string>

@@ -55,11 +55,9 @@
     <string name="add_to_folder">Добавить в папку: %1$s</string>
     <string name="add_to_folder_with_app">Добавить в папку с %1$s</string>
     <string name="added_to_folder">Добавлено в папку</string>
-
-    <string name="aicy_appguess_tip">Aicy dynamically updates app suggestions here</string>
-    <string name="aicy_swtich">Aicy overview</string>
-    <string name="aicy_swtich_explain">Swiperight in workspace home page</string>
-
+    <string name="aicy_appguess_tip">Aicy динамически обновляет предложения приложений здесь</string>
+    <string name="aicy_swtich">Aicy Glance</string>
+    <string name="aicy_swtich_explain">Смахните вправо на домашнем экране</string>
     <string name="align">Выровнять</string>
     <string name="all_apps_button_label">Список приложений</string>
     <string name="all_apps_button_personal_label">Список персональных приложений</string>
@@ -193,11 +191,9 @@
     <string name="launcher_edit_panel_flyme_style_icon">Flyme</string>
     <string name="launcher_edit_panel_grid_title">Сетка иконок</string>
     <string name="launcher_edit_panel_more_setting">Больше настроек</string>
-    <string name="launcher_edit_panel_round_rect_style_icon">Скругление иконок</string> <!--Round rect-->
+    <string name="launcher_edit_panel_round_rect_style_icon">Скругление иконок</string>
     <string name="launcher_edit_panel_size_title">Размер иконок</string>
-
-    <string name="launcher_edit_panel_style_explain">Only in force on default theme</string>
-
+    <string name="launcher_edit_panel_style_explain">Работает только в стандартной теме</string>
     <string name="launcher_edit_panel_style_title">Стиль иконок</string>
     <string name="launcher_edit_panel_title">Настройка лаунчера</string>
     <string name="launcher_setting">Настройка лаунчера</string>
@@ -546,10 +542,8 @@
     <string name="work_folder_name">Работа</string>
     <string name="work_profile_edu_accept">Понятно</string>
     <string name="work_profile_edu_next">Дальше</string>
-
-    <string name="work_profile_edu_personal_apps">Personal data is separate &amp; hidden from work apps</string>
-    <string name="work_profile_edu_work_apps">Work apps &amp; data are visible to your IT admin</string>
-
+    <string name="work_profile_edu_personal_apps">Персональная информация скрыта от рабочих приложений</string>
+    <string name="work_profile_edu_work_apps">Рабочие приложения и информация видны для вашего администратора</string>
     <string name="work_profile_toggle_label">Рабочий профиль</string>
     <string name="work_switch_tip">Остановить рабочие приложения и уведомления</string>
     <string name="workspace_new_page">Добавить новый экран</string>

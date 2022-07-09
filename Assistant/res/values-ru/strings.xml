@@ -131,7 +131,7 @@
     <string name="card_dataplan_title_month_over">Чрезмерное потребление, чем месячный план</string>
     <string name="card_dataplan_title_month_used">За месяц</string>
     <string name="card_download_app_more">Еще приложения</string>
-    <string name="card_download_app_switch">Переключить</string>
+    <string name="card_download_app_switch">Следующее</string>
     <string name="card_driver_route_address_setting_company">Установить адрес компании или школы</string>
     <string name="card_driver_route_address_setting_home">Установить домашний адрес</string>
     <string name="card_driver_route_address_setting_title">Нажмите, чтобы установить</string>
