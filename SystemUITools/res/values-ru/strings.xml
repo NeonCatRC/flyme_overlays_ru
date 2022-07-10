@@ -765,4 +765,15 @@ Equivalent to %1$s broadband"</string>
     <string name="pref_title_switcher_recents">Свайп для переключения задач</string>
     <string name="unknown_albumTitle">Неизв. альбом</string>
     <string name="unknown_artist">Неизв. исполнитель</string>
+    <string name="welcome_page_five_content">Держите вашу конфиденциальность под контролем</string>
+    <string name="welcome_page_five_title">Конфиденциальность</string>
+    <string name="welcome_page_four_content">Воспользуйтесь новыми инструментами обработки</string>
+    <string name="welcome_page_four_title">Мультимедиа</string>
+    <string name="welcome_page_one_content">Великолепный, легкий и изящный</string>
+    <string name="welcome_page_one_title">Обновленный вид интерфейса</string>
+    <string name="welcome_page_three_content">Aicy поможет распознать контент, голос и многое другое</string>
+    <string name="welcome_page_three_title">Ассистент Aicy</string>
+    <string name="welcome_page_two_content">Быстрые функции удобнее, а тяжелые задачи быстрее</string>
+    <string name="welcome_page_two_title">Функциональность</string>
+    <string name="welcome_start_end_title">"Приветствуем          на Flyme 9 beta"</string>
 </resources>
