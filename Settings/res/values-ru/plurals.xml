@@ -61,10 +61,12 @@
         <item quantity="other">%2$d apps restricted recently</item>
         <item quantity="one">%1$s apps restricted recently</item>
     </plurals>
+
     <plurals name="battery_tip_restrict_summary">
-        <item quantity="other">%2$d apps highly use power in background</item>
-        <item quantity="one">%1$s apps highly use power in background</item>
+        <item quantity="other">%2$d приложений сильно расходуют энергию в фоновом режиме</item>
+        <item quantity="one">%1$s приложений сильно расходуют энергию в фоновом режиме</item>
     </plurals>
+    
     <plurals name="battery_tip_restrict_title">
         <item quantity="other">%1$d apps restricted</item>
         <item quantity="one">%1$d apps restricted</item>
@@ -212,20 +214,18 @@
         <item quantity="other">Отключены для %d приложения</item>
         <item quantity="one">Отключены для 1 приложения</item>
     </plurals>
-
     <plurals name="notifications_categories_off">
-        <item quantity="other">Disabled %d categories</item>
-        <item quantity="one">Disabled %d category</item>
+        <item quantity="other">Отключено %d категорий</item>
+        <item quantity="one">Отключена %d категория</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%d notifications per day</item>
-        <item quantity="one">~%d notification per day</item>
+        <item quantity="other">~%d уведомлений в день</item>
+        <item quantity="one">~%d уведомление в день</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%d notifications per week</item>
-        <item quantity="one">~%d notification per week</item>
+        <item quantity="other">~%d уведомлений в неделю</item>
+        <item quantity="one">~%d уведомление в неделю</item>
     </plurals>
-
     <plurals name="number_of_device_admins">
         <item quantity="other">%d активных приложений</item>
         <item quantity="one">%d активное приложение</item>
@@ -352,13 +352,11 @@
         <item quantity="other">Неверный PIN-код, осталось попыток: %d</item>
         <item quantity="one">Неверный PIN-код, осталось попыток: %d. Затем вам придётся обратиться к своему оператору для разблокировки телефона.</item>
     </plurals>
-
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">Notifications from %1$d apps can override Do Not Disturb</item>
-        <item quantity="zero">No apps can override Do Not Disturb</item>
-        <item quantity="one">Notifications from 1 app can override Do Not Disturb</item>
+        <item quantity="other">Уведомления из %1$d приложений игнорируют режим "Не беспокоить"</item>
+        <item quantity="zero">Нет приложений, которые игнорируют режим "Не беспокоить"</item>
+        <item quantity="one">Уведомления из 1 приложения игнорируют режим "Не беспокоить"</item>
     </plurals>
-
     <plurals name="zen_mode_duration_summary_time_hours">
         <item quantity="other">%d часов</item>
         <item quantity="one">1 час</item>
