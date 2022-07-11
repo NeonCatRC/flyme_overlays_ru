@@ -26,6 +26,8 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="androidx_core_ripple_material_light">#1f000000</color>
+    <color name="androidx_core_secondary_text_default_material_light">#8a000000</color>
     <color name="background_color">#ff508aeb</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
@@ -96,7 +98,6 @@
     <color name="feiyan">#ffd2bcd1</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <color name="gray">#ffaaaaaa</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="list_hovered_background">#0a000000</color>
@@ -246,14 +247,12 @@
     <color name="mz_banner_view_gradient_cover_color">#00000000</color>
     <color name="mz_banner_view_holder_background_color">#fff7f7f7</color>
     <color name="mz_barcode_divider">#1affffff</color>
-    <color name="mz_barcode_gray">#66ffffff</color>
     <color name="mz_barcode_hint_text_color">#80ffffff</color>
     <color name="mz_barcode_result_button_text">#fffcc927</color>
     <color name="mz_barcode_result_item_title_color">#66ffffff</color>
-    <color name="mz_barcode_result_pressed_color">#14ffffff</color>
     <color name="mz_barcode_scan_bg">#4d000000</color>
     <color name="mz_barcode_smart_bar_background_color">#00000000</color>
-    <color name="mz_barcode_white">#ffffffff</color>
+    <color name="mz_barcode_support_view_text_color">#99ffffff</color>
     <color name="mz_bright_foreground_disabled_light">#4d000000</color>
     <color name="mz_bright_foreground_light">#ff000000</color>
     <color name="mz_btn_dialog_alert_long_pressed">#50000000</color>
@@ -310,8 +309,8 @@
     <color name="mz_hint_text_color_light">#ffb3b3b3</color>
     <color name="mz_invalid_bg_hint_text">#66000000</color>
     <color name="mz_lab_line_grey">#1a000000</color>
-    <color name="mz_level_bg">#33ffffff</color>
-    <color name="mz_level_fg">#a6ffffff</color>
+    <color name="mz_level_orientation_floor_color">#4cffffff</color>
+    <color name="mz_level_stand_color">#fffbc106</color>
     <color name="mz_line_gray">#20ffffff</color>
     <color name="mz_list_comment_right_text_color_grey">#ff000000</color>
     <color name="mz_list_comment_right_text_color_red">#ffcf3c31</color>
@@ -435,7 +434,7 @@
     <color name="mzuc_dialog_sub_title_text_color">#80000000</color>
     <color name="mzuc_progress_bar_color">#ff43b56b</color>
     <color name="nature">#ffa0b5c7</color>
-    <color name="notification_action_color_filter">@color/secondary_text_default_material_light</color>
+    <color name="notification_action_color_filter">@color/androidx_core_secondary_text_default_material_light</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="orgin">#4d000000</color>
     <color name="pano_line">#ffffaf00</color>

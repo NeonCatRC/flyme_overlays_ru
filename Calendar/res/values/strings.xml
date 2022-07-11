@@ -59,7 +59,6 @@
     <string name="action_subscribed">Subscribed</string>
     <string name="action_subscription">Subscriptions</string>
     <string name="action_tools">Tool</string>
-    <string name="actor">Actor</string>
     <string name="ad_close_tip">Skip %d</string>
     <string name="add_account">Add account</string>
     <string name="add_all_label">Add all</string>
@@ -92,7 +91,6 @@
 Tap to subscribe, then all the information you need will be readily available."</string>
     <string name="almanac_detail_almanac">Lunar calendar</string>
     <string name="almanac_detail_week">Week</string>
-    <string name="almanac_item_desc">Get insights into your future life</string>
     <string name="already_import_birthday">Already import %s contact birthday</string>
     <string name="alwaysUse">Use this option as default</string>
     <string name="anniver_alarm_info_befort_one_day_fmt">Reminder on one day ago %s</string>
@@ -108,7 +106,6 @@ Tap to subscribe, then all the information you need will be readily available."<
     <string name="app_name">Calendar</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="assistant_card_header">Calendar events</string>
-    <string name="assistant_nba_add_team">Add team</string>
     <string name="assistant_nba_board">Rankings</string>
     <string name="assistant_nba_header_title">NBA Info</string>
     <string name="assistant_nba_no_match">No competition recently</string>
@@ -145,6 +142,8 @@ Tap to subscribe, then all the information you need will be readily available."<
     <string name="confirm">Continue</string>
     <string name="conflict_text">Conflict</string>
     <string name="count_down_title">days</string>
+    <string name="count_down_title_two_line">"
+days"</string>
     <string name="countdown_left_default">"
 - - left"</string>
     <string name="countdown_left_unit">days</string>
@@ -169,7 +168,6 @@ Tap to subscribe, then all the information you need will be readily available."<
     <string name="default_sans_serif">sans-serif</string>
     <string name="delete_this_event_title">Delete this event</string>
     <string name="detail">Details</string>
-    <string name="director">director</string>
     <string name="do_not_disturb_in_meeting">During the meeting DND</string>
     <string name="does_not_repeat">Never repeat</string>
     <string name="double_ninth_festival" />
@@ -227,7 +225,6 @@ Tap to subscribe, then all the information you need will be readily available."<
 
 By subscribing to Festival Pedia, you can get timely, interesting, and useful festival information right on the Calendar homepage."</string>
     <string name="festival_detail">Festival details</string>
-    <string name="festival_item_desc">Interesting and useful holiday information</string>
     <string name="festival_list_title">Festivals</string>
     <string name="file_selected_number">%1$s file(s) selected, %2$s MB in total</string>
     <string name="film">Films</string>
@@ -403,6 +400,7 @@ Subcribe to the Horoscope channel for daily-updated information including compre
     <string name="mc_saturday">SA</string>
     <string name="mc_search">Search</string>
     <string name="mc_search_button_text">Search</string>
+    <string name="mc_search_description">search bar</string>
     <string name="mc_search_icon">Search</string>
     <string name="mc_search_icon_input_clear">Clear</string>
     <string name="mc_search_text">Search</string>
@@ -428,14 +426,12 @@ Subcribe to the Horoscope channel for daily-updated information including compre
     <string name="mc_yes">OK</string>
     <string name="meizu_calendar">Meizu Calendar</string>
     <string name="mid_autumn_festival" />
-    <string name="min">min</string>
     <string name="modify_all">Change all repeated events</string>
     <string name="modify_all_following">Change this and all future events</string>
     <string name="modify_event">Change only this event</string>
     <string name="monthly">Every month</string>
     <string name="more_games">More games</string>
     <string name="more_item_label">More</string>
-    <string name="more_match">More schedules</string>
     <string name="mother_day">"Mother's Day"</string>
     <string name="mw_recipient_add_recipient">add recipient</string>
     <string name="mw_recipient_addrecipient_easymode">Add</string>
@@ -452,7 +448,6 @@ Subcribe to the Horoscope channel for daily-updated information including compre
     <string name="mw_recipient_title_email">Email</string>
     <string name="mw_recipient_title_message">Message</string>
     <string name="mw_recipient_total_str">%d people</string>
-    <string name="my_subscribe_hot_card">Featured</string>
     <string name="mz_action_bar_multi_choice_cancel">Cancel</string>
     <string name="mz_action_bar_multi_choice_select_all">All</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">None</string>
@@ -472,16 +467,25 @@ Subcribe to the Horoscope channel for daily-updated information including compre
     <string name="mz_permission_almost_deny">Never ask after denied</string>
     <string name="mz_permission_always_allow">Always allow</string>
     <string name="mz_permission_apply">Permission request</string>
+    <string name="mz_permission_continue_allow">Continue Use</string>
     <string name="mz_permission_deny">Deny</string>
     <string name="mz_permission_disagree">Disagree</string>
+    <string name="mz_permission_i_know">OK</string>
     <string name="mz_permission_inform">To provide basic services, this app needs to access the following permissions</string>
-    <string name="mz_permission_inform_f9">To ensure basic services, this application needs to apply for the following permissions</string>
+    <string name="mz_permission_inform_f9">This application needs to connect to the network and apply for the following necessary permissions</string>
+    <string name="mz_permission_inform_f9_no_internet">This application needs to apply for the following necessary permissions</string>
+    <string name="mz_permission_inform_f9_only_internet">This application needs to be connected to the network</string>
+    <string name="mz_permission_inform_secondary_confirmation_summary">To provide basic functions, this application needs to apply for the following necessary permissions:</string>
     <string name="mz_permission_message_content">%1$s requests %3$d permission(s) to %2$s</string>
     <string name="mz_permission_message_supplement">%1$s needs %2$s %3$d permissions</string>
     <string name="mz_permission_policy_description">To achieve the above functions and services, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)</string>
-    <string name="mz_permission_policy_description_f9">Before using the application, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)</string>
+    <string name="mz_permission_policy_description_f9">To ensure the use of complete functions, please read and agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)</string>
+    <string name="mz_permission_policy_description_noly_internet">To ensure the use of complete functions</string>
+    <string name="mz_permission_policy_description_update">In order to fully protect your rights, we have updated our privacy policy, which can be seen in detail %1$s</string>
+    <string name="mz_permission_secondary_confirmation_title">Necessary authority authorization</string>
     <string name="mz_permission_title_supplement">Ask for the following permissions</string>
     <string name="mz_permission_title_terms">Permissions and statements</string>
+    <string name="mz_permission_use_info">Instructions for use</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">WLAN</string>
     <string name="mz_permissiongroup_name_net">Network connections</string>
@@ -610,7 +614,6 @@ an account, wait for it to finish syncing and then retry). Or touch Cancel to ex
     <string name="no_data">None</string>
     <string name="no_event">No Events Today</string>
     <string name="no_import_birthday">No new contact birthday</string>
-    <string name="no_live">No Live Broadcasts</string>
     <string name="no_more_data">No More Data</string>
     <string name="no_net">No Net</string>
     <string name="no_net_tip">No network connection, please check the network settings</string>
@@ -620,9 +623,13 @@ an account, wait for it to finish syncing and then retry). Or touch Cancel to ex
     <string name="not_begin">Not started</string>
     <string name="notification_channel_name">Schedule reminder</string>
     <string name="on_the_march">In progress</string>
+    <string name="open_account_permission_message">Include read app account</string>
+    <string name="open_account_permission_title">"Allow Calendar Access your address book?
+"</string>
     <string name="open_contacts_permission_confirm">Open</string>
-    <string name="open_contacts_permission_message">This permission is required for new event function</string>
-    <string name="open_contacts_permission_title">Please open the read contact permission</string>
+    <string name="open_contacts_permission_message">Include read your contacts</string>
+    <string name="open_contacts_permission_title">"Allow Calendar Access your address book?
+"</string>
     <string name="open_custom_event_label">More</string>
     <string name="open_insert_event_success">Event added</string>
     <string name="open_update_event_success">Event updated</string>
@@ -632,10 +639,13 @@ an account, wait for it to finish syncing and then retry). Or touch Cancel to ex
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-    <string name="permission_text">"Calendar needs to access the internet, read your contacts and use your location to get zodiac signs, contacts' birthdays, and other useful information."</string>
     <string name="pref_header_extra_info">Additional Information</string>
     <string name="pref_header_visible_calendar">SHOW CALENDARS</string>
     <string name="pref_notification_summary">Get notified for gifts, popular activities and more</string>
+    <string name="pref_personalize_recommendation">Personalized Recommendation</string>
+    <string name="pref_personalize_recommendation_ad">Personalized Advertising</string>
+    <string name="pref_personalize_recommendation_ad_summary">Recommendations for ad content based on your preferences</string>
+    <string name="pref_privacy_policy">Privacy Policy</string>
     <string name="pref_summary_hide_declined">Exclude declined events from calendar</string>
     <string name="pref_summary_hide_past">Exclude events before today from calendar</string>
     <string name="pref_summary_show_full_screen">Get event rewards for free</string>
@@ -704,17 +714,7 @@ an account, wait for it to finish syncing and then retry). Or touch Cancel to ex
     <string name="share_loading_message">Creating, please wait</string>
     <string name="short_cut_new_event">Add event</string>
     <string name="short_cut_sub_square">Subscriptions</string>
-    <string name="show_detail_action_title">TV show details</string>
-    <string name="show_detail_actor">Starring</string>
-    <string name="show_detail_desc">Synopsis</string>
-    <string name="show_detail_dirctor">Director</string>
-    <string name="show_detail_hot_comments">Hot comments</string>
     <string name="show_detail_more">Details</string>
-    <string name="show_detail_no_comment">No Comments Yet</string>
-    <string name="show_detail_no_data">No Data</string>
-    <string name="show_detail_no_desc">No Description</string>
-    <string name="show_detail_pic">Latest photos</string>
-    <string name="show_detail_watch_online">Watch Online</string>
     <string name="solar_date" formatted="false">%s/%s/%s</string>
     <string name="span_end_date">To</string>
     <string name="span_start">From</string>
@@ -726,10 +726,7 @@ an account, wait for it to finish syncing and then retry). Or touch Cancel to ex
     <string name="star_speak">Star</string>
     <string name="starttime_endtime" formatted="false">%s - %s</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="stills">Stills</string>
-    <string name="sub_action_subscribed">Subscribed</string>
     <string name="sub_default_button_string">View</string>
-    <string name="sub_square_button_text">Subscribe</string>
     <string name="subscribe_alert_text_hint">Calendar subscription</string>
     <string name="subscribe_more">View more</string>
     <string name="subscribe_more_fold">Collapse</string>
@@ -749,7 +746,6 @@ an account, wait for it to finish syncing and then retry). Or touch Cancel to ex
     <string name="title_activity_agenda_past">Past Events</string>
     <string name="title_activity_almanac_detail">Almanac details</string>
     <string name="title_activity_countdown_past">Past countdown</string>
-    <string name="title_activity_football_list">FootballListActivity</string>
     <string name="title_activity_icalendar_list">Import calendar</string>
     <string name="title_countdown">%s</string>
     <string name="title_subscription_square">Subscriptions</string>
@@ -770,7 +766,6 @@ an account, wait for it to finish syncing and then retry). Or touch Cancel to ex
     <string name="tool_weekday">Weekday</string>
     <string name="tool_year">y</string>
     <string name="touch_3d_agenda">Events</string>
-    <string name="touch_3d_horoscope">Horoscope</string>
     <string name="touch_3d_new_event">New event</string>
     <string name="touch_3d_search">Search</string>
     <string name="un_festival_detail_tip">This event is not festival event</string>

@@ -82,6 +82,7 @@
     <string name="app_update_title">Updates available</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="appdetail_information">Information</string>
+
     <string name="appdownloader_button_cancel_download">取消</string>
     <string name="appdownloader_button_queue_for_wifi">排队</string>
     <string name="appdownloader_button_start_now">立即开始</string>
@@ -129,6 +130,7 @@
 触摸“%2$s ”可在下次连接到 WLAN 网络时开始下载此内容。"</string>
     <string name="appdownloader_wifi_required_title">文件太大，不适于通过运营商网络下载</string>
     <string name="appname_like" formatted="false">%s · %s</string>
+
     <string name="apppermission_followingcanaccess">Following contents can be accessed</string>
     <string name="apps_update">1 App Update Available</string>
     <string name="apps_update_formatted" formatted="false">「%s」,%s apps can be updated</string>
@@ -156,8 +158,8 @@
     <string name="campaign_limit_dialog_message">If the application has been downloaded within 30 days, no points will be awarded for this download</string>
     <string name="campaign_limit_dialog_title">Statement</string>
     <string name="campaign_limit_dialog_view">Download history</string>
-    <string name="campaign_my_money_format">%s元</string>
-    <string name="campaign_my_score_format">%d积分</string>
+    <string name="campaign_my_money_format">%s yuan</string>
+    <string name="campaign_my_score_format">%d points</string>
     <string name="campaign_on_doing">Ongoing</string>
     <string name="campaign_on_done">Done</string>
     <string name="campaign_on_ended">Ended</string>
@@ -224,8 +226,8 @@
     <string name="continue_download_confirm">Continue to download</string>
     <string name="convenient_to_use">Convenient to use</string>
     <string name="copy">Copy</string>
-    <string name="copy_log_error">log 移动失败</string>
-    <string name="copy_log_success">log 已经复制到 %s</string>
+    <string name="copy_log_error">log movement failed</string>
+    <string name="copy_log_success">log has been copied to %s</string>
     <string name="count_of_booked_install">Orders</string>
     <string name="count_of_like">likes</string>
     <string name="coupon_app_title">Apply applications：</string>
@@ -773,8 +775,8 @@
     <string name="mzuc_warn_later">Remind Later</string>
     <string name="network_error">Network error. Tap to retry</string>
     <string name="network_error_try_later">Network error. Try later</string>
-    <string name="network_execption">网络异常，请稍后重试</string>
-    <string name="network_fail">无网络连接，请检查网络设置</string>
+    <string name="network_execption">The network is abnormal, please try again later</string>
+    <string name="network_fail">No network connection, please check the network settings</string>
     <string name="network_reconnecting">Trying to reconnect</string>
     <string name="network_request_exception">Request network exception</string>
     <string name="newer_sdk">Outdated installation package. Please install a later version of the app</string>
@@ -906,7 +908,7 @@
     <string name="session_open_exception">Open session exception, please reinstall</string>
     <string name="session_sync_exception">Commit data failed</string>
     <string name="session_writing_exception">File writing exception, please reinstall</string>
-    <string name="set_network">设置网络</string>
+    <string name="set_network">Set up the network</string>
     <string name="settings">Settings</string>
     <string name="share">Share</string>
     <string name="share_to_others_content_appcenter">"%s, available on Meizu App Store "</string>
@@ -958,6 +960,7 @@
     <string name="total_count">%d in total</string>
     <string name="tt_00_00">00:00</string>
     <string name="tt_ad">Ad</string>
+
     <string name="tt_ad_logo_txt">广告</string>
     <string name="tt_app_name">tt_open_ad_sdk</string>
     <string name="tt_app_privacy_dialog_title">隐私政策</string>
@@ -1005,6 +1008,7 @@
     <string name="tt_video_without_wifi_tips">播放将消耗</string>
     <string name="tt_web_title_default">广告</string>
     <string name="tt_will_play">即将播放</string>
+    
     <string name="two_string_description_and_indicator" formatted="false">%s %s</string>
     <string name="uid_changed">Running process changed</string>
     <string name="uid_not_match">uid not match package name</string>

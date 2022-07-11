@@ -5,7 +5,7 @@
         <item quantity="one">%d new notification</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">现在只需再点击 %1$d 步操作即可导出 log</item>
-        <item quantity="one">现在只需再点击 %1$d 步操作即可导出 log</item>
+        <item quantity="other">Click again %1$d times for export log</item>
+        <item quantity="one">Click again %1$d times for export log</item>
     </plurals>
 </resources>

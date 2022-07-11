@@ -5,11 +5,9 @@
     <bool name="abc_allow_stacked_button_bar">false</bool>
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
-    <bool name="debug_type">false</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
     <bool name="default_circle_indicator_centered">true</bool>
     <bool name="default_circle_indicator_snap">false</bool>
     <bool name="isTablet">false</bool>
     <bool name="mz_split_action_bar_is_narrow">true</bool>
-    <bool name="zx_book_list_download_button_anim">true</bool>
-    <bool name="zx_book_shadow_enable">true</bool>
 </resources>

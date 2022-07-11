@@ -28,9 +28,6 @@
     <color name="accent_material_light">@color/material_deep_teal_500</color>
     <color name="active_view_default_color">@color/transparent3</color>
     <color name="activity_background_color">#fffafafa</color>
-    <color name="activity_red1">#ff703e04</color>
-    <color name="activity_red2">#ff897146</color>
-    <color name="activity_red2_night_mode">#e6897146</color>
     <color name="add_comment_edit_cursor_color">#ff2494f1</color>
     <color name="add_comment_edittext_color">#cd000000</color>
     <color name="add_comment_edittext_color_hint">#4d000000</color>
@@ -66,6 +63,7 @@
     <color name="blue_color">#ff1f7ffb</color>
     <color name="blue_light_color">#ffe1f1ff</color>
     <color name="blue_positive">#ff198ded</color>
+    <color name="bottom_selected_svg_hight_mode_color">#ffbe4d05</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -89,12 +87,6 @@
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="checkBoxTextColor">#73000000</color>
-    <color name="cir_progress_button_blue">#ff32a5e3</color>
-    <color name="cir_progress_button_green">#ff99cc00</color>
-    <color name="cir_progress_button_grey">#ffdedede</color>
-    <color name="cir_progress_button_red">#ffff4444</color>
-    <color name="cir_progress_button_white">#fffafafa</color>
-    <color name="close_beta_color">#ffd33a2a</color>
     <color name="colorAccent">#ffff4081</color>
     <color name="colorBlack">#ff000000</color>
     <color name="colorBlack80">#cc000000</color>
@@ -308,6 +300,8 @@
     <color name="mc_picker_unselected_color">#26000000</color>
     <color name="mc_picker_unselected_color_one">#0f000000</color>
     <color name="mc_picker_unselected_color_two">#26000000</color>
+    <color name="mc_pinned_group_header_bg">#fff0f0f0</color>
+    <color name="mc_pinned_group_text">@color/mz_list_text_color_alpha_50</color>
     <color name="mc_round_colorfulbg_color">#ff43b56b</color>
     <color name="mc_search_button_color">#9a000000</color>
     <color name="mc_search_edit_hint_textcolor">#59000000</color>
@@ -331,7 +325,7 @@
     <color name="mtrl_textinput_filled_box_default_background_color">#0a000000</color>
     <color name="mtrl_textinput_focused_box_stroke_color">#00000000</color>
     <color name="mtrl_textinput_hovered_box_stroke_color">#de000000</color>
-    <color name="mz_action_bar_drop_down_view_background">#4d000000</color>
+    <color name="mz_action_bar_drop_down_view_background">#1a000000</color>
     <color name="mz_action_bar_right_text_color">#ff333333</color>
     <color name="mz_action_bar_scrollview_divider_default_color">#4cffffff</color>
     <color name="mz_action_bar_search_text_color_hint">#66ffffff</color>
@@ -410,7 +404,7 @@
     <color name="mz_list_text_color_alpha_50">#7f000000</color>
     <color name="mz_list_text_color_dark_alpha_20">#ccffffff</color>
     <color name="mz_list_text_color_dark_alpha_60">#66ffffff</color>
-    <color name="mz_lite_popup_window_dim">#4d000000</color>
+    <color name="mz_lite_popup_window_dim">#1a000000</color>
     <color name="mz_permission_dialog_item_summary_dark">#66ffffff</color>
     <color name="mz_permission_dialog_item_title_dark">#80ffffff</color>
     <color name="mz_picker_selected_color">#ff0099cc</color>
@@ -430,6 +424,7 @@
     <color name="mz_secondary_text_color_light">#ff999999</color>
     <color name="mz_seekbar_background_color_disable">#fff9f9f9</color>
     <color name="mz_seekbar_background_color_normal">#fff5f5f5</color>
+    <color name="mz_seekbar_progress_disable">#ffc3dafa</color>
     <color name="mz_selection_button_text_color">#ffffffff</color>
     <color name="mz_slidingmenu_background_light">#fff6f6f6</color>
     <color name="mz_slidingmenu_item_activated">#ffececec</color>
@@ -442,8 +437,8 @@
     <color name="mz_switch_thumb_dark_on_disabled_color_tomato">#99ecc7b0</color>
     <color name="mz_switch_thumb_dark_on_enable_color">#ff6c9ddc</color>
     <color name="mz_switch_thumb_dark_on_enable_color_tomato">#ffecc7b0</color>
-    <color name="mz_switch_track_dark_off_disabled_color">#99262626</color>
-    <color name="mz_switch_track_dark_off_enabled_color">#ff262626</color>
+    <color name="mz_switch_track_dark_off_disabled_color">#99404040</color>
+    <color name="mz_switch_track_dark_off_enabled_color">#ff404040</color>
     <color name="mz_switch_track_dark_on_disabled_color">#ff124382</color>
     <color name="mz_switch_track_dark_on_disabled_color_tomato">#99ca6423</color>
     <color name="mz_switch_track_dark_on_enabled_color">#ff1966c9</color>
@@ -514,9 +509,7 @@
     <color name="ptr_down_load_dot">#ff999999</color>
     <color name="ptr_down_load_text_color">#66000000</color>
     <color name="purple_color">#ff7542ee</color>
-    <color name="rank_index_first">#ffe74a37</color>
     <color name="rank_index_second">#ffef6935</color>
-    <color name="rank_index_third">#ffe9a63b</color>
     <color name="rcpb_normal_bg_color">@color/theme_color</color>
     <color name="rcpb_normal_text_color">@android:color/white</color>
     <color name="red_heavy">#ffe73a3c</color>
@@ -584,8 +577,7 @@
     <color name="warning_red">#ffdc2a2a</color>
     <color name="welfare_black">#ff1f0e03</color>
     <color name="welfare_grey">#991f0e03</color>
-    <color name="welfare_red1">#ff8c0f1c</color>
-    <color name="welfare_red2">#ff894b46</color>
+    <color name="well_bg">#fff7f7f7</color>
     <color name="white">#ffffffff</color>
     <color name="white_10">#1affffff</color>
     <color name="white_100">#ffffffff</color>

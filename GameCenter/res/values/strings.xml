@@ -203,8 +203,8 @@
     <string name="def_footer_but">Action</string>
     <string name="def_see_more">see more</string>
     <string name="def_title">This is a title</string>
-    <string name="default_agreement">{ \"isPopout\": \"true\", \"license\": { \"licenseInfo\": [{ \"name\": \"魅族隐私政策\", \"url\": \"http://game.res.meizu.com/fileserver/game_copyright/1/3dde3bce52954495b7283425fa96b976.html\" }, { \"name\": \"用户协议\", \"url\": \"http://game.res.meizu.com/fileserver/game_copyright/1/bbec879dc3f84b8cb10b5d77305b372f.html\" }], \"updateTime\": \"1\" } }</string>
-    <string name="default_agreement_test">{ \"isPopout\": \"true\", \"license\": { \"licenseInfo\": [{ \"name\": \"魅族隐私政策\", \"url\": \"http://game.res.meizu.com/fileserver/game_copyright/1/90714ac841b141ea9c7b461c1cfb66f0.html\" }, { \"name\": \"用户协议\", \"url\": \"http://game.res.meizu.com/fileserver/game_copyright/1/d0292014af244cbca18a8ce3f8caffbd.html\" }], \"updateTime\": \"1\" } }</string>
+    <string name="default_agreement">{ \"isPopout\": \"true\", \"license\": { \"licenseInfo\": [{ \"name\": \"Meizu Privacy Policy\", \"url\": \"http://game.res.meizu.com/fileserver/game_copyright/1/3dde3bce52954495b7283425fa96b976.html\" }, { \"name\": \"User agreement\", \"url\": \"http://game.res.meizu.com/fileserver/game_copyright/1/bbec879dc3f84b8cb10b5d77305b372f.html\" }], \"updateTime\": \"1\" } }</string>
+    <string name="default_agreement_test">{ \"isPopout\": \"true\", \"license\": { \"licenseInfo\": [{ \"name\": \"Meizu Privacy Policy\", \"url\": \"http://game.res.meizu.com/fileserver/game_copyright/1/90714ac841b141ea9c7b461c1cfb66f0.html\" }, { \"name\": \"User agreement\", \"url\": \"http://game.res.meizu.com/fileserver/game_copyright/1/d0292014af244cbca18a8ce3f8caffbd.html\" }], \"updateTime\": \"1\" } }</string>
     <string name="default_sans_serif">sans-serif</string>
     <string name="delete_apk_title">Auto-delete APK after installation</string>
     <string name="desc_feed" formatted="false">%d people have seen · %s</string>

@@ -85,7 +85,6 @@
     <color name="common_card_background_color_light">#22f9f9f9</color>
     <color name="coral_color">#fffbc106</color>
     <color name="countdown_day">#fff12528</color>
-    <color name="countdown_hint">#e6000000</color>
     <color name="countdown_title">#e6000000</color>
     <color name="cpv_default_color">#ff2196f3</color>
     <color name="date_picker_text_normal">#73000000</color>
@@ -138,10 +137,8 @@
     <color name="game_over_background">#08312929</color>
     <color name="gray_bg">#fff9fafc</color>
     <color name="gray_color_10">#19000000</color>
-    <color name="gray_color_2">#06000000</color>
     <color name="gray_color_3">#08000000</color>
     <color name="gray_color_4">#0a000000</color>
-    <color name="gray_color_5">#0d000000</color>
     <color name="gray_color_6">#0f000000</color>
     <color name="grey_100">#fff5f5f5</color>
     <color name="grey_well_70">#b3201f26</color>
@@ -244,6 +241,8 @@
     <color name="mc_picker_unselected_color">#26000000</color>
     <color name="mc_picker_unselected_color_one">#0f000000</color>
     <color name="mc_picker_unselected_color_two">#26000000</color>
+    <color name="mc_pinned_group_header_bg">#fff0f0f0</color>
+    <color name="mc_pinned_group_text">@color/mz_list_text_color_alpha_50</color>
     <color name="mc_round_colorfulbg_color">#ff43b56b</color>
     <color name="mc_search_button_color">#9a000000</color>
     <color name="mc_search_edit_hint_textcolor">#59000000</color>
@@ -270,7 +269,7 @@
     <color name="mw_recipient_text_invalidate_email">#fff12528</color>
     <color name="mw_recipient_text_red">#ffe03731</color>
     <color name="mw_recipient_text_white">#ffffffff</color>
-    <color name="mz_action_bar_drop_down_view_background">#33000000</color>
+    <color name="mz_action_bar_drop_down_view_background">#1a000000</color>
     <color name="mz_action_bar_right_text_color">#ff333333</color>
     <color name="mz_action_bar_scrollview_divider_default_color">#4cffffff</color>
     <color name="mz_action_bar_search_text_color_hint">#66ffffff</color>
@@ -371,6 +370,7 @@
     <color name="mz_secondary_text_color_light">#ff999999</color>
     <color name="mz_seekbar_background_color_disable">#fff9f9f9</color>
     <color name="mz_seekbar_background_color_normal">#fff5f5f5</color>
+    <color name="mz_seekbar_progress_disable">#ffc3dafa</color>
     <color name="mz_selection_button_text_color">#ffffffff</color>
     <color name="mz_slidingmenu_background_light">#fff6f6f6</color>
     <color name="mz_slidingmenu_item_activated">#ffececec</color>
@@ -383,8 +383,8 @@
     <color name="mz_switch_thumb_dark_on_disabled_color_firebrick">#99e6b4b5</color>
     <color name="mz_switch_thumb_dark_on_enable_color">#ff6c9ddc</color>
     <color name="mz_switch_thumb_dark_on_enable_color_firebrick">#ffe6b4b5</color>
-    <color name="mz_switch_track_dark_off_disabled_color">#99262626</color>
-    <color name="mz_switch_track_dark_off_enabled_color">#ff262626</color>
+    <color name="mz_switch_track_dark_off_disabled_color">#99404040</color>
+    <color name="mz_switch_track_dark_off_enabled_color">#ff404040</color>
     <color name="mz_switch_track_dark_on_disabled_color">#ff124382</color>
     <color name="mz_switch_track_dark_on_disabled_color_firebrick">#99b92e30</color>
     <color name="mz_switch_track_dark_on_enabled_color">#ff1966c9</color>
@@ -468,6 +468,9 @@
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="notification_material_background_media_default_color">#ff424242</color>
     <color name="personalization_alert_bg">#fffff7f0</color>
+    <color name="pinned_header_recylerview_background">#ffffffff</color>
+    <color name="pinned_item_text_black">#ff000000</color>
+    <color name="pinned_item_text_gray">#cc888888</color>
     <color name="primaryColor">@color/mz_theme_color_firebrick</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -510,7 +513,6 @@
     <color name="text_color_gery_40">#4c000000</color>
     <color name="text_color_gray">#80000000</color>
     <color name="text_color_gray_45">#73000000</color>
-    <color name="text_color_gray_60">#99000000</color>
     <color name="text_color_gray_90">#e6000000</color>
     <color name="theme_color_red">#ffea5246</color>
     <color name="tomato_color">#fffd7d2c</color>
@@ -519,7 +521,7 @@
     <color name="tooltip_background_light">#e6ffffff</color>
     <color name="transparent">#00000000</color>
     <color name="week_header_text_color">#ff808080</color>
-    <color name="welfare_button_background_color">#ff541321</color>
+    <color name="well_bg">#fff7f7f7</color>
     <color name="white">#ffffffff</color>
     <color name="white_10">#1affffff</color>
     <color name="white_100">#ffffffff</color>

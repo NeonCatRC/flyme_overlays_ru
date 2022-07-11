@@ -73,7 +73,8 @@
         <item></item>
         <item>"Teacher's Day"</item>
         <item></item>
-        <item>Halloween</item>
+        <item>"Hallow's Eve"</item>
+        <item>"Hallow's Day"</item>
         <item>Christmas Eve</item>
         <item>Christmas</item>
     </string-array>
@@ -148,18 +149,18 @@
         <item>2/19 - 3/20</item>
     </string-array>
     <string-array name="horoscope_date_read">
-        <item>3月21日 至 4月19日</item>
-        <item>4月20日 至 5月20日</item>
-        <item>5月21日 至 6月21日</item>
-        <item>6月22日 至 7月22日</item>
-        <item>7月23日 至 8月22日</item>
-        <item>8月23日 至 9月22日</item>
-        <item>9月23日 至 10月23日</item>
-        <item>10月24日 至 11月22日</item>
-        <item>11月23日 至 12月21日</item>
-        <item>12月22日 至 1月19日</item>
-        <item>1月20日 至 2月18日</item>
-        <item>2月19日 至 3月20日</item>
+        <item>3/21 - 4/19</item>
+        <item>4/20 - 5/20</item>
+        <item>5/21 - 6/21</item>
+        <item>6/22 - 7/22</item>
+        <item>7/23 - 8/22</item>
+        <item>8/23 - 9/22</item>
+        <item>9/23 - 10/23</item>
+        <item>10/24 - 11/22</item>
+        <item>11/23 - 12/21</item>
+        <item>12/22 - 1/19</item>
+        <item>1/20 - 2/18</item>
+        <item>2/19 - 3/20</item>
     </string-array>
     <string-array name="horoscope_light_from_colors">
         <item>\#d9ff6767</item>
@@ -190,62 +191,76 @@
         <item>\#991ec7ff</item>
     </string-array>
     <string-array name="lunar_day">
-        <item>初一</item>
-        <item>初二</item>
-        <item>初三</item>
-        <item>初四</item>
-        <item>初五</item>
-        <item>初六</item>
-        <item>初七</item>
-        <item>初八</item>
-        <item>初九</item>
-        <item>初十</item>
-        <item>十一</item>
-        <item>十二</item>
-        <item>十三</item>
-        <item>十四</item>
-        <item>十五</item>
-        <item>十六</item>
-        <item>十七</item>
-        <item>十八</item>
-        <item>十九</item>
-        <item>二十</item>
-        <item>廿一</item>
-        <item>廿二</item>
-        <item>廿三</item>
-        <item>廿四</item>
-        <item>廿五</item>
-        <item>廿六</item>
-        <item>廿七</item>
-        <item>廿八</item>
-        <item>廿九</item>
-        <item>三十</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
     </string-array>
     <string-array name="lunar_month">
-        <item>正月</item>
-        <item>二月</item>
-        <item>三月</item>
-        <item>四月</item>
-        <item>五月</item>
-        <item>六月</item>
-        <item>七月</item>
-        <item>八月</item>
-        <item>九月</item>
-        <item>十月</item>
-        <item>冬月</item>
-        <item>腊月</item>
+        <item>正m</item>
+        <item>二m</item>
+        <item>三m</item>
+        <item>四m</item>
+        <item>五m</item>
+        <item>六m</item>
+        <item>七m</item>
+        <item>八m</item>
+        <item>九m</item>
+        <item>十m</item>
+        <item>冬m</item>
+        <item>腊m</item>
+    </string-array>
+    <string-array name="lunar_month_normal">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
     </string-array>
     <string-array name="lunar_number">
-        <item>一</item>
-        <item>二</item>
-        <item>三</item>
-        <item>四</item>
-        <item>五</item>
-        <item>六</item>
-        <item>七</item>
-        <item>八</item>
-        <item>九</item>
-        <item>十</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
     </string-array>
     <array name="mc_colorful_round">
         <item>#ff43b56b</item>
@@ -310,192 +325,192 @@
         <item>Fri</item>
         <item>Sat</item>
     </string-array>
-    <string-array name="mc_pullline_move_end">
-        <item>0.0f</item>
-        <item>0.00013f</item>
-        <item>0.00046f</item>
-        <item>0.00104f</item>
-        <item>0.00182f</item>
-        <item>0.00286f</item>
-        <item>0.0041f</item>
-        <item>0.0056f</item>
-        <item>0.00729f</item>
-        <item>0.00924f</item>
-        <item>0.01146f</item>
-        <item>0.01387f</item>
-        <item>0.01647f</item>
-        <item>0.01934f</item>
-        <item>0.0224f</item>
-        <item>0.02572f</item>
-        <item>0.0293f</item>
-        <item>0.03307f</item>
-        <item>0.03711f</item>
-        <item>0.04134f</item>
-        <item>0.04583f</item>
-        <item>0.05052f</item>
-        <item>0.05547f</item>
-        <item>0.06061f</item>
-        <item>0.06602f</item>
-        <item>0.07168f</item>
-        <item>0.07754f</item>
-        <item>0.08366f</item>
-        <item>0.08997f</item>
-        <item>0.09655f</item>
-        <item>0.10332f</item>
-        <item>0.11035f</item>
-        <item>0.11764f</item>
-        <item>0.1252f</item>
-        <item>0.13294f</item>
-        <item>0.14089f</item>
-        <item>0.14915f</item>
-        <item>0.15762f</item>
-        <item>0.16628f</item>
-        <item>0.17526f</item>
-        <item>0.18444f</item>
-        <item>0.19388f</item>
-        <item>0.20352f</item>
-        <item>0.21348f</item>
-        <item>0.22363f</item>
-        <item>0.23405f</item>
-        <item>0.24466f</item>
-        <item>0.2556f</item>
-        <item>0.26673f</item>
-        <item>0.27813f</item>
-        <item>0.28978f</item>
-        <item>0.30169f</item>
-        <item>0.31387f</item>
-        <item>0.3263f</item>
-        <item>0.339f</item>
-        <item>0.35195f</item>
-        <item>0.3651f</item>
-        <item>0.37858f</item>
-        <item>0.39232f</item>
-        <item>0.40632f</item>
-        <item>0.42057f</item>
-        <item>0.43516f</item>
-        <item>0.44993f</item>
-        <item>0.46504f</item>
-        <item>0.4804f</item>
-        <item>0.49609f</item>
-        <item>0.51204f</item>
-        <item>0.52826f</item>
-        <item>0.54479f</item>
-        <item>0.56165f</item>
-        <item>0.57878f</item>
-        <item>0.59622f</item>
-        <item>0.614f</item>
-        <item>0.63203f</item>
-        <item>0.65046f</item>
-        <item>0.66921f</item>
-        <item>0.68822f</item>
-        <item>0.70768f</item>
-        <item>0.72741f</item>
-        <item>0.74759f</item>
-        <item>0.7681f</item>
-        <item>0.789f</item>
-        <item>0.81035f</item>
-        <item>0.8321f</item>
-        <item>0.8543f</item>
-        <item>0.87702f</item>
-        <item>0.9002f</item>
-        <item>0.92402f</item>
-        <item>0.94844f</item>
-        <item>0.97363f</item>
-        <item>1f</item>
-    </string-array>
-    <string-array name="mc_pullline_move_start">
-        <item>0.0f</item>
-        <item>0.02637f</item>
-        <item>0.05156f</item>
-        <item>0.07598f</item>
-        <item>0.0998f</item>
-        <item>0.12298f</item>
-        <item>0.1457f</item>
-        <item>0.1679f</item>
-        <item>0.18965f</item>
-        <item>0.211f</item>
-        <item>0.2319f</item>
-        <item>0.25241f</item>
-        <item>0.27259f</item>
-        <item>0.29232f</item>
-        <item>0.31178f</item>
-        <item>0.33079f</item>
-        <item>0.34954f</item>
-        <item>0.36797f</item>
-        <item>0.386f</item>
-        <item>0.40378f</item>
-        <item>0.42122f</item>
-        <item>0.43835f</item>
-        <item>0.45521f</item>
-        <item>0.47174f</item>
-        <item>0.48796f</item>
-        <item>0.50391f</item>
-        <item>0.5196f</item>
-        <item>0.53496f</item>
-        <item>0.55007f</item>
-        <item>0.56484f</item>
-        <item>0.57943f</item>
-        <item>0.59368f</item>
-        <item>0.60768f</item>
-        <item>0.62142f</item>
-        <item>0.6349f</item>
-        <item>0.64805f</item>
-        <item>0.661f</item>
-        <item>0.6737f</item>
-        <item>0.68613f</item>
-        <item>0.69831f</item>
-        <item>0.71022f</item>
-        <item>0.72188f</item>
-        <item>0.73327f</item>
-        <item>0.7444f</item>
-        <item>0.75534f</item>
-        <item>0.76595f</item>
-        <item>0.77637f</item>
-        <item>0.78652f</item>
-        <item>0.79648f</item>
-        <item>0.80612f</item>
-        <item>0.81556f</item>
-        <item>0.82474f</item>
-        <item>0.83372f</item>
-        <item>0.84238f</item>
-        <item>0.85085f</item>
-        <item>0.85911f</item>
-        <item>0.86706f</item>
-        <item>0.8748f</item>
-        <item>0.88236f</item>
-        <item>0.88965f</item>
-        <item>0.89668f</item>
-        <item>0.90345f</item>
-        <item>0.91003f</item>
-        <item>0.91634f</item>
-        <item>0.92246f</item>
-        <item>0.92832f</item>
-        <item>0.93398f</item>
-        <item>0.93939f</item>
-        <item>0.94453f</item>
-        <item>0.94948f</item>
-        <item>0.95417f</item>
-        <item>0.95866f</item>
-        <item>0.96289f</item>
-        <item>0.96693f</item>
-        <item>0.9707f</item>
-        <item>0.97428f</item>
-        <item>0.9776f</item>
-        <item>0.98066f</item>
-        <item>0.98353f</item>
-        <item>0.98613f</item>
-        <item>0.98854f</item>
-        <item>0.99076f</item>
-        <item>0.99271f</item>
-        <item>0.9944f</item>
-        <item>0.9959f</item>
-        <item>0.99714f</item>
-        <item>0.99818f</item>
-        <item>0.99896f</item>
-        <item>0.99954f</item>
-        <item>0.99987f</item>
-        <item>1f</item>
-    </string-array>
+    <array name="mc_pullline_move_end">
+        <item>0.0</item>
+        <item>1.3E-4</item>
+        <item>4.6E-4</item>
+        <item>0.00104</item>
+        <item>0.00182</item>
+        <item>0.00286</item>
+        <item>0.0041</item>
+        <item>0.0056</item>
+        <item>0.00729</item>
+        <item>0.00924</item>
+        <item>0.01146</item>
+        <item>0.01387</item>
+        <item>0.01647</item>
+        <item>0.01934</item>
+        <item>0.0224</item>
+        <item>0.02572</item>
+        <item>0.0293</item>
+        <item>0.03307</item>
+        <item>0.03711</item>
+        <item>0.04134</item>
+        <item>0.04583</item>
+        <item>0.05052</item>
+        <item>0.05547</item>
+        <item>0.06061</item>
+        <item>0.06602</item>
+        <item>0.07168</item>
+        <item>0.07754</item>
+        <item>0.08366</item>
+        <item>0.08997</item>
+        <item>0.09655</item>
+        <item>0.10332</item>
+        <item>0.11035</item>
+        <item>0.11764</item>
+        <item>0.1252</item>
+        <item>0.13294</item>
+        <item>0.14089</item>
+        <item>0.14915</item>
+        <item>0.15762</item>
+        <item>0.16628</item>
+        <item>0.17526</item>
+        <item>0.18444</item>
+        <item>0.19388</item>
+        <item>0.20352</item>
+        <item>0.21348</item>
+        <item>0.22363</item>
+        <item>0.23405</item>
+        <item>0.24466</item>
+        <item>0.2556</item>
+        <item>0.26673</item>
+        <item>0.27813</item>
+        <item>0.28978</item>
+        <item>0.30169</item>
+        <item>0.31387</item>
+        <item>0.3263</item>
+        <item>0.339</item>
+        <item>0.35195</item>
+        <item>0.3651</item>
+        <item>0.37858</item>
+        <item>0.39232</item>
+        <item>0.40632</item>
+        <item>0.42057</item>
+        <item>0.43516</item>
+        <item>0.44993</item>
+        <item>0.46504</item>
+        <item>0.4804</item>
+        <item>0.49609</item>
+        <item>0.51204</item>
+        <item>0.52826</item>
+        <item>0.54479</item>
+        <item>0.56165</item>
+        <item>0.57878</item>
+        <item>0.59622</item>
+        <item>0.614</item>
+        <item>0.63203</item>
+        <item>0.65046</item>
+        <item>0.66921</item>
+        <item>0.68822</item>
+        <item>0.70768</item>
+        <item>0.72741</item>
+        <item>0.74759</item>
+        <item>0.7681</item>
+        <item>0.789</item>
+        <item>0.81035</item>
+        <item>0.8321</item>
+        <item>0.8543</item>
+        <item>0.87702</item>
+        <item>0.9002</item>
+        <item>0.92402</item>
+        <item>0.94844</item>
+        <item>0.97363</item>
+        <item>1.0</item>
+    </array>
+    <array name="mc_pullline_move_start">
+        <item>0.0</item>
+        <item>0.02637</item>
+        <item>0.05156</item>
+        <item>0.07598</item>
+        <item>0.0998</item>
+        <item>0.12298</item>
+        <item>0.1457</item>
+        <item>0.1679</item>
+        <item>0.18965</item>
+        <item>0.211</item>
+        <item>0.2319</item>
+        <item>0.25241</item>
+        <item>0.27259</item>
+        <item>0.29232</item>
+        <item>0.31178</item>
+        <item>0.33079</item>
+        <item>0.34954</item>
+        <item>0.36797</item>
+        <item>0.386</item>
+        <item>0.40378</item>
+        <item>0.42122</item>
+        <item>0.43835</item>
+        <item>0.45521</item>
+        <item>0.47174</item>
+        <item>0.48796</item>
+        <item>0.50391</item>
+        <item>0.5196</item>
+        <item>0.53496</item>
+        <item>0.55007</item>
+        <item>0.56484</item>
+        <item>0.57943</item>
+        <item>0.59368</item>
+        <item>0.60768</item>
+        <item>0.62142</item>
+        <item>0.6349</item>
+        <item>0.64805</item>
+        <item>0.661</item>
+        <item>0.6737</item>
+        <item>0.68613</item>
+        <item>0.69831</item>
+        <item>0.71022</item>
+        <item>0.72188</item>
+        <item>0.73327</item>
+        <item>0.7444</item>
+        <item>0.75534</item>
+        <item>0.76595</item>
+        <item>0.77637</item>
+        <item>0.78652</item>
+        <item>0.79648</item>
+        <item>0.80612</item>
+        <item>0.81556</item>
+        <item>0.82474</item>
+        <item>0.83372</item>
+        <item>0.84238</item>
+        <item>0.85085</item>
+        <item>0.85911</item>
+        <item>0.86706</item>
+        <item>0.8748</item>
+        <item>0.88236</item>
+        <item>0.88965</item>
+        <item>0.89668</item>
+        <item>0.90345</item>
+        <item>0.91003</item>
+        <item>0.91634</item>
+        <item>0.92246</item>
+        <item>0.92832</item>
+        <item>0.93398</item>
+        <item>0.93939</item>
+        <item>0.94453</item>
+        <item>0.94948</item>
+        <item>0.95417</item>
+        <item>0.95866</item>
+        <item>0.96289</item>
+        <item>0.96693</item>
+        <item>0.9707</item>
+        <item>0.97428</item>
+        <item>0.9776</item>
+        <item>0.98066</item>
+        <item>0.98353</item>
+        <item>0.98613</item>
+        <item>0.98854</item>
+        <item>0.99076</item>
+        <item>0.99271</item>
+        <item>0.9944</item>
+        <item>0.9959</item>
+        <item>0.99714</item>
+        <item>0.99818</item>
+        <item>0.99896</item>
+        <item>0.99954</item>
+        <item>0.99987</item>
+        <item>1.0</item>
+    </array>
     <array name="mc_rating_bar_black_bg_colors">
         <item>#ffc9c9c9</item>
         <item>#ffc9c9c9</item>
@@ -561,19 +576,19 @@
         <item>#ffe9a63b</item>
     </array>
     <string-array name="news_tip_report_article_array">
-        <item>广告</item>
-        <item>内容过时</item>
-        <item>低俗色情</item>
-        <item>标题夸张</item>
-        <item>与事实不符</item>
+        <item>AD</item>
+        <item>Outdated content</item>
+        <item>Pornography</item>
+        <item>Exaggerated title</item>
+        <item>Inconsistent with the facts</item>
     </string-array>
     <string-array name="news_tip_report_video_array">
-        <item>广告</item>
-        <item>低俗色情暴力</item>
-        <item>标题虚假夸张</item>
-        <item>侵权</item>
-        <item>视频质量差</item>
-        <item>封面令人反感</item>
+        <item>AD</item>
+        <item>Vulgar or violence</item>
+        <item>Title is false and exaggerated</item>
+        <item>Infringement</item>
+        <item>Poor video quality</item>
+        <item>The cover is offensive</item>
     </string-array>
     <string-array name="permission_summary">
         <item>"Read your contacts' birthday"</item>
@@ -730,9 +745,12 @@
         <item></item>
         <item></item>
         <item></item>
+        <item></item>
         <item>"0910Teacher's Day"</item>
         <item></item>
-        <item>1031Halloween</item>
+        <item></item>
+        <item>"1031All Hallow's Eve"</item>
+        <item>"1101All Hallow's Day"</item>
         <item>1224Christmas Eve</item>
         <item>1225Christmas</item>
     </string-array>
@@ -763,9 +781,9 @@
         <item></item>
     </string-array>
     <string-array name="tool_types">
-        <item>日期推算</item>
-        <item>时间间隔</item>
-        <item>公农历转换</item>
+        <item>Meetings</item>
+        <item>Time interval</item>
+        <item>Metric conversion</item>
     </string-array>
     <string-array name="tradition_festival">
         <item></item>

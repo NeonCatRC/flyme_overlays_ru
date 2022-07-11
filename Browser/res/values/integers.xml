@@ -6,9 +6,12 @@
     <integer name="animate_deck_scroll_duration">225</integer>
     <integer name="animate_task_view_remove_duration">240</integer>
     <integer name="app_bar_elevation_anim_duration">150</integer>
+    <integer name="bdreader_seekbar_long_click_interval">200</integer>
     <integer name="bottom_dialog_anim_duration">304</integer>
     <integer name="bottom_sheet_slide_duration">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="common_slide_anim_duration_back">240</integer>
+    <integer name="common_slide_anim_duration_in">300</integer>
     <integer name="config_actionbarAnimationTime">200</integer>
     <integer name="config_activityDefaultDur">220</integer>
     <integer name="config_activityShortDur">150</integer>
@@ -45,15 +48,14 @@
     <integer name="mz_smiling_face_duration">44</integer>
     <integer name="mz_view_click_alpha">128</integer>
     <integer name="news_sdk_business_type_browser">6</integer>
+    <integer name="novel_last_page_prompt_update_duration">500</integer>
     <integer name="show_password_duration">200</integer>
+    <integer name="slide_anim_duration">280</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <integer name="task_bar_dismiss_delay_seconds">1</integer>
     <integer name="task_view_enter_exit_duration">350</integer>
     <integer name="task_view_frame_shadow_padding">30</integer>
     <integer name="titlebar_animation_duration">200</integer>
-    <integer name="tt_video_progress_max">100</integer>
     <integer name="url_max_length">2083</integer>
     <integer name="window_anim_duration">304</integer>
-    <integer name="zx_default_blur_radius">15</integer>
-    <integer name="zx_default_downsample_factor">8</integer>
 </resources>

@@ -150,12 +150,8 @@
     <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Subtitle" />
     <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Title" />
     <style name="Base.TextAppearance.AppCompat.Widget.Button" parent="@android:style/TextAppearance.Material.Widget.Button" />
-    <style name="Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button">
-        <item name="android:textColor">@color/abc_btn_colored_borderless_text_material</item>
-    </style>
-    <style name="Base.TextAppearance.AppCompat.Widget.Button.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button">
-        <item name="android:textColor">@color/abc_btn_colored_text_material</item>
-    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored" parent="@android:style/TextAppearance.Material.Widget.Button.Borderless.Colored" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Button.Colored" parent="@android:style/TextAppearance.Material.Widget.Button.Colored" />
     <style name="Base.TextAppearance.AppCompat.Widget.Button.Inverse" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse" />
     <style name="Base.TextAppearance.AppCompat.Widget.DropDownItem" parent="@android:style/TextAppearance.Small">
         <item name="android:textColor">?android:textColorPrimaryDisableOnly</item>
@@ -174,7 +170,7 @@
     </style>
     <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" />
     <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" />
-    <style name="Base.Theme.AppCompat" parent="@style/Base.V23.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V26.Theme.AppCompat" />
     <style name="Base.Theme.AppCompat.CompactMenu" parent="">
         <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
         <item name="android:windowAnimationStyle">@style/Animation.AppCompat.DropDownUp</item>
@@ -196,7 +192,7 @@
         <item name="android:windowMinWidthMinor">@dimen/abc_dialog_min_width_minor</item>
     </style>
     <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="@style/Theme.AppCompat" />
-    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V23.Theme.AppCompat.Light" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V26.Theme.AppCompat.Light" />
     <style name="Base.Theme.AppCompat.Light.DarkActionBar" parent="@style/Base.Theme.AppCompat.Light">
         <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Light</item>
         <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
@@ -250,6 +246,7 @@
         <item name="MeizuCommon.LoadingStyle">@style/Widget.MeizuCommon.LoadingView.Light</item>
         <item name="MeizuCommon.LoadingViewStyle">@style/Widget.MeizuCommon.LoadingView.Color.Blue</item>
         <item name="MeizuCommon.SelectionButtonStyle">@style/Widget.MeizuCommon.SeletionButton.Color.Blue</item>
+        <item name="MeizuCommon.StepSeekBarStyle">@style/Widget.MeizuCommon.StepSeekBar</item>
         <item name="MeizuCommon.StretchSearchViewStyle">@style/Widget.MeizuCommon.StretchSearch.Color.Blue</item>
         <item name="MeizuCommon.SubscribeButtonStyle">@style/Widget.MeizuCommon.SubscribeButton.Color.Blue</item>
         <item name="MeizuCommon.Switch">@style/Widget.MeizuCommon.Switch.Color.Blue</item>
@@ -424,7 +421,7 @@
         <item name="windowMinWidthMinor">@dimen/mz_alert_dialog_width</item>
     </style>
     <style name="Base.Theme.Flyme.Light" parent="@style/Theme.Flyme.V7Overlay.Light">
-        <item name="android:backgroundDimAmount">0.2</item>
+        <item name="android:backgroundDimAmount">0.1</item>
         <item name="android:textAppearance">@style/TextAppearance.Flyme.Light</item>
         <item name="android:textAppearanceInverse">@style/TextAppearance.Flyme.Light.Inverse</item>
         <item name="android:textColorPrimary">@color/mz_primary_text_light</item>
@@ -520,7 +517,7 @@
         <item name="mzSearchButtonStyle">@style/Widget.Flyme.Light.ActionBar.SearchButton</item>
     </style>
     <style name="Base.Theme.Flyme.Light.Dialog.Alert" parent="@style/Theme.Flyme.V7Overlay.Light.Dialog.Alert">
-        <item name="android:backgroundDimAmount">0.2</item>
+        <item name="android:backgroundDimAmount">0.1</item>
         <item name="android:textAppearance">@style/TextAppearance.Flyme.Light.DialogListItem</item>
         <item name="android:textAppearanceMedium">@style/TextAppearance.Flyme.Light.Medium.AlertDialog</item>
         <item name="android:textAppearanceSmall">@style/TextAppearance.Flyme.Light.Small.AlertDialog</item>
@@ -632,8 +629,11 @@
         <item name="android:checkedTextViewStyle">@style/Widget.Flyme.Light.CheckedTextView</item>
     </style>
     <style name="Base.V19.Theme.Flyme.AppCompat.Light" parent="@style/Base.V7.Theme.Flyme.AppCompat.Light">
-        <item name="android:windowTranslucentStatus">true</item>
-        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">#00ffffff</item>
     </style>
     <style name="Base.V21.Theme.AppCompat" parent="@style/Base.V7.Theme.AppCompat">
         <item name="android:colorControlNormal">?colorControlNormal</item>
@@ -740,6 +740,20 @@
         <item name="controlBackground">@drawable/abc_control_background_material</item>
         <item name="ratingBarStyleIndicator">?android:ratingBarStyleIndicator</item>
         <item name="ratingBarStyleSmall">?android:ratingBarStyleSmall</item>
+    </style>
+    <style name="Base.V26.Theme.AppCompat" parent="@style/Base.V23.Theme.AppCompat">
+        <item name="colorError">?android:colorError</item>
+    </style>
+    <style name="Base.V26.Theme.AppCompat.Light" parent="@style/Base.V23.Theme.AppCompat.Light">
+        <item name="colorError">?android:colorError</item>
+    </style>
+    <style name="Base.V26.Widget.AppCompat.Toolbar" parent="@style/Base.V7.Widget.AppCompat.Toolbar">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="Base.V26.Widget.Design.AppBarLayout" parent="@style/Base.V21.Widget.Design.AppBarLayout">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
     </style>
     <style name="Base.V7.Theme.AppCompat" parent="@style/Platform.AppCompat">
         <item name="android:panelBackground">@android:color/transparent</item>
@@ -1293,9 +1307,9 @@
     <style name="Base.Widget.AppCompat.Spinner" parent="@android:style/Widget.Material.Spinner" />
     <style name="Base.Widget.AppCompat.Spinner.Underlined" parent="@android:style/Widget.Material.Spinner.Underlined" />
     <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="@android:style/Widget.Material.TextView.SpinnerItem" />
-    <style name="Base.Widget.AppCompat.Toolbar" parent="@style/Base.V7.Widget.AppCompat.Toolbar" />
+    <style name="Base.Widget.AppCompat.Toolbar" parent="@style/Base.V26.Widget.AppCompat.Toolbar" />
     <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="@android:style/Widget.Material.Toolbar.Button.Navigation" />
-    <style name="Base.Widget.Design.AppBarLayout" parent="@style/Base.V21.Widget.Design.AppBarLayout" />
+    <style name="Base.Widget.Design.AppBarLayout" parent="@style/Base.V26.Widget.Design.AppBarLayout" />
     <style name="Base.Widget.Design.TabLayout" parent="@android:style/Widget">
         <item name="tabBackground">?selectableItemBackground</item>
         <item name="tabIndicatorColor">?colorAccent</item>
@@ -1345,6 +1359,11 @@
         <item name="android:dropDownVerticalOffset">0.0dip</item>
         <item name="android:popupAnimationStyle">@null</item>
     </style>
+    <style name="DarkMode">
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
     <style name="DialogWindowContent.Flyme.Light" parent="">
         <item name="android:textAppearance">@style/TextAppearance.Flyme.Light.Content</item>
     </style>
@@ -1364,6 +1383,13 @@
     </style>
     <style name="DialogWindowTitle.Flyme.Light.Dark" parent="@style/DialogWindowTitle.Flyme.Light">
         <item name="android:textAppearance">@style/TextAppearance.Flyme.Light.DialogWindowTitle.Dark</item>
+    </style>
+    <style name="EditTextStyle">
+        <item name="android:background">@color/tt_white</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginTop">5.0dip</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
     </style>
     <style name="Flyme.AlertDialog.AppCompat.Light" parent="@android:style/Widget">
         <item name="android:layout">@layout/mz_alert_dialog_appcompat</item>
@@ -1385,7 +1411,7 @@
         <item name="android:divider">@drawable/mz_popup_divider_line</item>
     </style>
     <style name="LoadingDialogTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
-        <item name="android:backgroundDimAmount">0.2</item>
+        <item name="android:backgroundDimAmount">0.1</item>
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowElevation">@dimen/mc_floating_window_z</item>
     </style>
@@ -1451,8 +1477,8 @@
     <style name="Pedometer_popupMenu_style" parent="@style/Widget.Flyme.AppCompat.Light.PopupMenu.Overflow">
         <item name="android:popupBackground">@drawable/pedometer_popup_menu_bg</item>
     </style>
-    <style name="Platform.AppCompat" parent="@style/Platform.V21.AppCompat" />
-    <style name="Platform.AppCompat.Light" parent="@style/Platform.V21.AppCompat.Light" />
+    <style name="Platform.AppCompat" parent="@style/Platform.V25.AppCompat" />
+    <style name="Platform.AppCompat.Light" parent="@style/Platform.V25.AppCompat.Light" />
     <style name="Platform.ThemeOverlay.AppCompat" parent="">
         <item name="android:colorControlNormal">?colorControlNormal</item>
         <item name="android:colorControlActivated">?colorControlActivated</item>
@@ -1480,6 +1506,8 @@
         <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
         <item name="android:textColorLinkInverse">?android:colorAccent</item>
     </style>
+    <style name="Platform.V25.AppCompat" parent="@android:style/Theme.Material.NoActionBar" />
+    <style name="Platform.V25.AppCompat.Light" parent="@android:style/Theme.Material.Light.NoActionBar" />
     <style name="Platform.Widget.AppCompat.Spinner" parent="@android:style/Widget.Holo.Spinner" />
     <style name="Policy.Theme" parent="@style/AppTheme">
         <item name="android:windowBackground">@color/app_bg_color</item>
@@ -1569,6 +1597,7 @@
         <item name="android:paddingEnd">@dimen/abc_action_bar_overflow_padding_end_material</item>
     </style>
     <style name="SplashTheme" parent="@style/Theme.Flyme.Light.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@color/app_bg_color</item>
         <item name="android:windowTranslucentStatus">true</item>
     </style>
     <style name="Switch.Black" parent="@style/Widget.MeizuCommon.Switch.Color.LimeGreen" />
@@ -1629,22 +1658,14 @@
     <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="@style/Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem" />
     <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.Material.Notification" />
     <style name="TextAppearance.Compat.Notification.Info" parent="@android:style/TextAppearance.Material.Notification.Info" />
-    <style name="TextAppearance.Compat.Notification.Info.Media" parent="@style/TextAppearance.Compat.Notification.Info">
-        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
-    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media" parent="@style/TextAppearance.Compat.Notification.Info" />
     <style name="TextAppearance.Compat.Notification.Line2" parent="@style/TextAppearance.Compat.Notification.Info" />
     <style name="TextAppearance.Compat.Notification.Line2.Media" parent="@style/TextAppearance.Compat.Notification.Info.Media" />
-    <style name="TextAppearance.Compat.Notification.Media" parent="@style/TextAppearance.Compat.Notification">
-        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
-    </style>
+    <style name="TextAppearance.Compat.Notification.Media" parent="@style/TextAppearance.Compat.Notification" />
     <style name="TextAppearance.Compat.Notification.Time" parent="@android:style/TextAppearance.Material.Notification.Time" />
-    <style name="TextAppearance.Compat.Notification.Time.Media" parent="@style/TextAppearance.Compat.Notification.Time">
-        <item name="android:textColor">@color/secondary_text_default_material_dark</item>
-    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media" parent="@style/TextAppearance.Compat.Notification.Time" />
     <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title" />
-    <style name="TextAppearance.Compat.Notification.Title.Media" parent="@style/TextAppearance.Compat.Notification.Title">
-        <item name="android:textColor">@color/primary_text_default_material_dark</item>
-    </style>
+    <style name="TextAppearance.Compat.Notification.Title.Media" parent="@style/TextAppearance.Compat.Notification.Title" />
     <style name="TextAppearance.Design.CollapsingToolbar.Expanded" parent="@style/TextAppearance.AppCompat.Display1">
         <item name="android:textColor">?android:textColorPrimary</item>
     </style>
@@ -2052,6 +2073,7 @@
         <item name="MeizuCommon.LoadingStyle">@style/Widget.MeizuCommon.LoadingView.Light</item>
         <item name="MeizuCommon.LoadingViewStyle">@style/Widget.MeizuCommon.LoadingView.Color.Blue</item>
         <item name="MeizuCommon.SelectionButtonStyle">@style/Widget.MeizuCommon.SeletionButton.Color.Blue</item>
+        <item name="MeizuCommon.StepSeekBarStyle">@style/Widget.MeizuCommon.StepSeekBar.Color.Blue</item>
         <item name="MeizuCommon.StretchSearchViewStyle">@style/Widget.MeizuCommon.StretchSearch.Color.Blue</item>
         <item name="MeizuCommon.SubscribeButtonStyle">@style/Widget.MeizuCommon.SubscribeButton.Color.Blue</item>
         <item name="MeizuCommon.Switch">@style/Widget.MeizuCommon.Switch.Color.Blue</item>
@@ -2170,6 +2192,19 @@
         <item name="mzThemeColorLevel8">@color/LimeGreen_8</item>
         <item name="mzThemeColorLevel9">@color/LimeGreen_9</item>
         <item name="mzThemeColorMoreClick">@color/mz_theme_color_limegreen_more</item>
+    </style>
+    <style name="Theme.Dialog.TTDownload" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="Theme.Dialog.TTDownloadOld" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
     </style>
     <style name="Theme.Flyme" parent="@android:style/Theme.DeviceDefault">
         <item name="android:textAppearance">@style/TextAppearance.Flyme</item>
@@ -2354,8 +2389,8 @@
         <item name="android:windowTranslucentNavigation">false</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
-        <item name="android:navigationBarColor">#ffffffff</item>
-        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">#00ffffff</item>
+        <item name="android:windowLightStatusBar">true</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
@@ -2453,6 +2488,7 @@
         <item name="MeizuCommon.PagerIndicator">@style/Widget.MeizuCommon.PagerIndicator</item>
         <item name="MeizuCommon.ProgressBarStyle">@style/Widget.MeizuCommon.ProgressBar</item>
         <item name="MeizuCommon.SelectionButtonStyle">@style/Widget.MeizuCommon.SeletionButton</item>
+        <item name="MeizuCommon.StepSeekBarStyle">@style/Widget.MeizuCommon.StepSeekBar</item>
         <item name="MeizuCommon.StretchSearchViewStyle">@style/Widget.MeizuCommon.StretchSearchView</item>
         <item name="MeizuCommon.SubscribeButtonStyle">@style/Widget.MeizuCommon.SubscribeButton</item>
         <item name="MeizuCommon.Switch">@style/Widget.MeizuCommon.Switch</item>
@@ -2957,7 +2993,6 @@
         <item name="android:textAppearance">@style/TextAppearance.Flyme.H9.Medium</item>
         <item name="android:textColor">?mzColorActionBarTextPrimary</item>
         <item name="android:ellipsize">marquee</item>
-        <item name="android:paddingTop">2.0dip</item>
         <item name="android:maxWidth">180.0dip</item>
         <item name="android:maxLines">1</item>
         <item name="textAllCaps">false</item>
@@ -3445,6 +3480,8 @@
         <item name="android:background">@drawable/mz_btn_list_default</item>
         <item name="android:minWidth">@dimen/mz_button_minWidht</item>
         <item name="android:minHeight">@dimen/mz_button_minHeight</item>
+        <item name="android:paddingStart">10.0dip</item>
+        <item name="android:paddingEnd">10.0dip</item>
     </style>
     <style name="Widget.Flyme.Light.Button.Borderless.AlertDialog" parent="@android:style/Widget.DeviceDefault.Button.Borderless">
         <item name="android:textSize">@dimen/mz_text_size_normal</item>
@@ -3485,17 +3522,21 @@
     <style name="Widget.Flyme.Light.EditText" parent="@android:style/Widget.Material.EditText">
         <item name="android:textAppearance">@style/TextAppearance.Flyme.Inverse</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Clear.Icon.Black" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_delete_dark</item>
+    <style name="Widget.Flyme.Light.EditText.Clear.Icon.Black" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_delete_dark</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Clear.Icon.White" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_delete_light</item>
+    <style name="Widget.Flyme.Light.EditText.Clear.Icon.White" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_delete_light</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Search.Icon.Black" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_search_dark</item>
+    <style name="Widget.Flyme.Light.EditText.Search.Icon.Black" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_search_dark</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">0.0dip</item>
     </style>
     <style name="Widget.Flyme.Light.EditText.Search.Icon.White" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_search_light</item>
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_search_light</item>
+        <item name="android:paddingStart">0.0dip</item>
+        <item name="android:paddingEnd">0.0dip</item>
     </style>
     <style name="Widget.Flyme.Light.EditText.SearchEditText" parent="@style/Widget.Flyme.Light.EditText.SearchEditText.Black">
         <item name="android:textColorHighlight">@color/mz_search_edit_text_light</item>
@@ -3527,11 +3568,11 @@
         <item name="android:textSelectHandleRight">@drawable/mz_search_edittext_handle_right_color_limegreen</item>
         <item name="android:textSelectHandle">@drawable/mz_input_select_handle_color_limegreen</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Voice.Icon.Black" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_voice_dark</item>
+    <style name="Widget.Flyme.Light.EditText.Voice.Icon.Black" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_voice_dark</item>
     </style>
-    <style name="Widget.Flyme.Light.EditText.Voice.Icon.White" parent="">
-        <item name="android:background">@drawable/mz_titlebar_search_layout_ic_voice_light</item>
+    <style name="Widget.Flyme.Light.EditText.Voice.Icon.White" parent="@style/Widget.Flyme.Light.SearchBar.Icon">
+        <item name="android:src">@drawable/mz_titlebar_search_layout_ic_voice_light</item>
     </style>
     <style name="Widget.Flyme.Light.ListPopupWindow" parent="@style/Base.Widget.Flyme.Light.ListPopupWindow">
         <item name="android:overlapAnchor">false</item>
@@ -3592,18 +3633,23 @@
         <item name="android:minWidth">10.399994dip</item>
         <item name="android:minHeight">10.399994dip</item>
     </style>
+    <style name="Widget.Flyme.Light.SearchBar.Icon" parent="">
+        <item name="android:paddingStart">9.0dip</item>
+        <item name="android:paddingEnd">9.0dip</item>
+    </style>
     <style name="Widget.Flyme.Light.SeekBar" parent="@android:style/Widget.DeviceDefault.Light.SeekBar">
-        <item name="android:background">@null</item>
-        <item name="android:paddingTop">@dimen/mz_seekbar_padding</item>
-        <item name="android:paddingBottom">@dimen/mz_seekbar_padding</item>
+        <item name="android:background">@drawable/mz_seekbar_background</item>
+        <item name="android:paddingTop">@dimen/mz_seekbar_background_padding_top</item>
+        <item name="android:paddingBottom">@dimen/mz_seekbar_background_padding_top</item>
         <item name="android:maxHeight">@dimen/mz_seekbar_height</item>
+        <item name="android:indeterminateOnly">false</item>
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_rectangle_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_rectangle_progress</item>
         <item name="android:minHeight">@dimen/mz_seekbar_height</item>
-        <item name="android:thumb">@null</item>
+        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
         <item name="android:height">@dimen/mz_seekbar_height</item>
-        <item name="android:paddingStart">@dimen/mz_seekbar_padding</item>
-        <item name="android:paddingEnd">@dimen/mz_seekbar_padding</item>
+        <item name="android:paddingStart">11.0dip</item>
+        <item name="android:paddingEnd">11.0dip</item>
         <item name="android:splitTrack">false</item>
     </style>
     <style name="Widget.Flyme.Light.Spinner" parent="@android:style/Widget.DeviceDefault.Light.Spinner">
@@ -3845,9 +3891,8 @@
         <item name="android:paddingStart">@dimen/mz_page_padding_default</item>
         <item name="android:paddingEnd">@dimen/mz_page_padding_default</item>
     </style>
-    <style name="Widget.Flyme.Preference.Desc.Normal.AdjoinTitle" parent="@style/Widget.Flyme.MultipleList.Desc.Normal.AdjoinTitle">
+    <style name="Widget.Flyme.Preference.Desc.Normal.AdjoinTitle" parent="@style/Widget.Flyme.List.Summary.Adjoin.Level2">
         <item name="android:ellipsize">end</item>
-        <item name="android:maxLines">4</item>
         <item name="android:lineSpacingExtra">@dimen/mz_list_desc_line_spacing_extra</item>
         <item name="android:textDirection">locale</item>
     </style>
@@ -3862,7 +3907,7 @@
     <style name="Widget.Flyme.Preference.Title" parent="@style/Widget.Flyme.MultipleList.Title">
         <item name="android:ellipsize">end</item>
         <item name="android:fadingEdge">horizontal</item>
-        <item name="android:singleLine">true</item>
+        <item name="android:singleLine">false</item>
         <item name="android:textDirection">locale</item>
     </style>
     <style name="Widget.Flyme.SearchList.ContentLinearLayout" parent="">
@@ -3939,7 +3984,7 @@
     <style name="Widget.MeizuCommon.AnimSeekBar" parent="@style/Widget.Flyme.Light.SeekBar">
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_progress</item>
-        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
+        <item name="android:thumb">@drawable/mz_step_seekbar_thumb</item>
         <item name="mcDistanceToCircle">2.0dip</item>
         <item name="mcLargeCircleDrawble">@drawable/mz_slider_btn_hover_color_blue</item>
         <item name="mcLargeCircleRadis">13.0dip</item>
@@ -3949,19 +3994,19 @@
     <style name="Widget.MeizuCommon.AnimSeekBar.Color.Blue" parent="@style/Widget.MeizuCommon.AnimSeekBar">
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_progress</item>
-        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
+        <item name="android:thumb">@drawable/mz_step_seekbar_thumb</item>
         <item name="mcLargeCircleDrawble">@drawable/mz_slider_btn_hover_color_blue</item>
     </style>
     <style name="Widget.MeizuCommon.AnimSeekBar.Color.FireBrick" parent="@style/Widget.MeizuCommon.AnimSeekBar">
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_progress</item>
-        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
+        <item name="android:thumb">@drawable/mz_step_seekbar_thumb</item>
         <item name="mcLargeCircleDrawble">@drawable/mz_slider_btn_hover_color_firebrick</item>
     </style>
     <style name="Widget.MeizuCommon.AnimSeekBar.Color.LimeGreen" parent="@style/Widget.MeizuCommon.AnimSeekBar">
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_progress</item>
-        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
+        <item name="android:thumb">@drawable/mz_step_seekbar_thumb</item>
         <item name="mcLargeCircleDrawble">@drawable/mz_slider_btn_hover_color_limegreen</item>
     </style>
     <style name="Widget.MeizuCommon.AuraSeekBar" parent="@style/Widget.Flyme.Light.SeekBar">
@@ -3970,8 +4015,8 @@
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:minHeight">42.0dip</item>
-        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
-        <item name="android:thumbOffset">7.0dip</item>
+        <item name="android:thumb">@drawable/mz_step_seekbar_thumb</item>
+        <item name="android:thumbOffset">-4.0dip</item>
         <item name="android:height">42.0dip</item>
         <item name="android:paddingStart">@dimen/mz_aura_seekbar_padding</item>
         <item name="android:paddingEnd">@dimen/mz_aura_seekbar_padding</item>
@@ -4260,6 +4305,19 @@
     <style name="Widget.MeizuCommon.SeletionButton.Color.LimeGreen" parent="@style/Widget.MeizuCommon.SeletionButton">
         <item name="mcBackground">@drawable/mz_selection_button_background_color_limegreen</item>
     </style>
+    <style name="Widget.MeizuCommon.StepSeekBar" parent="@style/Widget.MeizuCommon">
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">22.0dip</item>
+        <item name="mcStepItemsCount">0</item>
+        <item name="mcStepStrokeColor">@color/mz_scrubber_track_color_blue</item>
+        <item name="mcStepThumb">@drawable/mz_seekbar_thumb_color_blue</item>
+        <item name="mzStepSpotPadding">8.0dip</item>
+    </style>
+    <style name="Widget.MeizuCommon.StepSeekBar.Color.Blue" parent="@style/Widget.MeizuCommon.StepSeekBar" />
     <style name="Widget.MeizuCommon.StretchSearch.Color.Blue" parent="@style/Widget.MeizuCommon.StretchSearchView" />
     <style name="Widget.MeizuCommon.StretchSearch.Color.FireBrick" parent="@style/Widget.MeizuCommon.StretchSearchView" />
     <style name="Widget.MeizuCommon.StretchSearch.Color.LimeGreen" parent="@style/Widget.MeizuCommon.StretchSearchView" />
@@ -4297,6 +4355,7 @@
         <item name="mcBtnNormalBg">@drawable/mz_btn_corner_default_color_limegreen</item>
     </style>
     <style name="Widget.MeizuCommon.Switch" parent="@style/Widget.MeizuCommon">
+        <item name="android:gravity">center_vertical</item>
         <item name="android:focusable">true</item>
         <item name="android:clickable">true</item>
         <item name="mcSwitchMinWidth">40.0dip</item>
@@ -4390,6 +4449,14 @@
         <item name="actionOverflowButtonStyle">@style/ActionBar.Icon.More</item>
         <item name="listPopupWindowStyle">@style/widget_dropdownPopupmenu</item>
     </style>
+    <style name="quick_option_dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">stateHidden</item>
+    </style>
     <style name="san_medium_text">
         <item name="android:fontFamily">sans-serif-medium</item>
     </style>
@@ -4402,6 +4469,118 @@
         <item name="android:background">@color/share_steps_message_divider_color</item>
         <item name="android:layout_width">@dimen/share_steps_message_divider_width</item>
         <item name="android:layout_height">@dimen/share_steps_message_divider_height</item>
+    </style>
+    <style name="tt_Widget_ProgressBar_Horizontal">
+        <item name="android:maxHeight">20.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/tt_ad_download_progress_bar_horizontal</item>
+        <item name="android:minHeight">20.0dip</item>
+    </style>
+    <style name="tt_appdownloader_style_detail_download_progress_bar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">32.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/tt_appdownloader_ad_detail_download_progress</item>
+        <item name="android:minHeight">32.0dip</item>
+    </style>
+    <style name="tt_appdownloader_style_notification_text" parent="@android:style/TextAppearance.Material.Notification" />
+    <style name="tt_appdownloader_style_notification_title" parent="@android:style/TextAppearance.Material.Notification.Title" />
+    <style name="tt_appdownloader_style_progress_bar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">6.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/tt_appdownloader_download_progress_bar_horizontal</item>
+        <item name="android:minHeight">3.0dip</item>
+    </style>
+    <style name="tt_appdownloader_style_progress_bar_new" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">6.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/tt_appdownloader_download_progress_bar_horizontal_new</item>
+        <item name="android:minHeight">3.0dip</item>
+    </style>
+    <style name="tt_back_view">
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">12.0dip</item>
+        <item name="android:minHeight">44.0dip</item>
+        <item name="android:text">关闭</item>
+    </style>
+    <style name="tt_custom_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tt_dialog_full">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+    <style name="tt_dislikeDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@style/tt_dislikeDialogAnimation</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tt_dislikeDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/tt_dislike_animation_show</item>
+        <item name="android:windowExitAnimation">@anim/tt_dislike_animation_dismiss</item>
+    </style>
+    <style name="tt_dislikeDialog_new" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowAnimationStyle">@style/tt_dislikeDialogAnimation</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tt_full_screen" parent="@android:style/Theme">
+        <item name="android:windowBackground">@color/tt_full_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">@color/tt_full_status_bar_color</item>
+    </style>
+    <style name="tt_full_screen_interaction" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@color/tt_full_interaction_dialog_background</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">@color/tt_full_status_bar_color</item>
+    </style>
+    <style name="tt_landing_page" parent="@android:style/Theme">
+        <item name="android:windowBackground">@color/tt_white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">@color/tt_full_status_bar_color</item>
+    </style>
+    <style name="tt_ss_popup_toast_anim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+    <style name="tt_wg_insert_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tt_widget_gifView" parent="@android:style/Widget" />
+    <style name="ttdownloader_translucent_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/ttdownloader_transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@color/ttdownloader_transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
     </style>
     <style name="widget_dropdownPopupmenu" parent="@style/Widget.Flyme.Light.ListPopupWindow">
         <item name="android:dropDownWidth">wrap_content</item>

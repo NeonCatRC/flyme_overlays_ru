@@ -20,6 +20,7 @@
     <attr name="MeizuCommon.PagerIndicator" format="reference" />
     <attr name="MeizuCommon.ProgressBarStyle" format="reference" />
     <attr name="MeizuCommon.SelectionButtonStyle" format="reference" />
+    <attr name="MeizuCommon.StepSeekBarStyle" format="reference" />
     <attr name="MeizuCommon.StretchSearchViewStyle" format="reference" />
     <attr name="MeizuCommon.SubscribeButtonStyle" format="reference" />
     <attr name="MeizuCommon.Switch" format="reference" />
@@ -114,7 +115,6 @@
     <attr name="behavior_skipCollapsed" format="boolean" />
     <attr name="borderWidth" format="dimension" />
     <attr name="borderlessButtonStyle" format="reference" />
-    <attr name="bottomBarHeight" format="dimension" />
     <attr name="bottomSheetDialogTheme" format="reference" />
     <attr name="bottomSheetStyle" format="reference" />
     <attr name="buttonBarButtonStyle" format="reference" />
@@ -641,6 +641,11 @@
     <attr name="mcStarColors" format="reference" />
     <attr name="mcStarDrawable" format="reference" />
     <attr name="mcStartYear" format="integer" />
+    <attr name="mcStepItemsCount" format="integer" />
+    <attr name="mcStepProgress" format="integer" />
+    <attr name="mcStepStrokeColor" format="reference" />
+    <attr name="mcStepStrokeWidth" format="integer" />
+    <attr name="mcStepThumb" format="reference" />
     <attr name="mcStretchDuration" format="integer" />
     <attr name="mcStretchTpye">
         <enum name="custom" value="0" />
@@ -709,6 +714,7 @@
     <attr name="mzActionBarCanScroll" format="boolean" />
     <attr name="mzActionBarExpandedSize" format="dimension" />
     <attr name="mzActionBarFitStatusBar" format="boolean" />
+    <attr name="mzActionBarOverlayMode" format="boolean" />
     <attr name="mzActionBarSearchViewBackground" format="reference" />
     <attr name="mzActionBarSizeFullScreen" format="dimension" />
     <attr name="mzActionBarStyleFullScreen" format="reference" />
@@ -801,6 +807,7 @@
     <attr name="mzShrink" format="boolean" />
     <attr name="mzSplitActionBarFloat" format="boolean" />
     <attr name="mzStartRadius" format="dimension" />
+    <attr name="mzStepSpotPadding" format="dimension" />
     <attr name="mzTabBarIndicatorColor" format="color" />
     <attr name="mzTabBarIndicatorDrawable" format="reference" />
     <attr name="mzTabBarIndicatorExceedContent" format="dimension" />
