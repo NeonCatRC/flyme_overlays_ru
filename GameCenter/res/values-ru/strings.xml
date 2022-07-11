@@ -331,6 +331,10 @@
     <string name="access_account_info_error">Error obtaining account information</string>
     <string name="access_account_info_out_date">Account login had been out date</string>
     <string name="access_server_error">The system is busy, please try again later</string>
+    <string name="accessible_back_previous_activity">Return to the previous screen</string>
+    <string name="accessible_danmu_switch">Comment on the switch</string>
+    <string name="accessible_ratingbar">score</string>
+    <string name="accessible_user_center">user center</string>
     <string name="action_settings">Settings</string>
     <string name="activities">Activities</string>
     <string name="activity">Activities</string>
@@ -400,6 +404,7 @@
 
     <string name="calendar_permision_dialog_message">This permission is required for the calendar reminder function 10 minutes before opening the service</string>
     <string name="calendar_permision_dialog_ok_title">To open</string>
+    <string name="calendar_permision_dialog_subscribe_message">This permission is required to reserve the online calendar reminder function</string>
     <string name="calendar_permision_dialog_title">Please open the calendar permission</string>
     <string name="can_update">Update available %s</string>
     <string name="cancel">Cancel</string>
@@ -461,6 +466,7 @@
     <string name="confirm">Confirm</string>
     <string name="conflicting_provider">Conflicting package. Please try reinstalling.</string>
     <string name="container_error">Unable to access external storage, please try rebooting</string>
+    <string name="content_description_game_logo">game logo</string>
 
     <string name="copy">Copy</string>
     <string name="copy_success">Copy successfully</string>
@@ -489,7 +495,7 @@
     <string name="currentversion">Current version</string>
     <string name="data_loading">Loading…</string>
     <string name="date_time_set">Set</string>
-    <string name="declare_content" formatted="false">Meizu Game Center requires you to agree with %s and %s to use</string>
+    <string name="declare_content" formatted="false">Meizu Game Center requires you to agree with %s and %s to use, this app needs to be connected to the network and apply for the following necessary permissions</string>
     <string name="def_card_name">Card Name</string>
     <string name="def_des">This is a message</string>
     <string name="def_footer_but">Action</string>
@@ -634,6 +640,7 @@
 
     <string name="game_related_forum_hot_article">Hot Forum Posts</string>
     <string name="game_strategy">strategy</string>
+    <string name="game_view_privacy_policy">View Privacy Policy</string>
     <string name="game_walfares">%d game welfares</string>
     <string name="games_update">Game Updates</string>
     <string name="get_download_url_failed">Get download link error</string>
@@ -746,6 +753,7 @@
     <string name="installing_formatted">Installing %s</string>
     <string name="installing_tips_message">Another version of %s is installing. Please try again later.</string>
     <string name="instant_app_invalid">Instant app invalid</string>
+    <string name="instructions_for_use">Instructions for use</string>
     <string name="insufficient_storage">Out of space, please free up space for installation</string>
     <string name="interface_not_exist">Interface does not exist</string>
     <string name="internal_error">Internal system error, please try rebooting</string>
@@ -885,6 +893,7 @@
     <string name="mc_saturday">SA</string>
     <string name="mc_search">Search</string>
     <string name="mc_search_button_text">Search</string>
+    <string name="mc_search_description">search bar</string>
     <string name="mc_search_icon">Search</string>
     <string name="mc_search_icon_input_clear">Clear</string>
     <string name="mc_search_text">Search</string>
@@ -1009,16 +1018,25 @@
     <string name="mz_permission_almost_deny">Never ask after denied</string>
     <string name="mz_permission_always_allow">Always allow</string>
     <string name="mz_permission_apply">Permission request</string>
+    <string name="mz_permission_continue_allow">Continue Use</string>
     <string name="mz_permission_deny">Deny</string>
     <string name="mz_permission_disagree">Disagree</string>
+    <string name="mz_permission_i_know">OK</string>
     <string name="mz_permission_inform">To provide basic services, this app needs to access the following permissions</string>
-    <string name="mz_permission_inform_f9">To ensure basic services, this application needs to apply for the following permissions</string>
+    <string name="mz_permission_inform_f9">This application needs to connect to the network and apply for the following necessary permissions</string>
+    <string name="mz_permission_inform_f9_no_internet">This application needs to apply for the following necessary permissions</string>
+    <string name="mz_permission_inform_f9_only_internet">This application needs to be connected to the network</string>
+    <string name="mz_permission_inform_secondary_confirmation_summary">To provide basic functions, this application needs to apply for the following necessary permissions:</string>
     <string name="mz_permission_message_content">%1$s requests %3$d permission(s) to %2$s</string>
     <string name="mz_permission_message_supplement">%1$s needs %2$s %3$d permissions</string>
     <string name="mz_permission_policy_description">To achieve the above functions and services, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)</string>
-    <string name="mz_permission_policy_description_f9">Before using the application, you are required to agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)</string>
+    <string name="mz_permission_policy_description_f9">To ensure the use of complete functions, please read and agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)</string>
+    <string name="mz_permission_policy_description_noly_internet">To ensure the use of complete functions</string>
+    <string name="mz_permission_policy_description_update">In order to fully protect your rights, we have updated our privacy policy, which can be seen in detail %1$s</string>
+    <string name="mz_permission_secondary_confirmation_title">Necessary authority authorization</string>
     <string name="mz_permission_title_supplement">Ask for the following permissions</string>
     <string name="mz_permission_title_terms">Permissions and statements</string>
+    <string name="mz_permission_use_info">Instructions for use</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">WLAN</string>
     <string name="mz_permissiongroup_name_net">Network connections</string>
@@ -1070,10 +1088,15 @@
     <string name="mzuc_download_fail">Download failed</string>
     <string name="mzuc_download_finish_install">Download completed, tap to install</string>
     <string name="mzuc_download_finish_s" formatted="false">%s %s download completed</string>
+    <string name="mzuc_download_later">Download later</string>
+    <string name="mzuc_download_now">Download now</string>
     <string name="mzuc_download_progress_desc_s" formatted="false">Downloading %s %s</string>
     <string name="mzuc_downloading">Downloading</string>
     <string name="mzuc_file_size_s">It will consume %s of cellular data</string>
-    <string name="mzuc_found_update_s">Update available %s</string>
+    
+    <string name="mzuc_found_update_s">Доступно обновление %s</string>
+    <string name="mzuc_hide_dialog">Скрыть</string>
+
     <string name="mzuc_install_cancel_tip">Download canceled</string>
     <string name="mzuc_install_fail">Installation failed</string>
     <string name="mzuc_install_immediately">Install now</string>
@@ -1083,7 +1106,9 @@
     <string name="mzuc_manual_current_version">Current app version %s</string>
     <string name="mzuc_manual_download_cancel">Cancel download</string>
     <string name="mzuc_manual_download_fail">Failed to download</string>
+    <string name="mzuc_manual_download_pause">Has paused download new verison %s, click to resume downloading</string>
     <string name="mzuc_manual_downloading">Downloading %s%%</string>
+    <string name="mzuc_manual_downloading_new_version">New version %s is being downloaded</string>
     <string name="mzuc_manual_found_new_version">New version found. Tap to update</string>
     <string name="mzuc_manual_install_fail">Failed to install</string>
     <string name="mzuc_manual_install_new_version">Update file is downloaded and tap to install</string>
@@ -1092,8 +1117,10 @@
     <string name="mzuc_manual_update_for_new_version">Download the latest version</string>
     <string name="mzuc_manual_update_title">Check for update</string>
     <string name="mzuc_msg_indicator">"What's new:"</string>
+    <string name="mzuc_notification_before_upgrade">You are using cellular data. Downloading now will incur extra charges.</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">OK</string>
+    <string name="mzuc_pause_download">Pause download</string>
     <string name="mzuc_reboot_update_now">Restart to update</string>
     <string name="mzuc_retry">Retry</string>
     <string name="mzuc_skip_version">Ignore</string>
@@ -1172,6 +1199,12 @@
     <string name="orderInfoIncomplete">Illegal request, order incomplete</string>
     <string name="other">Other</string>
     <string name="package_changed">APK changed, please reinstall</string>
+    <string name="paid_coupon_finish">Over</string>
+    <string name="paid_coupon_left_progress">%d%% purchased</string>
+    <string name="paid_coupon_purchased">Purchased</string>
+    <string name="paid_coupon_sold_out">Sold out</string>
+    <string name="paid_coupon_subscribe_event_text">The coupon buying activity will start in 5 minutes</string>
+    <string name="paid_coupon_subscribe_toast_text">If the appointment is successful, you will receive a Calendar Reminder 5 minutes in advance</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="patch_fail">Failed to merge the package, please reinstall</string>
 
@@ -1194,7 +1227,9 @@
     <string name="pre_install_tips">Waiting for WLAN</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="privacy_policy_title_out">Privacy Policy</string>
     <string name="prompt">Notice</string>
+    <string name="protocol_update_message" formatted="false">To fully protect your rights, we have updated our privacy policy, which can be found in %s and %s</string>
     <string name="ptr_go_Refreshing">Release to refresh</string>
     <string name="ptr_is_Refreshing">Loading</string>
 
@@ -1300,11 +1335,30 @@
     <string name="target_interface_exception">Start abnormal target interface</string>
     <string name="tenThousand">thousand x10</string>
     <string name="test_only">For testing only, please install official version</string>
+    <string name="text_closing_time">%s End</string>
+    <string name="text_distance_end">Start</string>
+    <string name="text_goto_paid_coupon_rank">Go to the coupon collection show</string>
+    <string name="text_hot_purchase">Hot coupon</string>
+    <string name="text_limit_time_purchase">Limited time purchase</string>
+    <string name="text_on_sale">On sale</string>
+    <string name="text_paid_coupon_order_not_exist">Purchase failed, order does not exist</string>
+    <string name="text_paid_coupon_order_not_paid">Purchase failed, order not paid</string>
+    <string name="text_paid_coupon_rank_title_name">Rush to buy coupons</string>
+    <string name="text_paid_coupon_success">Purchase successful</string>
+    <string name="text_pay_time_limit_message" formatted="false">Please complete the payment within %s:%s</string>
+    <string name="text_pay_time_out_message">Order timeout, please do not pay</string>
+    <string name="text_start_purchase_time_label">Purchase time :</string>
+    <string name="text_starting_time">%s Start</string>
+    <string name="text_title_promotion_notice">Promotion notice</string>
     <string name="thirdpartygame.warning">Games below are served by third party apps</string>
     <string name="thousand">thousand</string>
     <string name="timeout">Timeout</string>
     <string name="tips_coupon">See coupons in user center Me</string>
     <string name="toast_gift_expired">The package has expired and cannot be viewed!</string>
+    <string name="toast_text_pay_coupon_error">Purchase exception</string>
+    <string name="toast_text_pay_coupon_limit_exceeded">Purchase limit exceeded</string>
+    <string name="toast_text_pay_coupon_no_product">No more</string>
+    <string name="toast_text_pay_coupon_not_started">Not started</string>
     <string name="today">Today</string>
     <string name="tomorrow">Tomorrow</string>
     <string name="total_gift_count_desc">total %d</string>
@@ -1378,5 +1432,7 @@
     <string name="wizard_skip">Пропустить</string>
     <string name="wizard_tips1">Бесплатная загрузка через Wi-Fi</string>
     <string name="wizard_tips2">Мобильная сеть</string>
+    <string name="wxh5_load_timeout">Превышено время ожидания, попробуйте снова</string>
+    <string name="wxh5_loading_tip">Загрузка</string>
     <string name="yuan">" RMB"</string>
 </resources>

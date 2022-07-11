@@ -34,7 +34,7 @@
 | FlymeSoundRecorder | FULL | Build-in recorder app (Flyme 9.2) |
 | Gallery | FULL n\t | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
-| MMS | FULL (except china shit) | Standart Flyme SMS/MMS messager |
+| MMS | FULL (AD) | Standart Flyme SMS/MMS messager |
 | MusicFX | FULL n\t | SquareSound |
 | MzAccount | FULL n\t | Meizu account app |
 | MzBatteryManager | FULL n\t | Battery manager |
@@ -50,7 +50,7 @@
 | Video | FULL n\t | Standart Flyme video player |
 | Weather | FULL | Weather app |
 |  | WIP/START/STOP |  |
-| AppCenter | WIP | Flyme app center |
+| AppCenter | WIP (AD) | Flyme app center |
 | Assistant | WIP | Aicy settings app |
 | Browser | Stop (AD) | Flyme standart browser |
 | ConnectivitySettings | WIP | Connect app |
