@@ -374,7 +374,7 @@
     <string name="camera_label">Открыть камеру</string>
     <string name="cancel">Отмена</string>
     <string name="carrier_airplane_mode">Режим полета</string>
-    <string name="carrier_no_sim">Нет SIM-карты</string>
+    <string name="carrier_no_sim">Нет SIM</string>
     <string name="category_personal">Личные данные</string>
     <string name="category_work">Работа</string>
     <string name="charge_length_format">%1$s назад</string>

@@ -32,7 +32,7 @@
     <string name="activity_uri_entry_error_msg">Please install %s</string>
     <string name="add_comment_input_comment">Show on “Selected Comments” when chosen</string>
 
-    <string name="already_latest_version">У вас установлена последняя версия.</string>
+    <string name="already_latest_version">Установлена последняя версия</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="always_upgrade_tonight_dialog_cancel">Не сейчас</string>
     <string name="always_upgrade_tonight_dialog_ok">Включить</string>
@@ -539,11 +539,11 @@
     <string name="notification_error_rsa_incremental_content">Update verification failed. Please re-download and keep the network connected.</string>
     <string name="notification_error_rsa_title">%s update file error</string>
     <string name="notify_tip_to_update">The update is ready. Restart to update</string>
-    <string name="only_enter">Enter</string>
-    <string name="open_auto_upgrade">Enable Update overnight</string>
-    <string name="open_auto_upgrade_instruction">Turn on automatic update, which will be done automatically when the system is on Wi-Fi and has plenty of power. You can turn it on or off later in Update Settings.</string>
-    <string name="open_enter">Enable</string>
 
+    <string name="only_enter">Пропустить</string>
+    <string name="open_auto_upgrade">Включить ночное обновление</string>
+    <string name="open_auto_upgrade_instruction">Включите автоматическое обновление, которое будет выполняться автоматически, когда устройство подключено к сети и имеет достаточно заряда. Вы можете включить или выключить его позже в настройках.</string>
+    <string name="open_enter">Включить</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pause">Пауза</string>
     <string name="paused">Остановлено</string>
