@@ -49,6 +49,8 @@
     <item type="id" name="activity_share_transparent_area" />
     <item type="id" name="activity_share_widget" />
     <item type="id" name="ad_container" />
+    <item type="id" name="ad_container_1" />
+    <item type="id" name="ad_container_2" />
     <item type="id" name="ad_layout" />
     <item type="id" name="ad_view" />
     <item type="id" name="addReminder" />
@@ -67,6 +69,7 @@
     <item type="id" name="almanac_desc_text" />
     <item type="id" name="almanac_icon" />
     <item type="id" name="almanac_text" />
+    <item type="id" name="anchor_view" />
     <item type="id" name="anim_text" />
     <item type="id" name="app_bar_layout" />
     <item type="id" name="app_nba_widget_row" />
@@ -91,9 +94,9 @@
     <item type="id" name="back_text" />
     <item type="id" name="back_top" />
     <item type="id" name="banner" />
-    <item type="id" name="bannerPager" />
     <item type="id" name="banner_img" />
     <item type="id" name="bi" />
+    <item type="id" name="big_icon_container_ll" />
     <item type="id" name="birth_anniver" />
     <item type="id" name="blurArea" />
     <item type="id" name="blurTitle" />
@@ -160,6 +163,7 @@
     <item type="id" name="choose_selector_icon" />
     <item type="id" name="choose_start_icon" />
     <item type="id" name="chooser_btn_cancel" />
+    <item type="id" name="chooser_btn_placeholder" />
     <item type="id" name="chooser_check_box" />
     <item type="id" name="chooser_header_container" />
     <item type="id" name="chooser_list" />
@@ -239,6 +243,7 @@
     <item type="id" name="delay" />
     <item type="id" name="delay_container" />
     <item type="id" name="demon_text" />
+    <item type="id" name="demon_title_text" />
     <item type="id" name="desc" />
     <item type="id" name="descOne" />
     <item type="id" name="descTwo" />
@@ -292,11 +297,9 @@
     <item type="id" name="empty_title" />
     <item type="id" name="end_date" />
     <item type="id" name="end_date_icon" />
-    <item type="id" name="end_date_layout" />
     <item type="id" name="end_padder" />
     <item type="id" name="end_time" />
     <item type="id" name="end_time_icon" />
-    <item type="id" name="end_time_layout" />
     <item type="id" name="era_day_text" />
     <item type="id" name="era_month_text" />
     <item type="id" name="era_text" />
@@ -304,6 +307,7 @@
     <item type="id" name="era_year_text" />
     <item type="id" name="error_info" />
     <item type="id" name="eval_text" />
+    <item type="id" name="eval_title_text" />
     <item type="id" name="eventButtonLayout" />
     <item type="id" name="eventColor" />
     <item type="id" name="eventContent" />
@@ -352,6 +356,8 @@
     <item type="id" name="fastscroller_letterbar" />
     <item type="id" name="fastscroller_letterbar_layout" />
     <item type="id" name="fastscroller_overlay" />
+    <item type="id" name="festival_ad_item" />
+    <item type="id" name="festival_ad_view" />
     <item type="id" name="festival_date" />
     <item type="id" name="festival_name" />
     <item type="id" name="festival_switch" />
@@ -364,6 +370,7 @@
     <item type="id" name="first_layout" />
     <item type="id" name="first_score_img" />
     <item type="id" name="fiveElements_text" />
+    <item type="id" name="fiveElements_title_text" />
     <item type="id" name="footer" />
     <item type="id" name="fortuneText" />
     <item type="id" name="fourthTitle" />
@@ -377,6 +384,7 @@
     <item type="id" name="gethoroscope_detail" />
     <item type="id" name="gethoroscope_icon" />
     <item type="id" name="ghost_view" />
+    <item type="id" name="glide_custom_view_target_tag" />
     <item type="id" name="global_icon" />
     <item type="id" name="goto_team_edit_layout" />
     <item type="id" name="gridview_container" />
@@ -442,9 +450,14 @@
     <item type="id" name="img1" />
     <item type="id" name="img2" />
     <item type="id" name="img3" />
+    <item type="id" name="img_1" />
+    <item type="id" name="img_2" />
     <item type="id" name="img_arrow_cross_slip" />
     <item type="id" name="img_arrow_game_over" />
     <item type="id" name="img_arrow_top_game_large_image" />
+    <item type="id" name="img_big_icon_rec_1" />
+    <item type="id" name="img_big_icon_rec_2" />
+    <item type="id" name="img_big_icon_rec_3" />
     <item type="id" name="img_browser_rec_1" />
     <item type="id" name="img_browser_rec_2" />
     <item type="id" name="img_browser_rec_3" />
@@ -499,6 +512,8 @@
     <item type="id" name="item_image" />
     <item type="id" name="item_name" />
     <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="iv_from_row" />
+    <item type="id" name="iv_to_row" />
     <item type="id" name="jump" />
     <item type="id" name="label_custom_app" />
     <item type="id" name="label_image_view" />
@@ -539,6 +554,7 @@
     <item type="id" name="luckyGod_text" />
     <item type="id" name="luckyNum_text" />
     <item type="id" name="lucky_angel_text" />
+    <item type="id" name="lucky_angel_title_text" />
     <item type="id" name="lunar_date_title_view" />
     <item type="id" name="lunar_extra_info" />
     <item type="id" name="lunar_solar_check" />
@@ -708,6 +724,7 @@
     <item type="id" name="mz_scroll3" />
     <item type="id" name="mz_scroll3_text" />
     <item type="id" name="mz_search_icon" />
+    <item type="id" name="mz_secondary_confirmation_dialog_summary" />
     <item type="id" name="mz_select_box" />
     <item type="id" name="mz_specific_permission_dialog_checkbox" />
     <item type="id" name="mz_specific_permission_dialog_summary" />
@@ -715,7 +732,6 @@
     <item type="id" name="name" />
     <item type="id" name="native_picker_root" />
     <item type="id" name="navigation_header_container" />
-    <item type="id" name="nba_card_divider" />
     <item type="id" name="nested_scrolling_layout" />
     <item type="id" name="network_hint" />
     <item type="id" name="network_image" />
@@ -809,8 +825,10 @@
     <item type="id" name="parent_matrix" />
     <item type="id" name="part_one" />
     <item type="id" name="part_two" />
+    <item type="id" name="paste_video_view" />
     <item type="id" name="pengzu_down_text" />
     <item type="id" name="pengzu_up_text" />
+    <item type="id" name="pengzu_up_title_text" />
     <item type="id" name="people_attendee_number" />
     <item type="id" name="pgr_install" />
     <item type="id" name="picker_holder" />
@@ -824,6 +842,20 @@
     <item type="id" name="ptr_refresh_layout" />
     <item type="id" name="pull_icon" />
     <item type="id" name="pull_to_refresh" />
+    <item type="id" name="push_big_bigtext_defaultView" />
+    <item type="id" name="push_big_bigview_defaultView" />
+    <item type="id" name="push_big_defaultView" />
+    <item type="id" name="push_big_notification" />
+    <item type="id" name="push_big_notification_content" />
+    <item type="id" name="push_big_notification_date" />
+    <item type="id" name="push_big_notification_icon" />
+    <item type="id" name="push_big_notification_icon2" />
+    <item type="id" name="push_big_notification_title" />
+    <item type="id" name="push_big_pic_default_Content" />
+    <item type="id" name="push_big_text_notification_area" />
+    <item type="id" name="push_pure_bigview_banner" />
+    <item type="id" name="push_pure_bigview_expanded" />
+    <item type="id" name="push_pure_close" />
     <item type="id" name="radio" />
     <item type="id" name="radio_button_divider" />
     <item type="id" name="rate_layout1" />
@@ -836,9 +868,14 @@
     <item type="id" name="rec_slide_recommend" />
     <item type="id" name="rec_slide_slip_with_bg" />
     <item type="id" name="rec_slide_slip_without_bg" />
+    <item type="id" name="recommend_self_item_1" />
+    <item type="id" name="recommend_self_item_2" />
     <item type="id" name="recycler" />
     <item type="id" name="recyclerView" />
     <item type="id" name="recycler_view" />
+    <item type="id" name="rel_big_icon_rec_1" />
+    <item type="id" name="rel_big_icon_rec_2" />
+    <item type="id" name="rel_big_icon_rec_3" />
     <item type="id" name="rel_browser_rec_1" />
     <item type="id" name="rel_browser_rec_2" />
     <item type="id" name="rel_browser_rec_3" />
@@ -889,7 +926,6 @@
     <item type="id" name="score1" />
     <item type="id" name="score2" />
     <item type="id" name="score3" />
-    <item type="id" name="score_container" />
     <item type="id" name="score_img" />
     <item type="id" name="score_img1" />
     <item type="id" name="score_img2" />
@@ -962,15 +998,16 @@
     <item type="id" name="span_result_day" />
     <item type="id" name="span_start_date" />
     <item type="id" name="span_work_day" />
+    <item type="id" name="spinner_item" />
     <item type="id" name="splashAd" />
+    <item type="id" name="splash_bottom_layout" />
     <item type="id" name="split_action_bar" />
     <item type="id" name="star_layout" />
     <item type="id" name="start_date" />
     <item type="id" name="start_date_icon" />
-    <item type="id" name="start_date_layout" />
     <item type="id" name="start_time" />
     <item type="id" name="start_time_icon" />
-    <item type="id" name="start_time_layout" />
+    <item type="id" name="starting_layout" />
     <item type="id" name="status_bar_latest_event_content" />
     <item type="id" name="status_img" />
     <item type="id" name="status_layout" />
@@ -998,6 +1035,8 @@
     <item type="id" name="tab_text" />
     <item type="id" name="taboo_layout" />
     <item type="id" name="taboo_text" />
+    <item type="id" name="tag_1" />
+    <item type="id" name="tag_2" />
     <item type="id" name="tag_layout_helper_bg" />
     <item type="id" name="tag_transition_group" />
     <item type="id" name="tangram_grid_item_btn" />
@@ -1033,7 +1072,9 @@
     <item type="id" name="text_relative_days" />
     <item type="id" name="text_tag" />
     <item type="id" name="text_year_view_lunar_day" />
+    <item type="id" name="text_year_view_lunar_day_icon" />
     <item type="id" name="text_year_view_lunar_year" />
+    <item type="id" name="text_year_view_lunar_year_icon" />
     <item type="id" name="text_year_view_year" />
     <item type="id" name="textinput_counter" />
     <item type="id" name="textinput_error" />
@@ -1054,6 +1095,8 @@
     <item type="id" name="titleDivider" />
     <item type="id" name="titleDividerNoCustom" />
     <item type="id" name="titleTv" />
+    <item type="id" name="title_1" />
+    <item type="id" name="title_2" />
     <item type="id" name="title_bar" />
     <item type="id" name="title_content_layout" />
     <item type="id" name="title_indicator" />
@@ -1065,6 +1108,7 @@
     <item type="id" name="title_new_message_point" />
     <item type="id" name="title_template" />
     <item type="id" name="title_year" />
+    <item type="id" name="to_row" />
     <item type="id" name="toast_complete" />
     <item type="id" name="toast_text" />
     <item type="id" name="today_icon_day" />
@@ -1077,6 +1121,12 @@
     <item type="id" name="transition_position" />
     <item type="id" name="transition_scene_layoutid_cache" />
     <item type="id" name="transition_transform" />
+    <item type="id" name="tv_big_icon_message_1" />
+    <item type="id" name="tv_big_icon_message_2" />
+    <item type="id" name="tv_big_icon_message_3" />
+    <item type="id" name="tv_big_icon_rec_1" />
+    <item type="id" name="tv_big_icon_rec_2" />
+    <item type="id" name="tv_big_icon_rec_3" />
     <item type="id" name="tv_browser_rec_1" />
     <item type="id" name="tv_browser_rec_2" />
     <item type="id" name="tv_browser_rec_3" />
@@ -1086,10 +1136,12 @@
     <item type="id" name="tv_des_game_over" />
     <item type="id" name="tv_entity_column_message" />
     <item type="id" name="tv_entity_column_title" />
+    <item type="id" name="tv_entity_play" />
     <item type="id" name="tv_entity_row_message" />
     <item type="id" name="tv_entity_row_message2" />
     <item type="id" name="tv_entity_row_tittle" />
     <item type="id" name="tv_footer_item" />
+    <item type="id" name="tv_from_row" />
     <item type="id" name="tv_game_item_menber" />
     <item type="id" name="tv_game_item_name" />
     <item type="id" name="tv_game_item_over" />
@@ -1116,6 +1168,7 @@
     <item type="id" name="tv_slide_recommend_title" />
     <item type="id" name="tv_title_game_large_image" />
     <item type="id" name="tv_tittle" />
+    <item type="id" name="tv_to_row" />
     <item type="id" name="tv_top_browser_more" />
     <item type="id" name="tv_top_browser_title" />
     <item type="id" name="tv_top_cross_slip" />
@@ -1136,19 +1189,33 @@
     <item type="id" name="view_detail2" />
     <item type="id" name="view_game_color_bg" />
     <item type="id" name="view_game_item_bg" />
+    <item type="id" name="view_game_item_bottom" />
+    <item type="id" name="view_game_item_top" />
     <item type="id" name="view_header_normal_icon" />
     <item type="id" name="view_offset_helper" />
     <item type="id" name="view_pager" />
     <item type="id" name="view_slide_recommend_bg" />
     <item type="id" name="view_slide_recommend_container" />
     <item type="id" name="view_well_cover_bg" />
+    <item type="id" name="view_well_cover_bg_1" />
+    <item type="id" name="view_well_cover_bg_2" />
+    <item type="id" name="view_well_cover_bg_3" />
     <item type="id" name="viewpager" />
     <item type="id" name="visible" />
     <item type="id" name="vs" />
-    <item type="id" name="vs_status" />
     <item type="id" name="weather" />
     <item type="id" name="weather_aqi" />
     <item type="id" name="weather_aqi_icon" />
+    <item type="id" name="weather_card_alarm_info" />
+    <item type="id" name="weather_card_aqi_icon" />
+    <item type="id" name="weather_card_aqi_info" />
+    <item type="id" name="weather_card_cityname" />
+    <item type="id" name="weather_card_container" />
+    <item type="id" name="weather_card_maxtemperature" />
+    <item type="id" name="weather_card_maxtemperature_after" />
+    <item type="id" name="weather_card_maxtemperature_before" />
+    <item type="id" name="weather_card_mintemperature" />
+    <item type="id" name="weather_card_temperature_icon" />
     <item type="id" name="weather_city_name" />
     <item type="id" name="weather_icon" />
     <item type="id" name="weather_layout" />

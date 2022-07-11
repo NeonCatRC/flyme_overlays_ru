@@ -52,7 +52,7 @@
         <item></item>
         <item></item>
         <item></item>
-        <item>Международный рабочий день</item>
+        <item>Международный День рабочих</item>
         <item>Международный День молодёжи</item>
         <item></item>
         <item>День детей</item>
@@ -61,6 +61,7 @@
         <item></item>
         <item>День учителя</item>
         <item></item>
+        <item>Канун дня всех святых</item>
         <item>День всех святых</item>
         <item>Канун Рождества</item>
         <item>Рождество</item>
@@ -148,10 +149,32 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+    <string-array name="news_tip_report_article_array">
+        <item>Реклама</item>
+        <item>Не актуально</item>
+        <item>Порнография</item>
+        <item>Кликбейт</item>
+        <item>Ложная информация</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>Реклама</item>
+        <item>Порнография</item>
+        <item>Кликбейт</item>
+        <item>Нарушение</item>
+        <item>Плохое качество видео</item>
+        <item>Оскорбительная обложка</item>
+    </string-array>
     <string-array name="permission_summary">
         <item>Знайте дни рождения ваших контактов</item>
         <item>Получайте информацию о праздниках и подписке</item>
         <item>Получить точное местоположение</item>
+    </string-array>
+    <string-array name="permission_summary_flyme9">
+        <item>Получайте информацию о празниках и подписках</item>
+    </string-array>
+    <string-array name="pref_calendar_view_labels">
+        <item>Помесячный</item>
+        <item>Недельный</item>
     </string-array>
     <string-array name="pref_default_all_day_reminder_labels">
         <item>Нет</item>
@@ -168,7 +191,7 @@
         <item>За 1 день</item>
     </string-array>
     <string-array name="pref_week_start_labels">
-        <item>Регион по умолчанию</item>
+        <item>По умолчанию</item>
         <item>Воскресенье</item>
         <item>Понедельник</item>
     </string-array>
@@ -216,19 +239,32 @@
         <item>На дату</item>
         <item>Определённое количество раз</item>
     </string-array>
-    <string-array name="sectional_array">
+    <string-array name="solar_festival">
+        <item>0101Новый год</item>
+        <item>"0214День святого Валентина"</item>
+        <item>"0308Женский день"</item>
+        <item></item>
+        <item>0315Международный день прав потребителей</item>
+        <item></item>
+        <item>"0401День дурака"</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"0501Международный День рабочих"</item>
+        <item>0504Международный День молодёжи</item>
+        <item></item>
+        <item>"0601День детей"</item>
         <item></item>
         <item></item>
         <item></item>
         <item></item>
+        <item>"0910День учителя"</item>
         <item></item>
         <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>"1031Канун дня всех святых"</item>
+        <item>"1101День всех святых"</item>
+        <item>1224Канун рождества</item>
+        <item>1225Рождество</item>
     </string-array>
     <string-array name="tool_types">
         <item>Встречи</item>
@@ -252,9 +288,5 @@
         <item>Чт</item>
         <item>Пт</item>
         <item>Сб</item>
-    </string-array>
-    <string-array name="pref_calendar_view_labels">
-        <item>Помесячный</item>
-        <item>Недельный</item>
     </string-array>
 </resources>

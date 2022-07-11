@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="address_type">
+        <item>Домашний</item>
+        <item>Работа</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="bookmark_folder_context_menu">
+        <item>Переименовать</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="bookmarks_mz">
+        <item>Официальный сайт Meizu</item>
+        <item>http://m.meizu.com/en/</item>
+        <item>Официальный сайт Flyme</item>
+        <item>http://www.flymeos.com/</item>
+        <item>Форум Flyme</item>
+        <item>http://forum.flymeos.com/</item>
+    </string-array>
+    <string-array name="businesscard_address_type">
+        <item>Домашний</item>
+        <item>Работа</item>
+        <item>Другой</item>
+    </string-array>
+    <string-array name="businesscard_mail_type">
+        <item>Личный</item>
+        <item>Работа</item>
+        <item>Другой</item>
+    </string-array>
+    <string-array name="businesscard_phone_type">
+        <item>Домашний</item>
+        <item>Работа</item>
+        <item>Мобильный</item>
+        <item>Факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+    </string-array>
+    <string-array name="copy_choice_item">
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="copy_report_choice_item">
+        <item>Копировать</item>
+        <item>Пожаловаться</item>
+    </string-array>
+    <string-array name="mail_type">
+        <item>Личный</item>
+        <item>Работа</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="newsSdkTextRefreshComplete">
+        <item>Загрузка контента</item>
+        <item>Обновлено %d новости</item>
+    </string-array>
+    <string-array name="newsSdkTextRefreshCompleteVideo">
+        <item>Загрузка контента</item>
+        <item>Обновлено %d видео</item>
+    </string-array>
+    <string-array name="news_sdk_before_today">
+        <item>Вчера HH:mm</item>
+        <item>Позавчера HH:mm</item>
+        <item>M/d HH:mm</item>
+    </string-array>
+    <string-array name="news_sdk_hour_ago">
+        <item>%dч. назад</item>
+    </string-array>
+    <string-array name="news_sdk_last_visit_position">
+        <item>Уже просмотрено. Нажмите для обновления</item>
+        <item>В прошлый раз просматривали здесь. Нажмите для обновления</item>
+    </string-array>
+    <string-array name="news_sdk_minute_ago">
+        <item>%d мин. назад</item>
+    </string-array>
+    <string-array name="news_sdk_picture_operate">
+        <item>Поделиться</item>
+        <item>Сохранить</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete">
+        <item>"Обновлено"</item>
+        <item>Обновлено %d статей</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete_video">
+        <item>"Обновлено"</item>
+        <item>Обновлено %d видео</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_article_array">
+        <item>Реклама</item>
+        <item>Устарело</item>
+        <item>Порнография</item>
+        <item>Кликбейт</item>
+        <item>Неточность</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_video_array">
+        <item>Порнография/жестокость</item>
+        <item>Ложное название</item>
+        <item>Реклама</item>
+        <item>Плохое качество видео</item>
+        <item>Обложка оскорбительна</item>
+        <item>Нарушение</item>
+    </string-array>
+    <string-array name="op_js_location">
+        <item>Информация о местоположении</item>
+        <item>Хочет знать ваше местоположение</item>
+    </string-array>
+    <string-array name="phone_type">
+        <item>Домашний</item>
+        <item>Работа</item>
+        <item>Мобильный</item>
+        <item>Факс</item>
+        <item>Пейджер</item>
+        <item>Другой</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Всегда</item>
+        <item>Когда требуется</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Никогда</item>
+        <item>Через Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Авто</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Юникод (UTF-8)</item>
+        <item>Китайский (GBK)</item>
+        <item>Китайский (Big5)</item>
+        <item>Японский (ISO-2022-JP)</item>
+        <item>Японский (SHIFT_JIS)</item>
+        <item>Японский (EUC-JP)</item>
+        <item>Корейский (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Авто</item>
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+        <item>EUC-KR</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Далеко</item>
+        <item>Средне</item>
+        <item>Близко</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_homepage_values2">
+        <item>Текущая</item>
+        <item>chrome-native://newtab/</item>
+        <item>Другая</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Никогда</item>
+        <item>Только с Wi-Fi</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="pref_orientation_setting_name">
+        <item>По умолчанию</item>
+        <item>Портретная</item>
+        <item>Ланшафтная</item>
+    </string-array>
+    <string-array name="pref_set_text_degree_choices">
+        <item>Обычный</item>
+        <item>Средний</item>
+        <item>Большой</item>
+    </string-array>
+    <string-array name="pref_topic_news_setting_name">
+        <item>Полная</item>
+        <item>Укороченная</item>
+    </string-array>
+    <string-array name="pref_video_auto_play_name">
+        <item>Только Wi-Fi</item>
+        <item>Любая сеть</item>
+        <item>Закрыть</item>
+    </string-array>
+
+    <string-array name="reader_flip_ani_entries">
+        <item>None</item>
+        <item>Translation</item>
+        <item>Simulation</item>
+        <item>Up and down</item>
+    </string-array>
+
+    <string-array name="reader_jianju_entries">
+        <item>Компактный</item>
+        <item>Обычный</item>
+        <item>Полный</item>
+    </string-array>
+    <string-array name="reader_prefetch_entries">
+        <item>Глава 5</item>
+        <item>Глава 10</item>
+        <item>Глава 20</item>
+        <item>Ничео</item>
+    </string-array>
+    <string-array name="reader_rest_time_entries">
+        <item>3 ч.</item>
+        <item>2 ч.</item>
+        <item>1 ч.</item>
+        <item>Выкл.</item>
+    </string-array>
+    <string-array name="reader_screen_direction_entries">
+        <item>Горизонтально</item>
+        <item>Вертикально</item>
+    </string-array>
+    <string-array name="reader_screen_time_entries">
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>10 мин.</item>
+        <item>Не выключать</item>
+    </string-array>
+    <string-array name="report_choice_item">
+        <item>Порнография</item>
+        <item>Слух</item>
+        <item>Клевета</item>
+        <item>Политика</item>
+        <item>Жестокое обращение</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="zixun_detial_feedback_item">
+        <item>Реклама</item>
+        <item>Нелегальный контент</item>
+        <item>Порнография</item>
+        <item>Ложь</item>
+        <item>Неподтверждённая инф.</item>
+        <item>Плохое содержание</item>
+        <item>Вульгарный контент</item>
+        <item>Повтор</item>
+        <item>Опечатки</item>
+    </string-array>
+</resources>

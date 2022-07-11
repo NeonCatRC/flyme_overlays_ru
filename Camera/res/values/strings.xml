@@ -256,7 +256,9 @@
     <string name="mz_aicy_asd_content">Turn on Camera > Settings > AI scene recognition. Aicy auto recognizes portraits, night scenes, blue sky, food, cat, dog and more before each press of the shutter, and selects the best photo for you</string>
     <string name="mz_aicy_asd_title">AI Scene Recognition 2.0</string>
     <string name="mz_aicy_beauty_content">Turn on Camera > Beauty, Aicy will beautify your face according to your gender, age, skin type and skin tone. No need to learn any parameters, you can have a clear and natural selfie</string>
+    <string name="mz_aicy_beauty_content_ver_2">Turn on Camera > AI Super Portrait, Aicy will automatically optimize the AI image quality, arrange the light of AI portrait and restore the details of AI portrait. Selfies work better in low light</string>
     <string name="mz_aicy_beauty_title">AI Beauty 2.0</string>
+    <string name="mz_aicy_beauty_title_ver_2">AI Super Portrait</string>
     <string name="mz_aicy_document_content">Enable Camera > More > Document adjustment, align the finder frame with the document, slides, documents, etc., and tap the shutter. Aicy will recognize the document area and auto correct it to generate a scanned copy</string>
     <string name="mz_aicy_document_title">Document adjustment</string>
     <string name="mz_aicy_search_photo_content">Swipe up while viewing the image to see the related people, things, places, etc. that Aicy associates with. Recall each moments of the picture and wake up you memory then</string>

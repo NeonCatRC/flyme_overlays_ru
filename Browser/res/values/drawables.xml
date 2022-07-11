@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="action_bar_bg">#ffffffff</item>
+    <item type="drawable" name="bdreader_interface_transparent_drawable">#00ffffff</item>
+    <item type="drawable" name="dialog_btn_bg_pressed_day">#fff2f2f2</item>
+    <item type="drawable" name="dra_00ffffff">#00ffffff</item>
+    <item type="drawable" name="dra_4b000000">#4b000000</item>
+    <item type="drawable" name="f2f2f2">#fff2f2f2</item>
+    <item type="drawable" name="ff191919">#ff191919</item>
+    <item type="drawable" name="ff242424">#ff242424</item>
+    <item type="drawable" name="ffffff">#ffffffff</item>
+    <item type="drawable" name="mz_background_dark">@color/mz_background_dark</item>
+    <item type="drawable" name="mz_background_light">@color/mz_background_light</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="novel_comment_list_divider">#ffece6dc</item>
+    <item type="drawable" name="novel_explore_white_button_normal">#fffefdf9</item>
+    <item type="drawable" name="novel_template_clear">#00000000</item>
+    <item type="drawable" name="novel_transparent_drawable">#00ffffff</item>
+    <item type="drawable" name="pop_transparent_bg">#00ffffff</item>
+    <item type="drawable" name="reader_day_background">#fff6f5eb</item>
+    <item type="drawable" name="reader_night_background">#ff101819</item>
+    <item type="drawable" name="sub_tab_bg">#ffececec</item>
+    <item type="drawable" name="tab_sub_item_normal_background">#00ffffff</item>
+</resources>

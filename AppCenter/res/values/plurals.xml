@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Click again %1$d times for export log</item>
+        <item quantity="one">Click again %1$d times for export log</item>
+    </plurals>
+</resources>
