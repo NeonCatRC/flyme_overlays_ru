@@ -419,7 +419,7 @@
     <string name="pm_remove_binding_success">Deleted successfully</string>
     <string name="quit">Quit</string>
     <string name="read_phone_state_permission_description">Accurate access to version updates</string>
-    <string name="retry">Rety</string>
+    <string name="retry">Retry</string>
     <string name="scope_null_token">Authorization failed. Error getting info about %s</string>
     <string name="search_menu_title">Search</string>
     <string name="set_network">Set up the network</string>

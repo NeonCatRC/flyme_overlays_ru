@@ -47,12 +47,15 @@ Overlays for f9 apps
 | Video | FULL n\t | Standart Flyme video player |
 | Weather | FULL | Weather app |
 |  | WIP/START/STOP |  |
+| AppCenter | Start | Flyme app center |
 | Assistant | WIP | Aicy settings app |
+| Browser | Start | Flyme standart browser |
 | ConnectivitySettings | WIP | Connect app |
 | DataMigration | Stop | Data migration app |
 | FlymeLauncher | WIP | Standart Flyme launcher |
 | FlymeMusic | WIP | Standart Flyme music app (Flyme 9.2) |
 | framework-res | WIP | System framework |
+| GameCenter | Start | Flyme games app |
 | Music | Stop | Standart Flyme music app |
 | MzShare | Stop |  |
 | MzUpdate | WIP | Meizu update center |

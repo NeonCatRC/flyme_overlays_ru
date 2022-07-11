@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">现在只需再点击 %1$d 步操作即可导出 log</item>
+        <item quantity="one">现在只需再点击 %1$d 步操作即可导出 log</item>
+    </plurals>
+</resources>

@@ -75,8 +75,8 @@
     <item type="id" name="arrow_right_new_message_point" />
     <item type="id" name="arrow_right_number_message" />
     <item type="id" name="back" />
-    <item type="id" name="barcode_action_left" />
-    <item type="id" name="barcode_action_right" />
+    <item type="id" name="barcode_second" />
+    <item type="id" name="barcode_third" />
     <item type="id" name="blurArea" />
     <item type="id" name="blurTitle" />
     <item type="id" name="body" />
@@ -120,7 +120,6 @@
     <item type="id" name="chronometer" />
     <item type="id" name="circularbutton" />
     <item type="id" name="circularbutton1" />
-    <item type="id" name="click_icon" />
     <item type="id" name="comment_content_ratingstar" />
     <item type="id" name="comment_content_text" />
     <item type="id" name="comment_content_title" />
@@ -209,6 +208,7 @@
     <item type="id" name="gif_image_view" />
     <item type="id" name="gif_loading_view" />
     <item type="id" name="gif_play" />
+    <item type="id" name="gif_title" />
     <item type="id" name="gridview_container" />
     <item type="id" name="group_divider" />
     <item type="id" name="group_header_title" />
@@ -224,7 +224,11 @@
     <item type="id" name="hdr_control" />
     <item type="id" name="header_content_extra" />
     <item type="id" name="header_content_main" />
+    <item type="id" name="header_content_sub" />
+    <item type="id" name="header_content_sub_extra" />
+    <item type="id" name="header_divider" />
     <item type="id" name="header_image" />
+    <item type="id" name="header_price" />
     <item type="id" name="header_title" />
     <item type="id" name="hint_eye" />
     <item type="id" name="hint_slime" />
@@ -270,6 +274,8 @@
     <item type="id" name="lottie_layer_name" />
     <item type="id" name="lutfilter_control_include" />
     <item type="id" name="lutfilter_name" />
+    <item type="id" name="mainPanel" />
+    <item type="id" name="mainView" />
     <item type="id" name="main_share_page" />
     <item type="id" name="main_view_stub" />
     <item type="id" name="manual_20m_control" />
@@ -374,7 +380,9 @@
     <item type="id" name="mz_ar_control_img" />
     <item type="id" name="mz_ar_filter_bg" />
     <item type="id" name="mz_ar_info_desc" />
+    <item type="id" name="mz_ar_info_pic" />
     <item type="id" name="mz_ar_info_title" />
+    <item type="id" name="mz_ar_info_view" />
     <item type="id" name="mz_ar_layout" />
     <item type="id" name="mz_ar_left_corner_img" />
     <item type="id" name="mz_ar_loadingView" />
@@ -386,18 +394,24 @@
     <item type="id" name="mz_ar_sticker_list" />
     <item type="id" name="mz_ar_sticker_selected" />
     <item type="id" name="mz_ar_stub" />
+    <item type="id" name="mz_ar_view" />
     <item type="id" name="mz_asd_image_view" />
     <item type="id" name="mz_asd_stub" />
     <item type="id" name="mz_badge_image_view" />
     <item type="id" name="mz_badge_text_view" />
     <item type="id" name="mz_banner_view_gradient_bg" />
     <item type="id" name="mz_banner_view_gradient_bg_parent" />
+    <item type="id" name="mz_barcode_auto_cover_view" />
     <item type="id" name="mz_barcode_auto_result_hint" />
     <item type="id" name="mz_barcode_flash_tip_icon" />
     <item type="id" name="mz_barcode_flash_tip_layout" />
     <item type="id" name="mz_barcode_flash_tip_text" />
+    <item type="id" name="mz_barcode_info_exit_layout" />
+    <item type="id" name="mz_barcode_info_exit_view" />
     <item type="id" name="mz_barcode_info_header" />
     <item type="id" name="mz_barcode_info_list" />
+    <item type="id" name="mz_barcode_layout" />
+    <item type="id" name="mz_barcode_list_divider_bottom" />
     <item type="id" name="mz_barcode_result_layout" />
     <item type="id" name="mz_barcode_result_type_hint" />
     <item type="id" name="mz_barcode_smartbar" />
@@ -421,6 +435,7 @@
     <item type="id" name="mz_column_parent" />
     <item type="id" name="mz_control_title_bar_btn_cancel" />
     <item type="id" name="mz_control_title_bar_btn_ok" />
+    <item type="id" name="mz_custom_devicemark_layout" />
     <item type="id" name="mz_divider_bar1" />
     <item type="id" name="mz_divider_bar2" />
     <item type="id" name="mz_doc_layout" />
@@ -466,6 +481,7 @@
     <item type="id" name="mz_fs_thin_face_bt" />
     <item type="id" name="mz_fs_vp" />
     <item type="id" name="mz_fs_whiten_skin_bt" />
+    <item type="id" name="mz_funny_snap_item" />
     <item type="id" name="mz_funny_snap_item_bg" />
     <item type="id" name="mz_funny_snap_item_img" />
     <item type="id" name="mz_funny_snap_layout" />
@@ -506,6 +522,7 @@
     <item type="id" name="mz_manual_gallery" />
     <item type="id" name="mz_manual_stub" />
     <item type="id" name="mz_mode_bg_mask" />
+    <item type="id" name="mz_mode_control" />
     <item type="id" name="mz_mode_guide" />
     <item type="id" name="mz_mode_guide_back" />
     <item type="id" name="mz_mode_guide_card" />
@@ -521,6 +538,7 @@
     <item type="id" name="mz_mode_move_btn" />
     <item type="id" name="mz_mode_move_btn_layout" />
     <item type="id" name="mz_new_message_view" />
+    <item type="id" name="mz_night_coach_button" />
     <item type="id" name="mz_night_stub" />
     <item type="id" name="mz_nightvision_stub" />
     <item type="id" name="mz_operate_guide_container" />
@@ -550,6 +568,7 @@
     <item type="id" name="mz_search_icon" />
     <item type="id" name="mz_select_box" />
     <item type="id" name="mz_setting_click_hint" />
+    <item type="id" name="mz_setting_item" />
     <item type="id" name="mz_setting_item0" />
     <item type="id" name="mz_setting_item1" />
     <item type="id" name="mz_setting_item2" />
@@ -657,8 +676,8 @@
     <item type="id" name="review_image_bg" />
     <item type="id" name="right_icon" />
     <item type="id" name="right_side" />
-    <item type="id" name="rl_item_root" />
     <item type="id" name="rootLayout" />
+    <item type="id" name="round_corner_layout" />
     <item type="id" name="round_corner_progress" />
     <item type="id" name="round_corner_progress_text" />
     <item type="id" name="round_corner_promotion_status_price_text" />
@@ -723,6 +742,7 @@
     <item type="id" name="stub_cam_funny_snap_view" />
     <item type="id" name="stub_cam_preview_view" />
     <item type="id" name="stub_cam_previewrender_view" />
+    <item type="id" name="stub_cam_surface_view" />
     <item type="id" name="sub_cam_texture_view" />
     <item type="id" name="submenuarrow" />
     <item type="id" name="submit_area" />
@@ -777,6 +797,7 @@
     <item type="id" name="title_new_message_point" />
     <item type="id" name="title_template" />
     <item type="id" name="toast_complete" />
+    <item type="id" name="toast_rotate_layout" />
     <item type="id" name="toast_text" />
     <item type="id" name="topPanel" />
     <item type="id" name="top_setting_item_text_icon_view" />
@@ -800,6 +821,7 @@
     <item type="id" name="video_hdr_control" />
     <item type="id" name="video_record_timer" />
     <item type="id" name="video_record_timer_layout" />
+    <item type="id" name="video_size_dialog_title" />
     <item type="id" name="video_size_include" />
     <item type="id" name="video_size_layout" />
     <item type="id" name="video_size_list" />
@@ -810,6 +832,8 @@
     <item type="id" name="visible" />
     <item type="id" name="visible_removing_fragment_view_tag" />
     <item type="id" name="voice_img" />
+    <item type="id" name="watch_control" />
+    <item type="id" name="watch_root" />
     <item type="id" name="water_mark_include" />
     <item type="id" name="water_mark_setting_layout" />
 </resources>
