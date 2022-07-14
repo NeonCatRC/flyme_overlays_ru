@@ -4097,8 +4097,6 @@
     <public type="dimen" name="mc_picker_scroll_select_item_height" id="0x7f07044b" />
     <public type="dimen" name="abc_action_bar_progress_bar_size" id="0x7f070009" />
     <public type="dimen" name="duoqu_horiz_text_margintop" id="0x7f0701ef" />
-    <public type="drawable" name="design_ic_visibility" id="0x7f080098" />
-    <public type="drawable" name="design_ic_visibility_off" id="0x7f080099" />
     <public type="drawable" name="$avd_hide_password__0" id="0x7f080000" />
     <public type="drawable" name="$avd_hide_password__1" id="0x7f080001" />
     <public type="drawable" name="$avd_hide_password__2" id="0x7f080002" />
@@ -5809,6 +5807,8 @@
     <public type="drawable" name="titlebar_normal_bg" id="0x7f0806a9" />
     <public type="drawable" name="traffic_tab_indicator" id="0x7f0806ac" />
     <public type="drawable" name="v_by_icon_3" id="0x7f0806ad" />
+    <public type="drawable" name="design_ic_visibility" id="0x7f080098" />
+    <public type="drawable" name="design_ic_visibility_off" id="0x7f080099" />
     <public type="id" name="ALT" id="0x7f090000" />
     <public type="id" name="CENTER" id="0x7f090001" />
     <public type="id" name="CTRL" id="0x7f090002" />
@@ -7792,12 +7792,12 @@
     <public type="menu" name="rcs_card_detail_forward_menu" id="0x7f0d0009" />
     <public type="menu" name="select_conversation_menu" id="0x7f0d000a" />
     <public type="menu" name="view_slideshow_menu" id="0x7f0d000b" />
-    <public type="mipmap" name="ic_launcher_smsmms" id="0x7f0e0000" />
     <public type="mipmap" name="sso_icon_delete" id="0x7f0e0003" />
     <public type="mipmap" name="sso_secur_icon_back" id="0x7f0e0004" />
     <public type="mipmap" name="sso_toast_err_icon" id="0x7f0e0005" />
     <public type="mipmap" name="sso_toast_ok_icon" id="0x7f0e0006" />
     <public type="mipmap" name="sso_toast_warn_icon" id="0x7f0e0007" />
+    <public type="mipmap" name="ic_launcher_smsmms" id="0x7f0e0000" />
     <public type="mipmap" name="ic_launcher_smsmms_background" id="0x7f0e0001" />
     <public type="mipmap" name="ic_launcher_smsmms_foreground" id="0x7f0e0002" />
     <public type="plurals" name="confirm_delete_conversation" id="0x7f0f0000" />
@@ -9093,6 +9093,74 @@
     <public type="string" name="voice_text_remain" id="0x7f110504" />
     <public type="string" name="xiaoyuan_test" id="0x7f110505" />
     <public type="string" name="yes" id="0x7f110506" />
+    <public type="string" name="WaitTip" id="0x7f110507" />
+    <public type="string" name="access_server_error" id="0x7f110508" />
+    <public type="string" name="alipay_data_exception" id="0x7f110509" />
+    <public type="string" name="alipay_network_request_error" id="0x7f11050a" />
+    <public type="string" name="alipay_server_error" id="0x7f11050b" />
+    <public type="string" name="alipay_unknown_error" id="0x7f11050c" />
+    <public type="string" name="banner_sms_promo_message" id="0x7f11050d" />
+    <public type="string" name="banner_sms_promo_title_application" id="0x7f11050e" />
+    <public type="string" name="banner_sms_promo_title_initial" id="0x7f11050f" />
+    <public type="string" name="cannot_send_message_for_sns" id="0x7f110510" />
+    <public type="string" name="change_default_message_app_dialog_title" id="0x7f110511" />
+    <public type="string" name="compose_disabled_toast" id="0x7f110512" />
+    <public type="string" name="flyme_disk_limit_notify_description" id="0x7f110513" />
+    <public type="string" name="flyme_disk_limite" id="0x7f110514" />
+    <public type="string" name="flyme_mms_no_space_dialog_positive" id="0x7f110515" />
+    <public type="string" name="flyme_mms_no_space_msg" id="0x7f110516" />
+    <public type="string" name="flyme_mms_no_space_title" id="0x7f110517" />
+    <public type="string" name="flyme_mms_send_action_title" id="0x7f110518" />
+    <public type="string" name="group_edit" id="0x7f110519" />
+    <public type="string" name="illegal_pay_request" id="0x7f11051a" />
+    <public type="string" name="long_press_menu_original" id="0x7f11051b" />
+    <public type="string" name="mark_all_readed" id="0x7f11051c" />
+    <public type="string" name="message_unfavoriting_label" id="0x7f11051d" />
+    <public type="string" name="mms_flyme_noti_subject_view" id="0x7f11051e" />
+    <public type="string" name="mms_talk_noti_subject_view" id="0x7f11051f" />
+    <public type="string" name="networkRequestError" id="0x7f110520" />
+    <public type="string" name="network_error_to_refresh" id="0x7f110521" />
+    <public type="string" name="no_network_to_setting" id="0x7f110522" />
+    <public type="string" name="open_pay_auto_pay_permission_title" id="0x7f110523" />
+    <public type="string" name="orderInfoIncomplete" id="0x7f110524" />
+    <public type="string" name="pay_base_channel_access_server_error" id="0x7f110525" />
+    <public type="string" name="pay_base_channel_pay_fail" id="0x7f110526" />
+    <public type="string" name="pay_base_channel_pay_success" id="0x7f110527" />
+    <public type="string" name="pay_base_channel_pay_unknown_error" id="0x7f110528" />
+    <public type="string" name="pay_fail" id="0x7f110529" />
+    <public type="string" name="pay_success" id="0x7f11052a" />
+    <public type="string" name="pay_unknown_error" id="0x7f11052b" />
+    <public type="string" name="pref_summary_default_message_is_system_own" id="0x7f11052c" />
+    <public type="string" name="pref_title_default_message_app" id="0x7f11052d" />
+    <public type="string" name="prepare_mms_pdu_data" id="0x7f11052e" />
+    <public type="string" name="recoder_time_limit_short" id="0x7f11052f" />
+    <public type="string" name="record_failed" id="0x7f110530" />
+    <public type="string" name="request_too_fast" id="0x7f110531" />
+    <public type="string" name="sd_mount_err" id="0x7f110532" />
+    <public type="string" name="setting_network" id="0x7f110533" />
+    <public type="string" name="talk_subject" id="0x7f110534" />
+    <public type="string" name="weixin" id="0x7f110535" />
+    <public type="string" name="weixin_unknown_error" id="0x7f110536" />
+    <public type="string" name="abc_action_bar_home_description_format" id="0x7f110537" />
+    <public type="string" name="abc_action_bar_home_subtitle_description_format" id="0x7f110538" />
+    <public type="string" name="demo_name" id="0x7f110539" />
+    <public type="string" name="douqu_loading" id="0x7f11053a" />
+    <public type="string" name="douqu_m" id="0x7f11053b" />
+    <public type="string" name="duoqu_dlg_cancel" id="0x7f11053c" />
+    <public type="string" name="duoqu_dlg_laoding" id="0x7f11053d" />
+    <public type="string" name="has_mark_read" id="0x7f11053e" />
+    <public type="string" name="has_mark_unread" id="0x7f11053f" />
+    <public type="string" name="head_name" id="0x7f110540" />
+    <public type="string" name="mc_custom_date_time_day_after" id="0x7f110541" />
+    <public type="string" name="mc_custom_date_time_day_before" id="0x7f110542" />
+    <public type="string" name="mms_audio_subject_view" id="0x7f110543" />
+    <public type="string" name="mms_file_subject_view" id="0x7f110544" />
+    <public type="string" name="mms_image_subject_view" id="0x7f110545" />
+    <public type="string" name="mms_location_subject_view" id="0x7f110546" />
+    <public type="string" name="mms_vcard_subject_view" id="0x7f110547" />
+    <public type="string" name="mms_video_subject_view" id="0x7f110548" />
+    <public type="string" name="pull_to_mark_read" id="0x7f110549" />
+    <public type="string" name="pull_to_mark_unread" id="0x7f11054a" />
     <public type="string" name="chatbot_hello_text" id="0x7f110083" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f120000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f120001" />

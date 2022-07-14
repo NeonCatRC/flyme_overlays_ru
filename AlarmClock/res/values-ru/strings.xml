@@ -36,7 +36,7 @@
     <string name="a7">Следующий будильник</string>
     <string name="a8">Будильник прозвенит %d раз</string>
     <string name="a9">Дремать</string>
-    <string name="a_">Повтор в %s</string>
+    <string name="a_">Повтор %s</string>
     <string name="aa">Остановить</string>
     <string name="ab">Погода: %1$s, температура %2$d° ~ %3$d°</string>
     <string name="ac">Будильник</string>
@@ -64,7 +64,7 @@
     <string name="b3">Город уже добавлен</string>
     <string name="b5">Коснитесь для получения погодных данных</string>
     <string name="b7">Копировать</string>
-    <string name="b8">Конец в %s</string>
+    <string name="b8">Сигнал %s</string>
     <string name="b9">Отсчёт</string>
     <string name="b_">Установить</string>
     <string name="ba">1 д.</string>

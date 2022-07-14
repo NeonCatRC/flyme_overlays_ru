@@ -478,7 +478,7 @@
     <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
     <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
     <string name="mz_permission_policy_description_update">Для того, чтобы полностью защитить ваши права, мы обновили нашу политику приватности, которую можно увидеть %1$s</string>
-    <string name="mz_permission_secondary_confirmation_title">Необходимые полномочия разрешение</string>
+    <string name="mz_permission_secondary_confirmation_title">Необходимые разрешения и полномочия</string>
     <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
     <string name="mz_permission_title_terms">Разрешения и заявления</string>
     <string name="mz_permission_use_info">Инструкции по использованию</string>

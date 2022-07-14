@@ -71,7 +71,7 @@
     <string name="answer_tip">Ответ</string>
     <string name="app_download_dec">Загрузить актуальную версию ПО из Mstore</string>
     <string name="app_download_title">Загрузить приложение</string>
-    <string name="app_name">Мой Flyme</string>
+    <string name="app_name">Flyme ID</string>
     <string name="area_title">Страна или регион</string>
     <string name="auto_login_error">Ошибка автоматического входа в систему. Попробуйте войти вручную</string>
     <string name="auto_syn">Синхронизация данных</string>
@@ -155,7 +155,7 @@
     <string name="find_pwd_by_phone">Восстановить пароль по телефону</string>
     <string name="find_pwd_tips">Введите идентификатор Flyme или номер телефона, который вы использовали для регистрации</string>
     <string name="finish">Готово</string>
-    <string name="flyme_account_name">Мой Flyme</string>
+    <string name="flyme_account_name">Flyme ID</string>
     <string name="flyme_article_content">Условия Сервиса Flyme</string>
     <string name="flyme_article_title">"При регистрации вы соглашаетесь "</string>
     <string name="flyme_coin">mCoins</string>
@@ -190,13 +190,13 @@
     <string name="img_to_edit">Нажмите дважды для редактирования</string>
     <string name="img_to_personal_info">Фото профиля, нажмите дважды для перехода к персональной информации</string>
     <string name="img_to_sync">Облачное хранилище, нажмите дважды для перехода в облачный сервис Flyme</string>
-    <string name="introduce_summary1">Найдите утерянный телефон. Удалённо блокируйте личные данные</string>
+    <string name="introduce_summary1">Найдите утерянный телефон. Удалённо блокируйте личные данные.</string>
     <string name="introduce_summary2">Игровые подарки, темы, обои бесплатно</string>
     <string name="introduce_summary2_intl">Множество бесплатных тем и обоев</string>
-    <string name="introduce_summary3">Данные и фотографии в облаке никогда не потеряются</string>
-    <string name="introduce_summary3_intl">Данные и контакты в облаке никогда не потеряются</string>
-    <string name="introduce_summary3_sf">Фотографии в облаке никогда не потеряются</string>
-    <string name="introduce_title1">Поиск телефона и безопасность</string>
+    <string name="introduce_summary3">Данные в облаке никогда не пропадут</string>
+    <string name="introduce_summary3_intl">Данные в облаке никогда не пропадут</string>
+    <string name="introduce_summary3_sf">Фотографии в облаке никогда не пропадут</string>
+    <string name="introduce_title1">Поиск телефона</string>
     <string name="introduce_title2">Больше преимуществ</string>
     <string name="introduce_title3">Облачное хранилище</string>
     <string name="introduce_title3_sf">Безопасное хранение данных в облаке</string>
@@ -354,7 +354,7 @@
     <string name="msg_time_error">Войти не удалось, пожалуйста, убедитесь, что дата на телефоне установлена правильно</string>
     <string name="my_data_diagram_title">Моя диаграмма данных</string>
     <string name="my_devices">Мое устройство</string>
-    <string name="my_flyme">Мой Flyme</string>
+    <string name="my_flyme">Flyme ID</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
@@ -614,7 +614,7 @@
     <string name="summary_authentication">Подтверждён</string>
     <string name="summary_not_authentication">Нет</string>
     <string name="synBar">Синхронизация</string>
-    <string name="syncDec">синхронизируйте контакты, сообщения и другие данные в облаке с телефоном</string>
+    <string name="syncDec">Синхронизируйте контакты, сообщения и другие данные в облаке с телефоном</string>
     <string name="syncTitle">Синхронизация</string>
     <string name="sync_before_logout">Синхронизация и выход</string>
     <string name="syncingData">Синхронизация данных</string>

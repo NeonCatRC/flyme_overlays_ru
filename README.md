@@ -8,6 +8,8 @@
 
 **Found bug or error in translation? Feel free to open issue.**
 
+***Based on 16th beta ROM***
+
 ## Development state
 
 - FULL- full RU localization

@@ -341,7 +341,7 @@
     <string name="pedo_calendar_last_month">Прошлый месяц</string>
     <string name="pedo_calendar_last_week">Последняя неделя</string>
     <string name="pedo_calendar_steps_suffix">" шагов"</string>
-    <string name="pedo_calendar_steps_text">Шаги</string>
+    <string name="pedo_calendar_steps_text">Шагов</string>
     <string name="pedo_calendar_this_month">Этот месяц</string>
     <string name="pedo_calendar_this_week">Эта неделя</string>
     <string name="pedo_calendar_title_day">Ежедневный обзор</string>
@@ -372,7 +372,7 @@
     <string name="personal_login_summary">Войдите в аккаунт Meizu для синхронизации данных</string>
     <string name="personal_login_title">Нажмите для входа</string>
     <string name="personal_motion_target_title">Спортивная цель</string>
-    <string name="personal_motion_target_unit">шаги</string>
+    <string name="personal_motion_target_unit">шагов</string>
     <string name="personal_pedo_function_dialog_title">Выключить подсчет шагов?</string>
     <string name="personal_pedo_function_title">Подсчет шагов</string>
     <string name="personal_pedo_shortcut_title">Ярлык домашнего экрана</string>
@@ -440,12 +440,12 @@
     <string name="share_unknown">Верхний</string>
     <string name="share_wechat_favorite">Избранные WeChat</string>
     <string name="share_wechat_session">Сессия WeChat</string>
-    <string name="splash_minor_title">Шаги за сегодня %1$d (Обновление в реальном времени)</string>
+    <string name="splash_minor_title">Шагов за сегодня %1$d (Обновление в реальном времени)</string>
     <string name="splash_title">Шагомер MEIZU</string>
     <string name="status_bar_notification_info_overflow">>999</string>
-    <string name="step">шаги</string>
+    <string name="step">шагов</string>
     <string name="step_count_today">Число шагов сегодня</string>
-    <string name="steps">Шаги</string>
+    <string name="steps">Шагов</string>
     <string name="steps_of_date">%1$s сделано шагов</string>
     <string name="sync_timeout">Тайм-аут запроса. Повторите попытку.</string>
     <string name="target_step">Цель: %1$d</string>

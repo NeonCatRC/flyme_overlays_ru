@@ -657,6 +657,7 @@
     <string name="mz_pm_set_gprs_on">Управление передачей данных</string>
     <string name="mz_pm_set_wifi_on">Управление Wi-Fi</string>
     <string name="mz_pm_wlan">Wi-Fi</string>
+    <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Разрешить</string>
     <string name="mz_specific_permission_deny">Запретить</string>

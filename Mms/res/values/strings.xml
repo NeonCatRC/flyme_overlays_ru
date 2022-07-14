@@ -34,7 +34,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="about_us">关于我们</string>
+    <string name="about_us">About us</string>
     <string name="add">Add</string>
     <string name="add_attachment">Attach</string>
     <string name="add_attachment_contact_vcard_title">Attach vCard</string>
@@ -244,7 +244,7 @@
     <string name="draft_separator">,</string>
     <string name="draft_sub_tittle_mms">MMS: %1$s</string>
     <string name="draft_tittle_large">"[Draft] "</string>
-    
+
     <string name="duoqu_613_change">切换车次</string>
     <string name="duoqu_613_select">选择车次</string>
     <string name="duoqu_air_arriver_city">到达</string>
@@ -510,7 +510,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hidden_sender_address">Hidden sender address</string>
     <string name="home_rcs_enable_notify_text">Smart SMS, more cost-efficient and convenient</string>
-    <string name="hybrid_cancel">cancel</string>
+    <string name="hybrid_cancel">Cancel</string>
     <string name="hybrid_msg_loading">Loading</string>
     <string name="hybrid_network_error_to_refresh">The network is abnormal, click reload</string>
     <string name="hybrid_no_network_to_setting">No network connection, please check the network settings</string>
@@ -988,7 +988,7 @@
     <string name="rcs_chatbot_normal_message">You receive a message and click to see the details</string>
     <string name="rcs_chatbot_vcard_message">You receive a vCard message and click to see the details</string>
     <string name="rcs_chatbot_video_message">You receive a video message and click to see the details</string>
-
+    
     <string name="rcs_common_cancel">取消</string>
     <string name="rcs_common_confirm">确认</string>
     <string name="rcs_common_get_data_failed">数据获取失败</string>
@@ -1029,7 +1029,7 @@
     <string name="rcs_privacy_policy_title">Privacy policy</string>
     <string name="rcs_public_message">smart message</string>
     <string name="rcs_red_packet_text">[Red Packet]</string>
-
+    
     <string name="rcs_redpacket_detail_title">流量红包</string>
     <string name="rcs_redpacket_only_cmcc">此红包仅限中国移动号码领取</string>
     <string name="rcs_redpacket_status_invalid">红包已失效</string>
@@ -1098,7 +1098,7 @@
     <string name="rcs_web_network_fail">网络失效了，打开网络看看</string>
     <string name="rcs_web_network_setting">网络设置</string>
 
-    <string name="rcs_web_share">share</string>
+    <string name="rcs_web_share">Share</string>
     <string name="read_report_dialog_cancel">Cancel</string>
     <string name="read_report_dialog_send">Send</string>
     <string name="read_report_dialog_title">Send read report?</string>
@@ -1152,12 +1152,12 @@
     <string name="sent_label">Sent:</string>
     <string name="server_error">Server error</string>
     <string name="service__num_tips_top">Top</string>
-    <string name="service_comment_tips_top">recommend</string>
+    <string name="service_comment_tips_top">Recommend</string>
     <string name="service_message_not_found">Message expired or not available for viewing</string>
     <string name="service_not_activated">Service not activated on network</string>
-    <string name="service_num_more">more</string>
-    <string name="service_num_seach">search</string>
-    <string name="service_num_setting_delete">delete</string>
+    <string name="service_num_more">More</string>
+    <string name="service_num_seach">Search</string>
+    <string name="service_num_setting_delete">Delete</string>
     <string name="service_num_title_name">Service number</string>
     <string name="service_setting_cancel_top">Cancel the top</string>
     <string name="service_setting_top">Top</string>

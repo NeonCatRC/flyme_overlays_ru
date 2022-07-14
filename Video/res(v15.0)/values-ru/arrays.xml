@@ -61,6 +61,11 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+    <string-array name="m">
+        <item>Без повтора</item>
+        <item>Повтор</item>
+        <item>Включить следующее видео в папке</item>
+    </string-array>
     <string-array name="r">
         <item>0.75X</item>
         <item>1X</item>
