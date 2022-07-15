@@ -39,9 +39,7 @@
     <string name="a_">Все файлы APK</string>
     <string name="aa">не устан.</string>
     <string name="ab">Проводник</string>
-
-    <string name="ad">B</string> <!--WTF???-->
-
+    <string name="ad">Б</string>
     <string name="ae">Месяц назад</string>
     <string name="af">Восстановление</string>
     <string name="ag">Трад. китайский по умолчанию в Windows</string>
@@ -61,7 +59,7 @@
     <string name="aw">Выбор папки</string>
     <string name="ax">Очистка</string>
     <string name="ay">Очистить все файлы из корзины?</string>
-    <string name="az">очистить</string>
+    <string name="az">Очистить</string>
     <string name="b0">Закрыть</string>
     <string name="b1">При закрытии файл сохраняется в корзине файлового менеджера</string>
     <string name="b2">Имя пользователя:</string>
@@ -731,7 +729,7 @@
     <string name="tv">Выберите файл для загрузки</string>
     <string name="tw">Загружается</string>
     <string name="tx">Сохранить в локальном хранилище</string>
-    <string name="ty">Используйте функцию предварительного просмотра файлов по умолчанию</string>
+    <string name="ty">Использовать функцию предварительного просмотра</string>
     <string name="tz">Неверное имя, введите буквы, цифры, пробел или _</string>
     <string name="u0">Кодировка FTP по умолчанию</string>
     <string name="u1">UTF-8</string>

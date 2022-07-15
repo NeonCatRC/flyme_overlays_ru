@@ -36,7 +36,6 @@
 | FlymeSoundRecorder | FULL | Build-in recorder app (Flyme 9.2) |
 | Gallery | FULL n\t | Standart Flyme gallery app |
 | InCallUI | FULL n\t | In-call interface for build-in dialer |
-| MMS | FULL (AD) | Standart Flyme SMS/MMS messager |
 | MusicFX | FULL n\t | SquareSound |
 | MzAccount | FULL n\t | Meizu account app |
 | MzBatteryManager | FULL n\t | Battery manager |
@@ -61,6 +60,7 @@
 | FlymeMusic | WIP | Standart Flyme music app (Flyme 9.2) |
 | framework-res | WIP | System framework |
 | GameCenter | WIP | Flyme games app |
+| MMS | WIP (AD) | Standart Flyme SMS/MMS messager |
 | Music | Stop | Standart Flyme music app |
 | MzShare | Stop |  |
 | MzUpdate | WIP | Meizu update center |

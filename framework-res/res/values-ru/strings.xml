@@ -1037,7 +1037,7 @@
     <string name="permlab_bodySensors">Датчики (например, пульсометр)</string>
     <string name="permlab_broadcastSticky">Отправка сообщений с их последующим сохранением</string>
     <string name="permlab_callPhone">Осуществление телефонных вызовов</string>
-    <string name="permlab_camera">Фото- и видеосъёмка</string>
+    <string name="permlab_camera">Запись видео и фото</string>
     <string name="permlab_changeNetworkState">Изменение сетевых настроек</string>
     <string name="permlab_changeTetherState">Изменение подключения к компьютеру</string>
     <string name="permlab_changeWifiMulticastState">Получение данных по многоадресной рассылке через WLAN</string>

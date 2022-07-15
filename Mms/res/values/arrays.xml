@@ -28,36 +28,36 @@
         <item>Audio library</item>
     </string-array>
     <string-array name="custom_time_picker_lunar_day">
-        <item>初一</item>
-        <item>初二</item>
-        <item>初三</item>
-        <item>初四</item>
-        <item>初五</item>
-        <item>初六</item>
-        <item>初七</item>
-        <item>初八</item>
-        <item>初九</item>
-        <item>初十</item>
-        <item>十一</item>
-        <item>十二</item>
-        <item>十三</item>
-        <item>十四</item>
-        <item>十五</item>
-        <item>十六</item>
-        <item>十七</item>
-        <item>十八</item>
-        <item>十九</item>
-        <item>廿十</item>
-        <item>廿一</item>
-        <item>廿二</item>
-        <item>廿三</item>
-        <item>廿四</item>
-        <item>廿五</item>
-        <item>廿六</item>
-        <item>廿七</item>
-        <item>廿八</item>
-        <item>廿九</item>
-        <item>三十</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
     </string-array>
     <string-array name="empty_subject_strings">
         <item>No subject</item>
@@ -382,18 +382,18 @@
         <item>"There is a traffic jam. I'll be a little late."</item>
     </string-array>
     <string-array name="search_label_config">
-        <item>电费</item>
-        <item>水费</item>
-        <item>燃气</item>
-        <item>营业厅</item>
-        <item>账单</item>
-        <item>快递</item>
-        <item>提取码</item>
-        <item>验证码</item>
+        <item>Electricity bill</item>
+        <item>Water bill</item>
+        <item>Gas</item>
+        <item>Business Office</item>
+        <item>Bill</item>
+        <item>Express delivery</item>
+        <item>Extraction code</item>
+        <item>Verification code</item>
         <item>12306</item>
-        <item>机票</item>
-        <item>取件</item>
-        <item>退订</item>
+        <item>Air ticket</item>
+        <item>Pickup</item>
+        <item>Unsubscribe</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 second</item>

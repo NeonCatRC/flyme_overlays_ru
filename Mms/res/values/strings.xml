@@ -107,7 +107,8 @@
     <string name="channel_name_failed">Send or download failed</string>
     <string name="channel_name_message">New message</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
-
+    <string name="chatbot_hello_text">Hello</string>
+    
     <string name="chatbot_address">详细地址</string>
     <string name="chatbot_all">全网小程序</string>
     <string name="chatbot_black_list">黑名单</string>
@@ -988,23 +989,21 @@
     <string name="rcs_chatbot_normal_message">You receive a message and click to see the details</string>
     <string name="rcs_chatbot_vcard_message">You receive a vCard message and click to see the details</string>
     <string name="rcs_chatbot_video_message">You receive a video message and click to see the details</string>
-    
-    <string name="rcs_common_cancel">取消</string>
-    <string name="rcs_common_confirm">确认</string>
-    <string name="rcs_common_get_data_failed">数据获取失败</string>
-    <string name="rcs_common_invalid_params">参数无效</string>
-    <string name="rcs_common_loading">正在加载</string>
-    <string name="rcs_common_network_disabled">网络不可用，请检查网络设置</string>
-    <string name="rcs_common_refuse">拒绝</string>
-    <string name="rcs_common_saved_failed">保存失败</string>
-    <string name="rcs_common_saved_succeed">保存成功</string>
-    <string name="rcs_complaint_commit">提交</string>
-    <string name="rcs_complaint_content">是否举报该条消息内容？</string>
-    <string name="rcs_complaint_fail">举报失败</string>
-    <string name="rcs_complaint_is_shielding">不再接收该企业此类消息</string>
-    <string name="rcs_complaint_only_cmcc">仅限中国移动号码可提交举报</string>
-    <string name="rcs_complaint_title">举报</string>
-
+    <string name="rcs_common_cancel">Cancel</string>
+    <string name="rcs_common_confirm">Confirm</string>
+    <string name="rcs_common_get_data_failed">Data acquisition failed</string>
+    <string name="rcs_common_invalid_params">v</string>
+    <string name="rcs_common_loading">Loading</string>
+    <string name="rcs_common_network_disabled">The network is not available, please check the network settings</string>
+    <string name="rcs_common_refuse">Refuse</string>
+    <string name="rcs_common_saved_failed">Save failed</string>
+    <string name="rcs_common_saved_succeed">Saved successfully</string>
+    <string name="rcs_complaint_commit">Submit</string>
+    <string name="rcs_complaint_content">Report the content of the message?</string>
+    <string name="rcs_complaint_fail">Report failed</string>
+    <string name="rcs_complaint_is_shielding">No longer receive such messages from the company</string>
+    <string name="rcs_complaint_only_cmcc">Only China Mobile numbers can submit reports</string>
+    <string name="rcs_complaint_title">Report</string>
     <string name="rcs_file_message">File message</string>
     <string name="rcs_file_subject_view">[file]</string>
     <string name="rcs_geo_message">GEO message</string>
@@ -1029,14 +1028,12 @@
     <string name="rcs_privacy_policy_title">Privacy policy</string>
     <string name="rcs_public_message">smart message</string>
     <string name="rcs_red_packet_text">[Red Packet]</string>
-    
-    <string name="rcs_redpacket_detail_title">流量红包</string>
-    <string name="rcs_redpacket_only_cmcc">此红包仅限中国移动号码领取</string>
-    <string name="rcs_redpacket_status_invalid">红包已失效</string>
-    <string name="rcs_redpacket_status_phone_illegal">手机号非法不支持领取</string>
-    <string name="rcs_redpacket_status_text">领取红包</string>
-    <string name="rcs_redpacket_status_used">红包已领取</string>
-
+    <string name="rcs_redpacket_detail_title">Traffic red packets</string>
+    <string name="rcs_redpacket_only_cmcc">This red packet can only be claimed by China Mobile numbers</string>
+    <string name="rcs_redpacket_status_invalid">Red Packet has expired</string>
+    <string name="rcs_redpacket_status_phone_illegal">The mobile phone number is illegal and does not support receiving</string>
+    <string name="rcs_redpacket_status_text">Receive red packets</string>
+    <string name="rcs_redpacket_status_used">Red Packet received</string>
     <string name="rcs_request_permissions">Request For Permissions</string>
     <string name="rcs_request_permissions_key">Request Permissions Key</string>
     <string name="rcs_request_permissions_summary">RCSService permission not enough, unable to normal operation, please apply for permission first</string>
@@ -1056,17 +1053,15 @@
     <string name="rcs_set_txt_bfs_address">Bfs address</string>
     <string name="rcs_set_txt_switch_over_size">switch over size</string>
     <string name="rcs_setting">Rcs Setting</string>
-
-    <string name="rcs_share_cancel">取消</string>
-    <string name="rcs_share_default_description">来自信析宝RCS的分享</string>
-    <string name="rcs_share_platform_alipay">支付宝</string>
-    <string name="rcs_share_platform_qq">QQ好友</string>
-    <string name="rcs_share_platform_qzone">QQ空间</string>
-    <string name="rcs_share_platform_sina">微博</string>
-    <string name="rcs_share_platform_wechat">微信好友</string>
-    <string name="rcs_share_platform_wechat_moment">朋友圈</string>
-    <string name="rcs_share_to">分享到</string>
-
+    <string name="rcs_share_cancel">Cancel</string>
+    <string name="rcs_share_default_description">Sharing from Xinxibao RCS</string>
+    <string name="rcs_share_platform_alipay">Alipay</string>
+    <string name="rcs_share_platform_qq">QQ friends</string>
+    <string name="rcs_share_platform_qzone">QQ space</string>
+    <string name="rcs_share_platform_sina">Weibo</string>
+    <string name="rcs_share_platform_wechat">WeChat friends</string>
+    <string name="rcs_share_platform_wechat_moment">WeChat moments</string>
+    <string name="rcs_share_to">Share to</string>
     <string name="rcs_support_multiple_formats">SMS, image, audio, video, position, and vCard are supported to send</string>
     <string name="rcs_switch_description">After enabled, send SMS to China Mobile users for free, and charge only 0.01 RMB per SMS when sending it to China Unicom users and China Telecom users.</string>
     <string name="rcs_switch_dialog_message">Only China Mobile cards supported</string>
@@ -1194,7 +1189,7 @@
     <string name="sms_mms_failed_cancel_title">Cancel</string>
     <string name="sms_mms_failed_message_multi">%1$s recipient(s)</string>
     <string name="sms_mms_failed_redeliver_title">Resend</string>
-
+    
     <string name="sso_string_input_seccode_title">请输入统一认证安全码</string>
     <string name="sso_string_net_system_exception">请检查网络连接</string>
     <string name="sso_string_operator_limited">操作频繁，请稍后再试</string>

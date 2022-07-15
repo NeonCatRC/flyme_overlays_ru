@@ -29,16 +29,20 @@
     <string name="add_attachments">Добавить вложение</string>
     <string name="add_music">Добавить треки</string>
     <string name="add_nickname_title">Добавить псевдоним</string>
-    <string name="add_picture">Изображения</string>
+    <string name="add_picture">Добавить картинку</string>
     <string name="add_slide">Добавить слайды</string>
     <string name="add_slide_hint">Нажмите, чтобы создать слайд.</string>
     <string name="add_video">Добавить видео</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="app_label">Сообщения</string>
-    <string name="app_name">Сервисы</string>
+
+    <string name="app_name">ServiceFunction</string>
+
     <string name="assistant_cannt_support_mms">Ассистент Meizu не поддерживает MMS</string>
     <string name="assistant_message_text_length_error">Превышен предел в 420 символов</string>
+    <string name="attach_file_title">Добавить файл</string>
     <string name="attach_menu_contact">Контакт</string>
+    <string name="attach_menu_file">Файл</string>
     <string name="attach_menu_from_camera">Камера</string>
     <string name="attach_menu_image">Картинка</string>
     <string name="attach_menu_snapshoot">Камера</string>
@@ -56,9 +60,10 @@
     <string name="attachment_location">Местоположение</string>
     <string name="attachment_picture">Картинка</string>
     <string name="attachment_slideshow">Слайд-шоу</string>
-    <string name="attachment_talk">Голосовая связь</string>
+    <string name="attachment_talk">Голосовое сообщение</string>
     <string name="attachment_vcard">Визитка vCard</string>
     <string name="attachment_video">Видео</string>
+    <string name="auto_delete_info">Поддерживается только SMS, полученное после открытия. Текущая версия - это опытная версия, и скорость распознавания будет отличаться. Поиск не поддерживается после удаления информации. Пожалуйста, используйте с осторожностью</string>
     <string name="btn_new_message_large">Новое сообщение</string>
     <string name="building_slideshow_title">Создание слайд-шоу</string>
     <string name="can_not_send_flyme_for_group_mms">Группы не поддерживаются в веб-версии сообщений</string>
@@ -81,14 +86,107 @@
     <string name="change_sim2_title">SIM 2 - %s</string>
     <string name="change_slot_toast">Некоторое содержимое не отправлено</string>
     <string name="change_sms_text">SMS</string>
-    <string name="com_meizu_safe_send_query_charge_sms">Через ПО Безопасность от Meizu</string>
-    <string name="com_meizu_safe_send_query_flow_sms">Из Meizu Security</string>
+    <string name="channel_name_background">Работа в фоне</string>
+    <string name="channel_name_error">Ошибка</string>
+    <string name="channel_name_failed">Ошибка скачивания или отправки</string>
+    <string name="channel_name_message">Новое сообщение</string>
+    <string name="chatbot_hello_text">Привет</string>
+
+    <string name="chatbot_address">详细地址</string>
+    <string name="chatbot_all">全网小程序</string>
+    <string name="chatbot_black_list">黑名单</string>
+    <string name="chatbot_blacklist">小程序黑名单</string>
+    <string name="chatbot_blacklist_nodata">无小程序黑名单</string>
+    <string name="chatbot_blocked_alert_text">"The applet has been added to the blacklist, the applet can receive your message, but can't send you a message."</string>
+    <string name="chatbot_can_not_send">Unable to send</string>
+    <string name="chatbot_cannot_enter">没有获取到数据,无法进入会话</string>
+    <string name="chatbot_cannot_save">还未获取到数据，无法保存本地</string>
+    <string name="chatbot_card">[Card]</string>
+    <string name="chatbot_card_notify">Card</string>
+    <string name="chatbot_category">服务类别</string>
+    <string name="chatbot_company">账号主体</string>
+    <string name="chatbot_complaint_chatbot">举报小程序</string>
+    <string name="chatbot_complaint_content">举报内容</string>
+    <string name="chatbot_complaint_detail_null">举报描述不能为空</string>
+    <string name="chatbot_complaint_details">详细描述（必填）</string>
+    <string name="chatbot_complaint_input_hint">请输入详细的描述</string>
+    <string name="chatbot_complaint_input_length_hint">0/200</string>
+    <string name="chatbot_complaint_phone">电话：</string>
+    <string name="chatbot_delete">取消保存本地</string>
+    <string name="chatbot_downloading">Downloading</string>
+    <string name="chatbot_email">电子邮箱</string>
+    <string name="chatbot_enter_chatbot">进入聊天</string>
+    <string name="chatbot_info_cancel">已取消保存本地</string>
+    <string name="chatbot_info_cancel_failed">取消保存失败</string>
+    <string name="chatbot_info_saved">已保存本地</string>
+    <string name="chatbot_info_saved_failed">保存失败</string>
+    <string name="chatbot_install_location_app">Please install the map app</string>
+    <string name="chatbot_invalid_qrcode">无效二维码</string>
+    <string name="chatbot_list_title">智能客服列表</string>
+    <string name="chatbot_location">本地小程序</string>
+    <string name="chatbot_menu_applet">短信小程序</string>
+    <string name="chatbot_menu_contact">小程序详情</string>
+    <string name="chatbot_menu_local">我的小程序</string>
+    <string name="chatbot_menu_scan">扫一扫</string>
+    <string name="chatbot_near">附近小程序</string>
+    <string name="chatbot_near_nodata">无附近小程序</string>
+    <string name="chatbot_near_open_gps">请开启定位服务</string>
+    <string name="chatbot_network_error">获取失败，请重试</string>
+    <string name="chatbot_no_data">暂无数据</string>
+    <string name="chatbot_phone_number">回呼号码</string>
+    <string name="chatbot_pre_load_failed">图片加载失败</string>
+    <string name="chatbot_pre_look_picture">查看图片</string>
+    <string name="chatbot_pre_url_null">图片链接不能为空</string>
+    <string name="chatbot_provider">提供商</string>
+    <string name="chatbot_recommend">推荐小程序</string>
+    <string name="chatbot_refresh">无法连接网络，请设置网络后刷新</string>
+    <string name="chatbot_remote">网络小程序</string>
+    <string name="chatbot_report">Report</string>
+    <string name="chatbot_report_fail">Report failure</string>
+    <string name="chatbot_report_success">Report success</string>
+    <string name="chatbot_resend_title">Whether to resend this information</string>
+    <string name="chatbot_save">保存本地</string>
+    <string name="chatbot_scan_allow">始终允许</string>
+    <string name="chatbot_scan_auto">将二维码放入框内，即可自动扫描</string>
+    <string name="chatbot_scan_close_light">轻触关闭</string>
+    <string name="chatbot_scan_open_light">轻触照亮</string>
+    <string name="chatbot_scan_permissions_cannot_use">拒绝存储空间权限将无法使用此功能</string>
+    <string name="chatbot_scan_permissions_open">您已经禁止了存储空间权限,是否现在去开启？</string>
+    <string name="chatbot_scan_permissions_tips">此功能需要申请存储空间权限，是否允许？</string>
+    <string name="chatbot_scan_photo_album">相册</string>
+    <string name="chatbot_scan_retry">识别失败，请将二维码拍摄清晰后重试</string>
+    <string name="chatbot_scan_setting">去设置</string>
+    <string name="chatbot_search">短信小程序(网络)</string>
+    <string name="chatbot_search_input_hint">搜索智能客服</string>
+    <string name="chatbot_search_tint">Search SMS/pplets</string>
+    <string name="chatbot_service">Chatbot Service</string>
+    <string name="chatbot_service_intro">服务介绍</string>
+    <string name="chatbot_setting">设置</string>
+    <string name="chatbot_setting_add_blacklist">已加入黑名单</string>
+    <string name="chatbot_setting_add_rejected">已加入免打扰</string>
+    <string name="chatbot_setting_blacklist">该小程序为应急小程序，不可加入黑名单</string>
+    <string name="chatbot_setting_failed">操作失败</string>
+    <string name="chatbot_setting_remove_blacklist">移除黑名单</string>
+    <string name="chatbot_setting_remove_rejected">移除免打扰</string>
+    <string name="chatbot_share_device_dialog_content">Confirm shared standard device information (no privacy data involved)</string>
+    <string name="chatbot_share_device_fail">Shared device information failed</string>
+    <string name="chatbot_share_device_success">Shared device information succeeded</string>
+    <string name="chatbot_sms_number">短信号码</string>
+    <string name="chatbot_sms_send">Send as SMS</string>
+    <string name="chatbot_sms_send_multi">This message exceeds the word limit and will be divided into multiple SMS messages</string>
+    <string name="chatbot_start_chat">Click to start a chat</string>
+    <string name="chatbot_text_null">无</string>
+    <string name="chatbot_text_placeholder">--</string>
+    <string name="chatbot_verification">认证主体</string>
+    <string name="chatbot_website">服务网站</string>
+
+    <string name="com_meizu_safe_send_query_charge_sms">От приложения Безопасность от Meizu</string>
+    <string name="com_meizu_safe_send_query_flow_sms">От Meizu Security</string>
     <string name="compose_text_hint_timer">Отложенное SMS</string>
     <string name="compose_timer">Запланировать</string>
     <string name="confirm_dialog_title">Удалить сообщения: %1$s</string>
     <string name="confirm_rate_limit">Отправляется несколько MMS. Продолжить?</string>
     <string name="content_not_accepted">Сервер не может принять данное содержимое</string>
-    <string name="conv_divider_fomater">yyyy</string>
     <string name="conv_subject_fail_warning">Ошибка отправки сообщения</string>
     <string name="copy_code">Скопировано в буфер обмена</string>
     <string name="copy_to_sim">Копировать в SIM</string>
@@ -96,7 +194,7 @@
     <string name="copy_to_sim_2">Копировать на SIM 2</string>
     <string name="copy_to_sim_fail">Ошибка копирования в SIM</string>
     <string name="copy_to_sim_success">Скопировано в SIM</string>
-    <string name="copy_to_uim">Копировать на SIM-карту</string>
+    <string name="copy_to_uim">Копировать на SIM</string>
     <string name="copy_to_uim_fail">Ошибка копирования на карту</string>
     <string name="copy_to_uim_success">Успешно скопировано на карту</string>
     <string name="create_new_message">Новое сообщение</string>
@@ -110,8 +208,8 @@
     <string name="delivered_label">Доставлено:</string>
     <string name="dial_btn_title">Набор</string>
     <string name="dialog_sms_center_message">Не изменяйте или не удаляйте этот номер, если это не предполагается оператором связи; в противном случае функция получения или отправки сообщений может быть недоступна</string>
-    <string name="dialog_sms_center_number">SMS-центр</string>
-    <string name="disable_notifications_dialog_message">Не дублировать уведомления об SMS из приложения обмена сообщениями по умолчанию?</string>
+    <string name="dialog_sms_center_number">Центр SMS</string>
+    <string name="disable_notifications_dialog_message">Перестать получать повторяющиеся SMS-уведомления из приложения по умолчанию?</string>
     <string name="discard_btn_title">Отменить</string>
     <string name="discard_nickname_change_title">Отменить изменения?</string>
     <string name="discard_nickname_for_mms_title">MMS не поддерживает псевдонимы</string>
@@ -123,9 +221,9 @@
     <string name="download_later">Не удалось загрузить сообщения. Повторите попытку позже.</string>
     <string name="draft_header_text">У вас есть неотправленные сообщения.</string>
     <string name="draft_no_subject">Без темы</string>
-    <string name="draft_separator">,</string>
     <string name="draft_sub_tittle_mms">MMS: %1$s</string>
-    <string name="draft_tittle_large">"[Черновик] "</string>
+
+    <string name="draft_tittle_large">"[Draft] "</string>
 
     <string name="duoqu_613_change">切换车次</string>
     <string name="duoqu_613_select">选择车次</string>
@@ -138,16 +236,16 @@
     <string name="duoqu_am">上午</string>
     <string name="duoqu_arrive_city">到达</string>
     <string name="duoqu_arrive_datetime">到达时间</string>
-    <string name="duoqu_bill_data_split">:</string>
+    <string name="duoqu_bill_data_split">：</string>
     <string name="duoqu_bub_dialog_content">解除默认服务选择后，您可重新选择所需的服务应用</string>
     <string name="duoqu_bub_dialog_title">提示</string>
     <string name="duoqu_bub_popmenu_content">解除默认服务选择后，您可重新选择所需的服务应用</string>
-    <string name="duoqu_bub_web_aboutus">О нас</string>
+    <string name="duoqu_bub_web_aboutus">服务说明</string>
     <string name="duoqu_bub_web_close">关闭</string>
-    <string name="duoqu_bub_web_loading">Загрузка</string>
+    <string name="duoqu_bub_web_loading">Loading</string>
     <string name="duoqu_bub_web_reset">解除默认选择</string>
     <string name="duoqu_bubble_flight_arrive">飞往</string>
-    <string name="duoqu_bubble_money_split">;</string>
+    <string name="duoqu_bubble_money_split">；</string>
     <string name="duoqu_bubble_more_info_hide">收起</string>
     <string name="duoqu_bubble_more_info_show">更多</string>
     <string name="duoqu_bubble_more_info_show_extend">（更多信息请点击显示原文）</string>
@@ -173,19 +271,19 @@
     <string name="duoqu_check_info">检票口</string>
     <string name="duoqu_chinese">[一-龥]</string>
     <string name="duoqu_chonzhi">充值</string>
-    <string name="duoqu_colon">:</string>
+    <string name="duoqu_colon">：</string>
     <string name="duoqu_confirm">确定</string>
     <string name="duoqu_defult_gray_text">未知</string>
-    <string name="duoqu_delete">Удалить</string>
-    <string name="duoqu_delete_eg">Удалить</string>
-    <string name="duoqu_delete_en">Удалить</string>
-    <string name="duoqu_delete_tw">Удалить</string>
-    <string name="duoqu_delete_zh">Удалить</string>
-    <string name="duoqu_depart_city">выезд</string>
-    <string name="duoqu_depart_datetime">Время отправления</string>
-    <string name="duoqu_dialog_content">После удаления выбора службы по умолчанию, вы можете повторно выбрать нужное приложение службы</string>
-    <string name="duoqu_dialog_title">подсказка</string>
-    <string name="duoqu_direction">Собираюсь</string>
+    <string name="duoqu_delete">删除</string>
+    <string name="duoqu_delete_eg">delete</string>
+    <string name="duoqu_delete_en">Delete</string>
+    <string name="duoqu_delete_tw">刪除</string>
+    <string name="duoqu_delete_zh">删除</string>
+    <string name="duoqu_depart_city">出发</string>
+    <string name="duoqu_depart_datetime">出发时间</string>
+    <string name="duoqu_dialog_content">解除默认服务选择后，您可重新选择所需的服务应用</string>
+    <string name="duoqu_dialog_title">提示</string>
+    <string name="duoqu_direction">开往</string>
     <string name="duoqu_double_line">— —</string>
     <string name="duoqu_double_line_an">--:--</string>
     <string name="duoqu_double_line_arr_time">--</string>
@@ -223,11 +321,11 @@
     <string name="duoqu_flight_unknow_time">--:--</string>
     <string name="duoqu_flightstr">航班</string>
     <string name="duoqu_forword_sms">转发短信</string>
-    <string name="duoqu_has_read">Прочитать</string>
-    <string name="duoqu_has_read_en">Прочитать</string>
-    <string name="duoqu_has_read_tw">Прочитать</string>
-    <string name="duoqu_has_read_zh">Прочитать</string>
-    <string name="duoqu_loading">Загрузка. Пожалуйста, подождите…</string>
+    <string name="duoqu_has_read">已读</string>
+    <string name="duoqu_has_read_en">Read</string>
+    <string name="duoqu_has_read_tw">已讀</string>
+    <string name="duoqu_has_read_zh">已读</string>
+    <string name="duoqu_loading">正在加载,请稍后...</string>
     <string name="duoqu_nearby_point_list_title">附近网点</string>
     <string name="duoqu_no_net">暂无相关信息，请联网再试~</string>
     <string name="duoqu_no_train_info">暂无相关信息，请稍后再试~</string>
@@ -236,10 +334,10 @@
     <string name="duoqu_open_text">打开原文</string>
     <string name="duoqu_pm">下午</string>
     <string name="duoqu_popmenu_content">解除默认服务选择后，您可重新选择所需的服务应用</string>
-    <string name="duoqu_reply_en">Ответ</string>
-    <string name="duoqu_reply_sms">Ответ</string>
-    <string name="duoqu_reply_tw">Ответ</string>
-    <string name="duoqu_reply_zh">Ответ</string>
+    <string name="duoqu_reply_en">Reply</string>
+    <string name="duoqu_reply_sms">回复短信</string>
+    <string name="duoqu_reply_tw">回復</string>
+    <string name="duoqu_reply_zh">回复</string>
     <string name="duoqu_seat_info">座位</string>
     <string name="duoqu_select_air">切换航班</string>
     <string name="duoqu_select_destination">选择终点站</string>
@@ -257,12 +355,13 @@
     <string name="duoqu_tip_nearby_point_loading">附近网点加载中...</string>
     <string name="duoqu_tip_nearby_point_network_lose">对不起，网络出错了，轻触屏幕重新加载</string>
     <string name="duoqu_tip_nearby_point_not_find">没有找到相关结果！</string>
+    <string name="duoqu_tip_nearby_point_refresh"><u>刷新试试</u></string>
     <string name="duoqu_tip_services_provide">信析宝提供服务</string>
     <string name="duoqu_train_arrive">开往</string>
     <string name="duoqu_train_date_arrival">到达</string>
-    <string name="duoqu_train_date_format">dd MM</string>
+    <string name="duoqu_train_date_format">MM月dd日</string>
     <string name="duoqu_train_date_format_cn">MM月dd日</string>
-    <string name="duoqu_train_date_format_qiku">dd.MM</string>
+    <string name="duoqu_train_date_format_qiku">MM-dd</string>
     <string name="duoqu_train_date_one">当天</string>
     <string name="duoqu_train_date_three">第三天</string>
     <string name="duoqu_train_date_two">第二天</string>
@@ -294,6 +393,7 @@
     <string name="duoqu_ui_part_cancel">取消</string>
     <string name="duoqu_ui_part_confirm">确定</string>
     <string name="duoqu_ui_part_destination">选择目的地</string>
+    <string name="duoqu_ui_part_double_line" />
     <string name="duoqu_ui_part_double_line_an">--</string>
     <string name="duoqu_ui_part_double_line_en">- -</string>
     <string name="duoqu_ui_part_fight">航班</string>
@@ -306,7 +406,7 @@
     <string name="duoqu_ui_part_train_no_price">--</string>
     <string name="duoqu_ui_part_train_price_title">座位</string>
     <string name="duoqu_ui_train_num_str">车次</string>
-    <string name="duoqu_unknow">Н/д</string>
+    <string name="duoqu_unknow">N/A</string>
     <string name="duoqu_verifycode_warnning">提示：请勿泄露短信验证码</string>
     <string name="duoqu_wait_info">候车地点</string>
     <string name="duoqu_web_aboutus">服务说明</string>
@@ -341,7 +441,16 @@
     <string name="exceed_message_size_limitation">Максимальный размер вложения MMS - 298 Кб</string>
     <string name="exceed_message_size_limitation_cmcc">Размер вложения превышает допустимый лимит</string>
     <string name="exceed_message_size_limitation_cu">Максимальный размер вложения в MMS - 300 Кб</string>
+
+    <string name="exceed_message_size_limitation_rcs">Smart SMS attachments maximum only supports %s file</string>
+    
     <string name="expire_on">Срок истекает: %s</string>
+
+    <string name="expired_pickup_code">Retrieval code sms</string>
+    <string name="expired_pickup_code_summary">Automatically delete the read retrieval code sms for more than 14 days</string>
+    <string name="expired_veri_code">Verification code sms</string>
+    <string name="expired_veri_code_summary">Automatically delete the read verification code sms for more than 24 hours</string>
+    
     <string name="export_sim_mms">Импорт в телефон</string>
     <string name="extra_city_title">Выбрать город</string>
     <string name="failed_to_resize_image">Не удалось изменить размер изображения.</string>
@@ -350,6 +459,10 @@
     <string name="favorite_page_label">Избранное</string>
     <string name="file_no_exsit">Файл был удален</string>
     <string name="file_not_exist">Файл был удален</string>
+    
+    <string name="flow_use_alert_content">In a mobile network environment, will generate mobile phone traffic, will you decide to download it?</string>
+    <string name="flow_use_alert_title">Traffic usage reminder</string>
+
     <string name="flyme_message_reDownload_msg">Файл был удалён</string>
     <string name="flyme_message_reDownload_positive_title">Загрузить снова</string>
     <string name="flyme_no_regist">Адресат не может получать MMS-сообщения Flyme. Удалите вложения.</string>
@@ -373,13 +486,14 @@
     <string name="group_status_sended">Отправлено</string>
     <string name="group_status_sending">Отправка</string>
     <string name="group_title_mms_delivery_reports">Отчёт об отправке</string>
-    <string name="guest_mode_disable_assistant">Эта функция не поддерживается в режиме гостя</string>
+    <string name="guest_mode_disable_assistant">Эта функция не поддерживается в гостевом режиме</string>
     <string name="has_download_task_tip">Идёт загрузка, попробуйте позже</string>
-    <string name="has_draft">Черновики</string>
-    <string name="has_favorited">Добавлено в помеченное</string>
+    <string name="has_draft">Добавлено в черновики</string>
+    <string name="has_favorited">Добавлено в избранное</string>
     <string name="has_invalid_recipient">Недопустимый получатель</string>
+    <string name="hello_blank_fragment">Пусто</string>
     <string name="hidden_sender_address">Адрес отправителя скрыт</string>
-    <string name="home_rcs_enable_notify_text">Smart SMS, более экономичный и удобный</string>
+    <string name="home_rcs_enable_notify_text">Smart SMS, более экономичные и удобные</string>
     <string name="hybrid_cancel">Отмена</string>
     <string name="hybrid_msg_loading">Загрузка</string>
     <string name="hybrid_network_error_to_refresh">Сетевая ошибка. Нажмите для перезагрузки</string>
@@ -389,19 +503,22 @@
     <string name="input_nickname_hint">Введите псевдоним</string>
     <string name="intelligent_message">Smart SMS</string>
     <string name="invalid_destination">Неверный адрес получателя.</string>
-    <string name="ippush_message">Push-уведомления</string>
+    <string name="ippush_message">Push-уведомления</string> 
     <string name="ippush_public_service">Публичный сервис</string>
     <string name="ippush_service_introduce_title">Введение в сервис</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="kicked_out_group">Вы были исключены из группы</string>
-    <string name="kilobyte">Кб</string>
-    <string name="kilobyte_with_size">%d Кб</string>
-    <string name="lable_cell_broadcast">Трансляция сотовой сети</string>
+    <string name="kilobyte">КБ</string>
+    <string name="kilobyte_with_size">%dКБ</string>
+
+    <string name="lable_cell_broadcast">CellBroadcast</string>
+
     <string name="lable_sms_center_number">SMS-центр</string>
     <string name="layout_bottom">Расположение (снизу)</string>
     <string name="layout_selector_title">Макет слайд-шоу</string>
     <string name="layout_top">Расположение (сверху)</string>
     <string name="leave_group">Вы покинули эту группу</string>
+    <string name="loading">Загрузка...</string>
     <string name="loading_conversations">Загрузка бесед</string>
     <string name="location_current">Моё местоположение</string>
     <string name="location_far_kilometer">%s км</string>
@@ -410,7 +527,7 @@
     <string name="location_geturl_timeout">Ошибка получения ссылки местоположения. Попробуйте снова.</string>
     <string name="location_net_fail">Ошибка сети</string>
     <string name="location_no_detials_msg">Нет информации об этом месте</string>
-    <string name="location_search_fail">Местоположение не найдено</string>
+    <string name="location_search_fail">Нет совпадений</string>
     <string name="long_press_menu_copy">Копировать</string>
     <string name="long_press_menu_delete">Удалить</string>
     <string name="long_press_menu_forward">Переслать</string>
@@ -418,7 +535,7 @@
     <string name="long_press_menu_save">Сохранить</string>
     <string name="long_press_menu_sel">Выбрать</string>
     <string name="mark_all_as_read_title">Отметить все как прочитанное</string>
-    <string name="mbyte">Мб</string>
+    <string name="mbyte">МБ</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">OK</string>
     <string name="mc_alway_allow">Всегда разрешать</string>
@@ -470,16 +587,7 @@
     <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string name="mc_pattern_minute_before">, мин. назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
     <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
@@ -517,13 +625,12 @@
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
+    <string name="mc_search_description">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-e.%-m</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -566,14 +673,14 @@
     <string name="message_unfavorite_label">Удалить из избранного</string>
     <string name="messagelist_sender_self">Я</string>
     <string name="mms_add_attachment_title_for_picture">Выбрать изображение</string>
-    <string name="mms_add_description">описание</string>
-    <string name="mms_added_failed">Невозможно добавить в MMS</string>
+    <string name="mms_add_description">Описание</string>
+    <string name="mms_added_failed">Невозможно прикрепить к MMS.</string>
     <string name="mms_has_subject_view">MMS: %s</string>
     <string name="mms_loading">Загрузка</string>
     <string name="mms_no_subject_view">MMS: 1 вложение</string>
     <string name="mms_noti_rectrive_statu_msg">Получение MMS</string>
     <string name="mms_noti_subject_view">MMS: 1 уведомление</string>
-    <string name="mms_notifi_subject">(MMS-уведомление)</string>
+    <string name="mms_notifi_subject">(MMS уведомление)</string>
     <string name="mms_slideshow_view_title">Детали</string>
     <string name="mms_x_year">В %s</string>
     <string name="more_item_label">Ещё</string>
@@ -589,7 +696,7 @@
     <string name="multimedia_message">MMS</string>
     <string name="multimedia_notification">MMS-уведомление</string>
     <string name="multiple_formats">Поддержка нескольких форматов</string>
-    <string name="mw_recipient_add_recipient">добавить получателя</string>
+    <string name="mw_recipient_add_recipient">Добавить получателя</string>
     <string name="mw_recipient_addrecipient_easymode">Добавить</string>
     <string name="mw_recipient_edit_imeActionLabel">OK</string>
     <string name="mw_recipient_global_search">Поиск глобальных контактов</string>
@@ -617,16 +724,23 @@
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
+    <string name="mz_permission_agree">Согласен</string>
     <string name="mz_permission_allow">Разрешить</string>
     <string name="mz_permission_almost_deny">Больше не спрашивать</string>
     <string name="mz_permission_always_allow">Всегда разрешать</string>
     <string name="mz_permission_apply">Запрос разрешений</string>
     <string name="mz_permission_deny">Запретить</string>
-    <string name="mz_permission_message_content">Приложение «%1$s» запрашивает %3$d разрешен. на %2$s</string>
-    <string name="mz_permission_message_supplement">Приложение «%1$s» требует %2$s %3$d разрешен.</string>
+    <string name="mz_permission_disagree">Запретить</string>
+    <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения и подключение к сети</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
+    <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
+    <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
     <string name="mz_permission_title_supplement">" требуются разрешения"</string>
+    <string name="mz_permission_title_terms">Разрешения и заявления</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
-    <string name="mz_permissiongroup_name_change_network">Wireless Network</string>
+    <string name="mz_permissiongroup_name_change_network">Wi-Fi</string>
     <string name="mz_permissiongroup_name_net">Сетевые подключения</string>
     <string name="mz_permissiongroup_name_other">Другое</string>
     <string name="mz_pm_allow_check_app">ОК</string>
@@ -661,6 +775,7 @@
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Разрешить</string>
     <string name="mz_specific_permission_deny">Запретить</string>
+    <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mzc_debug_dump_database_message">"Вам необходимо: 1) сделать копию своей базы MMS во внутреннюю память, и 2) отправить её по электронной почте. Не забудьте удалить копию как можно скорее, скопировав её с устройства или получив электронное письмо.
@@ -672,22 +787,25 @@
     <string name="mzc_debug_dump_email_subject">Добавлена ​​база MMS</string>
     <string name="mzc_debug_dump_start_button">Старт</string>
     <string name="mzc_debug_dump_title">Скопировать базу MMS</string>
+    <string name="mzuc_app_update_channel">Подсказки по обновлению</string>
     <string name="mzuc_cancel">Отмена</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
     <string name="mzuc_cancel_install">Отменить установку</string>
     <string name="mzuc_delete">Удалить</string>
-    <string name="mzuc_download">Загрузить</string>
+    <string name="mzuc_download">Скачать</string>
     <string name="mzuc_download_fail">Ошибка загрузки</string>
     <string name="mzuc_download_finish_install">Загрузка завершена, нажмите для установки</string>
-    <string name="mzuc_download_finish_s" formatted="false">%s V%s загрузка завершена</string>
+    <string name="mzuc_download_finish_s" formatted="false">%s %s - загрузка завершена</string>
     <string name="mzuc_download_progress_desc_s" formatted="false">Загружается %s %s</string>
     <string name="mzuc_downloading">Загружается</string>
-    <string name="mzuc_file_size_s">Размер: %s</string>
+    <string name="mzuc_file_size_s">Будет потреблено %s данных</string>
     <string name="mzuc_found_update_s">Доступно обновление: %s</string>
     <string name="mzuc_install_cancel_tip">Загрузка отменена</string>
     <string name="mzuc_install_fail">Ошибка установки</string>
-    <string name="mzuc_install_immediately">Установить</string>
-    <string name="mzuc_install_later">Не сейчас</string>
+    <string name="mzuc_install_immediately">"Установить
+сейчас"</string>
+    <string name="mzuc_install_later">"Установить
+позже"</string>
     <string name="mzuc_installing">Установка</string>
     <string name="mzuc_manual_checking_update">Проверка обновления</string>
     <string name="mzuc_manual_current_version">Текущая версия %s</string>
@@ -697,34 +815,35 @@
     <string name="mzuc_manual_found_new_version">Найдена новая версия. Нажмите для обновления</string>
     <string name="mzuc_manual_install_fail">Ошибка установки</string>
     <string name="mzuc_manual_install_new_version">Обновление загружено, нажмите для установки</string>
-    <string name="mzuc_manual_installing">Установка</string>
-    <string name="mzuc_manual_latest_version">Установлена актуальная версия</string>
+    <string name="mzuc_manual_installing">Установка...</string>
+    <string name="mzuc_manual_latest_version">Текущая версия - актуальная</string>
     <string name="mzuc_manual_update_for_new_version">Загрузить последнюю версию</string>
     <string name="mzuc_manual_update_title">Проверить обновления</string>
     <string name="mzuc_msg_indicator">Что нового:</string>
-    <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">ОК</string>
-    <string name="mzuc_reboot_update_now">Перезапустить и обновить</string>
+    <string name="mzuc_reboot_update_now">Перезапустить для обновления</string>
     <string name="mzuc_retry">Повтор</string>
     <string name="mzuc_skip_version">Пропустить</string>
     <string name="mzuc_skip_warn_tip">Если пропустить эту версию, то предложение об установке не последует</string>
     <string name="mzuc_update_finish">Обновление завершено</string>
-    <string name="mzuc_update_finish_format">Обновлено до актуальной версии (%s)</string>
+    <string name="mzuc_update_finish_format">Обновлено до последней версии %s</string>
     <string name="mzuc_update_immediately">Обновить сейчас</string>
-    <string name="mzuc_update_immediately_roaming">В сети (%s)</string>
+    <string name="mzuc_update_immediately_roaming">Обновление в сети (%s)</string>
     <string name="mzuc_update_later">Напомнить позже</string>
     <string name="mzuc_update_mobile_network">Загрузить через мобильную сеть?</string>
-    <string name="mzuc_update_msg_title_s" formatted="false">%s V%s</string>
-    <string name="mzuc_update_title_s" formatted="false">Обновление «%s» V%s</string>
+    <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
+    <string name="mzuc_update_title_s" formatted="false">Вышла %s %s</string>
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
+    <string name="network_execption">Нет подключения к сети, попробуйте позже</string>
+    <string name="network_fail">Нет подключения к сети, проверьте настройки сети</string>
     <string name="network_message">Веб-сообщения</string>
     <string name="new_group_manager">стал лидером группы</string>
     <string name="new_message">Новое сообщение</string>
     <string name="new_message_notification_tip">Новых сообщений: %d</string>
     <string name="nickname_dialog_confirm">ОК</string>
-    <string name="nickname_dialog_content">При редактировании группового сообщения для получателей генерируются псевдонимы, которые затем добавляются к сообщению.</string>
-    <string name="nickname_dialog_title">Представление</string>
+    <string name="nickname_dialog_content">"При редактировании группового сообщения для получателей генерируются псевдонимы, которые затем добавляются к сообщению."</string>
+    <string name="nickname_dialog_title">Описание</string>
     <string name="nickname_function_dialog_example">Например, для отправки сообщения Ивану и Марии:</string>
     <string name="nickname_function_dialog_example_content_end">!</string>
     <string name="nickname_function_dialog_example_content_start">С Новым годом</string>
@@ -735,13 +854,13 @@
     <string name="no">Отмена</string>
     <string name="no_apn">APN на устройстве не найден.</string>
     <string name="no_charge_description">Без оплаты</string>
-    <string name="no_conversations">Пока ничего нет</string>
+    <string name="no_conversations">Нет сообщений</string>
     <string name="no_exec_app_to_select">Недоступно в текущем режиме</string>
     <string name="no_favorite_message">Нет сообщений</string>
     <string name="no_search_results">Нет результатов</string>
     <string name="no_sim">Нет SIM-карты</string>
     <string name="no_sim_cdma">Нет UIM-карты</string>
-    <string name="no_use_threshold">Лёгкое использование</string>
+    <string name="no_use_threshold">Легкое и бесплатное исопльзование</string>
     <string name="not_choose_location">Местоположение не выбрано</string>
     <string name="not_default_message_app_dialog_message">Встроенное приложение Сообщения не имеет права отправлять или удалять сообщения</string>
     <string name="not_default_message_app_dialog_title">Встроенное приложение не является приложением по умолчанию</string>
@@ -751,8 +870,21 @@
     <string name="notify_hide_content_msg_unique">Получено сообщений: %s</string>
     <string name="ok">OK</string>
     <string name="open_keyboard_to_compose_message">Откройте клавиатуру, чтобы ввести сообщение</string>
-    <string name="permission_dialog_message">Приложению «Сообщения» требуется доступ к сети для отправки и получения веб-сообщений и фильтрации спама.</string>
-    <string name="pick_timer_warning">Установленное время не может быть раньше текущего</string>
+    <string name="password_toggle_content_description">Переключить видимость пароля</string>
+    <string name="permission_dialog_message">Приложению «Сообщения» требуется доступ к сети для определения и фильтрации спама</string>
+    <string name="permission_location">Местоположение</string>
+    <string name="permission_message">Следующее разрешение требуется для работы %s</string>
+
+    <string name="permission_msg_chatbot_location">Search nearby chatbot</string>
+
+    <string name="permission_msg_send_location">Получать и отправлять местоположение</string>
+    <string name="permission_positive_btn">Предоставить</string>
+    <string name="permission_reason_camera">Сканировать и отправлять фотографии</string>
+    <string name="permission_reason_internet">Обновление данных и распознавание номеров</string>
+    <string name="permission_reason_record">Отправлять голосовые сообщения</string>
+    <string name="permission_reason_storage">Отправка и чтение MMS-сообщений, хранение и управление вложениями</string>
+    <string name="permission_request_title">Предоставьте разрешение на %s</string>
+    <string name="pick_timer_warning">Выбранное время может быть не ранее текущего времени</string>
     <string name="please_add_recipient">Добавить получателя</string>
     <string name="pref_key_block_number_list_summary">Сообщения и звонки из чёрного списка будут блокироваться</string>
     <string name="pref_key_block_number_list_title">Чёрный список</string>
@@ -783,6 +915,7 @@
     <string name="priority_label">Приоритет:</string>
     <string name="priority_low">Низкий</string>
     <string name="priority_normal">Нормальный</string>
+    <string name="privacy_policy_title">Политика конфиденциальности Meizu</string>
     <string name="progress_copy_title">Импортирование</string>
     <string name="progress_del_title">Удаление</string>
     <string name="ptr_go_Refreshing">Отпустите для обновления</string>
@@ -797,24 +930,99 @@
     <string name="quick_reply_menu">Быстрые ответы</string>
     <string name="quick_reply_save_alert">Сохранить изменения?</string>
     <string name="rate_limit_surpassed">Подтвердить</string>
-    <string name="rcs_audio_subject_view">[Аудио]</string>
+
+    <string name="rcs_audio_subject_view">[audio]</string>
+
     <string name="rcs_banner_text_01">Бесплатно, если другой стороной является абонент China Mobile</string>
     <string name="rcs_banner_text_02">Поддерживаются голосовой чат и мультимедийные сообщения, такие как изображения и видео</string>
     <string name="rcs_banner_text_03">Дизайн информационной визуальной карты для повышения эффективности чтения</string>
+    
+    <string name="rcs_card_message">Card message</string>
+
+    <string name="rcs_chatbot_a2p_message">You receive a a2p message and click to see the details</string>
+    <string name="rcs_chatbot_audio_message">You receive an audio message and click to see the details</string>
+    <string name="rcs_chatbot_card_message">You receive a card message and click to see the details</string>
+    <string name="rcs_chatbot_file_message">You receive a file message and click to see the details</string>
+    <string name="rcs_chatbot_geo_message">You receive a geo message and click to see the details</string>
+    <string name="rcs_chatbot_image_message">You receive a image message and click to see the details</string>
+    <string name="rcs_chatbot_normal_message">You receive a message and click to see the details</string>
+    <string name="rcs_chatbot_vcard_message">You receive a vCard message and click to see the details</string>
+    <string name="rcs_chatbot_video_message">You receive a video message and click to see the details</string>
+    
     <string name="rcs_common_cancel">Отмена</string>
     <string name="rcs_common_confirm">ОК</string>
 
-    <string name="rcs_common_get_data_failed">数据获取失败</string>
-    <string name="rcs_common_invalid_params">参数无效</string>
-    <string name="rcs_common_loading">正在加载</string>
-    <string name="rcs_common_network_disabled">网络不可用，请检查网络设置</string>
-    <string name="rcs_complaint_content">是否举报该条消息内容？</string>
-    <string name="rcs_complaint_fail">举报失败</string>
-    <string name="rcs_complaint_is_shielding">不再接收该企业此类消息</string>
-    <string name="rcs_complaint_only_cmcc">仅限中国移动号码可提交举报</string>
-    <string name="rcs_complaint_title">举报</string>
-    <string name="rcs_file_subject_view">[файл]</string>
+    <string name="rcs_common_get_data_failed">Data acquisition failed</string>
+    <string name="rcs_common_invalid_params">v</string>
+    <string name="rcs_common_loading">Loading</string>
+    <string name="rcs_common_network_disabled">The network is not available, please check the network settings</string>
+    <string name="rcs_common_refuse">Refuse</string>
+    <string name="rcs_common_saved_failed">Save failed</string>
+    <string name="rcs_common_saved_succeed">Saved successfully</string>
+    <string name="rcs_complaint_commit">Submit</string>
+    <string name="rcs_complaint_content">Report the content of the message?</string>
+    <string name="rcs_complaint_fail">Report failed</string>
+    <string name="rcs_complaint_is_shielding">No longer receive such messages from the company</string>
+    <string name="rcs_complaint_only_cmcc">Only China Mobile numbers can submit reports</string>
+    <string name="rcs_complaint_title">Report</string>
+    <string name="rcs_file_message">File message</string>
+    <string name="rcs_file_subject_view">[file]</string>
+    <string name="rcs_geo_message">GEO message</string>
+    <string name="rcs_guide_notification">Send and receive SMS for free. Learn more?</string>
+    <string name="rcs_image_message">Image message</string>
+    <string name="rcs_image_subject_view">[image]</string>
+    <string name="rcs_introduce">"Meizu Smart SMS is a service provided by China mobile's Converged Communication platform. For full function and experience, the platform (and Fetion service) will be opened free of charge. For more details, go http://feixin.10086.cn/native. If you don't need it, configure it in Messages > Settings > Smart SMS."</string>
+    <string name="rcs_location_subject_view">[location]</string>
+    <string name="rcs_maap_no_data">No data available</string>
+    <string name="rcs_message_display">Rcs Message Display</string>
+    <string name="rcs_message_display_key">Message Display Key</string>
+    <string name="rcs_message_display_summary">When message is displayed, if the server supports Message Display, send notification to the sender of the message.</string>
+    <string name="rcs_message_off">Rcs Message Off</string>
+    <string name="rcs_message_on">Rcs Message On</string>
+    <string name="rcs_message_use">Rcs Message</string>
+    <string name="rcs_message_use_key">Rcs Message Key</string>
+    <string name="rcs_msg_state_closed">Close</string>
+    <string name="rcs_msg_state_opened">Open</string>
+    <string name="rcs_no_charge_description">"If the recipient's phone carrier is China Mobile, SMS will be sent via networks and free of charge"</string>
+    <string name="rcs_no_use_threshold">"Only the recipient's phone number needed. No app installation or adding friends"</string>
+    <string name="rcs_open_toasttext">Smart SMS enabled</string>
+    <string name="rcs_privacy_policy_title">Privacy policy</string>
+    <string name="rcs_public_message">smart message</string>
 
+    <string name="rcs_red_packet_text">[Red Packet]</string>
+
+    <string name="rcs_redpacket_detail_title">Traffic red packets</string>
+    <string name="rcs_redpacket_only_cmcc">This red packet can only be claimed by China Mobile numbers</string>
+    <string name="rcs_redpacket_status_invalid">Red Packet has expired</string>
+    <string name="rcs_redpacket_status_phone_illegal">The mobile phone number is illegal and does not support receiving</string>
+    <string name="rcs_redpacket_status_text">Receive red packets</string>
+    <string name="rcs_redpacket_status_used">Red Packet received</string>
+    <string name="rcs_request_permissions">Request For Permissions</string>
+    <string name="rcs_request_permissions_key">Request Permissions Key</string>
+    <string name="rcs_request_permissions_summary">RCSService permission not enough, unable to normal operation, please apply for permission first</string>
+    <string name="rcs_set_btn_bfs_address">Set the BFS address (fill in the blank with the default address)</string>
+    <string name="rcs_set_btn_bsf">Set the BFS port number (fill in the blank with the default address)</string>
+    <string name="rcs_set_btn_switch_over_size">Modify the switch over size value</string>
+    <string name="rcs_set_commercial">Commercial</string>
+    <string name="rcs_set_dm_tls">DM TLS PORT</string>
+    <string name="rcs_set_group_chat">group chat</string>
+    <string name="rcs_set_http">Http</string>
+    <string name="rcs_set_logcat">sip logcat</string>
+    <string name="rcs_set_protocol">protocol</string>
+    <string name="rcs_set_testing">testing</string>
+    <string name="rcs_set_txt_bfs">BFS port number</string>
+    <string name="rcs_set_txt_bfs_address">Bfs address</string>
+    <string name="rcs_set_txt_switch_over_size">switch over size</string>
+    <string name="rcs_setting">Rcs Setting</string>
+    <string name="rcs_share_cancel">Cancel</string>
+    <string name="rcs_share_default_description">Sharing from Xinxibao RCS</string>
+    <string name="rcs_share_platform_alipay">Alipay</string>
+    <string name="rcs_share_platform_qq">QQ friends</string>
+    <string name="rcs_share_platform_qzone">QQ space</string>
+    <string name="rcs_share_platform_sina">Weibo</string>
+    <string name="rcs_share_platform_wechat">WeChat friends</string>
+    <string name="rcs_share_platform_wechat_moment">WeChat moments</string>
+<!--
     <string name="rcs_guide_notification">Отправка и получение SMS бесплатно. Хотите узнать больше?</string>
     <string name="rcs_image_subject_view">[изображение]</string>
     <string name="rcs_introduce">Meizu Smart SMS - это услуга, предоставляемая платформой конвергентной связи China Mobile. Для полноценной работы платформа (и служба Fetion) будет открыта бесплатно. Для дополнительной информации посетите http://feixin.10086.cn/native</string>
@@ -829,42 +1037,31 @@
     <string name="rcs_no_use_threshold">Нужен только номер телефона получателя. Нет установки приложения или добавления друзей</string>
     <string name="rcs_open_toasttext">Smart SMS включено</string>
     <string name="rcs_public_message">Умные сообщения</string>
-
-    <string name="rcs_red_packet_text">[Красный конверт]</string>
-    <string name="rcs_redpacket_detail_title">流量红包</string>
-    <string name="rcs_redpacket_only_cmcc">此红包仅限中国移动号码领取</string>
-    <string name="rcs_redpacket_status_invalid">红包已失效</string>
-    <string name="rcs_redpacket_status_phone_illegal">手机号非法不支持领取</string>
-    <string name="rcs_redpacket_status_text">领取红包</string>
-    <string name="rcs_redpacket_status_used">红包已领取</string>
-    <string name="rcs_setting">Настройки RCS</string>
-    <string name="rcs_share_cancel">取消</string>
-    <string name="rcs_share_default_description">来自信析宝RCS的分享</string>
-    <string name="rcs_share_platform_qq">QQ好友</string>
-    <string name="rcs_share_platform_qzone">QQ空间</string>
-    <string name="rcs_share_platform_sina">微博</string>
-    <string name="rcs_share_platform_wechat">微信好友</string>
-    <string name="rcs_share_platform_wechat_moment">朋友圈</string>
-    <string name="rcs_share_to">分享到</string>
-
-    <string name="rcs_support_multiple_formats">SMS, изображения, аудио, видео, данные местоположения и карточки vCard поддерживаются для отправки</string>
-    <string name="rcs_switch_description">Отправка и получение SMS через Wi-Fi и сотовую сеть</string>
+-->
+    <string name="rcs_share_to">Поделиться с</string>
+    <string name="rcs_support_multiple_formats">SMS, изображения, аудио, видео, местоположение и карточки vCard поддерживаются для отправки</string>
+    <string name="rcs_switch_description">После включения отправляйте СМС пользователям China Mobile бесплатно и платите всего 0,01 юаня за СМС при отправке пользователям China Unicom и China Telecom.</string>
     <string name="rcs_switch_dialog_message">Поддерживаются только карты China Mobile</string>
     <string name="rcs_translate_sms">Конвертация SMS</string>
     <string name="rcs_translate_sms_key">Ключ конвертации SMS</string>
-    <string name="rcs_translate_sms_summary">При ошибке отправки сообщения размером менее 900 Б, выполните конвертацию.</string>
-    <string name="rcs_vcard_subject_view">[имя карты]</string>
+    <string name="rcs_translate_sms_summary">Если не удалось отправить текстовое сообщение размером менее 420 байт, конвертируйте, чтобы отправить как СМС.</string>
+    <string name="rcs_user_agreement_title">Пользовательское соглашение</string>
+    <string name="rcs_vcard_message">Сообщение vCard</string>
+
+    <string name="rcs_vcard_subject_view">[name card]</string>
 
     <string name="rcs_video_continue_play">播放</string>
-    <string name="rcs_video_default_time">00:00</string>
     <string name="rcs_video_error">视频出错了! 点击重播</string>
     <string name="rcs_video_know_more">了解更多</string>
+    <string name="rcs_video_message">Video message</string>
+    <string name="rcs_video_mobile_network_tip_default">播放将消耗-.--MB流量</string>
     <string name="rcs_video_mobile_network_tip_prefix">播放将消耗</string>
     <string name="rcs_video_mobile_network_tip_suffix">MB流量</string>
     <string name="rcs_video_network_reconnected">网络已恢复，重新连接中</string>
     <string name="rcs_video_play">播放</string>
     <string name="rcs_video_return">返回</string>
-    <string name="rcs_video_subject_view">[видео]</string>
+    <string name="rcs_video_subject_view">[video]</string>
+    <string name="rcs_voice_message">Voice message</string>
     <string name="rcs_web_abouts">服务说明</string>
     <string name="rcs_web_download_no">取消</string>
     <string name="rcs_web_download_yes">下载</string>
@@ -888,12 +1085,13 @@
     <string name="remove_text">Удалить текст</string>
     <string name="remove_video">Удалить видео</string>
     <string name="replace_image">Заменить изображение</string>
-    <string name="reply_activity">Ответное сообщение</string>
+    <string name="reply_activity">Ответить на сообщение</string>
     <string name="represent_content">Псевдоним</string>
     <string name="resend_btn">Отправить снова</string>
     <string name="resend_title">Отправить снова?</string>
     <string name="resize_image_error_information">Изображение слишком велико для отправки даже после изменения размера</string>
     <string name="restore_nickname_title">Восстановить</string>
+    <string name="retry">Повторить</string>
     <string name="save">Сохранить в</string>
     <string name="save_btn">Сохранить</string>
     <string name="saved_label">Сохранено:</string>
@@ -901,6 +1099,11 @@
     <string name="sd_file_not_exist">Вложение не существует</string>
     <string name="sd_removed_message">Отправляемое вложение было записано на карту памяти, которая сейчас отключена. Подключите карту памяти для отправки вложения.</string>
     <string name="search">Сообщения</string>
+
+    <string name="search_convenient_label">Label</string>
+    <string name="search_convenient_more">More applets</string>
+    <string name="search_convenient_toast">No more applet</string>
+
     <string name="search_hint">Поиск сообщений</string>
     <string name="search_menu_title">Поиск</string>
     <string name="search_tint">Поиск SMS</string>
@@ -912,6 +1115,33 @@
     <string name="select_conversation_matching">Совпадение</string>
     <string name="select_recipt_contact_act_title">Получатель</string>
     <string name="select_top_text">Текст вверху</string>
+
+    <string name="send">Send</string>
+    <string name="send_btn">Send Message</string>
+    <string name="send_type_choose">Choose sending method</string>
+    <string name="send_type_choose_title">Choose send type</string>
+    <string name="sending_disabled_not_default_app">Sending disabled</string>
+    <string name="sending_message">Sending</string>
+    <string name="sent_label">Sent:</string>
+    <string name="server_error">Server error</string>
+    <string name="service__num_tips_top">Top</string>
+    <string name="service_comment_tips_top">Recommend</string>
+    <string name="service_message_not_found">Message expired or not available for viewing</string>
+    <string name="service_not_activated">Service not activated on network</string>
+    <string name="service_num_more">More</string>
+    <string name="service_num_seach">Search</string>
+    <string name="service_num_setting_delete">Delete</string>
+    <string name="service_num_title_name">Service number</string>
+    <string name="service_setting_cancel_top">Cancel the top</string>
+    <string name="service_setting_top">Top</string>
+    <string name="servicefunction_least_recently_used">Recently used services</string>
+    <string name="servicefunction_not_exist_description">The services used in the information are shown here</string>
+    <string name="servicefunction_type_app">Application</string>
+    <string name="servicefunction_type_charge">Charge</string>
+    <string name="servicefunction_type_h5">Quick service</string>
+    <string name="servicefunction_type_qapp">Quick App</string>
+    <string name="set">Settings</string>
+<!--
     <string name="send">Отправить</string>
     <string name="send_btn">Отправить сообщение</string>
     <string name="send_type_choose">Тип передачи</string>
@@ -936,17 +1166,20 @@
     <string name="servicefunction_type_h5">Быстрое обслуживание</string>
     <string name="servicefunction_type_qapp">Быстрое приложение</string>
     <string name="set">Настройки</string>
+-->
+    <string name="set_network">Set up the network</string>
+
     <string name="sim1">SIM 1</string>
     <string name="sim2">SIM 2</string>
-    <string name="sim_close">откл.</string>
+    <string name="sim_close">Закрыть</string>
     <string name="sim_delete">Удалить</string>
     <string name="sim_empty">На SIM-карте нет сообщений</string>
     <string name="sim_full_body">Удалите сообщения, чтобы освободить место.</string>
     <string name="sim_full_title">SIM-карта заполнена</string>
-    <string name="sim_open">вкл.</string>
-    <string name="sim_status" formatted="false">SIM 1 %s | SIM 2 %s</string>
+    <string name="sim_open">Открыть</string>
+    <string name="sim_status" formatted="false">SIM 1%s, SIM 2%s</string>
     <string name="sim_type_normal">Обычное сообщение</string>
-    <string name="size_unit">Мб</string>
+    <string name="size_unit">МБ</string>
     <string name="skip_introduce">Пропустить</string>
     <string name="slide_failed_to_add_media">Невозможно добавить объект %1$s к сообщению</string>
     <string name="slide_number">Слайд %s</string>
@@ -955,9 +1188,26 @@
     <string name="slideshow_options">Настройки слайд-шоу</string>
     <string name="sms_full_body">Недостаточно места для получения SMS-сообщений. Освободите память</string>
     <string name="sms_full_title">Память для текстовых сообщений переполнена.</string>
+    <string name="sms_function_agree">Согласен</string>
+    <string name="sms_function_dialog_content">Согласны ли вы получать SMS-сообщения? Если вы откажетесь, вы не сможете нормально получать SMS/MMS-сообщения.</string>
+    <string name="sms_function_refuse">Отказаться</string>
     <string name="sms_mms_failed_cancel_title">Отмена</string>
     <string name="sms_mms_failed_message_multi">Получатели: %1$s</string>
     <string name="sms_mms_failed_redeliver_title">Отправить снова</string>
+    
+    <string name="sso_string_input_seccode_title">请输入统一认证安全码</string>
+    <string name="sso_string_net_system_exception">请检查网络连接</string>
+    <string name="sso_string_operator_limited">操作频繁，请稍后再试</string>
+    <string name="sso_string_seccode_error">安全码错误</string>
+    <string name="sso_string_seccode_manager_forget_pwd">忘记密码？</string>
+    <string name="sso_string_seccode_manager_login_username">登录用户:</string>
+    <string name="sso_string_seccode_manager_tips">开启安全码二次鉴权，增强隐私数据安全性</string>
+    <string name="sso_string_seccode_set_success">设置成功</string>
+    <string name="sso_string_seccode_success_confirm">确认</string>
+    <string name="sso_string_seccode_valify_success">验证成功</string>
+    <string name="sso_string_service_exception_retry">服务异常，请稍后再试</string>
+    <string name="sso_string_set_seccode_title">请设置统一认证安全码</string>
+<!--
     <string name="sso_string_input_seccode_title">Пожалуйста, введите код безопасности</string>
     <string name="sso_string_net_system_exception">Пожалуйста, проверьте подключение к сети</string>
     <string name="sso_string_operator_limited">Слишком частые запросы. Пожалуйста, попробуйте позже</string>
@@ -970,6 +1220,7 @@
     <string name="sso_string_seccode_valify_success">Проверка завершена</string>
     <string name="sso_string_service_exception_retry">Сетевая ошибка. Попробуйте позже</string>
     <string name="sso_string_set_seccode_title">Установите код безопасности</string>
+-->
     <string name="start_download_title">Нажмите для загрузки</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="status_none">(нет)</string>
@@ -978,36 +1229,34 @@
     <string name="status_unread">Непрочитанное</string>
     <string name="storage_limits_message">Ограничить число сообщений, сохраняемых в беседе?</string>
     <string name="storage_limits_setting">Установить лимит</string>
-    <string name="storage_limits_setting_dismiss">Нет ограничений</string>
+    <string name="storage_limits_setting_dismiss">Без ограничений</string>
     <string name="storage_warning_content">Вы не будете получать новые SMS/MMS</string>
     <string name="storage_warning_title">Память телефона заполнена</string>
     <string name="subject_hint">Тема</string>
     <string name="subject_label">Тема:</string>
     <string name="subject_reach_input_limit_cmcc">Достигнут предел количества символов</string>
     <string name="talk_avatar_detail">Детали %1$s</string>
-    <string name="text_message">SMS</string>
-    <string name="timer_date_formater_format">d MMM</string>
-    <string name="timer_date_formatter">dd.MM.yyyy HH:mm</string>
-    <string name="timer_date_formatter_12">dd.MM.yyyy hh:mm a</string>
+    <string name="text_message">СМС</string>
     <string name="timer_date_time_hour">ч.</string>
     <string name="timer_date_time_min">м.</string>
     <string name="timer_string_formatter">Будет отправлено %1$s</string>
     <string name="tip_data_source">Источник: Baidu Map</string>
-    <string name="tip_load_more">Нажмите, чтобы загрузить больше данных</string>
+    <string name="tip_load_more">Нажмите, чтобы загрузить больше</string>
     <string name="tip_loading">Загрузка…</string>
     <string name="tip_overflow_text">Бесплатные SMS (только для пользователей China Mobile)</string>
     <string name="tip_services_provide">Предоставлено: Mi Jiaxin Jiebao</string>
     <string name="title_buy_data">Пополнить</string>
-    <string name="title_buy_tel">Входящие</string>
+    <string name="title_buy_tel">Пополните счет за телефон</string>
     <string name="title_coversation_contact_multi">Получатель</string>
     <string name="title_coversation_contact_single">Сведения о контакте</string>
     <string name="title_mz_card">Meiyou Card</string>
-    <string name="title_phone_recharge">Пополнить</string>
+    <string name="title_phone_recharge">Пополнение счета мобильного телефона</string>
     <string name="to_address_label">Получатель:</string>
     <string name="toast_cannot_send_message">Отправка сообщений недоступна</string>
+    <string name="toast_not_default_sms">Приложение «Сообщения» не по умолчанию, пожалуйста измените его</string>
     <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s .</string>
     <string name="top">Закреплено</string>
-    <string name="top_group_thread_title">Закрепить сверху</string>
+    <string name="top_group_thread_title">Закрепить</string>
     <string name="touch_to_browse">Нажмите для просмотра</string>
     <string name="type_audio">Аудио</string>
     <string name="type_file">Файл</string>
@@ -1016,7 +1265,7 @@
     <string name="type_to_compose_sms_enter_to_send">SMS</string>
     <string name="type_to_compose_text_enter_to_send">SMS/MMS</string>
     <string name="type_to_compose_text_or_leave_blank">Введите сообщение или оставьте поле пустым</string>
-    <string name="type_vcard">Данные vCard</string>
+    <string name="type_vcard">Карточка контакта</string>
     <string name="type_video">Видео</string>
     <string name="uim_full_title">Карта заполнена</string>
     <string name="unfiltrate">Прочитано</string>
@@ -1024,7 +1273,7 @@
     <string name="unknown_sender">Неизвестный отправитель</string>
     <string name="unkown_file">Ошибка данных</string>
     <string name="unsubscribe">Отписаться</string>
-    <string name="unsubscribe_instructions">Отказ от подписки</string>
+    <string name="unsubscribe_instructions">Инструкции по отписке</string>
     <string name="unsubscribe_instructions_message_five">Если вы хотите блокировать все сообщения, поддерживающие отмену подписки, это можно сделать через \"Перехват спама - перехват SMS\".</string>
     <string name="unsubscribe_instructions_message_four">Вы можете восстановить заблокированное SMS-сообщение в Настройках - Перехват спама.</string>
     <string name="unsubscribe_instructions_message_one">Для сообщений, которые не поддерживают подписку, пользователи не могут успешно отказаться от подписки на них. Возможно, вам придётся ответить , чтобы справиться с этим.</string>
@@ -1039,98 +1288,34 @@
     <string name="unsupported_media_format">Формат файла не поддерживается</string>
     <string name="vcard_birthday">"День рождения: %1$s
 "</string>
+    <string name="vcard_contacts">%d контактов</string>
+    <string name="vcard_contacts_view">Показать</string>
     <string name="vcard_email">"Эл. почта: %1$s
 "</string>
+    <string name="vcard_header_single">Карточка контакта</string>
     <string name="vcard_ims">"Мгнов. сообщение: %1$s
 "</string>
     <string name="vcard_name">Имя</string>
     <string name="vcard_nickname">"Псевдоним: %1$s
 "</string>
-    <string name="vcard_note">"Примечание: %1$s
+    <string name="vcard_note">"Примечания: %1$s
 "</string>
-    <string name="vcard_number_hint">"Телефон: "</string>
+    <string name="vcard_number_hint">Телефон:</string>
     <string name="vcard_organization">"Компания: %1$s
 "</string>
+    <string name="vcard_phone">Телефон:%s</string>
     <string name="vcard_postal">"Адрес: %1$s
 "</string>
     <string name="vcard_tel">Номер телефона</string>
     <string name="vcard_website">"Веб-сайт: %1$s
 "</string>
-    <string name="view_by_slide_title">Просмотр слайд-шоу</string>
+    <string name="view_by_slide_title">Смотреть как слайд</string>
     <string name="view_message_details">Детали</string>
     <string name="view_more_conversations">Другие беседы</string>
     <string name="voice_text_normal">Нажмите и удерживайте во время разговора</string>
-    <string name="voice_text_over">Release to end</string>
+    <string name="voice_text_over">Отпустите для прекращения</string>
     <string name="voice_text_press">Проведите для отмены</string>
-    <string name="voice_text_remain">Говорите более %s сек.</string>
+    <string name="voice_text_remain">Вы можете записывать ещё %s с.</string>
     <string name="xiaoyuan_test">Тест</string>
     <string name="yes">ОК</string>
-    <string name="WaitTip">Пожалуйста, подождите</string>
-    <string name="access_server_error">Система не отвечает, попробуйте позже.</string>
-    <string name="alipay_data_exception">Неверный формат данных</string>
-    <string name="alipay_network_request_error">Ошибка сетевого запроса</string>
-    <string name="alipay_server_error">Обновление платежного сервиса</string>
-    <string name="alipay_unknown_error">Alipay не отвечает, попробуй еще раз</string>
-    <string name="banner_sms_promo_message">Нажмите здесь или измените в настройках</string>
-    <string name="banner_sms_promo_title_application">Используемое SMS-приложение: %s</string>
-    <string name="banner_sms_promo_title_initial">Встроенное приложение не является приложением по умолчанию</string>
-    <string name="cannot_send_message_for_sns">Личные сообщения Weibo не поддерживаются</string>
-    <string name="change_default_message_app_dialog_title">Изменить приложение для сообщений?</string>
-    <string name="compose_disabled_toast">Невозможно создать сообщение, так как текущее приложение не является установленным по умолчанию.</string>
-    <string name="flyme_disk_limit_notify_description">Невозможно загрузить сообщение Flyme. Нажмите для открытия</string>
-    <string name="flyme_disk_limite">Недостаточно места на карте памяти</string>
-    <string name="flyme_mms_no_space_dialog_positive">Очистить</string>
-    <string name="flyme_mms_no_space_msg">Доступно: %s</string>
-    <string name="flyme_mms_no_space_title">Недостаточно места на карте памяти</string>
-    <string name="flyme_mms_send_action_title">Веб-сообщения</string>
-    <string name="group_edit">Управление</string>
-    <string name="illegal_pay_request">Незаконное платежное требование</string>
-    <string name="long_press_menu_original">Исходный текст</string>
-    <string name="mark_all_readed">Отметить все как прочитанное</string>
-    <string name="message_unfavoriting_label">Удалить из избранного</string>
-    <string name="mms_flyme_noti_subject_view">MMS: Уведомление Flyme</string>
-    <string name="mms_talk_noti_subject_view">MMS: голосовое сообщение</string>
-    <string name="networkRequestError">Ошибка сети</string>
-    <string name="network_error_to_refresh">Ошибка подключения, нажмите чтобы повторить</string>
-    <string name="no_network_to_setting">Нет подключения к сети. Пожалуйста, проверьте настройки.</string>
-    <string name="open_pay_auto_pay_permission_title">Авторизация платёжного сервиса</string>
-    <string name="orderInfoIncomplete">Неверный запрос, заказ не выполнен</string>
-    <string name="pay_base_channel_access_server_error">Система занята, попробуйте позже</string>
-    <string name="pay_base_channel_pay_fail">Ошибка платежа</string>
-    <string name="pay_base_channel_pay_success">Платёж выполнен успешно</string>
-    <string name="pay_base_channel_pay_unknown_error">Ошибка платежа, неизвестная ошибка</string>
-    <string name="pay_fail">Ошибка платежа</string>
-    <string name="pay_success">Платёж выполнен успешно</string>
-    <string name="pay_unknown_error">Ошибка платежа, неизвестная ошибка</string>
-    <string name="pref_summary_default_message_is_system_own">Системное приложение</string>
-    <string name="pref_title_default_message_app">SMS-приложение по умолчанию</string>
-    <string name="prepare_mms_pdu_data">Подготовка данных к отправке</string>
-    <string name="recoder_time_limit_short">Время записи слишком короткое</string>
-    <string name="record_failed">Ошибка записи</string>
-    <string name="request_too_fast">Слишком частые запросы</string>
-    <string name="sd_mount_err">Карта памяти не готова</string>
-    <string name="setting_network">Настроить</string>
-    <string name="talk_subject">MMS: 1 аудио</string>
-    <string name="weixin">WeChat</string>
-    <string name="weixin_unknown_error">WeChat не отвечает, повторите попытку</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="demo_name">Демонстрация RCS-сообщений</string>
-    <string name="douqu_loading">Загрузка</string>
-    <string name="douqu_m">м</string>
-    <string name="duoqu_dlg_cancel">Отмена</string>
-    <string name="duoqu_dlg_laoding">Загрузка…</string>
-    <string name="has_mark_read">Отмечено как прочитанное</string>
-    <string name="has_mark_unread">Отмечено как непрочитанное</string>
-    <string name="head_name">Демонстрация публичного ключа RCS-сообщений</string>
-    <string name="mc_custom_date_time_day_after">дн. назад</string>
-    <string name="mc_custom_date_time_day_before">дн. спустя</string>
-    <string name="mms_audio_subject_view">Веб-MMS: 1 аудио</string>
-    <string name="mms_file_subject_view">Веб-MMS: 1 файл</string>
-    <string name="mms_image_subject_view">Веб-MMS: 1 изображение</string>
-    <string name="mms_location_subject_view">Веб-MMS: 1 местоположение</string>
-    <string name="mms_vcard_subject_view">Веб-MMS: 1 визитка</string>
-    <string name="mms_video_subject_view">Веб-MMS: 1 видео</string>
-    <string name="pull_to_mark_read">Потянуть вниз для отметки прочитанным</string>
-    <string name="pull_to_mark_unread">Потянуть вниз для отметки непрочитанным</string>
 </resources>
