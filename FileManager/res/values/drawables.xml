@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="drawable" name="cv">@color/i4</item>
-    <item type="drawable" name="cw">@color/i5</item>
-    <item type="drawable" name="i3">#3333b5e5</item>
-    <item type="drawable" name="i4">#0cffffff</item>
-</resources>
