@@ -192,8 +192,6 @@
     <color name="mc_picker_unselected_color">#26000000</color>
     <color name="mc_picker_unselected_color_one">#0f000000</color>
     <color name="mc_picker_unselected_color_two">#26000000</color>
-    <color name="mc_pinned_group_header_bg">#fff0f0f0</color>
-    <color name="mc_pinned_group_text">@color/mz_list_text_color_alpha_50</color>
     <color name="mc_round_colorfulbg_color">#ff43b56b</color>
     <color name="mc_search_button_color">#9a000000</color>
     <color name="mc_search_edit_hint_textcolor">#59000000</color>
@@ -332,8 +330,8 @@
     <color name="mz_switch_thumb_dark_on_disabled_color_firebrick">#99e6b4b5</color>
     <color name="mz_switch_thumb_dark_on_enable_color">#ff6c9ddc</color>
     <color name="mz_switch_thumb_dark_on_enable_color_firebrick">#ffe6b4b5</color>
-    <color name="mz_switch_track_dark_off_disabled_color">#99404040</color>
-    <color name="mz_switch_track_dark_off_enabled_color">#ff404040</color>
+    <color name="mz_switch_track_dark_off_disabled_color">#99262626</color>
+    <color name="mz_switch_track_dark_off_enabled_color">#ff262626</color>
     <color name="mz_switch_track_dark_on_disabled_color">#ff124382</color>
     <color name="mz_switch_track_dark_on_disabled_color_firebrick">#99b92e30</color>
     <color name="mz_switch_track_dark_on_enabled_color">#ff1966c9</color>

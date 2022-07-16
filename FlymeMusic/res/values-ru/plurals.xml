@@ -21,7 +21,7 @@
         <item quantity="one">Убрать 1 композицию и удалить локальный файл</item>
     </plurals>
     <plurals name="play_list_count">
-        <item quantity="other">%1$d плейлистов</item>
+        <item quantity="other">%1$d плейлиста</item>
         <item quantity="one">1 плейлист</item>
     </plurals>
     <plurals name="remove_song">

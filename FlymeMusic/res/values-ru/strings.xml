@@ -18,33 +18,29 @@
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению \"%s\"</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="action_add">Добавить</string>
-    <string name="action_add_to_current_playinglist">Следующий</string>
+    <string name="action_add_to_current_playinglist">В очередь</string>
     <string name="action_add_to_playlist">Добавить в</string>
     <string name="action_audio_information">Информация</string>
     <string name="action_continue">Продолжить</string>
     <string name="action_delete_file">Удалить</string>
-    <string name="action_delete_playlist">Удалить плейлист</string>
+    <string name="action_delete_playlist">Удалить</string>
     <string name="action_download">Загрузить</string>
-
-    <string name="action_filter_folder">Filter the folder</string>
-    <string name="action_multi_choice">Batch management</string>
-
+    <string name="action_filter_folder">Игнорировать папку</string>
+    <string name="action_multi_choice">Групповое редактирование</string>
     <string name="action_play_selected">Играть</string>
     <string name="action_rename">Переименовать</string>
     <string name="action_ringtone">Установить на звонок</string>
     <string name="action_settings">Настройки</string>
     <string name="action_share">Поделиться</string>
     <string name="action_show_playlist">Плейлист</string>
-
-    <string name="action_to_artist">Skip To Artist</string>
-
+    <string name="action_to_artist">Исполнитель</string>
     <string name="add_music_finish_title">Готово</string>
     <string name="add_music_title">Добавить песни</string>
-    <string name="add_to_favorite">Добавлено в избранные</string>
+    <string name="add_to_favorite">Добавлено в любимое</string>
+    <string name="add_to_favorite_toast">Добавлено в любимое</string>
+    <string name="add_to_playlist_toast">Добавлено в плейлист</string>
+    <string name="added_to_next_play">Добавлено в очередь</string>
 
-    <string name="add_to_favorite_toast">Added To My Favorite</string>
-    <string name="add_to_playlist_toast">Added To Playlist</string>
-    <string name="added_to_next_play">Added to next play</string>
     <string name="album_download_confirm">The album has %1$d songs and will occupy %2$s space. Download all?</string>
 
     <string name="album_num">Альбом: %s</string>
@@ -59,9 +55,9 @@
 
     <string name="artist_download_confirm">The artist has %1$d songs and will occupy %2$s space. Download all?</string>
     <string name="audition_renewals_title">VIP has expired, renew and enjoy high-quality listening</string>
-    <string name="auto_selection">Auto</string>
-    <string name="bit_rate">Bit rate</string>
 
+    <string name="auto_selection">Авто</string>
+    <string name="bit_rate">Битрейт</string>
     <string name="bitrate">%d Kbps</string>
     <string name="blind_mode_add">добавить в</string>
 
@@ -81,28 +77,29 @@
     <string name="blind_mode_type">type</string>
     <string name="blind_mode_zan">recommend</string>
     <string name="center_has_no_vip">Not a VIP yet</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="check_for_updates">Check for updates</string>
-    <string name="choice_mylist_title">Select View</string>
-    <string name="choice_sort_title">Sort method</string>
-    <string name="chorus_play_all">Play All</string>
-    <string name="clear_search_history">Clear</string>
-    <string name="click_to_go_listen">Tap to listen</string>
-    <string name="close">Off</string>
+
+    <string name="check_for_updates">Проверить обновления</string>
+    <string name="choice_mylist_title">Выбрать вид</string>
+    <string name="choice_sort_title">Метод сортировки</string>
+    <string name="chorus_play_all">Играть все</string>
+    <string name="clear_search_history">Очистить</string>
+    <string name="click_to_go_listen">Нажмите для прослушивания</string>
+    <string name="close">Выкл</string>
+
     <string name="collect">Favorite</string>
     <string name="comment_title">Comment</string>
     <string name="confirm_mobile_network_download">Using mobile network to download?</string>
     <string name="confirm_mobile_network_play">Using mobile network to play?</string>
     <string name="create_pic">Create Picture</string>
     <string name="create_playlist_overwrite_text">Merge</string>
-    <string name="create_playlist_title">Create</string>
-    <string name="created_playlist_title">Playlist created</string>
+
+    <string name="create_playlist_title">Создать</string>
+    <string name="created_playlist_title">Плейлисты</string>
+    
     <string name="cue_not_deleted">CUE files are not deleted</string>
     <string name="cue_playlist_title">CUE playlist</string>
-    <string name="current_version">Current version %s</string>
-    <string name="date_format_year_month">MM yyyy</string>
-    <string name="date_format_year_month_day">MM/DD/YYYY</string>
 
+    <string name="current_version">Текущая версия: %s</string>
     <string name="date_time_set">Установить</string>
 
     <string name="day_limit_title">Upper limit for membership high-quality download reached today, continue the standard-quality download free of charge?</string>
@@ -120,8 +117,8 @@
     <string name="download_sensior_vip_needed">Upgrade to a senior membership to enjoy SQ-to-HQ music conversion</string>
     
     <string name="download_stopped">Пауза</string>
+    <string name="download_success">Загружена новая версия. Нажмите для установки</string>
 
-    <string name="download_success">New version downloaded. Tap to install</string>
     <string name="download_vip_needed">Music download is only for VIP members</string>
     <string name="download_vip_out_of_date">VIP membership expired, please renew</string>
 
@@ -131,23 +128,27 @@
     <string name="downloading_percent">Загрузка %s</string>
     <string name="edit_cover_title">Редактировать обложку</string>
     <string name="edit_info_album">Альбомы</string>
-    <string name="edit_info_artist">Исполнители</string>
+    <string name="edit_info_artist">Исполнитель</string>
 
     <string name="edit_info_edit_text_hint">Enter content</string>
     <string name="edit_info_fragment_title">Edit song info</string>
-    <string name="edit_info_title">Title</string>
-    <string name="edit_local_thumb_fragment_title">Choose cover</string>
-    <string name="edit_local_thumb_title">Local cover</string>
-    <string name="edit_online_thumb_title">Online cover</string>
-    <string name="edit_playlist">Edit playlist</string>
-    <string name="edit_playlist_name">Name</string>
-    <string name="edit_string">Edit</string>
+
+    <string name="edit_info_title">Название</string>
+    <string name="edit_local_thumb_fragment_title">Выбрать обложку</string>
+    <string name="edit_local_thumb_title">Локальные обложки</string>
+    <string name="edit_online_thumb_title">Онлайн обложки</string>
+    <string name="edit_playlist">Редактировать</string>
+    <string name="edit_playlist_name">Название</string>
+    <string name="edit_string">Редактировать</string>
+
     <string name="empty_music_lib">Music Library Is Empty</string>
     <string name="empty_my_playlist">No playlist</string>
-    <string name="equalizer_install_confirm">Install</string>
-    <string name="equalizer_install_failed">Install failed</string>
-    <string name="equalizer_install_tip">Square Sound has been uninstalled. Install now?</string>
-    <string name="equalizer_installing">Installing</string>
+
+    <string name="equalizer_install_confirm">Установить</string>
+    <string name="equalizer_install_failed">Ошибка установки</string>
+    <string name="equalizer_install_tip">Square Sound был удалён. Установить сейчас?</string>
+    <string name="equalizer_installing">Установка</string>
+
     <string name="explore_music">Go to explore music</string>
     <string name="fetch_data_fail_no_network">No network connection. Please check your network settings.</string>
     
@@ -158,33 +159,34 @@
     <string name="filtered">Filtered</string>
     <string name="find_new_audio">New audio discovered</string>
     <string name="folder_filter">The selected folder will be filtered</string>
-    <string name="folder_title">Folders</string>
+
+    <string name="folder_title">Папки</string>
+
     <string name="foreign_user_right_tips">Sorry, free trial or download service is currently not available in your country or region for copyright issue</string>
-    <string name="frame_anim_lib_name">FrameAnimLib</string>
-    <string name="from_camera">Take photo</string>
-    <string name="from_gallery">Choose from gallery</string>
+
+    <string name="from_camera">Сделать фото</string>
+    <string name="from_gallery">Выбрать из галереи</string>
+
     <string name="get_version_failed">Failed to get version information</string>
-    <string name="high_quality">HQ</string>
     <string name="hot_one_hundred_million">Hundred million</string>
     <string name="hot_search_header_text">Popular searches</string>
     <string name="hot_ten_thousand">Ten thousand</string>
     <string name="immediate_opening">Activate Now</string>
     <string name="install_fail">Installation failed</string>
     <string name="install_not_support">Cannot install silently</string>
-    <string name="installing">Installing</string>
-    <string name="introduce">Introduction</string>
 
+    <string name="installing">Установка</string>
+    <string name="introduce">Описание</string>
     <string name="item_is_selected">%1$s выбрано</string>
-
-    <string name="like_playlist">My favorite playlist</string>
+    <string name="like_playlist">Мой плейлист</string> <!--favorite playlist-->
     <string name="list_section_memeber_title">VIP</string>
-    <string name="loading_more">Load more</string>
-    <string name="local_device">My phone</string>
-    <string name="local_empty_text">Local music will be shown here</string>
-    <string name="local_music">Local Music</string>
-    <string name="lockscreen_music">Lock screen music controls</string>
-    <string name="lossless_quality">FLAC</string>
-    <string name="low_storage">Unable to download as the storage space is less than 100 MB</string>
+    <string name="loading_more">Загрузить ещё</string>
+    <string name="local_device">Мой телефон</string>
+    <string name="local_empty_text">Здесь будет показана локальная музыка</string>
+    <string name="local_music">Локальная музыка</string>
+    <string name="lockscreen_music">Управление музыкой на заблок. экране</string>
+    <string name="low_storage">Невозможно загрузить, если осталось меньше 100МБ свободного места</string>
+
     <string name="lrc_list_title">Choose Lyrics</string>
     <string name="lyric_delay">Delay 0.5 seconds</string>
     <string name="lyric_edit_hint">Undo adjustment</string>
@@ -202,7 +204,7 @@
     <string name="mc_cancel_collected_message">Отменено</string>
     <string name="mc_cancel_praised_message">Отменить</string>
     <string name="mc_change_num">Обновление</string>
-    <string name="mc_collected_message">Избранное</string>
+    <string name="mc_collected_message">Любимое</string>
     <string name="mc_custom_date_time_days_after">%1$d дней спустя</string>
     <string name="mc_custom_date_time_days_before">%1$d дней назад</string>
     <string name="mc_custom_date_time_gregorian">Григорианский</string>
@@ -314,30 +316,26 @@
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">ОК</string>
     <string name="media_loading_text">Загрузка</string>
-
-    <string name="menu_equalize">Square Sound</string>
-    <string name="menu_filter_detail">Filter audios less than 60 sec</string>
-    <string name="menu_filter_done">Filter</string>
-    <string name="menu_filter_file">Filter specified audio</string>
-    <string name="menu_music_manager">Manage music</string>
-    <string name="menu_ringtone">Ringtone</string>
-    <string name="menu_ringtone_switch">Ringtone Service</string>
-    <string name="menu_save_playlist_name">Save</string>
-    <string name="menu_scan_music">Scan local music</string>
-    <string name="menu_timer">Sleep timer</string>
-
+    <string name="menu_filter_detail">Фильтровать файлы короче 60 с.</string>
+    <string name="menu_filter_done">Готово</string>
+    <string name="menu_filter_file">Фильтровать определённые файлы</string>
+    <string name="menu_music_manager">Управлять музыкой</string>
+    <string name="menu_ringtone">Рингтон</string>
+    <string name="menu_ringtone_switch">Сервис рингтона</string>
+    <string name="menu_save_playlist_name">Сохранить</string>
+    <string name="menu_scan_music">Поиск по локальной директории</string>
+    <string name="menu_timer">Таймер сна</string>
     <string name="more">Ещё</string>
     <string name="more_item_label">Ещё</string>
     <string name="more_label">Ещё</string>
     <string name="more_title">Ещё</string>
-
-    <string name="music_scan">Scanning…</string>
-    <string name="music_scan_count_other">%d song(s) found, including * new songs</string>
-    <string name="music_scan_count_zero">%d song(s) found, no new songs added</string>
-    
+    <string name="music_scan">Поиск...</string>
+    <string name="music_scan_count_other">%d треков найдено, включая * новых треков</string>
+    <string name="music_scan_count_zero">%d треков найдено, новых треков не найдено</string>
     <string name="music_vip_has_expired">Подписка закончилась</string>
-    <string name="my_favorite">Избранное</string>
-    <string name="my_playlist">Мои плейлисты</string>
+    <string name="my_favorite">Любимое</string>
+    <string name="my_playlist">Мои
+плейлисты</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
@@ -466,11 +464,11 @@
     <string name="mzuc_update_title_s" formatted="false">Вышла %s %s</string>
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
+    <string name="new_playlist">Новый плейлист</string>
+    <string name="new_playlist_name_template">Плейлист %d</string>
+    <string name="new_version_upgrade">Доступна новая версия, нажмите для установки</string>
+    <string name="no_avaliable_network">Нет подключения к сети</string>
 
-    <string name="new_playlist">New playlist</string>
-    <string name="new_playlist_name_template">Playlist %d</string>
-    <string name="new_version_upgrade">New version, tap to install</string>
-    <string name="no_avaliable_network">No network connection</string>
     <string name="no_file_fliter">There are no folders containing songs</string>
     <string name="no_lyc_title">No lyrics</string>
     <string name="no_music">No Songs</string>
@@ -487,19 +485,25 @@
     <string name="nowplaying_favorite_guide">Click here to add to my favorite</string>
     <string name="on_album_detail">Oops, no details found about the album</string>
     <string name="on_artit_detail">Oops! No results found for the artist</string>
-    <string name="password_toggle_content_description">Toggle password visibility</string>
-    <string name="path">File Path</string>
+
+    <string name="password_toggle_content_description">Переключить видимость пароля</string>
+    <string name="path">Путь к файлу</string>
+
     <string name="permission_info">Music needs to access the internet to provide a better user experience</string>
     <string name="permission_internet_sub_title">Ringtone acquisition and version update</string>
     <string name="play_music_failed">Oops, playback failed</string>
-    <string name="playing_action_to_album">Skip to Album</string>
+    
+    <string name="playing_action_to_album">Альбом</string>
+
     <string name="playing_action_to_comment">View Comment</string>
     <string name="playing_add_to">Add to</string>
     <string name="playing_click_cover_guide">Tap the cover to view the complete lyrics</string>
     <string name="playing_sequential_mode">Sequence</string>
-    <string name="playing_share_music">Share Song</string>
-    <string name="playing_sound_effect">Sound Effect</string>
-    <string name="playing_timer_play">Timer</string>
+
+    <string name="playing_share_music">Поделиться</string>
+    <string name="playing_sound_effect">Эффект</string>
+    <string name="playing_timer_play">Таймер</string>
+
     <string name="playlist_discard">Discard</string>
     <string name="playlist_download_confirm">The playlist has %1$d songs and will occupy %2$s space. Download all?</string>
     <string name="playlist_edit_pic">Please select a picture that is less than 500KB</string>
@@ -510,13 +514,12 @@
     <string name="preview_pic_title">Preview</string>
     <string name="publish">Publish</string>
     <string name="publish_playlist">Publish playlist</string>
-    <string name="publish_time_string">%1$s %2$s %3$s</string>
-    <string name="publish_time_year">%s</string>
-    <string name="publish_time_year_month">%1$s %2$s</string>
     <string name="published">Published</string>
     <string name="purchase_action">Purchase</string>
     <string name="quit_filter_toast">Do you want to discard your changes?</string>
-    <string name="recently_play">Recent</string>
+
+    <string name="recently_play">Недавние</string>
+
     <string name="recommend_song">Rrecommended reason</string>
     <string name="rename_playlist">Rename</string>
     <string name="renewals_action">Renewals</string>
@@ -533,27 +536,29 @@
     <string name="scan_music_title">Scan All Audio Files</string>
     <string name="sd_path_name">SD card</string>
     <string name="sd_root_folder">The SD Card directory</string>
-    <string name="search_error">No Results Found</string>
-    <string name="search_hint">Song artist album</string>
 
+    <string name="search_error">Результатов не найдено</string>
+    <string name="search_hint">Песня, исполнитель, альбом</string>
     <string name="search_history">История поиска</string>
     <string name="search_menu_title">Поиск</string>
 
     <string name="search_recommend_header">Recommend</string>
-    <string name="search_settings_description">Artists, albums and songs</string>
-    <string name="search_tab_local_music">Local music</string>
-    <string name="search_tab_online_music">Online music</string>
+
+    <string name="search_settings_description">Исполнители, альбомы и песни</string>
+    <string name="search_tab_local_music">Локальная музыка</string>
+    <string name="search_tab_online_music">Онлайн музыка</string>
     <string name="search_title">Поиск</string>
-    <string name="select">Select</string>
-    <string name="send_string">Send</string>
-    <string name="server_timeout_error">Server timed out</string>
-    <string name="set_ringbell">Set as ringtone</string>
-    <string name="set_ringbell_fail">Failed to set ringtone</string>
-    <string name="set_ringbell_success">Ringtone set successfully</string>
-    <string name="set_ringtone">Set as ringtone</string>
-    <string name="setting_title">Settings</string>
-    <string name="share_album">Share album:</string>
-    <string name="share_artist">Artist:</string>
+    <string name="select">Выбрать</string>
+    <string name="send_string">Отправить</string>
+    <string name="server_timeout_error">Тайм-аут сервера</string>
+    <string name="set_ringbell">Установить как рингтон</string>
+    <string name="set_ringbell_fail">Ошибка установки рингтона</string>
+    <string name="set_ringbell_success">Рингтон установлен успешно</string>
+    <string name="set_ringtone">Установить как рингтон</string>
+    <string name="setting_title">Настройки</string>
+    <string name="share_album">Альбом:</string>
+    <string name="share_artist">Исполнитель:</string>
+
     <string name="share_artist_new">Share artist:</string>
     <string name="share_author">Author:</string>
     <string name="share_failed_tips">This song cannot be shared</string>
@@ -566,55 +571,57 @@
     <string name="share_songlist">Share playlist:</string>
     <string name="share_string">Share to</string>
     <string name="share_subject">Share features:</string>
-    <string name="shuffle">Shuffle</string>
-    <string name="size">File Size</string>
-    <string name="size_filter">Filter by size</string>
-    <string name="song_count">Song Count</string>
-    <string name="song_feemode_downlaod_title">Membership is required to download the song due to copyright protection.</string>
-    <string name="song_feemode_play_title">Membership is required to download the song due to copyright protection.</string>
 
+    <string name="shuffle">Перемешать</string>
+    <string name="size">Размер</string>
+    <string name="size_filter">Фильтровать по размеру</string>
+    <string name="song_count">Количество песен</string>
+    <string name="song_feemode_downlaod_title">Подписка необходима для загрузки песни из-за защиты авторских прав.</string>
+    <string name="song_feemode_play_title">Подписка необходима для загрузки песни из-за защиты авторских прав.</string>
     <string name="song_name">Название</string>
     <string name="song_num">Файлов: %s</string>
     <string name="songs_count">%d Песен</string>
     <string name="songs_count2">%d</string>
-    
-    <string name="songs_feemode_downlaod_title">Membership is required to download certain songs due to copyright protection.</string>
-    <string name="sort_alphabet">Sort by name</string>
-    <string name="sort_time">Sort by date added</string>
-    <string name="standard_quality">Standard quality</string>
-
+    <string name="songs_feemode_downlaod_title">Подписка необходима для загрузки некоторых песен из-за защиты авторских прав.</string>
+    <string name="sort_alphabet">Сортировать по названию</string>
+    <string name="sort_time">Сортировать по времени добавления</string>
+    <string name="standard_quality">Обычное качество</string>
     <string name="start_download">Загрузить</string>
     <string name="start_timer_duration">%d мин.</string>
     <string name="state_downloading">Загрузка %s %%</string>
     <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="status_lrc">Текст песни в статус баре</string>
+    <string name="storage_path_name">Хранилище</string>
+    <string name="suffix">Формат</string>
+    <string name="tap_to_add_songs">Нажмите для добавления</string>
+    <string name="text_input_hint_text"></string>
+    <string name="title_albums">Альбомы</string>
+    <string name="title_artists">Исполнители</string>
+    <string name="title_songs">Песни</string>
+    <string name="top_btn_text">Отключить</string>
+    <string name="type_can_not_do">Этот файл это не поддерживает</string>
+    <string name="unknown_album">Неизвестный альбом</string>
+    <string name="unknown_artist">Неизвестный исполнитель</string>
+    <string name="unknown_song">Неизвестная песня</string>
 
-    <string name="status_lrc">Lyrics in status bar</string>
-    <string name="storage_path_name">Storage</string>
-    <string name="suffix">Format</string>
-    <string name="tap_to_add_songs">Tap to Add Songs</string>
-    <string name="text_input_hint_text">Type here</string>
-    <string name="title_albums">Albums</string>
-    <string name="title_artists">Artists</string>
-    <string name="title_songs">Songs</string>
-    <string name="top_btn_text">Disable</string>
-    <string name="type_can_not_do">This audio does not support for this operation</string>
-    <string name="unknown_album">Unknown album</string>
-    <string name="unknown_artist">Unknown artist</string>
-    <string name="unknown_song">Unknown song</string>
     <string name="update">Upgrade now</string>
     <string name="update_continue">Continue to upgrade</string>
     <string name="update_download_title">Upgrade to a membership to enjoy high-quality, lossless music</string>
     <string name="update_exit">exit</string>
     <string name="update_need_title">For normal use, complete the upgrade</string>
     <string name="update_senior_vip_title">Upgrade to a senior membership to enjoy lossless music</string>
-    <string name="update_vip_got_it">Got It</string>
+
+    <string name="update_vip_got_it">Понятно</string>
+
     <string name="update_vip_remind">Upgrade to a membership to enjoy a whole library of high-quality music</string>
     <string name="update_vip_title">Upgrade to a membership to enjoy high-quality music</string>
     <string name="update_vip_to_upgrade">Upgrade Now</string>
     <string name="upgrade_action">Upgrade</string>
-    <string name="valid_date_format">Membership Expires %s</string>
-    <string name="version_is_new">The current version is up to date</string>
-    <string name="version_upgrade">Check for updates</string>
+
+    <string name="valid_date_format">Подписка закончится %s</string>
+    <string name="version_is_new">Текущая версия- последняя</string>
+    <string name="version_upgrade">Проверить обновления</string>
+    
     <string name="vice_default_description">Delight your ears</string>
     <string name="vice_default_name">Meizu Music</string>
     <string name="vice_prepare_enter">Music Only</string>

@@ -3743,7 +3743,7 @@
     <style name="Widget.MeizuCommon.AnimSeekBar.Color.FireBrick" parent="@style/Widget.MeizuCommon.AnimSeekBar">
         <item name="android:indeterminateDrawable">@drawable/mz_seekbar_progress</item>
         <item name="android:progressDrawable">@drawable/mz_seekbar_progress</item>
-        <item name="android:thumb">@drawable/mz_step_seekbar_thumb</item>
+        <item name="android:thumb">@drawable/mz_seekbar_thumb</item>
         <item name="mcLargeCircleDrawble">@drawable/mz_slider_btn_hover_color_firebrick</item>
     </style>
     <style name="Widget.MeizuCommon.AuraSeekBar" parent="@style/Widget.Flyme.Light.SeekBar">
