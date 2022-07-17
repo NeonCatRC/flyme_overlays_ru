@@ -26,7 +26,6 @@
     
     <string name="activity_recognition_tag">Please open Physical activity permission</string>
 
-    <string name="ad_close_tip">Пропустить %d</string>
     <string name="add_pedo_shutcut">Добавить ярлык шагомера на главный экран?</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="app_name">Шагомер</string>
@@ -382,7 +381,7 @@
     <string name="personal_profile_title">Личный профиль</string>
     <string name="personal_push_notifications_title">Уведомления о шагах</string>
     <string name="personal_splash_ad_summary">Информирована о выбранном содержимом</string>
-    <string name="personal_splash_ad_title">Рекомендации по всплывающему окну</string>
+    <string name="personal_splash_ad_title">Рекомендации всплывающим окном</string>
     <string name="personal_sync_doing_text">Синхронизация данных</string>
     <string name="personal_sync_fail_text">Ошибка синхронизации данных</string>
     <string name="personal_sync_last_time_text">Данные обновлены: %s</string>

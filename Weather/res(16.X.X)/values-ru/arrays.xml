@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="a">
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="b">
+        <item>Копировать</item>
+        <item>Пожаловаться</item>
+    </string-array>
+    <string-array name="h">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>*
+    </string-array>
+    <string-array name="i">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="j">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="r">
+        <item>Вчера HH:mm</item>
+        <item>Позавчера HH:mm</item>
+        <item>M/d HH:mm</item>
+    </string-array>
+    <string-array name="s">
+        <item>%d ч. назад</item>
+    </string-array>
+    <string-array name="t">
+        <item>Только что видели. Нажмите для обновления</item>
+        <item>В прошлый раз остановились здесь. Нажмите для обновления</item>
+    </string-array>
+    <string-array name="u">
+        <item>%d м. назад</item>
+    </string-array>
+    <string-array name="v">
+        <item>Поделиться</item>
+        <item>Сохранить</item>
+    </string-array>
+    <string-array name="w">
+        <item>"Актуальные"</item>
+        <item>Обновлено %d статей</item>
+    </string-array>
+    <string-array name="x">
+        <item>"Актуальные"</item>
+        <item>Обновлено %d видео</item>
+    </string-array>
+
+    <string-array name="y">
+        <item>AD</item>
+        <item>Outdated content</item>
+        <item>Pornography</item>
+        <item>Clickbait</item>
+        <item>Not the fact</item>
+    </string-array>
+    <string-array name="z">
+        <item>Pornography/violence</item>
+        <item>Clickbait headline</item>
+        <item>Ad</item>
+        <item>Poor video quality</item>
+        <item>The cover is offensive</item>
+        <item>Infringement</item>
+    </string-array>
+    <string-array name="a0">
+        <item>AD</item>
+        <item>Outdated</item>
+        <item>Vulgar</item>
+        <item>Exaggerated title</item>
+        <item>Inconsistent</item>
+    </string-array>
+    <string-array name="a1">
+        <item>AD</item>
+        <item>Vulgar</item>
+        <item>The title is false</item>
+        <item>Infringement</item>
+        <item>Poor video quality</item>
+        <item>The cover is offensive</item>
+    </string-array>
+    <string-array name="a2">
+        <item>Sexy</item>
+        <item>Rumour</item>
+        <item>Smear Campaign</item>
+        <item>Politically Sensitive</item>
+        <item>Abuse Attack</item>
+        <item>Other</item>
+    </string-array>
+</resources>

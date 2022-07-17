@@ -58,7 +58,7 @@
     <string name="ar">Meizu Weather</string>
     <string name="as">Continue</string>
     <string name="at">current weather</string>
-    <string name="au">M月d日</string>
+    <string name="au">M d</string>
     <string name="av">Set</string>
     <string name="aw">Declarations and terms</string>
     <string name="ax">sans-serif</string>
@@ -76,9 +76,9 @@
     <string name="b9">Hot Cities</string>
     <string name="b_">Hot Attractions</string>
     <string name="ba">Information</string>
-    <string name="bb">打开</string>
-    <string name="bc">安装</string>
-    <string name="bd">正在安装</string>
+    <string name="bb">Open</string>
+    <string name="bc">Install</string>
+    <string name="bd">Installing</string>
     <string name="be">Post</string>
     <string name="bf">%1$s selected</string>
     <string name="bg">No network available. Please check your network settings.</string>

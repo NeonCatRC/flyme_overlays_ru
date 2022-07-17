@@ -243,10 +243,10 @@
     <string name="gt">Запись вызовов</string>
     <string name="gu">Отправка MMS</string>
     <string name="gv">Отправка SMS</string>
-    <string name="gf">Включение Bluetooth</string>
-    <string name="gg">Включение передачи данных</string>
-    <string name="gh">Включение Wi-Fi</string>
-    <string name="gi">Доступ к Wi-Fi</string>
+    <string name="gw">Включение Bluetooth</string>
+    <string name="gx">Включение передачи данных</string>
+    <string name="gy">Включение Wi-Fi</string>
+    <string name="gz">Доступ к Wi-Fi</string>
     <string name="h1">Выход</string>
     <string name="h2">Все ещё разрешено</string>
     <string name="h3">Отказать в разрешении</string>

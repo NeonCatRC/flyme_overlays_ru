@@ -441,9 +441,7 @@
     <string name="exceed_message_size_limitation">Максимальный размер вложения MMS - 298 Кб</string>
     <string name="exceed_message_size_limitation_cmcc">Размер вложения превышает допустимый лимит</string>
     <string name="exceed_message_size_limitation_cu">Максимальный размер вложения в MMS - 300 Кб</string>
-
-    <string name="exceed_message_size_limitation_rcs">Smart SMS attachments maximum only supports %s file</string>
-    
+    <string name="exceed_message_size_limitation_rcs">Smart SMS поддерживают максимум %s вложений</string>
     <string name="expire_on">Срок истекает: %s</string>
 
     <string name="expired_pickup_code">Retrieval code sms</string>
@@ -936,19 +934,16 @@
     <string name="rcs_banner_text_01">Бесплатно, если другой стороной является абонент China Mobile</string>
     <string name="rcs_banner_text_02">Поддерживаются голосовой чат и мультимедийные сообщения, такие как изображения и видео</string>
     <string name="rcs_banner_text_03">Дизайн информационной визуальной карты для повышения эффективности чтения</string>
-    
-    <string name="rcs_card_message">Card message</string>
-
-    <string name="rcs_chatbot_a2p_message">You receive a a2p message and click to see the details</string>
-    <string name="rcs_chatbot_audio_message">You receive an audio message and click to see the details</string>
-    <string name="rcs_chatbot_card_message">You receive a card message and click to see the details</string>
-    <string name="rcs_chatbot_file_message">You receive a file message and click to see the details</string>
-    <string name="rcs_chatbot_geo_message">You receive a geo message and click to see the details</string>
-    <string name="rcs_chatbot_image_message">You receive a image message and click to see the details</string>
-    <string name="rcs_chatbot_normal_message">You receive a message and click to see the details</string>
-    <string name="rcs_chatbot_vcard_message">You receive a vCard message and click to see the details</string>
-    <string name="rcs_chatbot_video_message">You receive a video message and click to see the details</string>
-    
+    <string name="rcs_card_message">Сообщение-карточка</string>
+    <string name="rcs_chatbot_a2p_message">Вы получили A2P-сообщение, нажмите для просмотра</string>
+    <string name="rcs_chatbot_audio_message">Вы получилиn сообщение с аудио-файлом, нажмите для просмотра</string>
+    <string name="rcs_chatbot_card_message">Вы получили сообщение-карточку, нажмите для просмотра</string>
+    <string name="rcs_chatbot_file_message">Вы получили сообщение с файлом, нажмите для просмотра</string>
+    <string name="rcs_chatbot_geo_message">Вы получили геометку, нажмите для просмотра</string>
+    <string name="rcs_chatbot_image_message">Вы получили сообщение с изображением, нажмите для просмотра</string>
+    <string name="rcs_chatbot_normal_message">Вы получили сообщение, нажмите для просмотра</string>
+    <string name="rcs_chatbot_vcard_message">Вы получили сообщение с vCard, нажмите для просмотра</string>
+    <string name="rcs_chatbot_video_message">Вы получили видео-сообщение, нажмите для просмотра</string>
     <string name="rcs_common_cancel">Отмена</string>
     <string name="rcs_common_confirm">ОК</string>
 
@@ -1167,8 +1162,7 @@
     <string name="servicefunction_type_qapp">Быстрое приложение</string>
     <string name="set">Настройки</string>
 -->
-    <string name="set_network">Set up the network</string>
-
+    <string name="set_network">Настройки сети</string>
     <string name="sim1">SIM 1</string>
     <string name="sim2">SIM 2</string>
     <string name="sim_close">Закрыть</string>
