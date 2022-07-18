@@ -27,7 +27,7 @@
 | AlphaMe | FULL | 9.2.2 | Aicy Engine |
 | AlwaysOnDisplay | FULL | 9.2.5 | AOD settings app |
 | Calculator | FULL | 9.0.17 | Calc app |
-| Calendar | FULL | 15.2.0 | Calendar app |
+| Calendar | FULL | 15.X.X | Calendar app |
 | Camera | FULL | 9.9.15 | Camera app |
 | CustomizeCenter | FULL n\t | N\A | Themes \ AOD settings app |
 | Dialer | FULL | 6.2.4 | Phone app |
@@ -42,7 +42,7 @@
 | MzSecurity | FULL n\t | | Build-in antivirus and cleaner |
 | NetAdmin | FULL n\t | 9.0.4 | Build-in network check and diagnostics |
 | NotePaper | FULL | 9.0.23 | Notepad app |
-| Pedometer | FULL (AD) | | Step counter |
+| Pedometer | FULL (AD) | 6.0.X | Step counter |
 | Picker | FULL | 3.0.8 | Aicy Touch main app |
 | SoundRecorder | FULL | 9.0.23 | Build-in recorder app |
 | SystemUIEx | FULL n\t | 8.0.2 | System app |
@@ -60,7 +60,7 @@
 | FlymeMusic | WIP | | Standart Flyme music app (Flyme 9.2) |
 | framework-res | WIP | | System framework |
 | GameCenter | WIP | | Flyme games app |
-| mCareNew | WIP | | Post-sales service |
+| mCareNew | WIP | 4.4.X-5.0.X | Post-sales service |
 | MMS | WIP (AD) | 9.1.6 | Standart Flyme SMS/MMS messager |
 | Music | Stop | | Standart Flyme music app |
 | MzShare | Stop | 4.1.19 | BT Share app |
