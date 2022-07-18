@@ -20,57 +20,57 @@
 - n\t- not tested on Flyme
 - AD- AD content translation not present
 
-| APP | STATE | MAX SUPP. VER | PURPOUSE |
+| APP | STATE | MAX TEST. VER | PURPOUSE |
 | ------ | ------ | ------ | ------ |
 |  | FULL |  |  |
-| AlarmClock | FULL | | Build-in clock app |
-| AlphaMe | FULL | | Aicy Engine |
-| AlwaysOnDisplay | FULL | | AOD settings app |
-| Calculator | FULL | | Calc app |
-| Calendar | FULL | | Calendar app |
-| Camera | FULL | | Camera app |
-| CustomizeCenter | FULL n\t | | Themes \ AOD settings app |
-| Dialer | FULL | | Phone app |
-| Email | FULL | | Standart Flyme e-mail client |
-| FileManager | FULL | | Standart Flyme file manager |
+| AlarmClock | FULL | 9.0.14 | Build-in clock app |
+| AlphaMe | FULL | 9.2.2 | Aicy Engine |
+| AlwaysOnDisplay | FULL | 9.2.5 | AOD settings app |
+| Calculator | FULL | 9.0.17 | Calc app |
+| Calendar | FULL | 15.2.0 | Calendar app |
+| Camera | FULL | 9.9.15 | Camera app |
+| CustomizeCenter | FULL n\t | N\A | Themes \ AOD settings app |
+| Dialer | FULL | 6.2.4 | Phone app |
+| Email | FULL | 9.0.19 | Standart Flyme e-mail client |
+| FileManager | FULL | 9.0.19 | Standart Flyme file manager |
 | FlymeSoundRecorder | FULL | | Build-in recorder app (Flyme 9.2) |
-| Gallery | FULL n\t | | Standart Flyme gallery app |
-| InCallUI | FULL n\t | | In-call interface for build-in dialer |
-| MusicFX | FULL n\t | | SquareSound |
-| MzAccount | FULL n\t | | Meizu account app |
-| MzBatteryManager | FULL n\t | | Battery manager |
+| Gallery | FULL n\t | 9.2.15 | Standart Flyme gallery app |
+| InCallUI | FULL n\t | 11.9.29 | In-call interface for build-in dialer |
+| MusicFX | FULL n\t | 5.0.0 | SquareSound |
+| MzAccount | FULL n\t | 9.1.6 | Meizu account app |
+| MzBatteryManager | FULL n\t | 9.0.6 | Battery manager |
 | MzSecurity | FULL n\t | | Build-in antivirus and cleaner |
-| NetAdmin | FULL n\t | | Build-in network check and diagnostics |
-| NotePaper | FULL | | Notepad app |
+| NetAdmin | FULL n\t | 9.0.4 | Build-in network check and diagnostics |
+| NotePaper | FULL | 9.0.23 | Notepad app |
 | Pedometer | FULL (AD) | | Step counter |
-| Picker | FULL | | Aicy Touch main app |
-| SoundRecorder | FULL | | Build-in recorder app |
-| SystemUIEx | FULL n\t | | System app |
-| TodoList | FULL | | Notes and to-do app |
-| ToolBox | FULL | | Flyme tools app |
+| Picker | FULL | 3.0.8 | Aicy Touch main app |
+| SoundRecorder | FULL | 9.0.23 | Build-in recorder app |
+| SystemUIEx | FULL n\t | 8.0.2 | System app |
+| TodoList | FULL | 9.0.18 | Notes and to-do app |
+| ToolBox | FULL | 9.0.16 | Flyme tools app |
 | Video | FULL n\t | 15.0.X | Standart Flyme video player |
 | Weather | FULL | 15.X.X | Weather app |
 |  | WIP/START/STOP |  |  |
 | AppCenter | WIP (AD) | | Flyme app center |
-| Assistant | WIP | | Aicy settings app |
+| Assistant | WIP | 4.2.5 | Aicy settings app |
 | Browser | Stop (AD) | | Flyme standart browser |
-| ConnectivitySettings | WIP | | Connect app |
+| ConnectivitySettings | WIP | 7.0.103 | Connect app |
 | DataMigration | Stop | | Data migration app |
-| FlymeLauncher | WIP | | Standart Flyme launcher |
+| FlymeLauncher | WIP | 9.0.0 | Standart Flyme launcher |
 | FlymeMusic | WIP | | Standart Flyme music app (Flyme 9.2) |
 | framework-res | WIP | | System framework |
 | GameCenter | WIP | | Flyme games app |
 | mCareNew | WIP | | Post-sales service |
-| MMS | WIP (AD) | | Standart Flyme SMS/MMS messager |
+| MMS | WIP (AD) | 9.1.6 | Standart Flyme SMS/MMS messager |
 | Music | Stop | | Standart Flyme music app |
-| MzShare | Stop | |  |
+| MzShare | Stop | 4.1.19 | BT Share app |
 | MzUpdate | WIP | | Meizu update center |
 | PermissionController | Stop | |  |
 | SDKStage | Stop | | System app |
 | Settings | WIP | | Settings app |
 | Suggestion | WIP | | Aicy suggestion app |
-| SystemUI | WIP | | System app |
-| SystemUITools | WIP | | System app |
+| SystemUI | WIP | 9.0.2 | System app |
+| SystemUITools | WIP | 9.3.7 | System app |
 | VoiceAssistant | WIP | | Aicy voice app |
 |  | N/A |  |  |
 | SystemWallpaper | | | |
