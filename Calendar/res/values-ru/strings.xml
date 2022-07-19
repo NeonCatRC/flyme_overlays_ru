@@ -445,20 +445,16 @@
     <string name="mz_permission_i_know">ОК</string>
     <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
     <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
-    
-    <string name="mz_permission_inform_f9_no_internet">This application needs to apply for the following necessary permissions</string>
-    <string name="mz_permission_inform_f9_only_internet">This application needs to be connected to the network</string>
-    <string name="mz_permission_inform_secondary_confirmation_summary">To provide basic functions, this application needs to apply for the following necessary permissions:</string>
-    
+    <string name="mz_permission_inform_f9_no_internet">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9_only_internet">Для предоставления основных услуг этому приложению необходимо подключение к сети</string>
+    <string name="mz_permission_inform_secondary_confirmation_summary">Для предоставления основных услуг этому приложению необходимы следующие разрешения:</string>
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешения на %2$s</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешения</string>
     <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
     <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
-    
-    <string name="mz_permission_policy_description_noly_internet">To ensure the use of complete functions</string>
-    <string name="mz_permission_policy_description_update">In order to fully protect your rights, we have updated our privacy policy, which can be seen in detail %1$s</string>
-    <string name="mz_permission_secondary_confirmation_title">Necessary authority authorization</string>
-    
+    <string name="mz_permission_policy_description_noly_internet">Для пользования перечисленными выше функциями и службами</string>
+    <string name="mz_permission_policy_description_update">Для того, чтобы полностью защитить ваши права, мы обновили нашу политику приватности, которую можно увидеть %1$s</string>
+    <string name="mz_permission_secondary_confirmation_title">Необходимые разрешения и полномочия</string>
     <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
     <string name="mz_permission_title_terms">Разрешения и заявления</string>
     <string name="mz_permission_use_info">Инструкции по использованию</string>
@@ -605,7 +601,7 @@
     <string name="open_account_permission_message">Include read app account</string>
     <string name="open_account_permission_title">"Allow Calendar Access your address book?
 "</string>
-    <string name="open_contacts_permission_confirm">Open</string>
+    <string name="open_contacts_permission_confirm">Открыть</string>
     <string name="open_contacts_permission_message">Include read your contacts</string>
     <string name="open_contacts_permission_title">"Allow Calendar Access your address book?
 "</string>
@@ -619,11 +615,9 @@
     <string name="pref_header_extra_info">Дополнительная информация</string>
     <string name="pref_header_visible_calendar">ПОКАЗАТЬ КАЛЕНДАРИ</string>
     <string name="pref_notification_summary">Получайте уведомления о подарках, популярных мероприятиях и т. д.</string>
-    
-    <string name="pref_personalize_recommendation">Personalized Recommendation</string>
-    <string name="pref_personalize_recommendation_ad">Personalized Advertising</string>
-    <string name="pref_personalize_recommendation_ad_summary">Recommendations for ad content based on your preferences</string>
-    
+    <string name="pref_personalize_recommendation">Персональные рекомендации</string>
+    <string name="pref_personalize_recommendation_ad">Реклама на основе предпочтений</string>
+    <string name="pref_personalize_recommendation_ad_summary">Рекомендация рекламного контента на основе ваших предпочтений</string>
     <string name="pref_privacy_policy">Политика приватности</string>
     <string name="pref_summary_hide_declined">Исключить из календаря отклонённые события</string>
     <string name="pref_summary_hide_past">Исключить из календаря события до сегодняшнего дня</string>

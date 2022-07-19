@@ -552,7 +552,7 @@
     <string name="preference_freeback_text">Обратная связь</string>
     <string name="preference_instruction_text">ЧАВО</string>
 
-    <string name="privacy_policy">To provide normal functions and services, you are required to agree with &lt;a href=mzupdate://com.meizu.flyme.update/web?targetUrl=file:///android_asset/privacy_policy.html> Meizu Privacy Policy &lt;/a>(a child who has not reached the age of fourteen must be approved by the guardian)</string>
+    <string name="privacy_policy">To provide normal functions and services, you are required to agree with &lt;a href=http://upush.download.meizu.com/upush/app/emsConfig_20210805163002/mzupdate_privacy_policy_v1.html> Meizu Privacy Policy &lt;/a>(a child who has not reached the age of fourteen must be approved by the guardian)</string>
     <string name="privacy_policy_agree">Agree</string>
     <string name="privacy_policy_refuse">Exit</string>
     <string name="privacy_policy_title">Statement and Terms</string>
