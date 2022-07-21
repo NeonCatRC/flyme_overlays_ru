@@ -258,7 +258,7 @@
     <string name="harmful_for_phone">Опасно для телефона или данных</string>
     <string name="has_been_commented">Оценено</string>
     <string name="has_recover_to_system_theme">Было возвращено к системной теме</string>
-    <string name="historical_theme_apply_btn_text">Вернуться к  </string>
+    <string name="historical_theme_apply_btn_text">Вернуться в  </string>
     <string name="hot_search_label">Частые запросы</string>
     <string name="i_want_to_try">Попробовать</string>
     <string name="illegal_pay_request">Неправильный запрос платежа</string>

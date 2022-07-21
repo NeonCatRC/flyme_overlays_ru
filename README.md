@@ -39,7 +39,7 @@
 | MusicFX | FULL n\t | 5.0.0 | SquareSound |
 | MzAccount | FULL n\t | 9.1.6 | Meizu account app |
 | MzBatteryManager | FULL n\t | 9.0.6 | Battery manager |
-| MzSecurity | FULL n\t | | Build-in antivirus and cleaner |
+| MzSecurity | FULL n\t | 9.2.20 | Build-in antivirus and cleaner |
 | NetAdmin | FULL n\t | 9.0.4 | Build-in network check and diagnostics |
 | NotePaper | FULL | 9.0.23 | Notepad app |
 | Pedometer | FULL (AD) | 6.0.X | Step counter |
@@ -64,7 +64,8 @@
 | MMS | WIP (AD) | 9.1.6 | Standart Flyme SMS/MMS messager |
 | Music | Stop | | Standart Flyme music app |
 | MzShare | Stop | 4.1.19 | BT Share app |
-| MzUpdate | WIP | | Meizu update center |
+| MzUpdate | WIP | 9.2.8 | Meizu update center |
+| PackageInstaller | WIP | 8.8.0 | Build-in meizu package installer |
 | PermissionController | Stop | |  |
 | SDKStage | Stop | | System app |
 | Settings | WIP | | Settings app |

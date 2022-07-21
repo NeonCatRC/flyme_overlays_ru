@@ -89,43 +89,42 @@
         <item>"Актуальные"</item>
         <item>Обновлено %d видео</item>
     </string-array>
-
     <string-array name="y">
-        <item>AD</item>
-        <item>Outdated content</item>
-        <item>Pornography</item>
-        <item>Clickbait</item>
-        <item>Not the fact</item>
+        <item>Реклама</item>
+        <item>Не актуально</item>
+        <item>Порнография</item>
+        <item>Кликбейт</item>
+        <item>Не правдивое</item>
     </string-array>
     <string-array name="z">
-        <item>Pornography/violence</item>
-        <item>Clickbait headline</item>
-        <item>Ad</item>
-        <item>Poor video quality</item>
-        <item>The cover is offensive</item>
-        <item>Infringement</item>
+        <item>Порнография</item>
+        <item>Кликбейт</item>
+        <item>Реклама</item>
+        <item>Плохое качество видео</item>
+        <item>Оскорбительная обложка</item>
+        <item>Нарушение</item>
     </string-array>
     <string-array name="a0">
-        <item>AD</item>
-        <item>Outdated</item>
-        <item>Vulgar</item>
-        <item>Exaggerated title</item>
-        <item>Inconsistent</item>
+        <item>Реклама</item>
+        <item>Не актуально</item>
+        <item>Порнография</item>
+        <item>Преувеличение</item>
+        <item>Не соответствует</item>
     </string-array>
     <string-array name="a1">
-        <item>AD</item>
-        <item>Vulgar</item>
-        <item>The title is false</item>
-        <item>Infringement</item>
-        <item>Poor video quality</item>
-        <item>The cover is offensive</item>
+        <item>Реклама</item>
+        <item>Порнография</item>
+        <item>Ложный заголовок</item>
+        <item>Нарушение</item>
+        <item>Плохое качество видео</item>
+        <item>Оскорбительная обложка</item>
     </string-array>
     <string-array name="a2">
-        <item>Sexy</item>
-        <item>Rumour</item>
-        <item>Smear Campaign</item>
-        <item>Politically Sensitive</item>
-        <item>Abuse Attack</item>
-        <item>Other</item>
+        <item>Порнография</item>
+        <item>Слух</item>
+        <item>Клевета</item>
+        <item>Политика</item>
+        <item>Жестокое обращение</item>
+        <item>Другое</item>
     </string-array>
 </resources>

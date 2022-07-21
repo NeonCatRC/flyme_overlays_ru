@@ -483,7 +483,7 @@
     <string name="m9">Change</string>
     <string name="m_">Sure</string>
     <string name="ma">Not interested</string>
-    <string name="mb">I don't like this content</string>
+    <string name="mb">I dont like this content</string>
     <string name="mc">Network exception, click to retry</string>
     <string name="md">No more</string>
     <string name="me">Submit</string>
