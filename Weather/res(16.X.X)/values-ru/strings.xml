@@ -179,8 +179,8 @@
 
     <string name="e9">No network available. Please check your network settings.</string>
     <string name="e_">Load failure</string>
-    <string name="ea">Loading</string>
-    <string name="eb">Loading</string>
+    <string name="ea">Загрузка</string>
+    <string name="eb">Загрузка</string>
     <string name="ec">Local information</string>
     <string name="ed">Location failed, please turn on location switch and network connection</string>
     <string name="ee">Locating, please wait</string>
@@ -314,9 +314,7 @@
     <string name="ie">Рабочие дни</string>
     <string name="if">ОК</string>
     <string name="ig">Качество воздуха</string>
-
-    <string name="ih">Manage cities</string>
-
+    <string name="ih">Выбор города</string>
     <string name="ii">Больше игр</string>
     <string name="ij">Ещё</string>
     <string name="ik">Фото городов</string>
@@ -349,21 +347,17 @@
     <string name="j_">Запретить</string>
     <string name="ja">ОК</string>
     <string name="jb">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
-
-    <string name="jc">This application needs to connect to the network and apply for the following necessary permissions</string>
-    <string name="jd">This application needs to apply for the following necessary permissions</string>
-    <string name="je">This application needs to be connected to the network</string>
-    <string name="jf">To provide basic functions, this application needs to apply for the following necessary permissions:</string>
-    
+    <string name="jc">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="jd">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="je">Для предоставления основных услуг этому приложению необходимо подключение к сети</string>
+    <string name="jf">Для предоставления основных услуг этому приложению необходимы следующие разрешения:</string>
     <string name="jg">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="jh">%1$s требует %2$s %3$d разрешен.</string>
     <string name="ji">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
-    
-    <string name="jj">To ensure the use of complete functions, please read and agree with %1$s (a child who has not reached the age of fourteen must be approved by the guardian)</string>
-    <string name="jk">To ensure the use of complete functions</string>
-    <string name="jl">In order to fully protect your rights, we have updated our privacy policy, which can be seen in detail %1$s</string>
-    <string name="jm">Necessary authority authorization</string>
-
+    <string name="jj">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="jk">Для пользования перечисленными выше функциями и службами</string>
+    <string name="jl">Для того, чтобы полностью защитить ваши права, мы обновили нашу политику приватности, которую можно увидеть %1$s</string>
+    <string name="jm">Необходимые разрешения и полномочия</string>
     <string name="jn">" Запрос следующих разрешений"</string>
     <string name="jo">Разрешения и заявления</string>
     <string name="jp">Инструкции по использованию</string>
@@ -478,7 +472,7 @@
     <string name="mm">Wonderful Video</string>
     <string name="mn">View more</string>
     <string name="mo">Short Video</string>
-    <string name="mp">Loading</string>
+    <string name="mp">Загрузка</string>
     <string name="mq">More hotspots</string>
     <string name="mr">Network error, please try again later</string>
     <string name="ms">%s views</string>
@@ -554,8 +548,8 @@ Focus on good authors and get quality content in time"</string>
     <string name="ov">Just now</string>
     <string name="ox">Partially unhealthy</string>
     <string name="oy">No more content</string>
-    <string name="oz">Loading</string>
-    <string name="p0">Loading</string>
+    <string name="oz">Загрузка</string>
+    <string name="p0">Загрузка</string>
     <string name="p1">Processing</string>
     <string name="p2">Cancel</string>
     <string name="p3">Change city</string>
@@ -647,8 +641,10 @@ Focus on good authors and get quality content in time"</string>
     <string name="ri">No network connection, please check the network settings</string>
     <string name="rj">Update now</string>
     <string name="rk">No weather data</string>
-    <string name="rl">No data</string>
-    <string name="rm">N/A</string>
+
+    <string name="rl">Нет данных</string>
+    <string name="rm">Н/Д</string>
+
     <string name="rn">No More Data</string>
     <string name="ro">No Net</string>
     <string name="rp">No network connection, please check the network settings</string>
@@ -659,18 +655,22 @@ Focus on good authors and get quality content in time"</string>
     <string name="ru">No Results Found</string>
     <string name="rv">Turn on location notification</string>
     <string name="rw">Warning notification</string>
-    <string name="rx">Nowcasting</string>
-    <string name="ry">You are going too fast, Try again</string>
-    <string name="rz">Other cities</string>
-    <string name="s0">Toggle password visibility</string>
+
+    <string name="rx">Текущая погода</string>
+    <string name="ry">Вы листаете слишком быстро, попробуйте снова</string>
+    <string name="rz">Другие города</string>
+    <string name="s0">Переключить видимость пароля</string>
+
     <string name="s5">"Access this device's location"</string>
     <string name="s6">Get weather information</string>
     <string name="s7">This application needs to apply for the following necessary permissions</string>
     <string name="s8">Weather information of surrounding scenic spots</string>
     <string name="s9">Informed with selected contents</string>
     <string name="s_">Show unusual weather</string>
-    <string name="sa">Nearby scenic</string>
-    <string name="sb">Allow splash screen ad</string>
+
+    <string name="sa">Близлежащий живописный вид</string>
+    <string name="sb">Показывать всплывающую рекламу</string>
+
     <string name="sc">Unusual weather</string>
 
     <string name="sd">Отпустить для обновления</string>
@@ -691,7 +691,7 @@ Focus on good authors and get quality content in time"</string>
     <string name="ss">Recommendation service</string>
     <string name="st">Related recommendation</string>
     <string name="su">Please Refresh</string>
-    <string name="sv">Loading</string>
+    <string name="sv">Загрузка</string>
     <string name="sw">Related info</string>
     <string name="sx">Release to refresh</string>
     <string name="sy">Delete city</string>
@@ -705,18 +705,20 @@ Focus on good authors and get quality content in time"</string>
     <string name="t4">Server exception, please try again later</string>
     <string name="t5">Server exception, click reload</string>
     <string name="t6">Service is being upgraded, please try again later</string>
-    <string name="t7">Set up the network</string>
-    <string name="t8">Settings</string>
-    <string name="t9">Content recommendations</string>
-    <string name="t_">Privacy Policy</string>
-    <string name="ta">Personalized Recommendation</string>
-    <string name="tb">Show personalized recommendation</string>
-    <string name="tc">Share to</string>
-    <string name="td">City</string>
-    <string name="te">Creating a mood for sharing, please wait</string>
-    <string name="tf">Now%1$s20%2$s40%3$s60 min</string>
-    <string name="tg">Your weather advisor</string>
 
+    <string name="t7">Настроить сеть</string>
+    <string name="t8">Настройки</string>
+    <string name="t9">Рекомендация контента</string>
+    <string name="t_">Политика конфиденциальности</string>
+    <string name="ta">Персональные рекомендации</string>
+    <string name="tb">Показывать персональные рекомендации</string>
+    <string name="tc">Поделиться с</string>
+    <string name="td">Город</string>
+
+    <string name="te">Creating a mood for sharing, please wait</string>
+
+    <string name="tf">Сейчас%1$s20%2$s40%3$s60 мин.</string>
+    <string name="tg">Ваш прогноз погоды</string>
     <string name="th">Погода</string>
     <string name="ti">"Срок действия сертификата безопасности сайта истек или недоступен."</string>
     <string name="tj">999+</string>
@@ -736,7 +738,7 @@ Focus on good authors and get quality content in time"</string>
 
     <string name="tx">Uninstalling this app might cause other system apps to malfunction. Are you sure you want to continue?</string>
     <string name="ty">The comment area is temporarily closed</string>
-    <string name="tz">Loading</string>
+    <string name="tz">Загрузка</string>
     <string name="u0">No Content</string>
     <string name="u1">No Content</string>
     <string name="u2">Add comment</string>
@@ -775,7 +777,7 @@ Focus on good authors and get quality content in time"</string>
     <string name="ux">Tap to play via mobile network</string>
     <string name="uy">Using the mobile network to download  (%s)</string>
     <string name="uz">Fail. Click to exit</string>
-    <string name="v0">Loading</string>
+    <string name="v0">Загрузка</string>
     <string name="v1">Tap to unlock</string>
     <string name="v2">Screen is locked</string>
     <string name="v4">%s Warning</string>

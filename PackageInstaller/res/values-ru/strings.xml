@@ -109,11 +109,13 @@ All your previous user data will be saved."</string>
     <string name="dlg_sys_app_replacement_statement">"This is a system app.
 
 All your previous user data will be saved."</string>
-    <string name="done">Done</string>
-    <string name="download_inqueue">Added</string>
-    <string name="download_recommendation">Recommendation</string>
-    <string name="exit">drop out</string>
-    <string name="external_sources_settings">Settings</string>
+
+    <string name="done">Готово</string>
+    <string name="download_inqueue">Добавлено</string>
+    <string name="download_recommendation">Рекомендации</string>
+    <string name="exit">Не устанавливать</string>
+    <string name="external_sources_settings">Настройки</string>
+    
     <string name="flyme_account">Flyme account: %1$s@flyme.cn</string>
     <string name="flyme_install_failed_blocked">: Installation was interrupted</string>
     <string name="flyme_install_failed_invalid_apk">: Installation package is invalid or incompatible</string>

@@ -138,7 +138,7 @@
     <string name="declaration_flyme_account_services">Войдите в аккаунт Flyme для пользования сервисами</string>
     <string name="defaultTipForBindPhone">Привязать телефон</string>
     <string name="defaultTipForSecuritQuestion">Контрольные вопросы</string>
-    <string name="default_simple_code">+7</string>
+    <string name="default_simple_code">+86</string>
     <string name="desc_ali_sync">Объединить личные данные на серверах Flyme и YunOS</string>
     <string name="desc_find_phone">Если эта функция включена, пользователь может искать или заблокировать телефон и делать снимки, если телефон утерян</string>
     <string name="desc_notification_question">Установить контрольные вопросы</string>
