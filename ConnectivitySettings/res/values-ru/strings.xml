@@ -1104,7 +1104,7 @@
     <string name="terms_title">Условия использования</string>
     <string name="tether_data_usage_customize_notice">Введите действительное число</string>
     <string name="tether_data_usage_per_device">%1$s использовано</string>
-    <string name="tether_enabler_disabled">Можете раздать Wi-fi &amp; мобильную сеть</string>
+    <string name="tether_enabler_disabled">Раздача сети для ближайших устройств</string>
     <string name="tether_manage_device_summary_none">Нет подключённых устройств</string>
     <string name="tether_manage_device_title">Управление подключёнными устройствами</string>
     <string name="tether_method_others">Другие способы передачи</string>
@@ -1268,7 +1268,7 @@
     <string name="vpn_settings_not_available">Этот пользователь не может изменять настройки VPN</string>
     <string name="vpn_settings_title">VPN</string>
     <string name="vpn_statusbar_checkbox_text">Переключатель на панели уведомлений</string>
-    <string name="vpn_tether_checkbox_text">Раздать вместе с VPN</string>
+    <string name="vpn_tether_checkbox_text">Раздача с VPN</string>
     <string name="vpn_title">Сеть VPN</string>
     <string name="vpn_turn_on">Включить</string>
     <string name="vpn_type">Тип</string>
@@ -1362,7 +1362,7 @@
     <string name="wifi_frequency">Частота</string>
     <string name="wifi_gateway">Шлюз</string>
     <string name="wifi_gprs_selector_title">Выбрать сеть</string>
-    <string name="wifi_hotspot_network_sharing">Настройка сети</string>
+    <string name="wifi_hotspot_network_sharing">Точка доступа</string>
     <string name="wifi_hotspot_sharing">Точка доступа</string>
     <string name="wifi_identity_password_error_hint">Неверное имя пользователя или пароль</string>
     <string name="wifi_in_airplane_mode">Режим \"В самолёте\"</string>
@@ -1480,7 +1480,7 @@
     <string name="wifi_suspend_optimizations_summary">Экономить заряд батареи, когда используется WLAN</string>
     <string name="wifi_tether">Точка доступа</string>
     <string name="wifi_tether_checkbox_text">Общий доступ к мобильной сети</string>
-    <string name="wifi_tether_configure_ap_text">Точка доступа WLAN</string>
+    <string name="wifi_tether_configure_ap_text">Настройки точки доступа</string>
     <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
     <string name="wifi_tether_configure_subtext">%1$s %2$s точка доступа WLAN</string>
     <string name="wifi_tether_disconnect_btn_txt">Отключить</string>
@@ -1491,7 +1491,7 @@
     <string name="wifi_tether_starting">Включение точки доступа…</string>
     <string name="wifi_tether_status_disabled">"\"'Точка доступа' отключена\""</string>
     <string name="wifi_tether_stopping">Выключение точки доступа…</string>
-    <string name="wifi_tether_subtext">%1$s шифрование</string>
+    <string name="wifi_tether_subtext">Шифрование %1$s</string>
     <string name="wifi_tether_wps_error">Ошибка</string>
     <string name="wifi_tether_wps_in_progress">Настройка…</string>
     <string name="wifi_unchanged">Новый пароль</string>

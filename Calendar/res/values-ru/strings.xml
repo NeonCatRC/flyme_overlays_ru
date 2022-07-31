@@ -597,15 +597,13 @@
     <string name="not_begin">Не начался</string>
     <string name="notification_channel_name">Напоминание о расписании</string>
     <string name="on_the_march">Идёт сейчас</string>
-
-    <string name="open_account_permission_message">Include read app account</string>
-    <string name="open_account_permission_title">"Allow Calendar Access your address book?
+    <string name="open_account_permission_message">Включая чтение ваших аккаунтов</string>
+    <string name="open_account_permission_title">"Разрешить Календарю доступ к вашим контактам?
 "</string>
     <string name="open_contacts_permission_confirm">Открыть</string>
-    <string name="open_contacts_permission_message">Include read your contacts</string>
-    <string name="open_contacts_permission_title">"Allow Calendar Access your address book?
+    <string name="open_contacts_permission_message">Включая чтение ваших контактов</string>
+    <string name="open_contacts_permission_title">"Разрешить Календарю доступ к вашим контактам?
 "</string>
-
     <string name="open_custom_event_label">Ещё</string>
     <string name="open_insert_event_success">Событие добавлено</string>
     <string name="open_update_event_success">Событие обновлено</string>
@@ -759,7 +757,7 @@
     <string name="weekly_with_days">Еженедельно (каждые %s)</string>
     <string name="weibo_app">Weibo</string>
     <string name="widget_add_countdown">Обратный отсчёт</string>
-    <string name="widget_agenda_label">Расписания</string>
+    <string name="widget_agenda_label">Расписание</string>
     <string name="widget_click_add_countdown">Нажмите чтобы добавить отсчёт</string>
     <string name="widget_count_down_label">Обратный отсчет</string>
     <string name="widget_date_format">М/Д Е</string>

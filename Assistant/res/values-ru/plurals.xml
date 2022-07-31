@@ -17,9 +17,9 @@
         <item quantity="zero">HH:mm</item>
     </plurals>
     <plurals name="news_lite_hour_ago">
-        <item quantity="other">%d h ago</item>
+        <item quantity="other">%dч. назад</item>
     </plurals>
     <plurals name="news_lite_minute_ago">
-        <item quantity="other">%d min ago</item>
+        <item quantity="other">%dмин. назад</item>
     </plurals>
 </resources>

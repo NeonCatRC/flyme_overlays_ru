@@ -490,9 +490,9 @@
     <string name="path">Путь к файлу</string>
 
     <string name="permission_info">Music needs to access the internet to provide a better user experience</string>
-    <string name="permission_internet_sub_title">Ringtone acquisition and version update</string>
-    <string name="play_music_failed">Oops, playback failed</string>
-    
+
+    <string name="permission_internet_sub_title">Приобретение рингтонов и получение обновлений</string>
+    <string name="play_music_failed">Упс, неудалось воспроизвести</string>
     <string name="playing_action_to_album">Альбом</string>
 
     <string name="playing_action_to_comment">View Comment</string>

@@ -44,9 +44,11 @@
     <string name="ar">%s people loved</string>
     <string name="as">Please open the cell phone and turn on or close the comment notice, otherwise it can not take effect</string>
     <string name="at">Network disconnected</string>
-    <string name="au">Network exception, please try again later</string>
+    <string name="au">Network exception, попробуйте позже</string>
     <string name="av">No people loved</string>
-    <string name="aw">No network connection</string>
+
+    <string name="aw">Нет подключения к сети</string>
+
     <string name="ax">A notice of praise or reply</string>
     <string name="ay">The comment notification can be opened after logging in</string>
     <string name="az">Commentary notice</string>
@@ -57,14 +59,14 @@
     <string name="b4">%s people loved</string>
     <string name="b5">Reply Detail</string>
     <string name="b6">See All Comments</string>
-    <string name="b7">All Comment</string>
-    <string name="b8">All Reply</string>
-    <string name="b9">Hot Comment</string>
-    <string name="b_">Hot Reply</string>
-    <string name="ba">%s Reply</string>
-    <string name="bb">%s people loved></string>
-    <string name="bc">See All %s Comments</string>
 
+    <string name="b7">Все комментарии</string>
+    <string name="b8">Все ответы</string>
+    <string name="b9">Лучший комментарий</string>
+    <string name="b_">Лучший ответ</string>
+    <string name="ba">Ответить %s</string>
+    <string name="bb">%s чел. понравилось></string>
+    <string name="bc">Показать все %s комментариев</string>
     <string name="bd">Продолжить</string>
     <string name="be">Неверный параметр</string>
     <string name="bf">Текущая погода</string>
@@ -78,7 +80,7 @@
     <string name="bn">This is a title</string>
     <string name="bp">delete button</string>
     <string name="bq">Network Settings</string>
-    <string name="br">No network connection. Please check your network settings</string>
+    <string name="br">Нет подключения к сети. Please check your network settings</string>
     <string name="bs">Set</string>
     <string name="bt">Precautions</string>
 
@@ -114,27 +116,30 @@
     <string name="cn">Система объемного звука 5.1</string>
     <string name="co">Система объемного звука 7.1</string>
     <string name="cp">Неизвестный трек</string>
+    <string name="cq">Ещё</string>
+    <string name="cr">Обратная связь</string>
+    <string name="cs">Проверьте настройки сети или попробуйте позже</string>
+    <string name="ct">ОК</string>
 
-    <string name="cq">More</string>
-    <string name="cr">Feedback</string>
-    <string name="cs">Please check your network settings or try again later</string>
-    <string name="ct">OK</string>
     <string name="cu">Feedback Failed</string>
     <string name="cv">Feedback can be given again in %d minutes</string>
     <string name="cw">Please open GPS to get weather information</string>
     <string name="cx">Bad weather? Please tell us the current weather to help us improve better</string>
     <string name="cy">Feedbacking</string>
-    <string name="cz">sans-serif-normal</string>
     <string name="d0">40 days forecast</string>
-    <string name="d1">Rain</string>
-    <string name="d2">Temperature Drop</string>
-    <string name="d3">Temperature Rise</string>
+
+    <string name="d1">Дождь</string>
+    <string name="d2">Похолодание</string>
+    <string name="d3">Потепление</string>
+
     <string name="d4">40 day forecast</string>
     <string name="d5">15 days forecast</string>
-    <string name="d6">Next 15 days</string>
+
+    <string name="d6">След. 15 дней</string>
+
     <string name="d7">Next days</string>
 
-   <string name="d8">Ошибка авторизации, повторите попытку позже.</string>
+    <string name="d8">Ошибка авторизации, повторите попытку позже.</string>
     <string name="d9">Отменено пользователем</string>
     <string name="d_">Ошибка авторизации, проверьте настройки сети или системное время и повторите попытку.</string>
 
@@ -202,8 +207,8 @@
     <string name="eu">Please open location permission.</string>
     <string name="ev">Open</string>
     <string name="ew">Major Pollutants</string>
-    <string name="ex">Warnings</string>
 
+    <string name="ex">Предупреждения</string>
     <string name="ey">Погодная карта</string>
     <string name="ez">Настройки</string>
     <string name="f0">Разрешить</string>
@@ -325,11 +330,9 @@
     <string name="ip">Выбрано %d</string>
     <string name="iq">ОК</string>
     <string name="ir">Разрешать всегда</string>
-
-    <string name="it">Comment</string>
-    <string name="iu">This is end</string>
-    <string name="iv">Top is hot comment</string>
-
+    <string name="it">Комментировать</string>
+    <string name="iu">Конец ленты</string>
+    <string name="iv">Лучший комментарий</string>
     <string name="iw">д.</string>
     <string name="ix">ч.</string>
     <string name="iy">м.</string>
@@ -447,15 +450,15 @@
     <string name="lz" formatted="false">Вышла %s %s</string>
     <string name="m0">Пожалуйста, подождите</string>
     <string name="m1">Напомнить позже</string>
+    <string name="m2">Национальное качество воздуха</string>
+    <string name="m3">Ошибка сети, попробуйте позже</string>
+    <string name="m4">Ошибка загрузки, нажмите для загрузки</string>
+    <string name="m5">Ошибка сети, попробуйте позже</string>
+    <string name="m6">Нет подключения к сети, проверьте настройки сети</string>
+    <string name="m7">Нажмите ещё раз для выхода</string>
+    <string name="m8">Отмена</string>
+    <string name="m9">Поменять</string>
 
-    <string name="m2">National air quality</string>
-    <string name="m3">Network exception, please try again later</string>
-    <string name="m4">Load exception, click reload</string>
-    <string name="m5">Network error, please try again later</string>
-    <string name="m6">No network connection, please check network settings</string>
-    <string name="m7">Press again to exit the news</string>
-    <string name="m8">Cancel</string>
-    <string name="m9">Change</string>
     <string name="m_">Sure</string>
     <string name="ma">Not interested</string>
     <string name="mb">I dont like this content</string>
@@ -474,8 +477,10 @@
     <string name="mo">Short Video</string>
     <string name="mp">Загрузка</string>
     <string name="mq">More hotspots</string>
-    <string name="mr">Network error, please try again later</string>
-    <string name="ms">%s views</string>
+
+    <string name="mr">Ошибка сети, попробуйте позже</string>
+    <string name="ms">%s просмотров</string>
+
     <string name="mt">Similar content recommendations will be reduced</string>
     <string name="mu">Report spam</string>
     <string name="mv">Vulgar content, exaggerated title, etc.</string>
@@ -495,8 +500,10 @@
     <string name="na">Special model</string>
     <string name="nb">Manage channel</string>
     <string name="nc">Remove %s channel</string>
-    <string name="nd">No network connection. Please check your network settings</string>
-    <string name="ne">No network connection. Please check your network settings.</string>
+
+    <string name="nd">Нет подключения к сети. Please check your network settings</string>
+    <string name="ne">Нет подключения к сети. Please check your network settings.</string>
+
     <string name="nf">Please check the network</string>
     <string name="ng">Comment unable</string>
     <string name="nh">Favorite</string>
@@ -569,11 +576,15 @@ Focus on good authors and get quality content in time"</string>
     <string name="pg">Unhealthy</string>
     <string name="ph">more</string>
     <string name="pi">My channels</string>
-    <string name="pj">The network is abnormal, please try again later</string>
+
+    <string name="pj">Сеть недоступна, попробуйте позже</string>
+
     <string name="pk">Get the latest></string>
     <string name="pl">Selected recommendation</string>
     <string name="pm">No contents. Explore other channels</string>
-    <string name="pn">No network connection</string>
+
+    <string name="pn">Нет подключения к сети</string>
+
     <string name="po">Notice</string>
     <string name="pp">pause</string>
     <string name="pq">play</string>
@@ -585,12 +596,14 @@ Focus on good authors and get quality content in time"</string>
     <string name="pw">Like</string>
     <string name="px">Replay</string>
     <string name="py">Retry</string>
-    <string name="pz">Network error. Try later</string>
+
+    <string name="pz">Ошибка сети. Попробуйте позже</string>
     <string name="q0">@string/n8</string>
-    <string name="q1">No network connection. Please check your network settings</string>
-    <string name="q2">Share</string>
-    <string name="q3">Like %s times</string>
-    <string name="q4">%s views</string>
+    <string name="q1">Нет подключения к сети. Проверьте настройки сети</string>
+    <string name="q2">Поделиться</string>
+    <string name="q3">Понравилось %s раз</string>
+    <string name="q4">%s просмотров</string>
+
     <string name="q5">Recommend</string>
     <string name="q9">Similar content will be reduced</string>
     <string name="q_">Reload</string>
@@ -638,24 +651,22 @@ Focus on good authors and get quality content in time"</string>
     <string name="re">%d s skip ad</string>
     <string name="rg">%s plays</string>
     <string name="rh">Slide up to load</string>
-    <string name="ri">No network connection, please check the network settings</string>
-    <string name="rj">Update now</string>
-    <string name="rk">No weather data</string>
 
+    <string name="ri">Нет подключения к сети, проверьте настройки</string>
+    <string name="rj">Обновить сейчас</string>
+    <string name="rk">Нет данных о погоде</string>
     <string name="rl">Нет данных</string>
     <string name="rm">Н/Д</string>
-
-    <string name="rn">No More Data</string>
-    <string name="ro">No Net</string>
-    <string name="rp">No network connection, please check the network settings</string>
-    <string name="rq">No network connection, please check the network settings</string>
-    <string name="rr">Setting up network</string>
-    <string name="rs">No network connection, please check the network settings</string>
-    <string name="rt">No one has ever like it</string>
-    <string name="ru">No Results Found</string>
-    <string name="rv">Turn on location notification</string>
-    <string name="rw">Warning notification</string>
-
+    <string name="rn">Нет данных</string>
+    <string name="ro">Нет сети</string>
+    <string name="rp">Нет подключения к сети, проверьте настройки</string>
+    <string name="rq">Нет подключения к сети, проверьте настройки</string>
+    <string name="rr">Настроить сеть</string>
+    <string name="rs">Нет подключения к сети, проверьте настройки</string>
+    <string name="rt">Никому ещё не понравилось</string>
+    <string name="ru">Не найдено</string>
+    <string name="rv">Включить уведомление о местоположении</string>
+    <string name="rw">Предупреждения</string>
     <string name="rx">Текущая погода</string>
     <string name="ry">Вы листаете слишком быстро, попробуйте снова</string>
     <string name="rz">Другие города</string>
@@ -666,13 +677,11 @@ Focus on good authors and get quality content in time"</string>
     <string name="s7">This application needs to apply for the following necessary permissions</string>
     <string name="s8">Weather information of surrounding scenic spots</string>
     <string name="s9">Informed with selected contents</string>
-    <string name="s_">Show unusual weather</string>
 
+    <string name="s_">Показывать необычную погоду</string>
     <string name="sa">Близлежащий живописный вид</string>
     <string name="sb">Показывать всплывающую рекламу</string>
-
-    <string name="sc">Unusual weather</string>
-
+    <string name="sc">Необычная погода</string>
     <string name="sd">Отпустить для обновления</string>
     <string name="se">Загрузка</string>
     <string name="sg">Последнее обновление</string>
@@ -682,30 +691,26 @@ Focus on good authors and get quality content in time"</string>
     <string name="sk">с. назад</string>
     <string name="sl">Потянуть вниз для обновления</string>
     <string name="sm">Потянуть вниз для обновления</string>
-
-    <string name="sn">Receive push messages</string>
-    <string name="so">National air quality rankings</string>
-    <string name="sp">No rain</string>
-    <string name="sq">Good day to go out</string>
-    <string name="sr">Nowcast</string>
-    <string name="ss">Recommendation service</string>
-    <string name="st">Related recommendation</string>
-    <string name="su">Please Refresh</string>
+    <string name="sn">Получать Push-уведомления</string>
+    <string name="so">Национальные рейтинги качества воздуха</string>
+    <string name="sp">Нет дождя</string>
+    <string name="sq">Отличный день для прогулки</string>
+    <string name="sr">Сейчас</string>
+    <string name="ss">Сервис рекомендаций</string>
+    <string name="st">Рекомендация</string>
+    <string name="su">Обновите</string>
     <string name="sv">Загрузка</string>
-    <string name="sw">Related info</string>
-    <string name="sx">Release to refresh</string>
-    <string name="sy">Delete city</string>
-    <string name="sz">Report Comment</string>
-
+    <string name="sw">Сопутствующая информация</string>
+    <string name="sx">Отпустите для обновления</string>
+    <string name="sy">Удалить город</string>
+    <string name="sz">Пожаловаться</string>
     <string name="t0">Повтор</string>
     <string name="t1">Авторизация не выполнена. Ошибка получения информации о %s</string>
     <string name="t2">Поиск</string>
     <string name="t3">Поиск</string>
-
-    <string name="t4">Server exception, please try again later</string>
-    <string name="t5">Server exception, click reload</string>
-    <string name="t6">Service is being upgraded, please try again later</string>
-
+    <string name="t4">Ошибка сервера, попробуйте позже</string>
+    <string name="t5">Ошибка сервера, нажмите для повтора</string>
+    <string name="t6">Сервер на техническом обслуживании, попробуйте позже</string>
     <string name="t7">Настроить сеть</string>
     <string name="t8">Настройки</string>
     <string name="t9">Рекомендация контента</string>
@@ -714,9 +719,7 @@ Focus on good authors and get quality content in time"</string>
     <string name="tb">Показывать персональные рекомендации</string>
     <string name="tc">Поделиться с</string>
     <string name="td">Город</string>
-
-    <string name="te">Creating a mood for sharing, please wait</string>
-
+    <string name="te">Создаём настроение, пожалуйста подождите</string>
     <string name="tf">Сейчас%1$s20%2$s40%3$s60 мин.</string>
     <string name="tg">Ваш прогноз погоды</string>
     <string name="th">Погода</string>
@@ -735,25 +738,23 @@ Focus on good authors and get quality content in time"</string>
     <string name="tu">%s минуту назад</string>
     <string name="tv">%s минут назад</string>
     <string name="tw">Только что</string>
-
-    <string name="tx">Uninstalling this app might cause other system apps to malfunction. Are you sure you want to continue?</string>
-    <string name="ty">The comment area is temporarily closed</string>
+    <string name="tx">Удаление этого приложения может привести к сбоям в работе других системных приложений. Вы хотите продолжить?</string>
+    <string name="ty">Комментарии временно закрыты</string>
     <string name="tz">Загрузка</string>
-    <string name="u0">No Content</string>
-    <string name="u1">No Content</string>
-    <string name="u2">Add comment</string>
-    <string name="u3">Comments are closed</string>
-    <string name="u4">Reply %s</string>
-    <string name="u5">Send</string>
-    <string name="u6">%s tourist loved</string>
-    <string name="u7">Typhoon real-time path</string>
-
+    <string name="u0">Нет контента</string>
+    <string name="u1">Нет контента</string>
+    <string name="u2">Комментировать</string>
+    <string name="u3">Комментарии закрыты</string>
+    <string name="u4">Ответить %s</string>
+    <string name="u5">Отправить</string>
+    <string name="u6">%s туристам понравилось</string>
+    <string name="u7">Траектория тайфуна в реальном времени</string>
     <string name="u8">uid не соответствует имени пакета</string>
     <string name="u9">Ошибка авторизации, повторите попытку позже.</string>
     <string name="u_">Слишком много запросов</string>
+    <string name="ua">%s необычная погода</string>
+    <string name="ub">Обновление: %s</string>
 
-    <string name="ua">%s unusual weather</string>
-    <string name="ub">%s Update</string>
     <string name="uc">Using traffic download</string>
     <string name="ud">View precautions</string>
     <string name="ue">View notes</string>
@@ -765,7 +766,7 @@ Focus on good authors and get quality content in time"</string>
     <string name="ul">Detail</string>
     <string name="um">%s Views</string>
     <string name="un">network unavailable</string>
-    <string name="uo">No network connection, please check the network settings</string>
+    <string name="uo">Нет подключения к сети, проверьте настройки</string>
     <string name="up">Playing video will consume data traffic in mobile networks,continue playing?</string>
     <string name="uq">Videos needs connecting to network and tracking your location to provide online videos.</string>
     <string name="ur">Play</string>
@@ -776,16 +777,20 @@ Focus on good authors and get quality content in time"</string>
     <string name="uw">Replay</string>
     <string name="ux">Tap to play via mobile network</string>
     <string name="uy">Using the mobile network to download  (%s)</string>
-    <string name="uz">Fail. Click to exit</string>
+
+    <string name="uz">Ошибка. Нажмите для выхода</string>
     <string name="v0">Загрузка</string>
-    <string name="v1">Tap to unlock</string>
-    <string name="v2">Screen is locked</string>
-    <string name="v4">%s Warning</string>
-    <string name="v5">Feedback</string>
-    <string name="va">Search</string>
-    <string name="vb">Agree to Privacy Policy</string>
+    <string name="v1">Нажмите для разблокировки</string>
+    <string name="v2">Экран заблокирован</string>
+    <string name="v4">Предупреждение: %s</string>
+    <string name="v5">Обратная связь</string>
+    <string name="va">Поиск</string>
+    <string name="vb">Соглашение с Политикой конфиденциальности</string>
+
     <string name="vc">E</string>
-    <string name="vd">Learn more</string>
+
+    <string name="vd">Показать больше</string>
+
     <string name="ve">Knowledge about air quality</string>
     <string name="vf">Knowledge about early warning</string>
 </resources>

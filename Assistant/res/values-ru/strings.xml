@@ -648,10 +648,10 @@
     <string name="global_collection_support_title">Supported</string>
     <string name="global_collection_tips">同步收藏到 Aicy 纵览</string>
     <string name="global_collection_title">Управление автоматически избранными приложениями</string>
-    <string name="guide_app_summary">Сходящаяся информация с первого взгляда</string>
+    <string name="guide_app_summary">Мгновенное получение краткой информации</string>
     <string name="guide_bookmark_summary">Совокупная информация о сборе</string>
     <string name="guide_dialog_title">Свайп вправо с первого экрана для доступа к Дашбордам Aicy</string>
-    <string name="guide_exit">Существует</string>
+    <string name="guide_exit">Выход</string>
     <string name="guide_express_summary">Сводная экспресс-информация</string>
     <string name="guide_news_summary">Сбор новостной информации</string>
     <string name="hello">Привет</string>
@@ -1216,7 +1216,7 @@
     <string name="update_app">Update</string>
     <string name="update_meizu_reader_tips">To use this feature, upgrade Meizu News first</string>
     <string name="use_mobile_download">Using traffic download</string>
-    <string name="use_now">Try now</string>
+    <string name="use_now">Начать</string>
     <string name="voice_ball_guide_tips">Direct query by voice is more convenient</string>
     <string name="voice_support">SmartVoice</string>
     <string name="voice_support_ball">Voice ball</string>
