@@ -538,11 +538,13 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="text_reject">Reject</string>
     <string name="text_safe">This app has not been tested by Meizu App Store security, there may be security risks</string>
     <string name="text_scan_done_fake_replace">Piratic app</string>
+    
     <string name="text_scan_done_safe">Safe</string>
     <string name="text_scan_done_virus">Virus</string>
     <string name="text_scan_done_virus_replace">Virus</string>
     <string name="text_version">"Version: "</string>
     <string name="text_virus">Virus</string>
+
     <string name="text_virus_install_confirm">Virus detected in app, continue the installation?</string>
     <string name="text_virus_install_confirm_tips">Tips</string>
     <string name="thousand">thousand</string>

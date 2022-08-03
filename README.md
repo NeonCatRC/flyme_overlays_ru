@@ -54,7 +54,7 @@
 | AppCenter | WIP (AD) | | Flyme app center |
 | Assistant | WIP | 4.2.5 | Aicy settings app |
 | Browser | Stop (AD) | | Flyme standart browser |
-| ConnectivitySettings | WIP | 7.0.103 | Connect app |
+| ConnectivitySettings | WIP | 7.0.103 | Wi-Fi tethering settings |
 | DataMigration | Stop | | Data migration app |
 | FlymeLauncher | WIP | 9.0.0 | Standart Flyme launcher |
 | FlymeMusic | WIP | | Standart Flyme music app (Flyme 9.2) |
