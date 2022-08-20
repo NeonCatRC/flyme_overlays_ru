@@ -736,7 +736,7 @@
     <string name="keyguard_plugged_in">Зарядка</string>
     <string name="keyguard_plugged_in_charging_fast">Быстрая зарядка</string>
     <string name="keyguard_plugged_in_charging_slowly">Медленная зарядка</string>
-    <string name="keyguard_restart_unlock">Пожалуйста, подтвердите пароль после перезагрузки</string>
+    <string name="keyguard_restart_unlock">Пожалуйста, введите пароль после перезагрузки</string>
     <string name="keyguard_security_password_ok">ОК</string>
     <string name="keyguard_sim_locked_message">SIM-карта заблокирована</string>
     <string name="keyguard_sim_puk_locked_message">Для разблокировки SIM-карты требуется PUK-код</string>
