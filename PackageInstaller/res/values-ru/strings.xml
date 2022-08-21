@@ -573,24 +573,32 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="title_prompt_item">Apps %1$s need to ask: %2$s</string>
     <string name="title_reject_item">Disallowed to %1$s: %2$s</string>
     <string name="unexpected_exception">Unknown exception. Please try reinstalling.</string>
-    <string name="uninstall">Uninstall</string>
+
+    <string name="uninstall">Удалить</string>
+
     <string name="uninstall_activity_text">%1$s is part of the following app:</string>
     <string name="uninstall_all_blocked_profile_owner">This app is required for some users or profiles and was uninstalled for others</string>
     <string name="uninstall_application_text">Do you want to uninstall this app?</string>
     <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
     <string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
-    <string name="uninstall_application_title">Uninstall app</string>
+
+    <string name="uninstall_application_title">Удалить приложение</string>
+
     <string name="uninstall_application_title_sub">Uninstall the app and its clone</string>
     <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
     <string name="uninstall_blocked_profile_owner">"This app is needed for your profile and can't be uninstalled."</string>
-    <string name="uninstall_done">Uninstall finished.</string>
-    <string name="uninstall_done_app">Uninstalled %1$s</string>
-    <string name="uninstall_failed">Uninstall failed.</string>
-    <string name="uninstall_failed_app">Uninstalling %1$s unsuccessful.</string>
+
+    <string name="uninstall_done">Удаление завершено.</string>
+    <string name="uninstall_done_app">%1$s Удалено</string>
+    <string name="uninstall_failed">Ошибка удаления.</string>
+    <string name="uninstall_failed_app">Удаление %1$s не удалось.</string>
+
     <string name="uninstall_failed_device_policy_manager">"Can't uninstall active device admin app"</string>
     <string name="uninstall_failed_device_policy_manager_of_user">"Can't uninstall active device admin app for %1$s"</string>
-    <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
-    <string name="uninstall_failure_notification_channel">Uninstall failed</string>
+
+    <string name="uninstall_failed_msg">"%1$s не может быть удалено."</string>
+    <string name="uninstall_failure_notification_channel">Ошибка удаления</string>
+
     <string name="uninstall_keep_data">Keep %1$s of app data.</string>
     <string name="uninstall_notice">Uninstalling the app will also delete its data</string>
     <string name="uninstall_notice_sub">Uninstalling the main app will also delete its clone and data</string>
@@ -608,12 +616,16 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="unknown_apps_dlg_title">About to install unknown app</string>
     <string name="unknown_apps_user_restriction_dlg_text">"Unknown apps can't be installed by this user"</string>
     <string name="untrusted_external_source_warning">For your security, your phone is not allowed to install unknown apps from this source.</string>
-    <string name="use_storage">Phone storage</string>
+
+    <string name="use_storage">Хранилище телефона</string>
+
     <string name="use_storage_des">Read or modify photos, media contents, and files</string>
     <string name="user_is_not_allowed_dlg_text">The current user is not allowed to perform this uninstallation.</string>
     <string name="user_is_not_allowed_dlg_title">Not allowed</string>
     <string name="verify_password">verify password</string>
-    <string name="version_text">Version: %1$s</string>
+
+    <string name="version_text">Версия: %1$s</string>
+    
     <string name="version_text_message">%1$s will be replaced by %2$s</string>
     <string name="virus_scanning_text">Scanning for detection of viruses...</string>
     <string name="w_sms_mms">Write SMS/MMS</string>
@@ -627,7 +639,7 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="wd_sms_mms_des">Write/delete SMS and MMS</string>
     <string name="wear_app_channel">Installing/uninstalling wear apps</string>
     <string name="wear_not_allowed_dlg_text">Install/Uninstall actions not supported on Wear.</string>
-    
+
     <string name="wear_not_allowed_dlg_title">Android Wear</string>
     <string name="wlan">Подключение к Wi-Fi</string>
 </resources>
