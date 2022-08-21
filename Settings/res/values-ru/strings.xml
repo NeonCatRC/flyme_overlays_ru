@@ -2632,6 +2632,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="meid_title">MEID</string>
     <string name="meizu_card">SIM-карта mLite</string>
     <string name="meizu_device_dal_title">Название устройства</string>
+    <string name="meizu_info_summary">Юридические декларации, соглашения, и т.д.</string>
     <string name="mem_details_title">Подробности</string>
     <string name="memory">ОЗУ</string>
     <string name="memory_app">Приложения</string>
@@ -3998,6 +3999,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="service_evaluation">Комментарий</string>
     <string name="service_foreground_processes">Занято: %1$s</string>
     <string name="service_info">Сервисное обслуживание</string>
+    <string name="service_info_summary">Ремонтные центры, специализированные магазины и т.д.</string>
     <string name="service_loading">Загрузка информации</string>
     <string name="service_manage">Настройки</string>
     <string name="service_manage_description">%1$s: в настоящий момент используется. Нажмите «Настройки» для управления.</string>
@@ -4847,6 +4849,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="user_exit_guest_dialog_remove">Удалить</string>
     <string name="user_exit_guest_title">Удалить аккаунт гостя</string>
     <string name="user_guest">Гость</string>
+    <string name="user_help_summary">Обратная связь, скиллы, и т.д.</string>
     <string name="user_image_choose_photo">Выбрать из Галереи</string>
     <string name="user_image_photo_selector">Выбрать фото</string>
     <string name="user_image_take_photo">Сделать снимок</string>
