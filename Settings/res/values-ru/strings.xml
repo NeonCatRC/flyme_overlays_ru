@@ -3509,7 +3509,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="quick_operation_category_title">Быстрый доступ</string>
     <string name="quick_reply_summary">Отображать уведомления приложений в виде окна</string>
     <string name="quick_reply_title">Быстрый ответ</string>
-    <string name="quick_settings_developer_tiles">Панели быстрых настроек</string>
+    <string name="quick_settings_developer_tiles">Элементы в быстрых настройках</string>
     <string name="quick_wakeup_category_title">Функции</string>
     <string name="quick_wakeup_choose_app">Выбор приложения для запуска</string>
     <string name="quick_wakeup_double_click_summary">Подсветка экрана</string>
@@ -3763,7 +3763,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="runningservicedetails_stop_dlg_text">Отключение этой системной службы может повлиять на функциональность телефона. Чтобы восстановить работу устройства, потребуется перезагрузить его.</string>
     <string name="runningservicedetails_stop_dlg_title">Остановить системную службу?</string>
     <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
-    <string name="runningservices_settings_title">В работе</string>
+    <string name="runningservices_settings_title">Работающие службы</string>
     <string name="runtime_permissions_summary_no_permissions_granted">У приложения нет разрешений</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Приложение не запрашивало разрешения</string>
     <string name="safety_and_regulatory_info">Информация о безопасности и легитимных правах</string>
@@ -5284,6 +5284,8 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже когда модуль Wi-Fi отключён. Чтобы изменить эти настройки, перейдите в меню «Расширенные > Поиск сетей всегда включён»</string>
     <string name="wifi_scan_notify_text_location_on">Чтобы точнее определять местоположение, а также и в других целях, службы Google и другие приложения могут выполнять поиск доступных сетей, даже когда модуль Wi-Fi отключён. Изменить настройки можно в меню «Расширенные > Поиск сетей всегда включён»</string>
     <string name="wifi_scan_notify_text_scanning_off">Чтобы повысить точность определения местоположения, включите сканирование Wi-Fi в настройках сканирования LINK_BEGINнастройках сканированияLINK_END.</string>
+    <string name="wifi_scan_throttling">Ограничить поиск сетей Wi-Fi</string>
+    <string name="wifi_scan_throttling_summary">Уменьшает расход заряда батареи и улучшает работу сети</string>
     <string name="wifi_security">Безопасность</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Нет</string>

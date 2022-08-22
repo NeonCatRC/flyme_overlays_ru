@@ -1273,7 +1273,8 @@ Selection: Sample Rate"</string>
     <string name="roaming_warning">Significant roaming charges may apply if data roaming enabled</string>
     <string name="running_process_item_user_label">User: %1$s</string>
     <string name="runningservices_settings_summary">View and control currently running services</string>
-    <string name="runningservices_settings_title">Running services</string>
+
+    <string name="runningservices_settings_title">Работающие службы</string>
 
     <string name="safe_pay_button_summary_flyme_safe_security">Turn on Flyme Payment Protection to enable this feature</string>
     <string name="safe_pay_button_warning">Use mobile data traffic when paying in a public wireless network environment</string>
@@ -1857,8 +1858,10 @@ Selection: Sample Rate"</string>
     <string name="wifi_scan_notify_remember_choice">"Don't show again"</string>
     <string name="wifi_scan_notify_text_location_off">"Apps may scan for nearby networks even when Wi-Fi is off. If you don't want this to happen, go to Advanced > Scanning always available."</string>
     <string name="wifi_scan_notify_text_location_on">"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when Wi-Fi is off. If you don't want this to happen, go to Advanced > Scanning always available."</string>
-    <string name="wifi_scan_throttling">Wi‑Fi scan throttling</string>
-    <string name="wifi_scan_throttling_summary">Reduces battery drain &amp; improves network performance</string>
+    
+    <string name="wifi_scan_throttling">Ограничить поиск сетей Wi-Fi</string>
+    <string name="wifi_scan_throttling_summary">Уменьшает расход заряда батареи и улучшает работу сети</string>
+
     <string name="wifi_security">Security</string>
     <string name="wifi_security_detecting">Detecting</string>
     <string name="wifi_security_dpp">DPP</string>
@@ -2890,7 +2893,6 @@ Credential storage might not enable"</string>
     <string name="roaming_warning">Возможны высокие расходы на использование роуминга.</string>
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
     <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
-    <string name="runningservices_settings_title">Работающие приложения</string>
     <string name="saved_network">Кто сохранил: %1$s</string>
     <string name="scanning_status_text_wifi_off_ble_off">Сканирование по Wi-fi &amp; Bluetooth отключено</string>
     <string name="scanning_status_text_wifi_off_ble_on">Сканирование по Bluetooth включено, по Wi-fi отключено</string>

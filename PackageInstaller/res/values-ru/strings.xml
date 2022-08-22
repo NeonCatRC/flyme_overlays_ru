@@ -61,11 +61,11 @@
     <string name="application_managerment">Приложения</string>
     <string name="appsec_allowall">Разрешить все</string>
     <string name="appsec_rejall">Отклонить все</string>
-
-    <string name="ask_perm_message">%1$s requires network access</string>
-    <string name="autorun">Run at startup</string>
-    <string name="background_install">Background installation</string>
+    <string name="ask_perm_message">%1$s требует доступ к сети</string>
+    <string name="autorun">Запускать при загрузке</string>
+    <string name="background_install">Установка в фоне</string>
     <string name="bluetooth">Bluetooth</string>
+
     <string name="body_sensors">Body sensors</string>
     <string name="body_sensors_des">Read body sensor data</string>
     <string name="btn_delete_apk_file">Clear APK files</string>
@@ -151,10 +151,8 @@
     <string name="install_failed_storage">Storage error, please free up some space and try again.</string>
 
     <string name="install_replace_confirm">Обновить</string>
-
-    <string name="install_replace_message">The existing app %1$s will be replaced.</string>
-    <string name="install_replace_message2">Update \"%1$s\" to the new version %2$s ?</string>
-
+    <string name="install_replace_message">Текущее приложение %1$s будет заменено.</string>
+    <string name="install_replace_message2">Обновить приложение \"%1$s\" до версии %2$s ?</string>
     <string name="install_success">Успешно установлено</string>
 
     <string name="install_warning_default">"This app is not from Meizu App Store, 
@@ -169,8 +167,8 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="launch">Открыть</string>
     <string name="launch_app">Открыть</string>
     <string name="lb_guidedaction_continue_title">Продолжить</string>
+    <string name="lb_guidedaction_finish_title">Готово</string>
 
-    <string name="lb_guidedaction_finish_title">Finish</string>
     <string name="lb_media_player_error">MediaPlayer error code %1$d extra %2$d</string>
     <string name="lb_navigation_menu_contentDescription">Navigation menu</string>
     <string name="lb_onboarding_accessibility_next">Next</string>
@@ -455,12 +453,14 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="network_execption">The network is abnormal, please try again later</string>
     <string name="network_fail">No network connection, please check the network settings</string>
     <string name="no_permissions_manage">No permissions to manage</string>
-    <string name="notification_installation_success_message">Successfully installed</string>
-    <string name="notification_installation_success_status">Successfully installed “%1$s”</string>
-    <string name="notify_msg">Notifications</string>
-    <string name="ok">OK</string>
-    <string name="only_one">Only once</string>
-    <string name="op_camera">Camera</string>
+
+    <string name="notification_installation_success_message">Успешно установлено</string>
+    <string name="notification_installation_success_status">Успешно установлено “%1$s”</string>
+    <string name="notify_msg">Уведомления</string>
+    <string name="ok">ОК</string>
+    <string name="only_one">Единожды</string>
+    <string name="op_camera">Камера</string>
+
     <string name="op_camera_des">photo &amp; video</string>
     <string name="op_getinstallpkg">App List</string>
     <string name="op_getinstallpkg_des">Read list of installed apps in your phone</string>
@@ -486,21 +486,19 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="perm_autostart">Auto-start</string>
     <string name="perm_costs_money">this may cost you money</string>
     <string name="perm_dialog">Alert</string>
-    <string name="perm_notification">Notifications</string>
-    <string name="perm_notity">Notifications</string>
-    <string name="perm_other">Other permissions</string>
-    <string name="permission_configure">Manage permission</string>
-    <string name="permission_configure_title">Permission Management</string>
-    <string name="permission_confirm_statement">Install this app may request access to:</string>
-    <string name="permission_count">permission(s)</string>
-    <string name="permission_list">Check permission requested</string>
-    <string name="permission_list_title">Permission Requested</string>
-    <string name="permlab_processOutgoingCalls">Re-route outgoing calls</string>
-
+    
+    <string name="perm_notification">Уведомления</string>
+    <string name="perm_notity">Уведомления</string>
+    <string name="perm_other">Другие разрешения</string>
+    <string name="permission_configure">Управлять разрешениями</string>
+    <string name="permission_configure_title">Управление разрешениями</string>
+    <string name="permission_confirm_statement">Установка данного приложения может потребовать следующие разрешения:</string>
+    <string name="permission_count">разрешение(ий)</string>
+    <string name="permission_list">Проверить запрашиваемые разрешения</string>
+    <string name="permission_list_title">Требуется разрешение</string>
+    <string name="permlab_processOutgoingCalls">Переадресация исходящих вызовов</string>
     <string name="perms_new_perm_prefix">Новые</string>
-
-    <string name="phone_g_des">Make a call, read or modify the call history</string>
-
+    <string name="phone_g_des">Совершать звонки, чтение или изменение истории звонков</string>
     <string name="pop_notice">Всплывающие уведомления</string>
     <string name="privacy">Приватность</string>
     <string name="r_calendar">Чтение календаря</string>
@@ -510,9 +508,7 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="r_sms_mms_des">Чтение СМС &amp; ММС</string>
     <string name="rec_app_install_count">%1$s установлено</string>
     <string name="recommendations">Рекомендации</string>
-
-    <string name="recordaudio_local">Local/call recordings</string>
-    
+    <string name="recordaudio_local">Запись звонков</string>
     <string name="recordaudio_phone">Запись звонков</string>
     <string name="restore_dialog_text">%1$s было удалено, хотите установить?</string>
     <string name="retry">Повторить</string>
@@ -533,9 +529,7 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="set_wifi_on_des">Включать/Отключать Wi-Fi</string>
     <string name="settings_ad">Настройки</string>
     <string name="settings_dialog">Установить</string>
-
-    <string name="smart_bg_mode0">Smart Background (рекомендуется)</string>
-
+    <string name="smart_bg_mode0">Смарт-фон (рекомендуется)</string>
     <string name="smart_bg_mode1">Разрешить выполнение в фоне</string>
     <string name="smart_bg_mode2">Запретить выполнение в фоне</string>
     <string name="smart_bg_title">Выполнение в фоне</string>
@@ -572,19 +566,21 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="title_allow_item">Apps allowed to %1$s: %2$s</string>
     <string name="title_prompt_item">Apps %1$s need to ask: %2$s</string>
     <string name="title_reject_item">Disallowed to %1$s: %2$s</string>
-    <string name="unexpected_exception">Unknown exception. Please try reinstalling.</string>
 
+    <string name="unexpected_exception">Неизвестная ошибка. Попробуйте переустановить приложение.</string>
     <string name="uninstall">Удалить</string>
 
     <string name="uninstall_activity_text">%1$s is part of the following app:</string>
     <string name="uninstall_all_blocked_profile_owner">This app is required for some users or profiles and was uninstalled for others</string>
-    <string name="uninstall_application_text">Do you want to uninstall this app?</string>
+
+    <string name="uninstall_application_text">Вы хотите удалить данное приложение?</string>
+
     <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
     <string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
 
     <string name="uninstall_application_title">Удалить приложение</string>
+    <string name="uninstall_application_title_sub">Удалить приложение и его клон</string>
 
-    <string name="uninstall_application_title_sub">Uninstall the app and its clone</string>
     <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
     <string name="uninstall_blocked_profile_owner">"This app is needed for your profile and can't be uninstalled."</string>
 
@@ -596,7 +592,7 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="uninstall_failed_device_policy_manager">"Can't uninstall active device admin app"</string>
     <string name="uninstall_failed_device_policy_manager_of_user">"Can't uninstall active device admin app for %1$s"</string>
 
-    <string name="uninstall_failed_msg">"%1$s не может быть удалено."</string>
+    <string name="uninstall_failed_msg">"Приложение %1$s не может быть удалено."</string>
     <string name="uninstall_failure_notification_channel">Ошибка удаления</string>
 
     <string name="uninstall_keep_data">Keep %1$s of app data.</string>
@@ -625,11 +621,11 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="verify_password">verify password</string>
 
     <string name="version_text">Версия: %1$s</string>
-    
-    <string name="version_text_message">%1$s will be replaced by %2$s</string>
-    <string name="virus_scanning_text">Scanning for detection of viruses...</string>
-    <string name="w_sms_mms">Write SMS/MMS</string>
-    <string name="warning_title_unsafe">This application has a virus risk. For the safety of your phone, the installation has been automatically blocked.</string>
+    <string name="version_text_message">Приложение %1$s будет заменено %2$s</string>
+    <string name="virus_scanning_text">Сканирование на наличие вирусов...</string>
+    <string name="w_sms_mms">Писать СМС/ММС</string>
+    <string name="warning_title_unsafe">Это приложение заражено вирусом. В целях безопасности вашего телефона установка была автоматически заблокирована.</string>
+
     <string name="wd_calendar">Write/Delete calendar</string>
     <string name="wd_call_log">Write/Delete call log</string>
     <string name="wd_call_log_des">Edit incoming and outgoing calls</string>

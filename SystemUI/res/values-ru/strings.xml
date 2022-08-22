@@ -1376,7 +1376,7 @@
     <string name="retail_demo_reset_title">Требуется пароль</string>
     <string name="running_process_item_user_label">Пользователь: «%1$s»</string>
     <string name="runningservices_settings_summary">Просмотр и управление работающими приложениями</string>
-    <string name="runningservices_settings_title">В работе</string>
+    <string name="runningservices_settings_title">Работающие службы</string>
     <string name="save">Сохранить</string>
     <string name="saved_network">Сохранено: «%1$s»</string>
     <string name="screen_pinning_description">Приложение останется активным, пока вы не отмените блокировку, нажав и удерживая кнопку «Назад»</string>
@@ -1799,6 +1799,8 @@
     <string name="wifi_scan_always_available_summary">Разрешить службам геолокации Google и другим приложениям выполнять поиск сетей, даже когда модуль Wi-Fi отключён</string>
     <string name="wifi_scan_notify_text_location_off">Приложения могут выполнять поиск сетей поблизости, даже когда модуль Wi-Fi отключён. Чтобы изменить эти настройки, перейдите в меню «Расширенные > Поиск сетей всегда включён»</string>
     <string name="wifi_scan_notify_text_location_on">Чтобы точнее определять местоположение, а также и в других целях, службы Google и другие приложения могут выполнять поиск доступных сетей, даже когда модуль Wi-Fi отключён. Изменить настройки можно в меню «Расширенные > Поиск сетей всегда включён»</string>
+    <string name="wifi_scan_throttling">Ограничить поиск сетей Wi-Fi</string>
+    <string name="wifi_scan_throttling_summary">Уменьшает расход заряда батареи и улучшает работу сети</string>
     <string name="wifi_security">Безопасность</string>
     <string name="wifi_security_dpp">DPP</string>
     <string name="wifi_security_eap">802.1x EAP</string>
