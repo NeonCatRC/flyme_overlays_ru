@@ -633,7 +633,7 @@
     <string name="invalid_charger_text">Используйте только зарядное устройство, поставляемое в комплекте с устройством</string>
     <string name="invalid_charger_title">Зарядка через USB не поддерживается</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
-    <string name="keep_screen_on">Подсветка при зарядке</string>
+    <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
     <string name="keyboard_key_back">Назад</string>
     <string name="keyboard_key_backspace">Backspace</string>
@@ -1151,7 +1151,7 @@
     <string name="mz_zenmode_time_always">Постоянно</string>
     <string name="nav_bar">Панель навигации</string>
     <string name="no">Нет</string>
-    <string name="no_application">Пусто</string>
+    <string name="no_application">Нет</string>
     <string name="no_display_notification">Запретить уведомления</string>
     <string name="no_tiles_add">Нет панелей для добавления</string>
     <string name="normal_charge_state">Зарядка</string>
@@ -1577,7 +1577,7 @@
     <string name="time_unit_just_now">Только что</string>
     <string name="title_convert_fbe">Переход к шифрованию отдельных файлов</string>
     <string name="title_usb_accessory">USB-аксессуар</string>
-    <string name="track_frame_time">Запись времени работы GPU</string>
+    <string name="track_frame_time">Профилировать GPU-отрисовку</string>
     <string name="transition_animation_scale_title">Анимация переходов</string>
     <string name="tts_default_lang_summary">Выбор языка для чтения текста</string>
     <string name="tts_default_lang_title">Язык</string>

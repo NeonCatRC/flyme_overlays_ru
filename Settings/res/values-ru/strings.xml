@@ -288,7 +288,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="aod_music_switch">aod music switch</string>
     <string name="aod_noti_anim_circle">Кружок</string>
     <string name="aod_noti_anim_light">Свечение</string>
-    <string name="aod_noti_anim_none">Ничего</string>
+    <string name="aod_noti_anim_none">Нет</string>
     <string name="aod_noti_anim_wake_up">Включение экрана</string>
     <string name="aod_notification_switch">Показывать уведомления</string>
     <string name="aod_personal_signature_four">Pursuit from Passion</string>
@@ -2134,7 +2134,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="join_two_items">%1$s и %2$s</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
-    <string name="keep_screen_on">Подсветка при зарядке</string>
+    <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
     <string name="kernel_version">Версия ядра</string>
     <string name="kernel_version_summary_indonesia">" %1$s pec@tkdn#1 Среда, 14 декабря 2016 г. 14 10:10:07 UTC"</string>
@@ -3098,7 +3098,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="night_display_text">Ночной режим затеняет ваш экран. Это облегчает просмотр вашего экрана или чтение в тусклом свете и может помочь вам уснуть легче.</string>
     <string name="night_display_title">Ночной режим</string>
     <string name="no">Нет</string>
-    <string name="no_application">Пусто</string>
+    <string name="no_application">Нет</string>
     <string name="no_applications">Нет приложений</string>
     <string name="no_battery_summary">Батарея с момента последней полной зарядки не расходовалась</string>
     <string name="no_carrier_update_now_text">Обновлено только что</string>
@@ -3258,7 +3258,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="one_userkey">один ключ пользователя</string>
     <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
     <string name="open_aod_in_display_inversion_tips">Включение инверсии цветов отключит режим «Always-On Display»</string>
-    <string name="open_development_settings">Настройки для разработчиков</string>
+    <string name="open_development_settings">Включить режим разработчика</string>
     <string name="open_display_inversion_in_aod_tips">Включение инверсии цветов отключит режим «Always-On Display»</string>
     <string name="open_root_permission_title">Root-доступ</string>
     <string name="opened">Вкл.</string>
@@ -3278,7 +3278,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="other_sound_category_preference_title">Другие звуки и вибрация</string>
     <string name="other_sound_settings">Другие звуки</string>
     <string name="other_sound_title">Другие уведомления</string>
-    <string name="overlay_display_devices_title">Эмуляция дополнительных экранов</string>
+    <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
     <string name="overlay_settings">Наложение поверх других окон</string>
     <string name="owner_info_settings_edit_text_hint">Например, Android Ивана</string>
     <string name="owner_info_settings_status">%1$d из %2$d</string>
@@ -4066,11 +4066,11 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="show_background_processes">Показать процессы в кэше</string>
     <string name="show_dev_already">Не нужно, вы уже разработчик</string>
     <string name="show_dev_on">Вы стали разработчиком!</string>
-    <string name="show_first_crash_dialog">Всегда показывать уведомление вылете</string>
-    <string name="show_first_crash_dialog_summary">Показывать окно при вылете приложения</string>
-    <string name="show_hw_layers_updates">Аппаратные обновления</string>
+    <string name="show_first_crash_dialog">Всегда показ. уведомление о сбое</string>
+    <string name="show_first_crash_dialog_summary">Показывать окно при сбое приложения</string>
+    <string name="show_hw_layers_updates">Показ. аппаратные обновления</string>
     <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зеленым цветом при обновлении</string>
-    <string name="show_hw_screen_updates">Обновление GPU</string>
+    <string name="show_hw_screen_updates">Показ. обновления экрана</string>
     <string name="show_hw_screen_updates_summary">Подсвечивать области экрана при отрисовке с GPU</string>
     <string name="show_ime">Виртуальная клавиатура</string>
     <string name="show_ime_summary">Показывать на экране, когда физическая клавиатура включена</string>
@@ -4090,7 +4090,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="show_password_summary">Отображать вводимые символы</string>
     <string name="show_profile_info_on_lockscreen_label">Показывать информацию профиля на экране блокировки</string>
     <string name="show_running_services">Показать активные службы</string>
-    <string name="show_screen_updates">Обновления экрана</string>
+    <string name="show_screen_updates">Показ. обнов. экрана</string>
     <string name="show_screen_updates_summary">Подсвечивать области экрана при их обновлении</string>
     <string name="show_style">Стиль отображения</string>
     <string name="show_system_apps">Показать системные приложения</string>
@@ -4537,7 +4537,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="tethered_device_list_title">Подключённые устройства</string>
     <string name="tethering_footer_info">Использовать мобильную точку доступа и Bluetooth-модем для общего доступа в Интернет через передачу данных. Приложения, также, могут создавать точки доступа для передачи контента устройствам поблизости</string>
     <string name="tethering_hardware_offload">Оптимизация режима модема</string>
-    <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение для режима модема</string>
+    <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение для режима модема (если доступно)</string>
     <string name="tethering_help_button_text">Справка</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
     <string name="text_input_hint_text">Введите текст</string>
@@ -4557,7 +4557,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="touch_filtered_warning">Невозможно принять ваше согласие, поскольку запрос скрыт другим приложением.</string>
     <string name="touch_sense">Звук и вибрация</string>
     <string name="touch_sounds_title">Нажатие на экран</string>
-    <string name="track_frame_time">Запись времени работы GPU</string>
+    <string name="track_frame_time">Профилировать GPU-отрисовку</string>
     <string name="transition_animation_scale_title">Анимация переходов</string>
     <string name="trigger_carrier_provisioning">Информация об операторе</string>
     <string name="trusted_credentials">Доверенные сертификаты</string>
@@ -5113,7 +5113,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
     <string name="wifi_configure_settings_preference_title">Настройки Wi-Fi</string>
     <string name="wifi_connect">Подключить</string>
     <string name="wifi_connected_no_internet">Подключено, без доступа в Интернет</string>
-    <string name="wifi_coverage_extend">Включить функцию расширения покрытия Wi-Fi</string>
+    <string name="wifi_coverage_extend">Включить увеличение покрытия Wi-Fi</string>
     <string name="wifi_coverage_extend_summary">Расширить покрытие сети Wi-Fi с помощью точки доступа</string>
     <string name="wifi_data_template">Данные Wi-Fi: ^1</string>
     <string name="wifi_data_usage">Передача данных Wi-Fi</string>
