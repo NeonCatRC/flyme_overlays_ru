@@ -518,7 +518,7 @@
     <string name="folder_imported">Экспортировано</string>
     <string name="folder_lock">Хранилище</string>
     <string name="folder_panorama">Панорама</string>
-    <string name="folder_photo">Фотографии</string>
+    <string name="folder_photo">Фото</string>
     <string name="folder_qmar">AmazingAR</string>
     <string name="folder_record">Запись</string>
     <string name="folder_screenrecord">Запись экрана</string>
@@ -1034,7 +1034,7 @@
     <string name="photo_pager_loading_night">Обработка алгоритмом Супер-ночь</string>
     <string name="photo_pager_loading_other">Обработка фото</string>
     <string name="photo_pager_loading_people">Обработка алгоритмом Портрета</string>
-    <string name="photos">Фотографии</string>
+    <string name="photos">Фото</string>
     <string name="poster_title">Добавлен постер</string>
     <string name="privacy">Частные фото</string>
     <string name="ptr_go_Refreshing">Отпустить для обновления</string>

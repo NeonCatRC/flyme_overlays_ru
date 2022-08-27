@@ -386,7 +386,6 @@ Selection: Sample Rate"</string>
     <string name="cert_serial">SN:</string>
     <string name="cert_valid_from">Valid from:</string>
     <string name="cert_valid_to">Expires on:</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change_data_conn_summary" formatted="false">SIM %d is disabled. Enable cellular data on SIM %d?</string>
     <string name="change_data_conn_title">Change SIM Card for Data Usage</string>
     <string name="change_data_conn_yes">Yes</string>
@@ -411,7 +410,6 @@ Selection: Sample Rate"</string>
     <string name="color_yellow">Yellow</string>
     <string name="coming_call_white_list">Incoming call whitelist</string>
     <string name="coming_call_white_list_tips">Calls from these contacts will not be muted.</string>
-    <string name="config_featureFactory">com.meizu.connectivitysettings.overlay.FeatureFactoryImpl</string>
     <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
     <string name="confirm_enable_oem_unlock_title">Allow OEM unlocking?</string>
     <string name="connect_free_wifi_prompt">This is the Meizu certified free security network, can be used without password</string>
@@ -757,7 +755,6 @@ Selection: Sample Rate"</string>
     <string name="mc_every_day">Every day</string>
     <string name="mc_friday">FR</string>
     <string name="mc_go_Refreshing">Release to refresh</string>
-    <string name="mc_hello_world">Hello world!</string>
     <string name="mc_hour">h</string>
     <string name="mc_is_Refreshing">Refreshing</string>
     <string name="mc_last_refresh">Last refresh</string>
@@ -829,13 +826,8 @@ Selection: Sample Rate"</string>
     <string name="mc_search_icon">Search</string>
     <string name="mc_search_icon_input_clear">Clear</string>
     <string name="mc_search_text">Search</string>
-    <string name="mc_search_view_container_transition_name">search_view_container_transition_name</string>
-    <string name="mc_search_view_share_element_name">search_view_share_element</string>
-    <string name="mc_search_view_toolbar_transition_name">search_view_toolbar_transition_name</string>
     <string name="mc_second">s</string>
     <string name="mc_selectionbutton_all">All</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-m/%-e</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
     <string name="mc_sunday">SU</string>
     <string name="mc_thursday">TH</string>
     <string name="mc_time_picker_dialog_title">Schedule</string>
@@ -923,8 +915,6 @@ Selection: Sample Rate"</string>
     <string name="mr_dialog_transferable_header">Play on a group</string>
     <string name="mr_system_route_name">System</string>
     <string name="mr_user_route_category_name">Devices</string>
-    <string name="multi_baseband_one_prop_key">gsm.version.baseband.2</string>
-    <string name="multi_baseband_two_prop_key">cdma.version.baseband</string>
     <string name="mutual_transmission">MeiZu Mutual transmission</string>
     <string name="mvno_match_data">MVNO value</string>
     <string name="mvno_type">MVNO type</string>
@@ -1103,7 +1093,9 @@ Selection: Sample Rate"</string>
     <string name="no_uim_card">Absent</string>
     <string name="not_ask_next_time">"Don't show this again"</string>
     <string name="not_set">Not set</string>
-    <string name="not_use_vpn_app_title">APP Not Use Vpn</string>
+
+    <string name="not_use_vpn_app_title">Приложения не использующие VPN</string>
+
     <string name="notice_view">Connect to hotspot by scanning with Flyme camera</string>
     <string name="notification_priority_summary">Display new notifications at the top of the notification list</string>
     <string name="notification_section_header">Notifications</string>
@@ -1118,8 +1110,10 @@ Selection: Sample Rate"</string>
     <string name="oem_preferred_feedback_reporter" />
     <string name="oem_unlock_enable">OEM unlocking</string>
     <string name="oem_unlock_enable_summary">Allow the bootloader to be unlocked</string>
-    <string name="ok">OK</string>
-    <string name="okay">OK</string>
+    
+    <string name="ok">ОК</string>
+    <string name="okay">ОК</string>
+
     <string name="online_wallpaper">Online wallpapers</string>
     <string name="open_root_permission_title">Root permission</string>
     <string name="operator">Carrier</string>
@@ -1331,7 +1325,6 @@ Selection: Sample Rate"</string>
     <string name="settings_label">Connectivity Settings</string>
     <string name="settings_label_launcher">Connectivity Settings</string>
     <string name="settings_license_activity_title">Open source licenses</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="show_all_anrs">Show background ANRs</string>
     <string name="show_all_anrs_summary">Show App Not Responding dialog for background apps</string>
     <string name="show_hw_layers_updates">Show hardware layers updates</string>
@@ -1399,8 +1392,10 @@ Selection: Sample Rate"</string>
     <string name="smart_touch_title">SmartTouch</string>
     <string name="smart_voice_wakeup">Smart Voice wakeup</string>
     <string name="smart_voice_wakeup_tips">Use voice commands to activate Smart Voice when the screen is off</string>
-    <string name="smart_vpn_hint">Choose app witch can use VPN</string>
-    <string name="smart_vpn_switch_title">Smart Vpn Connectivity</string>
+
+    <string name="smart_vpn_hint">Выбрать приложения, которые могут использовать VPN</string>
+    <string name="smart_vpn_switch_title">Управление использования VPN</string>
+
     <string name="smart_wifi_selection_sum">Allow automatic switch to a better Wi-Fi netowrk</string>
     <string name="smart_wifi_selection_title">Smart Wi-Fi network switch</string>
     <string name="sms_application_title">Default SMS app</string>
@@ -1481,7 +1476,7 @@ Selection: Sample Rate"</string>
     <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
     <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
     <string name="tethering_settings_not_available">Tethering settings are not available for this user</string>
-    <string name="text_input_hint_text">输入内容</string>
+    <string name="text_input_hint_text">Type here</string>
     <string name="theme">Theme</string>
     <string name="time_unit_just_now">Just now</string>
     <string name="title_convert_fbe">Converting to file based encryption</string>
@@ -1546,7 +1541,9 @@ Selection: Sample Rate"</string>
     <string name="usb_tethering_unavailable_subtext">USB not connected</string>
     <string name="use_flyme_icon_title">Flyme style icons</string>
     <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
-    <string name="use_vpn_app_title">APP Use Vpn</string>
+
+    <string name="use_vpn_app_title">Приложения использующие VPN</string>
+
     <string name="user_confirm_remove_message">All apps and data will be deleted.</string>
     <string name="user_confirm_remove_self_message">You will lose your space and data. It cannot be undone.</string>
     <string name="user_confirm_remove_self_title">Delete yourself?</string>
@@ -1557,8 +1554,10 @@ Selection: Sample Rate"</string>
     <string name="user_info_settings_title">User info</string>
     <string name="user_profile_confirm_remove_message">All apps and data will be deleted.</string>
     <string name="user_profile_confirm_remove_title">Remove this profile?</string>
-    <string name="v7_preference_off">OFF</string>
-    <string name="v7_preference_on">ON</string>
+
+    <string name="v7_preference_off">Выкл.</string>
+    <string name="v7_preference_on">Вкл.</string>
+
     <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
     <string name="verify_apps_over_usb_title">Verify apps over USB</string>
     <string name="vibrate_when_ringing_title">Vibrate on ringing</string>
@@ -1576,7 +1575,9 @@ Selection: Sample Rate"</string>
     <string name="vpn_always_on_summary_active">Always-on active</string>
     <string name="vpn_always_on_summary_not_supported">Not supported by this app</string>
     <string name="vpn_app_tips_str">More configuration options are set up in \"%1$s\"</string>
-    <string name="vpn_app_titlebar">VPN Application</string>
+
+    <string name="vpn_app_titlebar">Управление доступом к VPN</string>
+
     <string name="vpn_cancel">Cancel</string>
     <string name="vpn_cant_connect_message">"This app doesn't support always-on VPN"</string>
     <string name="vpn_cant_connect_title">"Can't connect to%1$s"</string>
@@ -1589,7 +1590,6 @@ Selection: Sample Rate"</string>
     <string name="vpn_delete_title">Delete VPN</string>
     <string name="vpn_disconnect">Disconnect</string>
     <string name="vpn_disconnect_confirm">Disconnect this VPN?</string>
-    <string name="vpn_dns_hint">8.8.8.8</string>
     <string name="vpn_dns_servers">DNS servers</string>
     <string name="vpn_done">Cancel</string>
     <string name="vpn_enable_network_cancel">Cancel</string>
@@ -1626,7 +1626,6 @@ Selection: Sample Rate"</string>
     <string name="vpn_replace_vpn_title">Replace existing VPN?</string>
     <string name="vpn_require_connection">Block connections without VPN</string>
     <string name="vpn_require_connection_title">Require VPN connection?</string>
-    <string name="vpn_route_hint">10.0.0.0/8</string>
     <string name="vpn_routes">Forward routes</string>
     <string name="vpn_save_password">Remember password</string>
     <string name="vpn_search_domains">DNS search domains</string>
@@ -1696,7 +1695,6 @@ Selection: Sample Rate"</string>
     <string name="wifi_bridge_settings_password_digit">"0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`¬!£$%^*()~=#{}[];':,./?/*-_+&lt;>@&amp;"</string>
     <string name="wifi_bridge_settings_ssid">Name</string>
     <string name="wifi_bridge_settings_title">Set hotspot</string>
-    <item type="string" name="APKTOOL_DUMMY_688" />
     <string name="wifi_bridge_state_disabled">Not connected to Wi-Fi</string>
     <string name="wifi_bridge_state_ready">Share network \"%s\"</string>
     <string name="wifi_bridge_state_started">Sharing \"%s\"</string>
@@ -1758,10 +1756,6 @@ Selection: Sample Rate"</string>
     <string name="wifi_display_status_in_use">In use</string>
     <string name="wifi_display_status_not_available">Unavailable</string>
     <string name="wifi_display_wps_config">WPS configuration</string>
-    <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
-    <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_eap_anonymous">Anonymous identity</string>
     <string name="wifi_eap_ca_cert">CA certificate</string>
     <string name="wifi_eap_identity">Identity</string>
@@ -1776,7 +1770,6 @@ Selection: Sample Rate"</string>
     <string name="wifi_forget_network_title">Forget network</string>
     <string name="wifi_frequency">Frequency</string>
     <string name="wifi_gateway">Gateway</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_gprs_selector_title">Select Network</string>
     <string name="wifi_hand_sel_wapi_cert">WAPI certificate</string>
     <string name="wifi_hotspot_network_sharing">Hotspot network sharing</string>
@@ -1785,7 +1778,6 @@ Selection: Sample Rate"</string>
     <string name="wifi_in_airplane_mode">In Airplane mode</string>
     <string name="wifi_install_credentials">Install certificates</string>
     <string name="wifi_ip_address">IP address</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_ip_settings">IP settings</string>
     <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
     <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
@@ -1811,7 +1803,6 @@ Selection: Sample Rate"</string>
     <string name="wifi_network_connected_info">Network Info</string>
     <string name="wifi_network_diagn">Wi-Fi Doctor</string>
     <string name="wifi_network_prefix_length">Network prefix length</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_internet">"Can't access the internet"</string>
     <string name="wifi_no_internet_no_reconnect">"Won't automatically connect"</string>
     <string name="wifi_no_saved_network_notice">No saved networks</string>
@@ -2825,7 +2816,7 @@ Credential storage might not enable"</string>
     <string name="preferred_network_mode_title">Режим сети</string>
     <string name="private_dns_mode_off">Выключен</string>
     <string name="private_dns_mode_opportunistic">Автоматически</string>
-    <string name="private_dns_mode_provider">Имя провайдера приватного DNS</string>
+    <string name="private_dns_mode_provider">Вручную</string>
     <string name="private_dns_mode_provider_failure">Невозможно подключиться</string>
     <string name="private_dns_mode_provider_hostname_hint">Введите провайдера DNS</string>
     <string name="process_kernel_label">ОС Android</string>

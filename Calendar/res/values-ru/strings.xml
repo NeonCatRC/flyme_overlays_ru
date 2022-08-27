@@ -616,7 +616,7 @@
     <string name="pref_personalize_recommendation">Персональные рекомендации</string>
     <string name="pref_personalize_recommendation_ad">Реклама на основе предпочтений</string>
     <string name="pref_personalize_recommendation_ad_summary">Рекомендация рекламного контента на основе ваших предпочтений</string>
-    <string name="pref_privacy_policy">Политика приватности</string>
+    <string name="pref_privacy_policy">Политика конфиденциальности</string>
     <string name="pref_summary_hide_declined">Исключить из календаря отклонённые события</string>
     <string name="pref_summary_hide_past">Исключить из календаря события до сегодняшнего дня</string>
     <string name="pref_summary_show_full_screen">Получать бесплатные награды</string>
@@ -640,7 +640,7 @@
     <string name="pref_title_reminder_notification">Оповещение на панели уведомлений при событии</string>
     <string name="pref_title_reminder_popup">Отображать оповещения во всплывающем окне</string>
     <string name="pref_title_reminder_type">Тип напоминания</string>
-    <string name="pref_title_show_full_screen">Разрешить рекламу на экране-заставке!</string>
+    <string name="pref_title_show_full_screen">Разрешить рекламу на экране-заставке</string>
     <string name="preferences_contacts_birthday_title">Дни рождения контактов</string>
     <string name="program_detail">Детали</string>
     <string name="ptr_go_Refreshing">Отпустить для обновления</string>

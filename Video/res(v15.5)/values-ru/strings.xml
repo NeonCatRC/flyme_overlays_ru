@@ -41,7 +41,7 @@
     <string name="aq">Удалить %1$d шт.</string>
     <string name="ar">%1$d файл(ов) удалено</string>
     <string name="as">Удаление</string>
-    <string name="at">Согласен</string>
+    <string name="at">Принимаю</string>
     <string name="au">Выход</string>
     <string name="av">%1$d папка(ок)</string>
     <string name="aw">Всего: %1$s</string>
@@ -323,7 +323,7 @@
     <string name="j3">Вчера</string>
     <string name="j4">"Невозможно повернуть пока включен автоповорот"</string>
     <string name="j5">Проигрывается</string>
-    <string name="j6">Политика приватности</string>
+    <string name="j6">Политика конфиденциальности</string>
     <string name="j7">Повторить</string>
     <string name="j8">Повторить</string>
     <string name="j9">"Невозможно отметить файлы на SD-карте как приватные"</string>

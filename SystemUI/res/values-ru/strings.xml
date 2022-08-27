@@ -592,10 +592,10 @@
     <string name="guest_wipe_session_message">Продолжить сеанс?</string>
     <string name="guest_wipe_session_title">Добро пожаловать, гость!</string>
     <string name="guest_wipe_session_wipe">Начать заново</string>
-    <string name="gut_action_summary_block">Нет оповещений или отображения в шторке уведомлений</string>
+    <string name="gut_action_summary_block">Нет оповещения или отображения в шторке уведомлений</string>
     <string name="gut_action_summary_filter">Отображается в разделе маловажных без уведомления</string>
-    <string name="gut_action_summary_remind">Есть оповещение о приходе; отображается в шторке</string>
-    <string name="gut_action_summary_silent">Нет оповещений, но отображается в конце шторки</string>
+    <string name="gut_action_summary_remind">Есть оповещение о уведомлении; отображается в шторке</string>
+    <string name="gut_action_summary_silent">Нет оповещения, но отображается в конце шторки</string>
     <string name="gut_setting_text_block">Заблок.</string>
     <string name="gut_setting_text_filter">Маловажн.</string>
     <string name="gut_setting_text_remind">Важное</string>

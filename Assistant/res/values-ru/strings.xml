@@ -846,7 +846,7 @@
     <string name="more_quick_card">More card</string>
     <string name="more_quick_app">Больше QuickApps</string>
     <string name="more_quick_game">Больше QuickGames</string>
-    <string name="msg_empty_contact">联系人信息为空</string>
+    <string name="msg_empty_contact">Нет контактной информации</string>
     <string name="my_team">Мои команды</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
@@ -855,7 +855,7 @@
     <string name="mz_allow">ОК</string>
     <string name="mz_alway_allow">Всегда разрешать</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
-    <string name="mz_permission_agree">Согласен</string>
+    <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_allow">Разрешать</string>
     <string name="mz_permission_almost_deny">Никогда не спрашивай после отказа</string>
     <string name="mz_permission_always_allow">Всегда позволяют</string>

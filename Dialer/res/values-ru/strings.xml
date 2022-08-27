@@ -580,7 +580,7 @@
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
-    <string name="mz_permission_agree">Согласен</string>
+    <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_allow">Разрешить</string>
     <string name="mz_permission_almost_deny">Больше не спрашивать</string>
     <string name="mz_permission_always_allow">Всегда разрешать</string>

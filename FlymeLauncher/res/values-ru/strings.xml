@@ -390,7 +390,7 @@
     <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
     <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
     <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
-    <string name="mz_privacy_policy">Политика приватности Meizu</string>
+    <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_recents_window_mode_message">Пауза приведет к приостановке</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Все ещё разрешено</string>

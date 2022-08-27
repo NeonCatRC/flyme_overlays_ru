@@ -39,7 +39,7 @@
     <string name="ao">Ошибка удаления</string>
     <string name="ap">Удалено</string>
     <string name="aq">Удалить %1$d шт.</string>
-    <string name="ar">Согласен</string>
+    <string name="ar">Принимаю</string>
     <string name="as">Выход</string>
     <string name="at">%1$d папка(ок)</string>
     <string name="au">Всего: %1$s</string>
@@ -312,7 +312,7 @@
     <string name="if">Вчера</string>
     <string name="ig">"Невозможно повернуть пока включен автоповорот"</string>
     <string name="ih">Проигрывается</string>
-    <string name="ii">Политика приватности</string>
+    <string name="ii">Политика конфиденциальности</string>
     <string name="ij">Авторизация не выполнена. Ошибка получения информации о %s</string>
     <string name="ik">"Невозможно отметить файлы на SD-карте как приватные"</string>
     <string name="il">Поиск</string>

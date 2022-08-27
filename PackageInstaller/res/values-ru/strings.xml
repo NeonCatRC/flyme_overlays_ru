@@ -495,9 +495,9 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="permission_confirm_statement">Установка данного приложения может потребовать следующие разрешения:</string>
     <string name="permission_count">разрешение(ий)</string>
     <string name="permission_list">Проверить запрашиваемые разрешения</string>
-    <string name="permission_list_title">Требуется разрешение</string>
+    <string name="permission_list_title">Требуемые разрешения</string>
     <string name="permlab_processOutgoingCalls">Переадресация исходящих вызовов</string>
-    <string name="perms_new_perm_prefix">Новые</string>
+    <string name="perms_new_perm_prefix">Новое </string>
     <string name="phone_g_des">Совершать звонки, чтение или изменение истории звонков</string>
     <string name="pop_notice">Всплывающие уведомления</string>
     <string name="privacy">Приватность</string>
@@ -609,10 +609,10 @@ Meizu shall shoulder no responsibility for any results caused by your installing
 
     <string name="unknown_apps_admin_dlg_text">"Your admin doesn't allow installation of apps obtained from unknown sources"</string>
     <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources</string>
-    <string name="unknown_apps_dlg_title">About to install unknown app</string>
-    <string name="unknown_apps_user_restriction_dlg_text">"Unknown apps can't be installed by this user"</string>
-    <string name="untrusted_external_source_warning">For your security, your phone is not allowed to install unknown apps from this source.</string>
-
+    
+    <string name="unknown_apps_dlg_title">Вы устанавливаете неизвестное приложение</string>
+    <string name="unknown_apps_user_restriction_dlg_text">"Неизвестные приложения не могут быть установлены данным пользователем"</string>
+    <string name="untrusted_external_source_warning">Для вашей безопасности, мы не разрешили устанавливать неизвестные приложения из этого источника.</string>
     <string name="use_storage">Хранилище телефона</string>
 
     <string name="use_storage_des">Read or modify photos, media contents, and files</string>

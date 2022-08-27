@@ -276,7 +276,7 @@
     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="mutual_channel_name">Meizu Mutual Notify</string>
     <string name="mutual_device_name_tite">Device name</string>
-    <string name="mutual_introduce1_summary">Supports mutual file transfer with Meizu, Xiaomi, Redmi, OPPO, and vivo</string>
+    <string name="mutual_introduce1_summary">Supports mutual file transfer with Meizu, Xiaomi, Redmi, OPPO, and Vivo</string>
     <string name="mutual_introduce1_title">Mutual Transmission Alliance</string>
     <string name="mutual_msg_open_mzshare">Enable Meizu mutual transmission</string>
     <string name="mutual_msg_open_wifi">Please set up WLAN</string>

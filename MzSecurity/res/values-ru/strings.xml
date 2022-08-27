@@ -730,7 +730,7 @@
     <string name="mouthOverFlow">Перерасход</string>
     <string name="mouthRemain">"Доступно"</string>
     <string name="mouthWarming">Оповещать при превышении: %1$s</string>
-    <string name="msg_empty_contact">Информация о контакте пуста</string>
+    <string name="msg_empty_contact">Нет контактной информации</string>
     <string name="msg_reject_all_heads_up_notify">Запретить уведомления поверх всего для всех приложений?</string>
     <string name="msg_reject_all_notify">Запретить уведомления для всех приложений?</string>
     <string name="msg_start_end_too_small">Интервал между включением и выключением должен быть не менее %1$d мин.</string>
@@ -986,7 +986,7 @@
     <string name="perm_alert">Всплыв. увед-я</string>
     <string name="perm_notification">Уведомление</string>
     <string name="permision_management">Разрешения</string>
-    <string name="permission_argument_title">Политика приватности Meizu</string>
+    <string name="permission_argument_title">Политика конфиденциальности Meizu</string>
     <string name="permission_count">разрешен.</string>
     <string name="permission_detail_count">Всего запросов: %1$s раз(а)</string>
     <string name="permission_internet">Сетевые разрешения</string>

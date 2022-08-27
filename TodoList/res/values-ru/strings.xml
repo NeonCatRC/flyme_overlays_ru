@@ -374,7 +374,7 @@
     <string name="tag_name_duplicate">Группа с данным именем уже существует</string>
     <string name="tag_name_input_limit">Достигнут лимит по символам</string>
     <string name="tag_name_none">Нет</string>
-    <string name="todo_agreement">Политика приватности</string>
+    <string name="todo_agreement">Политика конфиденциальности</string>
     <string name="todo_del_dialog">Удалено %d штук</string>
     <string name="todo_desc_prefix">Примечания: %s</string>
     <string name="todo_setting_close_up">Показывать завершённые задачи</string>

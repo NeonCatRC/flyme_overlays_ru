@@ -309,9 +309,9 @@ e. Чтобы избежать конфликтов сцен, а именно з
     <string name="tips_collect_page">Показать избранные на экране</string>
     <string name="title_activity_picker_learn_more">Узнать больше</string>
     <string name="title_activity_picker_trigger">Вызвать с помощью</string>
-    <string name="txt_agreement_allow">Согласен</string>
+    <string name="txt_agreement_allow">Принимаю</string>
     <string name="txt_agreement_connect_net_desc">Для пользования перечисленными выше функциями и службами вы должны принять</string>
-    <string name="txt_agreement_desc2">Политика приватности</string>
+    <string name="txt_agreement_desc2">Политика конфиденциальности</string>
     <string name="txt_agreement_get_location_desc">Обеспечить более лучшую работу</string>
     <string name="txt_agreement_reject">Отклонить</string>
     <string name="txt_agreement_title">Aicy Touch</string>

@@ -1477,7 +1477,7 @@ Selection: Sample Rate"</string>
     <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
     <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
     <string name="tethering_settings_not_available">Tethering settings are not available for this user</string>
-    <string name="text_input_hint_text">输入内容</string>
+    <string name="text_input_hint_text">Type here</string>
     <string name="theme">Theme</string>
     <string name="time_unit_just_now">Just now</string>
     <string name="title_convert_fbe">Converting to file based encryption</string>

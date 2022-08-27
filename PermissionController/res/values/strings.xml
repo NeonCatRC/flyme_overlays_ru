@@ -81,7 +81,7 @@
     <string name="app_permission_button_allow_always">Allow all the time</string>
     <string name="app_permission_button_allow_foreground">Allow only while using the app</string>
     <string name="app_permission_button_allow_one_time">Ask next time</string>
-    <string name="app_permission_button_ask">每次都询问</string>
+    <string name="app_permission_button_ask">Ask every time</string>
     <string name="app_permission_button_deny">Deny</string>
     <string name="app_permission_footer_app_permissions_link">See all %1$s permissions</string>
     <string name="app_permission_footer_no_usages_activity_recognition">%1$s has not accessed your physical activity</string>

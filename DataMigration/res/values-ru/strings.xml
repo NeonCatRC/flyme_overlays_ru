@@ -527,7 +527,7 @@ to get app information"</string>
     <string name="migration_screen_always_on_enabled">Screen Always On enabled</string>
     <string name="migration_select_old_phone_type">Select old phone type</string>
     <string name="migration_select_phone_type_android">Other Android</string>
-    <string name="migration_select_phone_type_android_tips">Huawei XiaoMi OPPO vivo etc</string>
+    <string name="migration_select_phone_type_android_tips">Huawei XiaoMi OPPO Vivo etc</string>
     <string name="migration_select_phone_type_apple">Apple</string>
     <string name="migration_select_phone_type_meizu">Meizu</string>
     <string name="migration_start_soft_ap_button">Turn On</string>

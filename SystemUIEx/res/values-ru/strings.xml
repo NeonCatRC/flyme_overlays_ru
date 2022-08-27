@@ -169,7 +169,7 @@
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
-    <string name="mz_permission_agree">Согласен</string>
+    <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_allow">Разрешить</string>
     <string name="mz_permission_almost_deny">Запретить и больше не спрашивать</string>
     <string name="mz_permission_always_allow">Всегда разрешать</string>
@@ -214,7 +214,7 @@
     <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
     <string name="mz_pm_set_wifi_on">Включение Wi-Fi</string>
     <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
-    <string name="mz_privacy_policy">Политика приватности Meizu</string>
+    <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Разрешить доступ</string>
     <string name="mz_specific_permission_deny">Запретить доступ</string>

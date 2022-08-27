@@ -341,7 +341,7 @@
     <string name="settings_category_check_update_newest">Это последняя версия</string>
     <string name="settings_category_check_update_summary">Текущая версия: </string>
     <string name="settings_category_other">Другие</string>
-    <string name="settings_category_privacy_policy">Политика приватности</string>
+    <string name="settings_category_privacy_policy">Политика конфиденциальности</string>
     <string name="settings_title">Настройки</string>
     <string name="share">Передать</string>
     <string name="speaker_play_mode">Через громкоговоритель</string>

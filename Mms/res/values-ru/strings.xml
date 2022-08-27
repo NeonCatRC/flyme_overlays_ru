@@ -675,7 +675,7 @@
     <string name="move_down">Переместить вниз</string>
     <string name="move_up">Переместить вверх</string>
     <string name="msg_body_sms_vcard">Данные vCard</string>
-    <string name="msg_empty_contact">Информация о контакте пуста</string>
+    <string name="msg_empty_contact">Нет контактной информации</string>
     <string name="msg_item_text_more_mult_mms">Детали ></string>
     <string name="msg_item_text_more_single_mms">Детали ></string>
     <string name="msg_loading">Загрузка данных</string>
@@ -712,7 +712,7 @@
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
-    <string name="mz_permission_agree">Согласен</string>
+    <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_allow">Разрешить</string>
     <string name="mz_permission_almost_deny">Больше не спрашивать</string>
     <string name="mz_permission_always_allow">Всегда разрешать</string>
@@ -1140,7 +1140,7 @@
     <string name="slideshow_options">Настройки слайд-шоу</string>
     <string name="sms_full_body">Недостаточно места для получения SMS-сообщений. Освободите память</string>
     <string name="sms_full_title">Память для текстовых сообщений переполнена.</string>
-    <string name="sms_function_agree">Согласен</string>
+    <string name="sms_function_agree">Принимаю</string>
     <string name="sms_function_dialog_content">Согласны ли вы получать SMS-сообщения? Если вы откажетесь, вы не сможете нормально получать SMS/MMS-сообщения.</string>
     <string name="sms_function_refuse">Отказаться</string>
     <string name="sms_mms_failed_cancel_title">Отмена</string>

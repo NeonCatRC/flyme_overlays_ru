@@ -81,8 +81,8 @@
     <string name="app_permission_button_allow_always">Разрешить в любое время </string>
     <string name="app_permission_button_allow_foreground">Разрешить только во время использования </string>
     <string name="app_permission_button_allow_one_time">Спросить позже</string>
-    <string name="app_permission_button_ask">每次都询问</string>
-    <string name="app_permission_button_deny">Запретить </string>
+    <string name="app_permission_button_ask">Ask every time</string>
+    <string name="app_permission_button_deny">Запретить</string>
     <string name="app_permission_footer_app_permissions_link">See all %1$s permissions</string>
     <string name="app_permission_footer_no_usages_activity_recognition">%1$s has not accessed your physical activity</string>
     <string name="app_permission_footer_no_usages_calendar">%1$s has not accessed your calendar</string>
@@ -128,7 +128,6 @@
     <string name="app_permissions_info_button_label">Open app info</string>
     <string name="app_use_record">Запись поведения приложений</string>
     <string name="app_version">Версия %1s</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_list">App list</string>
     <string name="application_managerment">Apps</string>
     <string name="appsec_allowall">Allow all</string>
