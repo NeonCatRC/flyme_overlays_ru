@@ -1826,7 +1826,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="filter_apps_third_party">Установлено</string>
     <string name="filter_dlg_title">Выберите параметры фильтра</string>
     <string name="filter_enabled_apps">Активные</string>
-    <string name="filter_install_sources_apps">Могут устанавливать другие приложения</string>
+    <string name="filter_install_sources_apps">Может устанавливать другие приложения</string>
     <string name="filter_instant_apps">Веб-приложения</string>
     <string name="filter_notif_all_apps">Приложения: Все</string>
     <string name="filter_notif_blocked_apps">Заблокированные</string>
@@ -1837,7 +1837,7 @@ You can't zoom in on the keyboard and navigation bar."</string>
     <string name="filter_overlay_apps">Авторизованные приложения</string>
     <string name="filter_personal_apps">Личные</string>
     <string name="filter_work_apps">Рабочие</string>
-    <string name="filter_write_settings_apps">Могут изменять системные настройки</string>
+    <string name="filter_write_settings_apps">Может изменять системные настройки</string>
     <string name="find_phone_title">Поиск телефона</string>
     <string name="fingerprint_add_max">Доступное количество отпечатков для добавления: %d</string>
     <string name="fingerprint_add_title">Добавить отпечаток пальца</string>

@@ -28,7 +28,7 @@
 | AlwaysOnDisplay | FULL | 9.2.5 | AOD settings app |
 | Calculator | FULL | 9.0.17 | Calc app |
 | Calendar | FULL | 15.X.X | Calendar app |
-| Camera | FULL | 9.9.15 | Camera app |
+| Camera | FULL | 9.8-9.9.15 | Camera app |
 | CustomizeCenter | FULL | N\A | Themes \ AOD settings app |
 | Dialer | FULL | 6.2.4 | Phone app |
 | Email | FULL | 9.0.19 | Standart Flyme e-mail client |

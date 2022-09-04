@@ -584,7 +584,7 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="no_permissions_manage">No permissions to manage</string>
     <string name="no_special_app_access">No special app access</string>
     <string name="not_set">Not set</string>
-    <string name="notification_permission_message">Могут включать в себя вибрацию, звуковое оповещение или оповещение на иконке</string>
+    <string name="notification_permission_message">Может включать в себя вибрацию, звуковое оповещение или оповещение на иконке</string>
     <string name="notification_permission_title">Разрешить %1$s отправку уведомлений?</string>
     <string name="notify_msg">Уведомления</string>
     <string name="nowadays">В недавнее время</string>

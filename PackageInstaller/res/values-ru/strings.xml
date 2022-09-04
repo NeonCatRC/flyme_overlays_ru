@@ -449,7 +449,9 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="need_to_confirm_password_message">\"%1$s\" is trying to install \"%2$s\". To prevent malicious installation, please use the App Store to safely install or verify the Flyme account password to continue the installation</string>
     <string name="need_to_confirm_positive">App Store Installation</string>
     <string name="need_to_confirm_title">Risk Warning</string>
-    <string name="network">Cellular data</string>
+
+    <string name="network">Передача данных</string>
+
     <string name="network_execption">The network is abnormal, please try again later</string>
     <string name="network_fail">No network connection, please check the network settings</string>
     <string name="no_permissions_manage">No permissions to manage</string>
@@ -460,9 +462,9 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="ok">ОК</string>
     <string name="only_one">Единожды</string>
     <string name="op_camera">Камера</string>
+    <string name="op_camera_des">Фото &amp; видео</string>
+    <string name="op_getinstallpkg">Список приложений</string>
 
-    <string name="op_camera_des">photo &amp; video</string>
-    <string name="op_getinstallpkg">App List</string>
     <string name="op_getinstallpkg_des">Read list of installed apps in your phone</string>
     <string name="op_imei">Access phone ID</string>
     <string name="op_imei_des">Read the phone IMEI, SN and other information</string>
@@ -562,17 +564,13 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="text_virus_install_confirm_tips">Подсказки</string>
     <string name="thousand">тысяча</string>
     <string name="title_activity_app_sec">Приложения</string>
-
-    <string name="title_allow_item">Apps allowed to %1$s: %2$s</string>
-    <string name="title_prompt_item">Apps %1$s need to ask: %2$s</string>
-    <string name="title_reject_item">Disallowed to %1$s: %2$s</string>
-
+    <string name="title_allow_item">Приложению разрешено %1$s: %2$s</string>
+    <string name="title_prompt_item">Приложение %1$s запрашивает: %2$s</string>
+    <string name="title_reject_item">Запрещено %1$s: %2$s</string>
     <string name="unexpected_exception">Неизвестная ошибка. Попробуйте переустановить приложение.</string>
     <string name="uninstall">Удалить</string>
-
-    <string name="uninstall_activity_text">%1$s is part of the following app:</string>
-    <string name="uninstall_all_blocked_profile_owner">This app is required for some users or profiles and was uninstalled for others</string>
-
+    <string name="uninstall_activity_text">%1$s часть следующего приложения:</string>
+    <string name="uninstall_all_blocked_profile_owner">Данное приложение требуется для некоторых пользователей или профилей and и было удалено</string>
     <string name="uninstall_application_text">Вы хотите удалить данное приложение?</string>
 
     <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
@@ -596,7 +594,9 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="uninstall_failure_notification_channel">Ошибка удаления</string>
 
     <string name="uninstall_keep_data">Keep %1$s of app data.</string>
-    <string name="uninstall_notice">Uninstalling the app will also delete its data</string>
+
+    <string name="uninstall_notice">Удаление приложения также удалит его данные</string>
+
     <string name="uninstall_notice_sub">Uninstalling the main app will also delete its clone and data</string>
     <string name="uninstall_summary_default">If you uninstall this app, other apps may not work</string>
     <string name="uninstall_update_text">Replace this app with the factory version? All data will be removed.</string>
@@ -625,17 +625,15 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="virus_scanning_text">Сканирование на наличие вирусов...</string>
     <string name="w_sms_mms">Писать СМС/ММС</string>
     <string name="warning_title_unsafe">Это приложение заражено вирусом. В целях безопасности вашего телефона установка была автоматически заблокирована.</string>
-
-    <string name="wd_calendar">Write/Delete calendar</string>
-    <string name="wd_call_log">Write/Delete call log</string>
-    <string name="wd_call_log_des">Edit incoming and outgoing calls</string>
-    <string name="wd_contacts">Write/Delete contact</string>
-    <string name="wd_contacts_des">Write/delete contact information</string>
-    <string name="wd_sms_mms">Write/delete SMS/MMS</string>
-    <string name="wd_sms_mms_des">Write/delete SMS and MMS</string>
-    <string name="wear_app_channel">Installing/uninstalling wear apps</string>
-    <string name="wear_not_allowed_dlg_text">Install/Uninstall actions not supported on Wear.</string>
-
+    <string name="wd_calendar">Создание/Удаление событий</string>
+    <string name="wd_call_log">Создание/Удаление журнала звонков</string>
+    <string name="wd_call_log_des">Редактировать входящие и исходящие вызовы</string>
+    <string name="wd_contacts">Создание/Удаление контактов</string>
+    <string name="wd_contacts_des">Создание/Удаление информацию о контактах</string>
+    <string name="wd_sms_mms">Создание/Удаление СМС/ММС</string>
+    <string name="wd_sms_mms_des">Создание/Удаление СМС и ММС</string>
+    <string name="wear_app_channel">Установка/Удаление приложений Wear OS</string>
+    <string name="wear_not_allowed_dlg_text">Установка/Удаление не поддерживаются на Wear OS.</string>
     <string name="wear_not_allowed_dlg_title">Android Wear</string>
     <string name="wlan">Подключение к Wi-Fi</string>
 </resources>

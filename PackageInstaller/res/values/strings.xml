@@ -634,9 +634,9 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="wd_call_log">Write/Delete call log</string>
     <string name="wd_call_log_des">Edit incoming and outgoing calls</string>
     <string name="wd_contacts">Write/Delete contact</string>
-    <string name="wd_contacts_des">Write/delete contact information</string>
-    <string name="wd_sms_mms">Write/delete SMS/MMS</string>
-    <string name="wd_sms_mms_des">Write/delete SMS and MMS</string>
+    <string name="wd_contacts_des">Write/Delete contact information</string>
+    <string name="wd_sms_mms">Write/Delete SMS/MMS</string>
+    <string name="wd_sms_mms_des">Write/Delete SMS and MMS</string>
     <string name="wear_app_channel">Installing/uninstalling wear apps</string>
     <string name="wear_not_allowed_dlg_text">Install/Uninstall actions not supported on Wear.</string>
     <string name="wear_not_allowed_dlg_title">Android Wear</string>

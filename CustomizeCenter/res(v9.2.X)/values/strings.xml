@@ -695,7 +695,7 @@ Auto Wallpaper Changer"</string>
     <string name="permission_internet_reason">Get theme store materials</string>
     <string name="permission_msg_contacts">This permission is required to set the contact ringtone function</string>
     <string name="permission_msg_get_account">This permission is required to \"%s\" function</string>
-    <string name="permission_name_contacts">Write/delete contacts</string>
+    <string name="permission_name_contacts">Write/Delete contacts</string>
     <string name="permission_name_get_accounts">account information</string>
     <string name="permission_name_write_read_external">storage</string>
     <string name="permission_storage_reason">Download themes, fonts, ringtones, wallpapers and other files</string>

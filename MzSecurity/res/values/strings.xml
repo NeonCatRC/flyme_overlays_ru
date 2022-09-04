@@ -1588,7 +1588,7 @@ Recently used: %2$s"</string>
     <string name="wd_calendar">Write / delete calendar</string>
     <string name="wd_call_log">Write / delete call log</string>
     <string name="wd_contacts">Write / delete contact</string>
-    <string name="wd_sms_mms">Write/delete SMS/MMS</string>
+    <string name="wd_sms_mms">Write/Delete SMS/MMS</string>
     <string name="wechat_cleaner">@string/cleaner_we_chat</string>
     <string name="wechat_cleaner_des">@string/cleaner_entrance_we_chat_desc</string>
     <string name="wechat_friends">WeChat Friends</string>

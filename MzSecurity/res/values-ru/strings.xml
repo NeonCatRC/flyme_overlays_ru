@@ -931,8 +931,8 @@
     <string name="oaid_tip">Анонимный идентификатор устройства позволяет приложениям и рекламным сервисам предоставлять персонифицированную рекламу без вмешательства в личные данные пользователя</string>
     <string name="op_camera">Использовать камеру</string>
     <string name="op_camera_c">использовать камеру</string>
-    <string name="op_getinstallpkg">Получать список приложений</string>
-    <string name="op_getinstallpkg_c">Получать список приложений</string>
+    <string name="op_getinstallpkg">Списоку приложений</string>
+    <string name="op_getinstallpkg_c">списоку приложений</string>
     <string name="op_imei">IMEI телефона</string>
     <string name="op_imei_c">получать IMEI телефона</string>
     <string name="op_record_audio">Вызовы и диктофон</string>
