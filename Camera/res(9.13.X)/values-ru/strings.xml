@@ -370,14 +370,16 @@
     <string name="mz_fb_smart_mile">Умная миля</string>
     <string name="mz_fb_smooth">Сглаживание</string>
     <string name="mz_fb_tone">Тон кожи</string>
+    <string name="mz_filter_1_title">Свежесть</string>
+    <string name="mz_filter_2_title">Ярко</string>
+    <string name="mz_filter_3_title">Рассвет</string>
 
-    <string name="mz_filter_1_title">Fresh</string>
-    <string name="mz_filter_2_title">Vivid</string>
-    <string name="mz_filter_3_title">Sunrise</string>
     <string name="mz_filter_4_title">Fair</string>
-    <string name="mz_filter_5_title">Nostalgia</string>
-    <string name="mz_filter_6_title">Quiet</string>
-    <string name="mz_filter_7_title">Azure</string>
+
+    <string name="mz_filter_5_title">Ностальгия</string>
+    <string name="mz_filter_6_title">Тишина</string>
+    <string name="mz_filter_7_title">Лазурь</string>
+    
     <string name="mz_filter_8_title">Silver</string>
 
     <string name="mz_filter_9_title">Ч/Б</string>
@@ -409,9 +411,7 @@
     <string name="mz_hint_af_lock_af">AF Lock</string>
     <string name="mz_hint_af_lock_all">AF/AE Lock</string>
     <string name="mz_hint_exit_immersion_mode">Нажмите 2 раза чтобы выйти из предпросмотра</string>
-
-    <string name="mz_hint_quick_burst">Drag and hold the shutter to shoot</string>
-
+    <string name="mz_hint_quick_burst">Перетащите и удерживайте затвор, чтобы сфотографировать</string>
     <string name="mz_hint_show_smart_bar_bottom">Проведите пальцем вниз, чтобы изменить положение панели действий</string>
     <string name="mz_hint_show_smart_bar_top">Проведите пальцем вверх, чтобы изменить положение панели действий</string>
     <string name="mz_hint_supernight_desc">Нажмите, чтобы опробовать «Ночное супер-фото»</string>
@@ -442,9 +442,7 @@
     <string name="mz_manual_scenemode_label_normal">Обычный</string>
     <string name="mz_manual_scenemode_label_portrait">Портрет</string>
     <string name="mz_manual_scenemode_label_sunset">Закат</string>
-
-    <string name="mz_manual_shutter_speed_title">S</string>
-
+    <string name="mz_manual_shutter_speed_title">С</string>
     <string name="mz_manual_wb_title">Ч/Б</string>
     <string name="mz_manual_whitebalance_label_cloudy">Облачно</string>
     <string name="mz_manual_whitebalance_label_daylight">Солнечно</string>
@@ -607,24 +605,18 @@
     <string name="mz_streamer_csml_info_introduction">Capture the blurring of lights at night and the flow of car lights.</string>
     <string name="mz_streamer_csml_info_scene_introduction">Choose to shoot between 7pm and 9pm to avoid scenes of traffic jams and sparse traffic during rush hours</string>
     <string name="mz_streamer_csml_info_scene_introduction2">Choose a flyover or high-rise building with a suitable height, and avoid shooting directly facing the direction of the car lights, causing the photo to be partially bright</string>
-    <string name="mz_streamer_csml_name">CSML</string>
     <string name="mz_streamer_csml_suggest_time_hint">Recommended to shoot for 20 seconds</string>
-    <string name="mz_streamer_filter_item_bg">mz_streamer_filter_item_bg</string>
-    <string name="mz_streamer_filter_resource">mz_streamer_filter_resource</string>
     <string name="mz_streamer_info_guide_hint">Click to view shooting tips</string>
     <string name="mz_streamer_info_scene_title">Scene Selection</string>
     <string name="mz_streamer_info_skill_title">Skill Tips</string>
-    <string name="mz_streamer_info_thumb_img">mz_streamer_info_thumb_img</string>
     <string name="mz_streamer_lmxg_info_introduction">Capture the movement of stars under the firmament of night.</string>
     <string name="mz_streamer_lmxg_info_scene_introduction">Choose suburbs with less light pollution, the star trails will be brighter</string>
     <string name="mz_streamer_lmxg_info_scene_introduction2">Avoid daylight (start shooting 2 hours after sunset), avoid moonlight (difficult to shoot around the 15th full moon of the lunar calendar), avoid rainy days</string>
-    <string name="mz_streamer_lmxg_name">LMXG</string>
     <string name="mz_streamer_lmxg_suggest_time_hint">Recommended to shoot for 20 minutes, Please use tripod</string>
     <string name="mz_streamer_polaris_text">Polaris</string>
     <string name="mz_streamer_sjls_info_introduction">The gurgling water under long exposure is as silky as milk.</string>
     <string name="mz_streamer_sjls_info_scene_introduction">Choose rushing streams, waterfalls, and waves for shooting</string>
     <string name="mz_streamer_sjls_info_scene_introduction2">Choose rugged rocks and low plants as static objects for better dynamic and static collocation</string>
-    <string name="mz_streamer_sjls_name">SJLS</string>
     <string name="mz_streamer_sjls_suggest_time_hint">Recommended to shoot for 10 seconds</string>
     <string name="mz_streamer_skill_introduction_polaris">Turn on the Pole Star prompt in the top bar, aim at the north (south) Pole Star to shoot to get a more beautiful star trail effect</string>
     <string name="mz_streamer_skill_introduction_stable">Try to keep the camera stable during shooting and use a tripod if possible</string>
@@ -632,7 +624,6 @@
     <string name="mz_streamer_ycwx_info_introduction">Draw the clouds into silk, and paint with time to paint.</string>
     <string name="mz_streamer_ycwx_info_scene_introduction">In summer and autumn, sunset clouds often appear in the sky in the evening, which is a good time to take pictures of sunset clouds.</string>
     <string name="mz_streamer_ycwx_info_scene_introduction2">Choose a place with a relatively open view: beaches, lakes (river) banks, mountain tops, and ground scenery. It is advisable to choose small trees with prominent shapes and obvious outlines, pavilions and pavilions.</string>
-    <string name="mz_streamer_ycwx_name">YCWX</string>
     <string name="mz_streamer_ycwx_suggest_time_hint">Recommended to shoot for 2 minutes, Please use tripod</string>
     
     <string name="mz_system_battery_level_low_close_record">Низкий заряд батареи, видеозапись приостановлена</string>
