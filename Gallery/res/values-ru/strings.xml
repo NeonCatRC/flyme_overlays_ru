@@ -308,7 +308,7 @@
     <string name="delete_album_tips">Удалить %d альб. и все фото внутри</string>
     <string name="delete_album_videos">Удалить альбом и %d видео внутри</string>
     <string name="delete_all_burst_photo">Удалить все снимки в этой серии</string>
-    <string name="delete_both_tips">Удаление: %d</string>
+    <string name="delete_both_tips">Удалить: %d</string>
     <string name="delete_cloud_either">Также удалить из облака (если существует в облачном альбоме)</string>
     <string name="delete_cloud_trans_tips">Удалить элементы: %d</string>
     <string name="delete_photo_tips">Удаление фото: %d</string>
