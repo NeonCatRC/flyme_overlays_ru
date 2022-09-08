@@ -583,7 +583,7 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="uninstall_blocked_profile_owner">"This app is needed for your profile and can't be uninstalled."</string>
 
     <string name="uninstall_done">Удаление завершено.</string>
-    <string name="uninstall_done_app">%1$s Удалено</string>
+    <string name="uninstall_done_app">Удалено %1$s</string>
     <string name="uninstall_failed">Ошибка удаления.</string>
     <string name="uninstall_failed_app">Удаление %1$s не удалось.</string>
 

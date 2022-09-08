@@ -442,7 +442,7 @@
     <string name="mz_manual_scenemode_label_normal">Обычный</string>
     <string name="mz_manual_scenemode_label_portrait">Портрет</string>
     <string name="mz_manual_scenemode_label_sunset">Закат</string>
-    <string name="mz_manual_shutter_speed_title">С</string>
+    <string name="mz_manual_shutter_speed_title">Выдержка</string>
     <string name="mz_manual_wb_title">Ч/Б</string>
     <string name="mz_manual_whitebalance_label_cloudy">Облачно</string>
     <string name="mz_manual_whitebalance_label_daylight">Солнечно</string>
@@ -462,7 +462,7 @@
     <string name="mz_online_funny_close_title">Выключить режим забавного кадра?</string>
     <string name="mz_online_setting_title">Управление функциями</string>
     <string name="mz_online_version">Версия: %s</string>
-    <string name="mz_orientation_hint">Сохранить по этому направлению</string>
+    <string name="mz_orientation_hint">Сохранить в данной ориентации</string>
     <string name="mz_pano_hint">Нажмите затвор и двигайте камеру по горизонтали</string>
     <string name="mz_pano_hint_off_center">Камера двигается не по горизонтали</string>
     <string name="mz_pano_hint_saving">Сохранение</string>
@@ -654,8 +654,8 @@
     <string name="mz_toggle_hint_hdr_auto">Авто-HDR включён</string>
     <string name="mz_toggle_hint_hdr_close">HDR выключен</string>
     <string name="mz_toggle_hint_hdr_open">HDR включён</string>
-    <string name="mz_toggle_hint_high_define_close">Отключить HD-разрешение</string>
-    <string name="mz_toggle_hint_high_define_open">Включить HD-разрешение</string>
+    <string name="mz_toggle_hint_high_define_close">Отключено HD-разрешение</string>
+    <string name="mz_toggle_hint_high_define_open">Включено HD-разрешение</string>
     <string name="mz_toggle_hint_high_size_notify">%1$dM пригодно для съемки в условиях сильной освещенности</string>
     <string name="mz_toggle_hint_live_photo_close">Живое фото выключено</string>
     <string name="mz_toggle_hint_live_photo_open">Живое фото включено</string>
@@ -665,8 +665,8 @@
 
     <string name="mz_toggle_hint_super_portrait_close">AI Супер портрет выключен</string>
     <string name="mz_toggle_hint_super_portrait_on">AI Супер портрет включен</string>
-    <string name="mz_toggle_hint_tripod_close">Закрыть оптимизацию треноги</string>
-    <string name="mz_toggle_hint_tripod_open">Открыть оптимизацию треноги</string>
+    <string name="mz_toggle_hint_tripod_close">Режим штатива отключён</string>
+    <string name="mz_toggle_hint_tripod_open">Режим штатива включён</string>
     <string name="mz_toggle_hint_video_super_night_close">Супер-Ночь выключен</string>
     <string name="mz_toggle_hint_video_super_night_open">Супер-Ночь включен</string>
     <string name="mz_usb_charge_forbid_use_flash">Вспышка недоступна во время зарядки</string>
