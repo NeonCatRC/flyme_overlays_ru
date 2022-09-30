@@ -587,7 +587,7 @@
     <string name="mz_permission_apply">Запрос разрешений</string>
     <string name="mz_permission_deny">Запретить</string>
     <string name="mz_permission_disagree">Запретить</string>
-   <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
     <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
     <string name="mz_permission_message_content">Приложение «%1$s» запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_permission_message_supplement">Приложение «%1$s» требует %2$s %3$d разрешен.</string>
