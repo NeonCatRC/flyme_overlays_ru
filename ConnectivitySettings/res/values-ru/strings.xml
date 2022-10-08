@@ -644,16 +644,13 @@ Selection: Sample Rate"</string>
     <string name="inactive_app_inactive_summary">Inactive. Tap to toggle.</string>
     <string name="inactive_apps_title">Standby apps</string>
     <string name="input_method_selector_always_hide_title">Always hide</string>
-    <string name="input_method_selector_always_hide_value">2</string>
     <string name="input_method_selector_always_show_title">Always show</string>
-    <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_show_automatically_title">Auto</string>
-    <string name="input_method_selector_show_automatically_value">0</string>
-    <string name="input_method_selector_visibility_default_value">0</string>
-    <string name="install_other_apps">Install unknown apps</string>
-    <string name="install_unknown_applications">Install apps from unknown sources</string>
+
+    <string name="install_other_apps">Установка неизвестного ПО</string>
+    <string name="install_unknown_applications">Разрешить установку приложений из неизвестных источников</string>
+    
     <string name="item_is_selected">%1$s selected</string>
-    <string name="join_two_unrelated_items">%1$s, %2$s</string>
     <string name="keep_screen_on">Stay awake</string>
     <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
     <string name="key_sounds_enable_title">Keyboard</string>
@@ -826,9 +823,10 @@ Selection: Sample Rate"</string>
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">OK</string>
 
-    <string name="media_category">Media</string>
-    <string name="media_transfer_this_device_name">This device</string>
-    <string name="media_volume_option_title">Media</string>
+    <string name="media_category">Мультимедиа</string>
+    <string name="media_transfer_this_device_name">Это устройство</string>
+    <string name="media_volume_option_title">Мультимедиа</string>
+
     <string name="meizu_beam_conn">Connection</string>
     <string name="meizu_beam_conn_explained">Hold the two devices back to back.</string>
     <string name="meizu_beam_disabled_summary">Unavailable because NFC is disabled</string>
@@ -848,34 +846,42 @@ Selection: Sample Rate"</string>
     <string name="meizu_pay_explained">Add bank, transit, and access control cards, etc. to Meizu Pay to experience a convenient life</string>
     <string name="meizupay_setting">Meizu Pay</string>
     <string name="meizupay_setting_summary">Credit card payment, so convenient</string>
-    <string name="menu_delete">Delete APN</string>
-    <string name="menu_new">New APN</string>
-    <string name="menu_restore">Reset to default</string>
-    <string name="menu_save">Save</string> 
-    <string name="menu_stats_refresh">Refresh</string>
+
+    <string name="menu_delete">Удалить APN</string>
+    <string name="menu_new">Новое APN</string>
+    <string name="menu_restore">Восстановить настройки по умолчанию</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_stats_refresh">Обновить</string>
     <string name="mms">MMS</string>
-    <string name="mms_sound_title">Message</string>
-    <string name="mobile_connect_to_internet">Please connect to the internet</string>
-    <string name="mobile_data_always_on">Cellular data always active</string>
-    <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi-Fi is active (for fast network switching).</string>
+    <string name="mms_sound_title">Сообщение</string>
+    <string name="mobile_connect_to_internet">Подключитесь к Интернету</string>
+    <string name="mobile_data_always_on">Не отключать передачу данных</string>
+    <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном Wi-Fi-подключении (для быстрого переключения между сетями).</string>
+
     <string name="mobile_data_limit_msg">Mobile network auxiliary acceleration has been turned on, you can set the amount of data limit to avoid excessive use of mobile data</string>
     <string name="mobile_enable_title">Mobile network assisted acceleration</string>
-    <string name="mobile_insert_sim_card">Please insert SIM card and restart</string>
-    <string name="mobile_no_provisioning_url">%1$s has no known config website</string>
-    <string name="mobile_settings">Mobile settings</string>
+
+    <string name="mobile_insert_sim_card">Вставьте SIM-карту и перезагрузите устройство</string>
+    <string name="mobile_no_provisioning_url">У оператора %1$s нет веб-сайта для синхронизации</string>
+    <string name="mobile_settings">Настройки сети</string>
+
     <string name="mobile_switch_summary">Will cost mobile data if enable</string>
-    <string name="mobile_unknown_sim_operator">Unknown SIM operator</string>
-    <string name="moblie_data_limit_dialog_cancel">Cancel</string>
-    <string name="moblie_data_limit_dialog_ok">Set</string>
-    <string name="mock_location_app">Select mock location app</string>
-    <string name="mock_location_app_not_set">No mock location app set</string>
-    <string name="mock_location_app_set">Mock location app: %1$s</string>
-    <string name="monkey_bluetooth_settings">Bluetooth Settings</string>
-    <string name="monkey_mobile_settings">Mobile Settings</string>
-    <string name="monkey_tether_settings">Tether Settings</string>
-    <string name="monkey_wifi_settings">Wifi Settings</string>
+
+    <string name="mobile_unknown_sim_operator">Неизвестный оператор связи</string>
+    <string name="moblie_data_limit_dialog_cancel">Отмена</string>
+    <string name="moblie_data_limit_dialog_ok">Задать</string>
+    <string name="mock_location_app">Выбрать приложение для фиктивных местоположений</string>
+    <string name="mock_location_app_not_set">Нет приложения для фиктивных местоположений</string>
+    <string name="mock_location_app_set">Приложение для создания фиктивных местоположений: %1$s</string>
+    <string name="monkey_bluetooth_settings">Настройки Bluetooth</string>
+    <string name="monkey_mobile_settings">Настройки сети</string>
+    <string name="monkey_tether_settings">Настройки точки доступа</string>
+    <string name="monkey_wifi_settings">Настройки Wi-Fi</string>
+
     <string name="monkey_wireless_settings">Wireless Settings</string>
-    <string name="more_item_label">More</string>
+
+    <string name="more_item_label">Ещё</string>
+
     <string name="mr_button_content_description">Cast button</string>
     <string name="mr_cast_button_connected">Cast button. Connected</string>
     <string name="mr_cast_button_connecting">Cast button. Connecting</string>
@@ -898,12 +904,14 @@ Selection: Sample Rate"</string>
     <string name="mr_controller_volume_slider">Volume slider</string>
     <string name="mr_dialog_groupable_header">Add a device</string>
     <string name="mr_dialog_transferable_header">Play on a group</string>
-    <string name="mr_system_route_name">System</string>
-    <string name="mr_user_route_category_name">Devices</string>
-    <string name="mutual_transmission">MeiZu Mutual transmission</string>
-    <string name="mvno_match_data">MVNO value</string>
-    <string name="mvno_type">MVNO type</string>
 
+    <string name="mr_system_route_name">Система</string>
+    <string name="mr_user_route_category_name">Устройства</string>
+
+    <string name="mutual_transmission">MeiZu Mutual transmission</string>
+
+    <string name="mvno_match_data">Значение MVNO</string>
+    <string name="mvno_type">Тип MVNO</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Снять</string>
@@ -1145,7 +1153,9 @@ Selection: Sample Rate"</string>
     <string name="power_remaining_only_more_than_subtext">More than %1$s remaining</string>
     <string name="power_suggestion_extend_battery">Extend battery life past %1$s</string>
     <string name="power_usage_summary_title">Battery Manager</string>
+
     <string name="ppp_dialing">Prompt password</string>
+
     <string name="pppoe_btn_cancel">Cancel</string>
     <string name="pppoe_btn_connect">Connect</string>
     <string name="pppoe_btn_disconnect">Disconnect</string>
@@ -1162,6 +1172,7 @@ Selection: Sample Rate"</string>
     <string name="pppoe_sure_to_disconnect">Disconnect from PPPoE?</string>
     <string name="pppoe_username">Username</string>
     <string name="pppoe_wifi_not_connected">Wi-Fi is not connected, PPPoE is unavailable</string>
+    
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="preferred_lte">Enable 4G data only</string>
@@ -1192,19 +1203,18 @@ Selection: Sample Rate"</string>
     <string name="proxy_error_invalid_port">"The port you typed isn't valid."</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_exclusionlist_label">Bypass proxy for</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_hostname_label">Proxy hostname</string>
     <string name="proxy_pac_label">PAC URL</string>
-    <string name="proxy_port_hint">8080</string>
     <string name="proxy_port_label">Proxy port</string>
     <string name="proxy_settings_title">Proxy</string>
     <string name="proxy_url_title">"PAC URL: "</string>
     <string name="proxy_warning_limited_support">The HTTP proxy is used by the browser but may not be used by other apps.</string>
     <string name="pseudo_base_station">Base Station Guard</string>
     <string name="pseudo_base_station_summary">Authenticate base station to block scam SMS</string>
-    <string name="qr_code_share_notice">Please scan the QR code with Flyme camera to connect</string>
-    <string name="quick_wakeup_tips">Use gestures to wake the phone or open apps when the screen is off</string>
-    <string name="quick_wakeup_title">Gesture wakeup</string>
+    
+    <string name="qr_code_share_notice">Отсканируйте QR-код с помощью камеры для подключения</string>
+    <string name="quick_wakeup_tips">Жесты на выключенном экране для быстрого пробуждения телефона</string>
+    <string name="quick_wakeup_title">Быстрое пробуждение</string>
     
     <string name="radioInfo_data_connected">Connected</string>
     <string name="radio_controls_title">More</string>
@@ -1408,11 +1418,11 @@ Selection: Sample Rate"</string>
     <string name="speed_label_slow">Медленная</string>
     <string name="speed_label_very_fast">Очень быстрая</string>
     <string name="speed_label_very_slow">Очень медленная</string>
+    <string name="speed_test">Проверка скорости сети</string>
 
-    <string name="speed_test">Network speed test</string>
     <string name="standby_bucket_summary">App standby state: %s</string>
-    <string name="start_speed_measurement">Start speed measurement</string>
 
+    <string name="start_speed_measurement">Начать тест</string>
     <string name="state_off">Выкл.</string>
     <string name="state_on">Вкл.</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1421,18 +1431,18 @@ Selection: Sample Rate"</string>
     <string name="status_number">Мой номер телефона</string>
     <string name="status_operator">Сети</string>
     <string name="status_roaming">Роуминг</string>
+    <string name="status_service_state">Состояние сети</string>
+    <string name="status_signal_strength">Уровень сигнала</string>
+    <string name="status_unavailable">Недоступно</string>
+    <string name="statusbar">Строка состояния</string>
+    <string name="statusbar_power_percent">Процент заряда</string>
+    <string name="storage_title_usb">USB-подключение к компьютеру</string>
+    <string name="strict_mode">Включен строгий режим</string>
 
-    <string name="status_service_state">Service state</string>
-    <string name="status_signal_strength">Signal strength</string>
-    <string name="status_unavailable">Unavailable</string>
-    <string name="statusbar">Status bar</string>
-    <string name="statusbar_power_percent">Battery percentage</string>
-    <string name="storage_title_usb">USB computer connection</string>
-    <string name="strict_mode">Strict mode enabled</string>
     <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
-    <string name="sum_search_networks">Search for all available networks</string>
-    <string name="sum_select_automatically">Auto choose preferred network</string>
-
+    
+    <string name="sum_search_networks">Поиск доступных сетей</string>
+    <string name="sum_select_automatically">Автоподключение к предпочтительной сети</string>
     <string name="switch_off_text">Выкл.</string>
     <string name="switch_on_text">Вкл.</string>
 
