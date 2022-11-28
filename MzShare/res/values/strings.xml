@@ -282,7 +282,7 @@
     <string name="mutual_msg_open_wifi">Please set up WLAN</string>
     <string name="mutual_progress_channel_name">Meizu Mutual Progress Notify</string>
     <string name="mutual_search_device">Searching for nearby devices</string>
-    <string name="mutual_search_notify_user_text">Please enable mutual transmission function in the notification bar of the other party. Support mobile phones of Meizu, Xiaomi, Redme, OPPO, and Vivo</string>
+    <string name="mutual_search_notify_user_text">Please enable mutual transmission function in the notification bar of the other party. Support mobile phones of Meizu, Xiaomi, Redmi, OPPO, and Vivo</string>
     <string name="mutual_send_canceled">Send canceled</string>
     <string name="mutual_send_failed">Send Failed</string>
     <string name="mutual_send_reject">Send rejected</string>

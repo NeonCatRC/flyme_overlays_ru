@@ -41,6 +41,7 @@
 | MzAccount | FULL | 9.1.6 | Meizu account app |
 | MzBatteryManager | FULL | 9.0.6 | Battery manager |
 | MzSecurity | FULL | 9.2.20 | Build-in antivirus and cleaner |
+| MzShare | FULL | 4.1.19 | BT Share app |
 | NetAdmin | FULL | 9.0.4 | Build-in network check and diagnostics |
 | NotePaper | FULL | 9.0.23 | Notepad app |
 | Pedometer | FULL (AD) | 6.0.X | Step counter |
@@ -63,7 +64,6 @@
 | GameCenter | WIP | | Flyme games app |
 | mCareNew | WIP | 4.4.X-5.0.X | Post-sales service |
 | Music | Stop | | Standart Flyme music app |
-| MzShare | WIP | 4.1.19 | BT Share app |
 | MzUpdate | WIP | 9.2.8 | Meizu update center |
 | PackageInstaller | WIP | 8.8.0 | Build-in meizu package installer |
 | PermissionController | Stop | |  |
