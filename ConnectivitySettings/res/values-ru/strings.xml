@@ -71,8 +71,8 @@
 Ваш Администратор имеет возможность контролировать и управлять настройками, доступом, приложениями и данными, связанными с этим пользователем, включая сетевую активность и информацию о местоположении вашего устройства.\""</string>
 
     <string name="admin_device_owner_message">"Your administrator can monitor and manage apps and data associated with this device, including settings, permissions, corporate access, network activity, and the device's location information."</string>
-    <string name="admin_disabled_other_options">Other options are disabled by your administrator.</string>
     
+    <string name="admin_disabled_other_options">Другие настройки отключены администратором.</string>
     <string name="admin_more_details">Подробнее</string>
 
     <string name="admin_profile_owner_message">"Your administrator can monitor and manage apps and data associated with your work profile, including settings, permissions, corporate access, network activity, and the device's location information."</string>
@@ -263,10 +263,10 @@
     <string name="bluetooth_media_absolute_volume_sync_summary">Громкость устройства Bluetooth синхронизируется с громкостью телефона</string>
     <string name="bluetooth_media_absolute_volume_sync_title">Синхронизация громкости мультимедиа</string>
 
-    <string name="bluetooth_meizu_active_battery_level">Active, left %1$s right %2$s</string>
-    <string name="bluetooth_meizu_active_no_a2dp_battery_level">Active (no media), left %1$s right %2$s</string>
-    <string name="bluetooth_meizu_connected_battery_level">Connected, left %1$s right %2$s</string>
-    <string name="bluetooth_meizu_connected_no_a2dp_battery_level">Connected (no media), left %1$s right %2$s</string>
+    <string name="bluetooth_meizu_active_battery_level">Active, л: %1$s п: %2$s</string>
+    <string name="bluetooth_meizu_active_no_a2dp_battery_level">Active (no media), л. %1$s п. %2$s</string>
+    <string name="bluetooth_meizu_connected_battery_level">Connected, л. %1$s п. %2$s</string>
+    <string name="bluetooth_meizu_connected_no_a2dp_battery_level">Connected (no media), л. %1$s п. %2$s</string>
    
     <string name="bluetooth_meizu_pop_mode_environment">Окружение</string>
     <string name="bluetooth_meizu_pop_mode_normal">Нормальный</string>
@@ -349,15 +349,15 @@
     <string name="bluetooth_show_devices_without_names">Показывать Bluetooth-устройства без названий</string>
     <string name="bluetooth_show_devices_without_names_summary">Показывать Bluetooth-устройства без названий (только с MAC-адресами)</string>
     <string name="bluetooth_show_received_files">Принятые файлы</string>
-
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
-    <string name="bluetooth_talkback_computer">Computer</string>
-    <string name="bluetooth_talkback_headphone">Headphone</string>
-    <string name="bluetooth_talkback_headset">Headset</string>
+    <string name="bluetooth_talkback_computer">Компьютер</string>
+    <string name="bluetooth_talkback_headphone">Наушники</string>
+    <string name="bluetooth_talkback_headset">Наушники</string>
+
     <string name="bluetooth_talkback_imaging">Imaging</string>
     <string name="bluetooth_talkback_input_peripheral">Input Peripheral</string>
-    <string name="bluetooth_talkback_phone">Phone</string>
 
+    <string name="bluetooth_talkback_phone">Телефон</string>
     <string name="bluetooth_tether_checkbox_text">Bluetooth-модем</string>
     <string name="bluetooth_tethering_available_subtext">Общий доступ к интернет-подключению телефона открыт</string>
     <string name="bluetooth_tethering_device_connected_subtext">Интернет-подключение телефона используется 1 устройством</string>
@@ -367,10 +367,8 @@
     <string name="bluetooth_turning_off">Отключение Bluetooth...</string>
     <string name="bluetooth_turning_on">Включение Bluetooth…</string>
     <string name="bluetooth_unlock">Разблокировка Bluetooth-устройства</string>
-
-    <string name="bluetooth_user_action_disconnect">Disconnect</string>
-    <string name="bluetooth_user_action_switch_to_using">Switch to use</string>
-
+    <string name="bluetooth_user_action_disconnect">Отключить</string>
+    <string name="bluetooth_user_action_switch_to_using">Переключить</string>
     <string name="bluetooth_visibility">Видимость</string>
     <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
     <string name="blur_view_switch_title">Динамическое размытие</string>
@@ -564,8 +562,8 @@
     
     <string name="enable_gpu_debug_layers">Enable GPU debug layers</string>
     <string name="enable_gpu_debug_layers_summary">Allow loading GPU debug layers for debug apps</string>
-    <string name="enable_not_wakeup_screen_str">Disable Wake Up on Notification</string>
-    
+
+    <string name="enable_not_wakeup_screen_str">Выключить пробуждение от уведомлений</string>
     <string name="enable_opengl_traces_title">Вкл. трассировку OpenGL</string>
     <string name="enable_safe_pay_title">Безопасность платежа</string>
     <string name="enable_terminal_summary">Разрешить доступ терминалу к локальной оболочке</string>
@@ -832,8 +830,8 @@
     <string name="media_category">Мультимедиа</string>
     <string name="media_transfer_this_device_name">Это устройство</string>
     <string name="media_volume_option_title">Мультимедиа</string>
+    <string name="meizu_beam_conn">Подключение</string>
 
-    <string name="meizu_beam_conn">Connection</string>
     <string name="meizu_beam_conn_explained">Hold the two devices back to back.</string>
     <string name="meizu_beam_disabled_summary">Unavailable because NFC is disabled</string>
     <string name="meizu_beam_drag_share">Super Sharing</string>
@@ -843,16 +841,16 @@
  If the connection is established between two Meizu phones, you can also share apps by dragging them to the status bar. 
 "</string>
     <string name="meizu_beam_label">MEIZU Beam</string>
-    <string name="meizu_beam_off_summary">Off</string>
+    <string name="meizu_beam_off_summary">Выкл.</string>
     <string name="meizu_beam_on_summary">Enable it to send files through NFC</string>
     <string name="meizu_beam_settings_title">NFC Sharing</string>
     <string name="meizu_beam_touch_share">Easy Share</string>
     <string name="meizu_beam_touch_share_explained">Keep the devices close together and tap the thumbnail to share.</string>
-    <string name="meizu_card">mLiteSIM</string>
-    <string name="meizu_pay_explained">Add bank, transit, and access control cards, etc. to Meizu Pay to experience a convenient life</string>
-    <string name="meizupay_setting">Meizu Pay</string>
-    <string name="meizupay_setting_summary">Credit card payment, so convenient</string>
 
+    <string name="meizu_card">mLiteSIM</string>
+    <string name="meizu_pay_explained">Добавить банк, транзитные карты, карты контроля доступа, и т.д. в Meizu Pay для удобного использования</string>
+    <string name="meizupay_setting">Meizu Pay</string>
+    <string name="meizupay_setting_summary">Оплата кредитной картой, так удобно</string>
     <string name="menu_delete">Удалить APN</string>
     <string name="menu_new">Новое APN</string>
     <string name="menu_restore">Восстановить настройки по умолчанию</string>
@@ -901,9 +899,9 @@
     <string name="mr_controller_expand_group">Expand</string>
     <string name="mr_controller_no_info_available">No info available</string>
     <string name="mr_controller_no_media_selected">No media selected</string>
-    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_pause">Пауза</string>
     <string name="mr_controller_play">Play</string>
-    <string name="mr_controller_stop">Stop</string>
+    <string name="mr_controller_stop">Стоп</string>
     <string name="mr_controller_stop_casting">Stop casting</string>
     <string name="mr_controller_volume_slider">Volume slider</string>
     <string name="mr_dialog_groupable_header">Add a device</string>
@@ -928,13 +926,11 @@
     <string name="mz_date_time_month">мес.</string>
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
-    
-    <string name="mz_fp_category_title">Fingerprint identification</string>
-    <string name="mz_fp_for_flyme_pay_title">Pay by fingerprint</string>
-    <string name="mz_fp_for_unlock_title">Use to unlock screen</string>
-    <string name="mz_fp_management_title">Fingerprint management</string>
-    <string name="mz_fp_summary">Use the fingerprint sensor at the bottom of the phone to unlock the screen and secure apps and files.</string>
-
+    <string name="mz_fp_category_title">Отпечаток пальца</string>
+    <string name="mz_fp_for_flyme_pay_title">Оплата по отпечатку пальца</string>
+    <string name="mz_fp_for_unlock_title">Использовать для разблокировки экрана</string>
+    <string name="mz_fp_management_title">Управление отпечатками пальцев</string>
+    <string name="mz_fp_summary">Используйте датчик отпечатков пальцев в нижней части телефона для разблокировки экрана, защищённых приложений и файлов.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
     <string name="mz_permission_allow">Разрешить</string>
     <string name="mz_permission_almost_deny">Больше не спрашивать</string>
@@ -997,11 +993,11 @@
     <string name="network_state_forbidden">Запрещённая</string>
     <string name="network_state_unknow">Неизвестная</string>
     <string name="networks">Операторы связи</string>
+    <string name="nfc_coming_call_white_list">Белый список входящих вызовов</string>
+    <string name="nfc_coming_call_white_list_summary">%d контакт(ов)</string>
+    <string name="nfc_coming_call_white_list_tips">Вызовы от выбранных контактов не будут заглушены.</string>
+    <string name="nfc_contact_info">Контакт</string>
 
-    <string name="nfc_coming_call_white_list">Incoming Call Whitelist</string>
-    <string name="nfc_coming_call_white_list_summary">%d contact(s)</string>
-    <string name="nfc_coming_call_white_list_tips">Calls from selected contacts will not be muted.</string>
-    <string name="nfc_contact_info">Contact</string>
     <string name="nfc_contact_name_too_long_err">"The selected contact's name is too long. Please shorten it and select again."</string>
     <string name="nfc_custom_mode_not_init">Custom mode has not been set yet.</string>
     <string name="nfc_data_null_err">The data is empty. Please select a contact.</string>
@@ -1047,8 +1043,10 @@
     <string name="nfc_setting_custom_edit_name_duplicat">" already exists"</string>
     <string name="nfc_setting_custom_edit_name_hint">Please enter mode name</string>
     <string name="nfc_setting_custom_edit_name_title">Mode Name</string>
-    <string name="nfc_setting_pref_cato_title">Write NFC Tag</string>
-    <string name="nfc_settings">NFC Settings</string>
+
+    <string name="nfc_setting_pref_cato_title">Записать NFC метку</string>
+    <string name="nfc_settings">Настройки NFC</string>
+
     <string name="nfc_settings_summary">Set and Manage NFC</string>
     <string name="nfc_shortcuts_title">Show Toggle in Notification Shade</string>
     <string name="nfc_sim_se">Security Module in SIM Card 1</string>
@@ -1064,9 +1062,11 @@
     <string name="nfc_wlan_write_tage_no_network">Please choose a network</string>
     <string name="nfc_wlan_write_tage_not_config_well">The network is not configured correctly.</string>
     <string name="nfc_write_contact_info">Write Information</string>
-    <string name="nfc_write_tag_air_plane_str">Airplane Mode</string>
+
+    <string name="nfc_write_tag_air_plane_str">Режим полёта</string>
     <string name="nfc_write_tag_bt_str">Bluetooth</string>
-    <string name="nfc_write_tag_contacts_model">Contacts</string>
+    <string name="nfc_write_tag_contacts_model">Контакты</string>
+
     <string name="nfc_write_tag_custom_model">Custom Mode</string>
     <string name="nfc_write_tag_drive_model">Driving Mode</string>
     <string name="nfc_write_tag_exit_profile">Exited</string>
@@ -1090,8 +1090,8 @@
     <string name="nfc_write_tag_wifi_ap_model">Wi-Fi</string>
     <string name="nfc_write_tag_wlan_ap_pic_summury">Hold the NFC tag to the back of the phone to write data</string>
     <string name="nfc_write_tag_wlan_ap_title">Wi-Fi Connection</string>
-    <string name="nfc_write_tag_wlan_str">Wi-Fi</string>
 
+    <string name="nfc_write_tag_wlan_str">Wi-Fi</string>
     <string name="nfc_writing_content_msg">Запись, пожалуйста, подождите...</string>
     <string name="no">Отмена</string>
     <string name="no_application">Ничего</string>
@@ -1148,8 +1148,8 @@
     <string name="power_discharge_by_enhanced">Should last until about %1$s based on your usage (%2$s)</string>
     <string name="power_discharge_by_only">Should last until about %1$s</string>
     <string name="power_discharge_by_only_enhanced">Should last until about %1$s based on your usage</string>
-    <string name="power_discharge_by_only_short">Until %1$s</string>
 
+    <string name="power_discharge_by_only_short">До %1$s</string>
     <string name="power_discharging_duration">%1$s – осталось примерно %2$s</string>
     <string name="power_discharging_duration_enhanced">%1$s (осталось примерно %2$s при текущем уровне использования)</string>
     <string name="power_remaining_charging_duration_only">Ещё %1$s до полной зарядки</string>
@@ -1165,9 +1165,7 @@
     <string name="power_suggestion_extend_battery">Extend battery life past %1$s</string>
 
     <string name="power_usage_summary_title">Управление питанием</string>
-
-    <string name="ppp_dialing">Prompt password</string>
-
+    <string name="ppp_dialing">Запрос пароля</string>
     <string name="pppoe_btn_cancel">Отмена</string>
     <string name="pppoe_btn_connect">Подключить</string>
     <string name="pppoe_btn_disconnect">Отключить</string>
@@ -1197,11 +1195,9 @@
     <string name="private_dns_mode_provider_hostname_hint">Введите провайдера DNS</string>
     <string name="process_kernel_label">ОС Android</string>
     <string name="profile_info_settings_title">Информация профиля</string>
-
-    <string name="profile_owner_add_title">Activate Profile Manager?</string>
-    <string name="profile_write_failed">Unknown error, please retry or change the tag</string>
-    <string name="profile_write_success">Tag Successfully written</string>
-
+    <string name="profile_owner_add_title">Активировать менеджер профилей?</string>
+    <string name="profile_write_failed">Неизвестная ошибка, повторите попытку или смените метку</string>
+    <string name="profile_write_success">Метка успешно записана</string>
     <string name="progress_scanning">Обновление</string>
     <string name="proxy_action_text">Готово</string>
     <string name="proxy_clear_text">Очистить</string>
@@ -1253,18 +1249,16 @@
     <string name="repeat_coming_call_notify">Напоминание о вызове</string>
     <string name="repeat_coming_call_notify_tips">Второй вызов от одного контакта в течение 5 минут не будет приглушён</string>
     <string name="repeat_weekday">Повтор</string>
-
-    <string name="reset_network_button_text">Reset settings</string>
-    <string name="reset_network_complete_toast">Network settings have been reset</string>
-    <string name="reset_network_confirm_title">Reset?</string>
-    <string name="reset_network_desc">"This will reset all network settings, including:
+    <string name="reset_network_button_text">Восстановить настройки</string>
+    <string name="reset_network_complete_toast">Настройки сети были восстановлены</string>
+    <string name="reset_network_confirm_title">Восстановить?</string>
+    <string name="reset_network_desc">"Это восстановит все настройки по умолчанию, включая:
 
 "<li>Wi‑Fi</li>"
-"<li>Cellular data</li>"
+"<li>Мобильная сеть</li>"
 "<li>Bluetooth</li></string>
-    <string name="reset_network_final_button_text">Reset settings</string>
-    <string name="reset_network_final_desc">Reset all network settings? You can’t undo this action!</string>
-    
+    <string name="reset_network_final_button_text">Восстановить настройки</string>
+    <string name="reset_network_final_desc">Восстановить все настройки по умолчанию? Вы не можете отменить это действие!</string>
     <string name="reset_network_title">Сброс настроек сети</string>
     <string name="reset_password">Сброс</string>
     <string name="restore_default_apn">Восстановление настроек APN по умолчанию</string>
@@ -1317,8 +1311,8 @@
     <string name="select_automatically">Авто</string>
 
     <string name="select_favor_title">Tap to select or cancel</string>
-    <string name="select_favourite_app">Choose a payment app</string>
 
+    <string name="select_favourite_app">Выберите платёжное приложение</string>
     <string name="select_logd_size_dialog_title">Выберите размер буфера журнала</string>
     <string name="select_logd_size_title">Размер буфера журнала</string>
     <string name="select_logpersist_dialog_title">Выберите буферы журнала, которые будут постоянно храниться на устройстве</string>
@@ -1434,7 +1428,8 @@
     <string name="speed_label_very_slow">Очень медленная</string>
     <string name="speed_test">Проверка скорости сети</string>
 
-    <string name="standby_bucket_summary">App standby state: %s</string>
+    <string name="standby_bucket_summary">Состояние приложения: %s</string>
+    <!-- <string name="standby_bucket_summary">App standby state: %s</string> -->
 
     <string name="start_speed_measurement">Начать тест</string>
     <string name="state_off">Выкл.</string>
@@ -1457,9 +1452,7 @@
     <string name="sum_select_automatically">Автоподключение к предпочтительной сети</string>
     <string name="switch_off_text">Выкл.</string>
     <string name="switch_on_text">Вкл.</string>
-
-    <string name="switch_wap_title">After switching, you may not be able to access the Internet normally. Are you sure to switch?</string>
-    
+    <string name="switch_wap_title">После переключения, возможно, вы не сможете нормально подключиться к Интернету. Вы уверены, что хотите переключиться?</string>
     <string name="system_category_title">Система</string>
     <string name="system_ringtone">Системный</string>
     <string name="system_wallpaper">Системные обои</string>
@@ -1673,10 +1666,10 @@
     <string name="wallpaper_settings_fragment_title">Установка обоев</string>
     <string name="wapi_all_sel_mode">Выбрать режим</string>
     <string name="wapi_auto_sel_cert">Выбирать автоматически</string>
+    <string name="wapi_auto_sel_cert_fail">Невозможно автоматически выбрать сертификат. Пожалуйста, выберите сертификат из списка, и попробуйте заново.</string>
+    <string name="wapi_cert_is_not_exist">Нет доступного сертификата, сначала установите сертификат</string>
+    <string name="wapi_cert_is_not_selected">Сначала выберите сертификат</string>
 
-    <string name="wapi_auto_sel_cert_fail">Can not select certificate automatically. Please select a certificate from the list, and then try to connect.</string>
-    <string name="wapi_cert_is_not_exist">No available certificate, please install the certificate first</string>
-    <string name="wapi_cert_is_not_selected">Please select the certificate first</string>
     <string name="wapi_cert_manage_error">Faild to setting the WAPI certificate.</string>
     <string name="wapi_cert_manage_summary">Add or delete the WAPI certificate</string>
 
@@ -1684,9 +1677,9 @@
     <string name="wapi_cert_manager_title">Диспетчер WAPI-сертификатов</string>
     <string name="wapi_cert_roaming">Подключение…</string>
     <string name="wapi_cert_select">WAPI-сертификат</string>
-
     <string name="wapi_no">Нет</string>
-    <string name="wapi_no_vaild_cert">No available certificates, install it now?</string>
+    <string name="wapi_no_vaild_cert">Нет доступных сертификатов, установить сейчас?</string>
+
     <string name="wapi_password_hex_format_add">The count of hexadecimal characters can not be odd number</string>
     <string name="wapi_password_is_empty">Password field can not be left blank</string>
     <string name="wapi_password_is_not_hex_format">Invalid hexadecimal characters</string>
@@ -1774,9 +1767,7 @@
     
     <string name="wifi_display_need_wifi">Для использования беспроводного дисплея нужно включить Wi-Fi.</string>
     <string name="wifi_display_no_devices_found">Устройства не найдены.</string>
-
-    <string name="wifi_display_operating_channel">Operating channel</string>
-
+    <string name="wifi_display_operating_channel">Рабочий канал</string>
     <string name="wifi_display_options_done">Готово</string>
     <string name="wifi_display_options_forget">Не сохранять</string>
     <string name="wifi_display_options_name">Имя</string>
@@ -1789,9 +1780,7 @@
     <string name="wifi_display_status_connecting">Подключение</string>
     <string name="wifi_display_status_in_use">Используется</string>
     <string name="wifi_display_status_not_available">Недоступно</string>
-
-    <string name="wifi_display_wps_config">WPS configuration</string>
-
+    <string name="wifi_display_wps_config">Настройки WPS</string>
     <string name="wifi_eap_anonymous">Аноним</string>
     <string name="wifi_eap_ca_cert">Сертификат ЦС</string>
     <string name="wifi_eap_identity">Пользователь</string>
@@ -1845,13 +1834,13 @@
     <string name="wifi_noinstall_cert">Сертификат не установлен</string>
     <string name="wifi_not_in_range">Недоступна</string>
 
-    <string name="wifi_notify_double_link_title_tip">"Network accelerator is accelerating, let's check the network speed!"</string>
+    <string name="wifi_notify_double_link_title_tip">"Network accelerator is accelerating, давайте измерим скорость сети!"</string>
     <string name="wifi_notify_message_tip">Data consumption during speed measurement</string>
     
     <string name="wifi_notify_open_networks">Уведомления о сетях</string>
     <string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
     
-    <string name="wifi_notify_three_link_title_tip">"Network acceleration is super accelerating, let's check the network speed!"</string>
+    <string name="wifi_notify_three_link_title_tip">"Network acceleration is super accelerating, давайте измерим скорость сети!"</string>
     
     <string name="wifi_p2p_cancel_connect_message">Вы хотите отменить запрос на соединение с %1$s?</string>
     <string name="wifi_p2p_cancel_connect_title">Отменить приглашение?</string>
@@ -1864,9 +1853,7 @@
     <string name="wifi_p2p_menu_rename">Переименовать устройство</string>
     <string name="wifi_p2p_menu_search">Поиск устройств</string>
     <string name="wifi_p2p_menu_searching">Поиск…</string>
-
-    <string name="wifi_p2p_need_disable_vice_wifi">To use P2p,disable Dual Wi-Fi acceleration</string>
-    
+    <string name="wifi_p2p_need_disable_vice_wifi">Что бы использовать P2P, отключите ускорение Wi-Fi</string>
     <string name="wifi_p2p_need_wifi">Чтобы использовать P2P Wi-Fi, сначала включите Wi-Fi</string>
     <string name="wifi_p2p_peer_devices">Обнаруженные устройства</string>
     <string name="wifi_p2p_remembered_groups">Сохранённые группы</string>

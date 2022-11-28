@@ -646,7 +646,7 @@
     <string name="sm">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="sn">Принимаю</string>
     <string name="so">Разрешить</string>
-    <string name="sp">Не предлагать запрос после отказа</string>
+    <string name="sp">Не спрашивать после отказа</string>
     <string name="sq">Разрешать всегда</string>
     <string name="sr">Запрос разрешения</string>
     <string name="st">Отклонить</string>

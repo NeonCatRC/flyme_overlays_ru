@@ -196,7 +196,7 @@
     <string name="f9">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="f_">Принимаю</string>
     <string name="fa">Разрешить</string>
-    <string name="fb">Не предлагать запрос после отказа</string>
+    <string name="fb">Не спрашивать после отказа</string>
     <string name="fc">Разрешать всегда</string>
     <string name="fd">Запрос разрешения</string>
     <string name="fe">Отклонить</string>

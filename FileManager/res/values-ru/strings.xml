@@ -407,7 +407,7 @@
     <string name="l7">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="l8">Принимаю</string>
     <string name="l9">Разрешить</string>
-    <string name="l_">Не предлагать запрос после отказа</string>
+    <string name="l_">Не спрашивать после отказа</string>
     <string name="la">Разрешать всегда</string>
     <string name="lb">Запрос разрешения</string>
     <string name="lc">Отклонить</string>

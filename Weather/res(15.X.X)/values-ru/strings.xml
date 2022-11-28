@@ -192,7 +192,7 @@
     <string name="g1">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="g2">Принимаю</string>
     <string name="g3">Разрешить</string>
-    <string name="g4">Не предлагать запрос после отказа</string>
+    <string name="g4">Не спрашивать после отказа</string>
     <string name="g5">Разрешать всегда</string>
     <string name="g6">Запрос разрешения</string>
     <string name="g7">Отклонить</string>

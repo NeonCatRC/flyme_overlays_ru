@@ -754,7 +754,7 @@
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки.</string>
     <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_allow">Разрешить</string>
-    <string name="mz_permission_almost_deny">Не предлагать запрос после отказа</string>
+    <string name="mz_permission_almost_deny">Не спрашивать после отказа</string>
     <string name="mz_permission_always_allow">Разрешать всегда</string>
     <string name="mz_permission_apply">Запрос разрешения</string>
     <string name="mz_permission_deny">Отклонить</string>

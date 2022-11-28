@@ -342,7 +342,7 @@
     <string name="j2">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="j3">Принимаю</string>
     <string name="j4">Разрешить</string>
-    <string name="j5">Не предлагать запрос после отказа</string>
+    <string name="j5">Не спрашивать после отказа</string>
     <string name="j6">Разрешать всегда</string>
     <string name="j7">Запрос разрешения</string>
     <string name="j8">Продолжить</string>

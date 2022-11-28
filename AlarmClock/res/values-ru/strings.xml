@@ -230,7 +230,7 @@
     <string name="g7">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="g8">Принимаю</string>
     <string name="g9">Разрешить</string>
-    <string name="g_">Не предлагать запрос после отказа</string>
+    <string name="g_">Не спрашивать после отказа</string>
     <string name="ga">Разрешать всегда</string>
     <string name="gb">Запрос разрешения</string>
     <string name="gc">Отклонить</string>

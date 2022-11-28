@@ -193,7 +193,7 @@
     <string name="fg">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="fh">Принимаю</string>
     <string name="fi">Разрешить</string>
-    <string name="fj">Не предлагать запрос после отказа</string>
+    <string name="fj">Не спрашивать после отказа</string>
     <string name="fk">Разрешать всегда</string>
     <string name="fl">Запрос разрешения</string>
     <string name="fm">Продолжить</string>

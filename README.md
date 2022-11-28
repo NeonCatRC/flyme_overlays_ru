@@ -63,7 +63,7 @@
 | GameCenter | WIP | | Flyme games app |
 | mCareNew | WIP | 4.4.X-5.0.X | Post-sales service |
 | Music | Stop | | Standart Flyme music app |
-| MzShare | Stop | 4.1.19 | BT Share app |
+| MzShare | WIP | 4.1.19 | BT Share app |
 | MzUpdate | WIP | 9.2.8 | Meizu update center |
 | PackageInstaller | WIP | 8.8.0 | Build-in meizu package installer |
 | PermissionController | Stop | |  |

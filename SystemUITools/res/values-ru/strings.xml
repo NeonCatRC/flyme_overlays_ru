@@ -500,10 +500,7 @@ Equivalent to %1$s broadband"</string>
     <string name="wa_online_devices_num">%1$s devices connected</string>
     <string name="wa_online_devices_unknown">Неизвестное устройство</string>
     <string name="weixin">Сообщение WeChat</string>
-    <string name="window_mode_double_tap_to_back_summary">Закрытие двойным нажатием вне области Быстрого просмотра</string>
-    <string name="window_mode_double_tap_to_back_title">Быстрый выход</string>
-    <string name="window_mode_settings_recents_title">Настройки</string>
-    <string name="window_mode_settings_title">Быстрый просмотр приложений</string>
+    
     <string name="action_bar_tile">Вид навигации</string>
     <string name="childmode_not_open">Anti-addiction not enabled</string>
     <string name="childmode_pull_data_errot">Error getting data. Please make sure that networks of both parties were connected.</string>
@@ -647,8 +644,6 @@ Equivalent to %1$s broadband"</string>
     <string name="window_mode_keyboard_title">Подвесная клавиатура</string>
     <string name="mc_custom_date_time_day_after">дн. назад</string>
     <string name="mc_custom_date_time_day_before">дн. спустя</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="notification_reply">Ответить</string>
     <string name="notification_reply_send">Отправить</string>
     <string name="wechat_message_type_voice">[Аудио]</string>
@@ -776,4 +771,8 @@ Equivalent to %1$s broadband"</string>
     <string name="welcome_page_two_content">Быстрые функции удобнее, а тяжелые задачи быстрее</string>
     <string name="welcome_page_two_title">Функциональность</string>
     <string name="welcome_start_end_title">"Приветствуем          на Flyme 9 beta"</string>
+    <string name="window_mode_double_tap_to_back_summary">Закрытие двойным нажатием вне области Быстрого просмотра</string>
+    <string name="window_mode_double_tap_to_back_title">Быстрый выход</string>
+    <string name="window_mode_settings_recents_title">Настройки</string>
+    <string name="window_mode_settings_title">Быстрый просмотр приложений</string>
 </resources>

@@ -459,7 +459,7 @@
     <string name="mb">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mc">Принимаю</string>
     <string name="md">Разрешить</string>
-    <string name="me">Не предлагать запрос после отказа</string>
+    <string name="me">Не спрашивать после отказа</string>
     <string name="mf">Разрешать всегда</string>
     <string name="mg">Запрос разрешения</string>
     <string name="mi">Отклонить</string>

@@ -289,7 +289,7 @@
     <string name="hh">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="hi">Принимаю</string>
     <string name="hj">Разрешить</string>
-    <string name="hk">Не предлагать запрос после отказа</string>
+    <string name="hk">Не спрашивать после отказа</string>
     <string name="hl">Разрешать всегда</string>
     <string name="hm">Запрос разрешения</string>
     <string name="hn">Отклонить</string>

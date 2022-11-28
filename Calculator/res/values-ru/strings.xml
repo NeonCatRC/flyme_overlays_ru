@@ -285,7 +285,7 @@
     <string name="io">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="ip">Принимаю</string>
     <string name="iq">Разрешить</string>
-    <string name="ir">Не предлагать запрос после отказа</string>
+    <string name="ir">Не спрашивать после отказа</string>
     <string name="is">Разрешать всегда</string>
     <string name="it">Запрос разрешения</string>
     <string name="iu">Отклонить</string>

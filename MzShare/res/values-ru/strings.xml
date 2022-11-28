@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
     <string name="abc_capital_off">ОТКЛ.</string>
     <string name="abc_capital_on">ВКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Поиск</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
@@ -63,6 +73,7 @@
     <string name="btopp_live_folder">Получено через Bluetooth</string>
     <string name="cancel">Отмена</string>
     <string name="cancel_bt_transfer">Остановить передачу по Bluetooth</string>
+    <string name="character_counter_content_description">Превышен лимит символов на %1$d из %2$d</string>
     <string name="clear">Очистить</string>
     <string name="clear_all_records">Очистить все получаемые записи?</string>
     <string name="clear_record">Пусто</string>
@@ -75,7 +86,7 @@
     <string name="device_picker_bottom_open_bluetooth_tips">Включите Bluetooth получателя</string>
     <string name="device_picker_cancel_dialog_negative_button">Отмена</string>
     <string name="device_picker_cancel_dialog_positive_button">Стоп</string>
-    <string name="device_picker_cancel_dialog_title">Остановить передачу</string>
+    <string name="device_picker_cancel_dialog_title">Остановить передачу?</string>
     <string name="device_picker_content_no_device">Устройство недоступно. Включите Bluetooth получателя.</string>
     <string name="device_picker_content_tip_bluetooth_off">Включите Bluetooth</string>
     <string name="device_picker_task_record_ongoing_tip_receiving">Получение</string>
@@ -93,12 +104,12 @@
     <string name="download_ok">Скрыть</string>
     <string name="download_succ_line5">Файл получен</string>
     <string name="download_succ_ok">Открыть</string>
-    <string name="download_success">ПолученоЖ %1$s</string>
+    <string name="download_success">Получено: %1$s</string>
     <string name="download_title">Отправить через Bluetooth</string>
     <string name="empty_folder_tips">Нельзя отправить пустые папки</string>
     <string name="empty_selected">Выберите хотя бы один файл и повторите попытку</string>
     <string name="enabling_progress_content">Включение Bluetooth</string>
-    <string name="enabling_progress_title">Пожалуйста ждите…</string>
+    <string name="enabling_progress_title">Пожалуйста, подождите…</string>
     <string name="format_file_total_Byte">Б</string>
     <string name="format_file_total_GB">Гб</string>
     <string name="format_file_total_KB">Кб</string>
@@ -146,7 +157,7 @@
     <string name="mc_date_time_sec">с.</string>
     <string name="mc_date_time_set">Настроить</string>
     <string name="mc_date_time_year">г.</string>
-    <string name="mc_description_target_answer">Ответ</string>
+    <string name="mc_description_target_answer">Ответить</string>
     <string name="mc_description_target_decline">Отклонить</string>
     <string name="mc_disable">Откл.</string>
     <string name="mc_downloading_patch_prefix">Загрузить обновление</string>
@@ -159,28 +170,19 @@
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_last_refresh">последнее обновление</string>
     <string name="mc_last_refresh_hour">ч. назад</string>
-    <string name="mc_last_refresh_just_now">только что</string>
+    <string name="mc_last_refresh_just_now">Только что</string>
     <string name="mc_last_refresh_minute">мин. назад</string>
     <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_animation_alert">Сохранение изображения</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
-    <string name="mc_never">Один раз</string>
+    <string name="mc_never">Одиножды</string>
     <string name="mc_pattern_a_hour_before">час назад</string>
     <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
     <string name="mc_pattern_minute_before">, мин. назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
     <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
@@ -219,12 +221,10 @@
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
-    <string name="mc_search_icon_input_clear">Очистка</string>
+    <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">с.</string>
     <string name="mc_selectionbutton_all">Все</string>
-    <string name="mc_simple_pattern_month_day" formatted="false">%-e.%-m</string>
-    <string name="mc_simple_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_dialog_title">Расписание</string>
@@ -241,6 +241,29 @@
     <string name="monkey_device_picker_available_devices">Видимые устройства</string>
     <string name="monkey_device_picker_bound_devices">Сопряженные устройства</string>
     <string name="more_item_label">Ещё</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mutual_channel_name">Уведомления Meizu Mutual</string>
+    <string name="mutual_device_name_tite">Название устройства</string>
+
+    <string name="mutual_introduce1_summary">Supports mutual file transfer with Meizu, Xiaomi, Redmi, OPPO, and Vivo</string>
+    <string name="mutual_introduce1_title">Mutual Transmission Alliance</string>
+    <string name="mutual_msg_open_mzshare">Enable Meizu mutual transmission</string>
+    <string name="mutual_msg_open_wifi">Please set up WLAN</string>
+    <string name="mutual_progress_channel_name">Meizu Mutual Progress Notify</string>
+    <string name="mutual_search_device">Searching for nearby devices</string>
+    <string name="mutual_search_notify_user_text">Please enable mutual transmission function in the notification bar of the other party. Support mobile phones of Meizu, Xiaomi, Redme, OPPO, and Vivo</string>
+    <string name="mutual_send_canceled">Send canceled</string>
+    <string name="mutual_send_failed">Send Failed</string>
+    <string name="mutual_send_reject">Send rejected</string>
+    <string name="mutual_send_sending">Sending...</string>
+    <string name="mutual_send_success">Send Success</string>
+    <string name="mutual_send_waiting">Waiting...</string>
+    <string name="mutual_status_channel_name">Meizu Mutual Status Notify</string>
+    <string name="mutual_switch_summary">When enabled, WLAN, Bluetooth and location services will be turned on automatically</string>
+    <string name="mutual_transmission">Meizu Mutual Transmission</string>
+    <string name="mutual_transmission_cta">Meizu Mutual Transmission(Bluetooth Share)</string>
+
+    <string name="mutual_transmission_title">Готово</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
@@ -254,14 +277,21 @@
     <string name="mz_date_time_sec">с.</string>
     <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети</string>
+    <string name="mz_permission_agree">Согласен</string>
     <string name="mz_permission_allow">Разрешить</string>
-    <string name="mz_permission_almost_deny">Не предлагать запрос после отказа</string>
+    <string name="mz_permission_almost_deny">Не спрашивать после отказа</string>
     <string name="mz_permission_always_allow">Разрешать всегда</string>
     <string name="mz_permission_apply">Запрос разрешения</string>
     <string name="mz_permission_deny">Отклонить</string>
-    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
-    <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
+    <string name="mz_permission_disagree">Отказаться</string>
+    <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешения на %2$s</string>
+    <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешения</string>
+    <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
     <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
+    <string name="mz_permission_title_terms">Разрешения и заявления</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">WLAN</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
@@ -294,12 +324,16 @@
     <string name="mz_pm_set_gprs_on">Включение передачи данных</string>
     <string name="mz_pm_set_wifi_on">Включение WLAN</string>
     <string name="mz_pm_wlan">Доступ к WLAN</string>
+    <string name="mz_privacy_policy">Политика онфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_specific_permission_allow">Все ещё разрешено</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
+    <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mznfcp2p_prep_progress_content">Подготовка к отправке</string>
+    <string name="mzshare_download_dialog_text">%1$s файл(ов)</string>
+    <string name="mzshare_download_done_title">Файлы, полученные через Meizu Share</string>
     <string name="nfc_choose_share_file_type">Выберите тип обмена</string>
     <string name="nfc_connected_notification_content">Нажмите, чтобы начать обмен</string>
     <string name="nfc_connected_notification_title">Можно поделиться с помощью NFC</string>
@@ -320,7 +354,7 @@
     <string name="notification_send_file">Отправка файла</string>
     <string name="notification_sending">Bluetooth: получение %1$s</string>
     <string name="notification_sent">Bluetooth: отправлено: %1$s</string>
-    <string name="notification_sent_complete">100% завершено</string>
+    <string name="notification_sent_complete">завершено</string>
     <string name="notification_sent_fail">Bluetooth: файл %1$s не отправлен</string>
     <string name="notification_share_receive_complete">Прием по Bluetooth завершен.</string>
     <string name="notification_share_send_complete">Отправка по Bluetooth завершена</string>
@@ -328,9 +362,11 @@
     <string name="notification_transfer_sent_complete">Обмен по Bluetooth завершен: %1$s</string>
     <string name="notify_server">Уведомить TCP-сервер</string>
     <string name="ok_button">OK</string>
+    <string name="opp_notification_channel">Уведомление Bluetooth</string>
     <string name="outbound_history_title">Журнал отправки</string>
     <string name="outbound_noti_title">Bluetooth: отправленные файлы</string>
     <string name="panu_no_need_connect">Невозможность использовать Bluetooth при подключении к Wi-Fi</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
     <string name="permdesc_bluetoothShareManager">Разрешить приложению доступ к менеджеру BluetoothShare и использовать его для передачи файлов.</string>
     <string name="permdesc_bluetoothWhitelist">Разрешить приложению добавить Bluetooth-устройство во временный белый список, чтобы оно могло отправлять файлы на это устройство без подтверждения пользователя.</string>
     <string name="permdesc_handoverStatus">Разрешить получение информации о состоянии передачи через Bluetooth.</string>
@@ -354,7 +390,8 @@
     <string name="share_notification_complete_send_message_success">Успешно: %1$s</string>
     <string name="share_notification_complete_title_receive">Получено через Bluetooth</string>
     <string name="share_notification_complete_title_send">Отправлено через Bluetooth</string>
-    <string name="share_permission_dialog_msg">BluetoothShare запрашивает доступ к метоположения, WI-Fi и моб. сети</string>
+    <string name="share_permission_dialog_msg">Приложение запрашивает доступ к метоположению, WI-Fi и моб. сети</string>
+    <string name="share_service_enable_notify_msg">Сервис "Поделиться через Bluetooth"</string>
     <string name="share_task_dialog_share_file_to_you">"От: "</string>
     <string name="share_task_record_cancel_receiving">Остановить получение</string>
     <string name="share_task_record_cancel_sending">Остановить отправку</string>
@@ -378,7 +415,7 @@
     <string name="share_task_record_sdcard_full_recv_detail">Файл не получен из-за нехвтки места</string>
     <string name="share_task_record_send_complete">Отправлено</string>
     <string name="share_task_record_send_fail">Не отправлено</string>
-    <string name="share_task_record_send_to">"Куда: "</string>
+    <string name="share_task_record_send_to">"Кому: "</string>
     <string name="share_task_record_sending">Отправка...</string>
     <string name="share_task_record_user_cancel_transfer">Отменено пользователем</string>
     <string name="share_task_record_user_cancel_transfer_recv_detail">Файл не получен, пользователь отменил передачу.</string>
@@ -387,7 +424,7 @@
     <string name="share_toast_receiving_file">Принимаемый файл</string>
     <string name="share_toast_send_file_to_device">Отправка файлов: %1$s на устройство \"%2$s\"</string>
     <string name="start_server">Запустить TCP-сервер</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_canceled">Передача отменена пользователем</string>
     <string name="status_connection_error">Ошибка соединения</string>
     <string name="status_file_error">Ошибка хранения</string>
@@ -425,7 +462,8 @@
     <string name="unknownNumber">Неизвестный</string>
     <string name="unknown_device">Неизвестное устройство</string>
     <string name="unknown_file">Неизвестный файл</string>
-    <string name="unknown_file_desc">"Для этого файла нет приложения. "</string>
+    <string name="unknown_file_desc">"Для этого файла нет приложения. 
+"</string>
     <string name="update_record">Подтвердить запись</string>
     <string name="upload_fail_cancel">Отмена</string>
     <string name="upload_fail_line1">Невозможно отправить файл: %1$s.</string>
@@ -436,7 +474,6 @@
     <string name="upload_line5">Передача файла…</string>
     <string name="upload_succ_line5">Отправленный файл</string>
     <string name="upload_succ_ok">OK</string>
-    <string name="upload_success">Отправленный: %1$s</string>
+    <string name="upload_success">Отправлено: %1$s</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-    <string name="hello">Hello World, TestActivity</string>
 </resources>
