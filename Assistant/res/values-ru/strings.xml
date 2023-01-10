@@ -1024,7 +1024,7 @@
     <string name="quick_action_select">Добавлены ярлыки% s / 12</string>
     <string name="quick_action_tips">Длительное нажатие перетащите значки, чтобы отсортировать</string>
     <string name="quick_action_user_define">Настроить</string>
-    <string name="quick_actions_app_not_installed">Нужно устиновить %1$s</string>
+    <string name="quick_actions_app_not_installed">Нужно установить %1$s</string>
     <string name="quick_actions_app_version_mismatch">Несоответствие версии приложения</string>
     <string name="quick_actions_change">Изменить</string>
     <string name="quick_actions_custom">Настроить</string>
