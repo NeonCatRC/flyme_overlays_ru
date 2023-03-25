@@ -222,7 +222,7 @@
 
     <string name="join_beta_plan_hint_text">After joining the beta program, you can receive push notifications of beta firmwares and get early access to new features. There may be risks of instability, so please be cautious.</string>
     <string name="join_beta_plan_text">Join beta program</string>
-    <string name="just_now">just now</string>
+    <string name="just_now">только что</string>
     <string name="last_check">Last checked:</string>
 
     <string name="mc_action_settings">Настройки</string>
@@ -341,8 +341,8 @@
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">ОК</string>
+    <string name="minutes_ago">%d мин. назад</string>
 
-    <string name="minutes_ago">%d min ago</string>
     <string name="missed_firmware_days_text">Not updated for %d day(s). View major updates missed</string>
     <string name="missed_firmware_details_text">Major updates missed</string>
     <string name="missed_firmware_times_text">%d updates I missed</string>
