@@ -62,9 +62,4 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
-    <string-array name="mz_setting_count_down_hint">
-        <item>@string/mz_setting_count_down_close</item>
-        <item>3c</item>
-        <item>10c</item>
-    </string-array>
 </resources>
