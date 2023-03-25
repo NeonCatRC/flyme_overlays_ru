@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Янв</item>
+        <item>Фев</item>
+        <item>Мар</item>
+        <item>Апр</item>
+        <item>Май</item>
+        <item>Июн</item>
+        <item>Июл</item>
+        <item>Авг</item>
+        <item>Сен</item>
+        <item>Окт</item>
+        <item>Ноя</item>
+        <item>Дек</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="showApplicationName">
+        <item>Эл. почта</item>
+        <item>Life</item>
+        <item>Скидки</item>
+        <item>Погода</item>
+        <item>Календарь</item>
+        <item>Заметки</item>
+        <item>Предпочтения</item>
+        <item>Калькулятор</item>
+        <item>Карты</item>
+        <item>Полезное</item>
+        <item>Часы</item>
+        <item>Проводник</item>
+        <item>Центр оплаты</item>
+        <item>Кошелёк</item>
+        <item>Справочник</item>
+        <item>Звукозапись</item>
+        <item>Meizu Pay</item>
+        <item>Meizu Mall</item>
+        <item>Эл. Книги</item>
+        <item>Новости</item>
+        <item>Видео</item>
+        <item>Темы</item>
+        <item>Браузер</item>
+        <item>Музыка</item>
+        <item>Игровой центр</item>
+        <item>Модуль mGame</item>
+        <item>Синхронизация данных Meizu</item>
+        <item>Рез. копирование рабочего стола</item>
+        <item>Поиск</item>
+        <item>App Store</item>
+        <item>Миграция</item>
+        <item>Дистанционная поддержка</item>
+        <item>Шагомер</item>
+        <item>Резервное копирование</item>
+        <item>Камера</item>
+        <item>Батарея</item>
+        <item>Безопасность</item>
+        <item>mLiteSIM</item>
+        <item>Обновление</item>
+        <item>Галерея</item>
+        <item>Телефон</item>
+        <item>Сообщения</item>
+        <item>Способ ввода</item>
+        <item>Техподдержка</item>
+        <item>SmartVoice</item>
+        <item>Настройки</item>
+        <item>Детский режим</item>
+        <item>Читалка QQ</item>
+        <item>Qunar Travel</item>
+        <item>Douban</item>
+        <item>DianPing</item>
+        <item>Новости NetEase</item>
+        <item>Товары</item>
+        <item>TMail</item>
+        <item>Weibo</item>
+        <item>Вход Sogou</item>
+        <item>Менеджер загрузки</item>
+    </string-array>
+    <string-array name="showAuthorityReal">
+        <item>Местоположение</item>
+        <item>Местоположение</item>
+        <item>Телефон</item>
+        <item>Телефон</item>
+        <item>Телефон</item>
+        <item>Телефон</item>
+        <item>Телефон</item>
+        <item>Телефон</item>
+        <item>Телефон</item>
+        <item>Сообщения</item>
+        <item>Сообщения</item>
+        <item>Сообщения</item>
+        <item>Сообщения</item>
+        <item>Сообщения</item>
+        <item>Рекордер</item>
+        <item>Камера</item>
+        <item>Контакты</item>
+        <item>Контакты</item>
+        <item>Контакты</item>
+        <item>Накопитель</item>
+        <item>Накопитель</item>
+        <item>Календарь</item>
+        <item>Календарь</item>
+        <item>Аккаунт</item>
+        <item>Аккаунт</item>
+        <item>Аккаунт</item>
+        <item>Аккаунт</item>
+        <item>Bluetooth</item>
+        <item>Bluetooth</item>
+        <item>Просмотр избранного и истории</item>
+        <item>Просмотр избранного и истории</item>
+        <item>Сеть</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Время использования</item>
+        <item>Счётчик запусков</item>
+        <item>Название приложения</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>При выключении экрана</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item>Не подключено</item>
+        <item>Сканирование…</item>
+        <item>Подключение...</item>
+        <item>Подключение...</item>
+        <item>Подключение...</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение…</item>
+        <item>Отключено</item>
+        <item>Ошибка</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item>Не подключено</item>
+        <item>Сканирование…</item>
+        <item>Подключение к %1$s...</item>
+        <item>Аутентификация в сети %1$s...</item>
+        <item>Получение IP-адреса от %1$s...</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s...</item>
+        <item>Отключено</item>
+        <item>Ошибка</item>
+    </string-array>
+</resources>
