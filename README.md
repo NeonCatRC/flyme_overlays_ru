@@ -84,5 +84,5 @@ NeonCatRC: [Telegram][TelegramNeon].
 
 c0nfid: N\a.
 
-[TelegramNeon]: <t.me/neoncatrc>
+[TelegramNeon]: <https://t.me/neoncatrc>
 [ABOUT]: <https://mit-license.org/>

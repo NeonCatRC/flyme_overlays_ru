@@ -541,9 +541,7 @@
     <string name="search_hint">Песня, исполнитель, альбом</string>
     <string name="search_history">История поиска</string>
     <string name="search_menu_title">Поиск</string>
-
-    <string name="search_recommend_header">Recommend</string>
-
+    <string name="search_recommend_header">Рекомендуем</string>
     <string name="search_settings_description">Исполнители, альбомы и песни</string>
     <string name="search_tab_local_music">Локальная музыка</string>
     <string name="search_tab_online_music">Онлайн музыка</string>
@@ -558,20 +556,18 @@
     <string name="setting_title">Настройки</string>
     <string name="share_album">Альбом:</string>
     <string name="share_artist">Исполнитель:</string>
-
-    <string name="share_artist_new">Share artist:</string>
-    <string name="share_author">Author:</string>
-    <string name="share_failed_tips">This song cannot be shared</string>
-    <string name="share_from_meizu">From Meizu Music</string>
-    <string name="share_lyric">Share Lyrics</string>
-    <string name="share_music">Share music:</string>
-    <string name="share_podcast">"Share podcast: "</string>
-    <string name="share_podcast_song">"Share podcast episode: "</string>
-    <string name="share_song">Share song:</string>
-    <string name="share_songlist">Share playlist:</string>
-    <string name="share_string">Share to</string>
-    <string name="share_subject">Share features:</string>
-
+    <string name="share_artist_new">Отправить исполнителя:</string> <!--???-->
+    <string name="share_author">Автор:</string>
+    <string name="share_failed_tips">Этим треком нельзя поделиться</string>
+    <string name="share_from_meizu">Из Музыки Meizu</string>
+    <string name="share_lyric">Поделиться текстом песни</string>
+    <string name="share_music">Поделиться песней:</string>
+    <string name="share_podcast">"Отправить подкаст: "</string>
+    <string name="share_podcast_song">"Отправить эпизод подкаста: "</string>
+    <string name="share_song">Отправить песню:</string>
+    <string name="share_songlist">Отправить плейлист:</string>
+    <string name="share_string">Поделиться с</string>
+    <string name="share_subject">Поделиться:</string>
     <string name="shuffle">Перемешать</string>
     <string name="size">Размер</string>
     <string name="size_filter">Фильтровать по размеру</string>
@@ -603,29 +599,23 @@
     <string name="unknown_album">Неизвестный альбом</string>
     <string name="unknown_artist">Неизвестный исполнитель</string>
     <string name="unknown_song">Неизвестная песня</string>
-
-    <string name="update">Upgrade now</string>
-    <string name="update_continue">Continue to upgrade</string>
-    <string name="update_download_title">Upgrade to a membership to enjoy high-quality, lossless music</string>
-    <string name="update_exit">exit</string>
-    <string name="update_need_title">For normal use, complete the upgrade</string>
-    <string name="update_senior_vip_title">Upgrade to a senior membership to enjoy lossless music</string>
-
+    <string name="update">Обновить сейчас</string>
+    <string name="update_continue">Продолжить обновление</string>
+    <string name="update_download_title">Оформите подписку, чтобы наслаждаться музыкой без потери качества</string>
+    <string name="update_exit">Выход</string>
+    <string name="update_need_title">Для продолжения использования, завершите обновление</string>
+    <string name="update_senior_vip_title">Обновитесь до senior подписки для наслаждения качественной музыкой</string>
     <string name="update_vip_got_it">Понятно</string>
-
-    <string name="update_vip_remind">Upgrade to a membership to enjoy a whole library of high-quality music</string>
-    <string name="update_vip_title">Upgrade to a membership to enjoy high-quality music</string>
-    <string name="update_vip_to_upgrade">Upgrade Now</string>
-    <string name="upgrade_action">Upgrade</string>
-
+    <string name="update_vip_remind">Оформите подписку, чтобы наслаждаться всей библиотекой качественной музыки</string>
+    <string name="update_vip_title">Оформите подписку, чтобы наслаждаться качественной музыкой</string>
+    <string name="update_vip_to_upgrade">Улучшить сейчас</string>
+    <string name="upgrade_action">Улучшить</string>
     <string name="valid_date_format">Подписка закончится %s</string>
     <string name="version_is_new">Текущая версия- последняя</string>
     <string name="version_upgrade">Проверить обновления</string>
-    
-    <string name="vice_default_description">Delight your ears</string>
-    <string name="vice_default_name">Meizu Music</string>
-    <string name="vice_prepare_enter">Music Only</string>
-
+    <string name="vice_default_description">Порадуйте свои уши</string>
+    <string name="vice_default_name">Музыка Meizu</string>
+    <string name="vice_prepare_enter">Только музыка</string>
     <string name="vice_prepare_exit">Выход</string>
     <string name="vice_widget_title">Музыка</string>
     <string name="wait_tip">Пожалуйста, подождите</string>
@@ -634,8 +624,6 @@
     <string name="wechat_pengyouquan">Моменты WeChat</string>
     <string name="wechat_shoucang">Избранное WeChat</string>
     <string name="weibo_app">Weibo</string>
-
-    <string name="widget_no_music_play_tip">No recently played music</string>
-
+    <string name="widget_no_music_play_tip">Нет недавних прослушанных треков</string>
     <string name="will_expire">Подписка скоро закончится</string>
 </resources>
