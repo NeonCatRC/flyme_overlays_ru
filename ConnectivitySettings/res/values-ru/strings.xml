@@ -239,9 +239,6 @@
     <string name="bluetooth_enter_pin_msg">Введите PIN-код</string>
     <string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN-код на другом устройстве.</string>
     <string name="bluetooth_error_title">Ошибка сопряжения устройств</string>
-
-    <string name="bluetooth_headset_profile_summary_connected">Connected to phone audio</string>
-    <string name="bluetooth_headset_profile_summary_use_for">Use for phone audio</string>
     
     <string name="bluetooth_hearing_aid_profile_summary_connected">Connected to Hearing Aid</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">Use for Hearing Aid</string>
