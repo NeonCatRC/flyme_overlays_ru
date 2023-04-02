@@ -489,10 +489,10 @@
     <string name="mz_setting_asd_switch_title">AI-распознавание сцены</string>
     <string name="mz_setting_click_asd_hint">Автоматически определяет сцену и оптимизирует эффекты</string>
     <string name="mz_setting_click_barcode_in_auto_hint">Автоматически распознаёт QR и штрих-коды</string>
-    <string name="mz_setting_click_close_per_hint">Закрыть</string>
+    <string name="mz_setting_click_close_per_hint">Отключен(о) </string>
     <string name="mz_setting_click_front_mirror_hint">Фото будет таким же, как и на предпросмотре</string>
     <string name="mz_setting_click_immersion_hint">Нажмите 2 раза по видоискателю чтобы открыть предпросмотр</string>
-    <string name="mz_setting_click_open_per_hint">Открыть</string>
+    <string name="mz_setting_click_open_per_hint">Включен(о) </string>
     <string name="mz_setting_click_video_record_limited_hint">Максимальная длина записи %1$d минут</string>
     <string name="mz_setting_click_video_suppord_eis_hint">Текущие настройки поддерживают стабилизацию</string>
     <string name="mz_setting_click_voice_hint">Скажите \"Снимаю\" или \"Сыр\"</string>

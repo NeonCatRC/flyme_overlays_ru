@@ -244,7 +244,7 @@
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
     <string name="mutual_channel_name">Уведомления Meizu Mutual</string>
     <string name="mutual_device_name_tite">Название устройства</string>
-    <string name="mutual_introduce1_summary">Поддерживает обмен файлов между устройствами Meizu, Xiaomi, Redmi, OPPO, и Vivo</string>
+    <string name="mutual_introduce1_summary">Обменивайтесь файлами между устройствами Meizu, Xiaomi, Redmi, OPPO, и Vivo</string>
     <string name="mutual_introduce1_title">Альянс Mutual Transmission</string>
     <string name="mutual_msg_open_mzshare">Включить Meizu mutual transmission</string>
     <string name="mutual_msg_open_wifi">Включите Wi-Fi</string>

@@ -1234,7 +1234,7 @@
     <string name="specific_permission_summary">"Запрошено: %1$s раз(а)
 Последний запрос: %2$s"</string>
     <string name="speed_up_by_clean_f8">Очистка и оптимизация</string>
-    <string name="splash_settings_summary">Получи награды за событие бесплатно</string>
+    <string name="splash_settings_summary">Получайте награды за просмотр рекламы</string>
     <string name="splash_settings_title">Разрешить рекламу на заставке</string>
     <string name="startup">Запуск</string>
     <string name="status_bar_notification_info_overflow">999</string>

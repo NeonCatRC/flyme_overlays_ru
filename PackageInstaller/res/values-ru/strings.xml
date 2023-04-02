@@ -65,8 +65,8 @@
     <string name="autorun">Запускать при загрузке</string>
     <string name="background_install">Установка в фоне</string>
     <string name="bluetooth">Bluetooth</string>
+    <string name="body_sensors">Нательные датчики</string>
 
-    <string name="body_sensors">Body sensors</string>
     <string name="body_sensors_des">Read body sensor data</string>
     <string name="btn_delete_apk_file">Clear APK files</string>
     <string name="btn_goto_mstore">A key installation</string>
@@ -499,7 +499,7 @@ Meizu shall shoulder no responsibility for any results caused by your installing
     <string name="permission_list">Проверить запрашиваемые разрешения</string>
     <string name="permission_list_title">Требуемые разрешения</string>
     <string name="permlab_processOutgoingCalls">Переадресация исходящих вызовов</string>
-    <string name="perms_new_perm_prefix">Новое </string>
+    <string name="perms_new_perm_prefix">Новое </string>
     <string name="phone_g_des">Совершать звонки, чтение или изменение истории звонков</string>
     <string name="pop_notice">Всплывающие уведомления</string>
     <string name="privacy">Приватность</string>

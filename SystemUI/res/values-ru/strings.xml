@@ -1527,7 +1527,7 @@
     <string name="status_bar_settings_dndmode">DND</string>
     <string name="status_bar_settings_drivemode">Вождение</string>
     <string name="status_bar_settings_eyeprotective">Режим чтения</string>
-    <string name="status_bar_settings_hotspot">Модем</string>
+    <string name="status_bar_settings_hotspot">Точка доступа</string>
     <string name="status_bar_settings_mobile">Моб. сеть</string>
     <string name="status_bar_settings_mute">Без звука</string>
     <string name="status_bar_settings_mute_label">Без звука</string>
