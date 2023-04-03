@@ -42,11 +42,12 @@
     <string name="aod_notification_txt">Увед.</string>
     <string name="aod_personal_signature_four">"STAY
 TRUE"</string>
-    <string name="aod_personal_signature_one">"Стремление
-рождённое
-любвью"</string>
-    <string name="aod_personal_signature_three">"Стремление к высшему"</string>
-    <string name="aod_personal_signature_two">Мечта</string>
+    <string name="aod_personal_signature_one">"追求
+源于
+热爱"</string>
+    <string name="aod_personal_signature_three">"追求极致
+轻易不说完美"</string>
+    <string name="aod_personal_signature_two">梦想</string> <!--This just looks better, sorry-->
     <string name="aod_res_not_ready">Ресурс находится в стадии подготовки. Попробуйте позже</string>
     <string name="aod_style_select_title">Стиль AOD</string>
     <string name="aod_style_settings_success">Успешно применено</string>
