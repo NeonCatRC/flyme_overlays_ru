@@ -80,9 +80,9 @@
 
 ## Feedback and contacts
 
-NeonCatRC: [Telegram][TelegramNeon].
+NeonCatRC: [site][TelegramNeon].
 
 c0nfid: N\a.
 
-[TelegramNeon]: <https://t.me/neoncatrc>
+[TelegramNeon]: <https://neoncatrc.space>
 [ABOUT]: <https://mit-license.org/>
