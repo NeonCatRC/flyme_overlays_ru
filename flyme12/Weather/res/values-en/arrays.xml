@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="news_sdk_before_today">
+        <item>\'Yesterday\' HH:mm</item>
+        <item>\'2 days ago\' HH:mm</item>
+        <item>M/d HH:mm</item>
+    </string-array>
+    <string-array name="news_sdk_hour_ago">
+        <item>%dh ago</item>
+    </string-array>
+    <string-array name="news_sdk_minute_ago">
+        <item>%d min ago</item>
+    </string-array>
+    <string-array name="news_tip_report_article_array">
+        <item>Ad</item>
+        <item>Outdated content</item>
+        <item>Vulgar content</item>
+        <item>Exaggerated headline</item>
+        <item>Not factual</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>Ad</item>
+        <item>Vulgar or violent</item>
+        <item>Fake or exaggerated headline</item>
+        <item>Infringement</item>
+        <item>Poor video quality</item>
+        <item>Offensive cover</item>
+    </string-array>
+</resources>
