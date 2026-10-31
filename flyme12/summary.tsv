@@ -19,7 +19,7 @@ FlymeSoundRecorder	com.android.soundrecorder	12.3.7 12003007	355	7	190	0	133	3	2
 framework-res	android	16 36	1320	95	1312	275	0	0	687
 Gallery	com.meizu.media.gallery	12.7.3 1200070003	1305	12	468	0	497	68	27
 GameCenter	com.meizu.flyme.gamecenter	12.3.0 12003000	1062	16	6	0	570	151	41
-InCallUI	com.android.incallui	14.01.07 14001007	188	7	43	0	68	3	30
+InCallUI	com.android.incallui	14.01.07 14001007	188	7	43	20	0	3	78
 mCareNew	com.meizu.mcare	8.0.0 800	184	2	71	0	346	28	24
 Mms	com.android.mms	12.3.4 12003004	878	20	0	0	520	225	39
 MusicFX	com.android.musicfx	5.0.0 50001	213	0	3	0	9	5	3

@@ -105,6 +105,9 @@
     <string name="incomming_video_call_text">Входящий видеовызов</string>
     <string name="indeterminate">Отмечено частично</string>
     <string name="item_is_selected">%1$s выбрано</string>
+    <string name="material_slider_range_end">Конец диапазона</string>
+    <string name="material_slider_range_start">Начало диапазона</string>
+    <string name="material_slider_value">Значение</string>
     <string name="mc_cancel">Отмена</string>
     <string name="mc_date_time_day">д.</string>
     <string name="mc_date_time_hour">ч.</string>
@@ -137,11 +140,19 @@
     <string name="mini_headsup_speaker_answer">Динамик</string>
     <string name="mms_hint">Изменить ответ</string>
     <string name="more_item_label">Ещё</string>
+    <string name="mtrl_checkbox_state_description_checked">проверено</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Отмечено частично</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Не отмечено</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
+    <string name="mtrl_picker_announce_current_range_selection">Дата начала: %1$s – дата окончания: %2$s</string>
     <string name="mtrl_picker_announce_current_selection_none">Нет</string>
+    <string name="mtrl_picker_end_date_description">Дата окончания: %1$s</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к текущему году (%1$d)</string>
+    <string name="mtrl_picker_start_date_description">Дата начала: %1$s</string>
     <string name="mtrl_picker_text_input_day_abbr">д.</string>
     <string name="mtrl_picker_text_input_month_abbr">м.</string>
     <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_today_description">Сегодня, %1$s</string>
     <string name="mute_call">Заглушить</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
@@ -150,9 +161,15 @@
     <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_almost_deny">Не спрашивать после отказа</string>
     <string name="mz_permission_deny">Отклонить</string>
+    <string name="mz_permission_i_know">ОК</string>
     <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9_no_internet">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9_only_internet">Для предоставления основных услуг этому приложению необходимо подключение к сети</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
     <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_noly_internet">Для пользования перечисленными выше функциями и службами</string>
+    <string name="mz_permission_policy_description_update">Для того, чтобы полностью защитить ваши права, мы обновили нашу политику приватности, которую можно увидеть %1$s</string>
+    <string name="mz_permission_use_info">Инструкции по использованию</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">WLAN</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
@@ -205,8 +222,11 @@
     <string name="request_video_call_text">Выполнение видеозвонка</string>
     <string name="requesting_video_call">Incoming video request</string>
     <string name="scam_number_label">Подозрительный звонок</string>
+    <string name="searchview_clear_text_content_description">Clear text</string>
+    <string name="searchview_navigation_content_description">Назад</string>
     <string name="selected">Выбрано</string>
     <string name="separate_from_conference">Разделить</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
     <string name="sim_picker_tile">Выбор SIM-карты</string>
     <string name="siminfo_item_text" formatted="false">SIM %d - %s</string>
     <string name="sms_btn_label">Сообщение</string>
