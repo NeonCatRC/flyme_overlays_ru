@@ -21,7 +21,7 @@ Gallery	com.meizu.media.gallery	12.7.3 1200070003	1305	12	468	0	497	68	27
 GameCenter	com.meizu.flyme.gamecenter	12.3.0 12003000	1062	16	6	0	570	151	41
 InCallUI	com.android.incallui	14.01.07 14001007	188	7	43	20	0	3	78
 mCareNew	com.meizu.mcare	8.0.0 800	184	2	71	0	346	28	24
-Mms	com.android.mms	12.3.4 12003004	878	20	0	0	520	225	39
+Mms	com.android.mms	12.3.4 12003004	878	20	0	408	0	225	151
 MusicFX	com.android.musicfx	5.0.0 50001	213	0	3	0	9	5	3
 MzAccount	com.meizu.account	12.0.14 12000014	258	4	100	0	111	24	23
 MzBatteryManager	com.meizu.battery	12.0.24 12000024	252	6	8	0	166	76	24

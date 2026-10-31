@@ -15,6 +15,14 @@
         <item>Заменить</item>
         <item>Удалить</item>
     </string-array>
+    <string-array name="attach_file_array">
+        <item>Выбрать текстовый файл</item>
+        <item>Выбрать аудиофайл</item>
+    </string-array>
+    <string-array name="attach_video_array">
+        <item>Снять новое видео</item>
+        <item>Выбрать видео</item>
+    </string-array>
     <string-array name="attach_voice_array">
         <item>Сделать новую запись</item>
         <item>Библиотека аудио</item>
@@ -82,6 +90,20 @@
         <item>Пожалуйста, позвоните мне позже.</item>
         <item>Хорошо, спасибо.</item>
         <item>Пробки, буду немного позже.</item>
+    </string-array>
+    <string-array name="search_label_config">
+        <item>Электроэнергия</item>
+        <item>Вода</item>
+        <item>Газ</item>
+        <item>Офис оператора</item>
+        <item>Счёт</item>
+        <item>Доставка</item>
+        <item>Код получения</item>
+        <item>Код подтверждения</item>
+        <item>12306</item>
+        <item>Авиабилет</item>
+        <item>Получение</item>
+        <item>Отписка</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 с.</item>
