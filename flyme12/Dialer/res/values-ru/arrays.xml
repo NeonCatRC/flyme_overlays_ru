@@ -119,4 +119,12 @@
         <item>Организация</item>
         <item>Заметка</item>
     </string-array>
+    <string-array name="yp_mark_type">
+        <item>Подозрение на мошенничество</item>
+        <item>Спам</item>
+        <item>Реклама</item>
+        <item>Агентство недвижимости</item>
+        <item>Доставка и заказы</item>
+        <item>Страхование и финансы</item>
+    </string-array>
 </resources>

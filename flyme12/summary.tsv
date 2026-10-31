@@ -10,13 +10,13 @@ Camera	com.meizu.media.camera	12.7.2 12007002	533	13	83	0	133	16	52
 ConnectivitySettings	com.meizu.connectivitysettings	12.15.000 12015000	1962	50	521	0	188	124	144
 CustomizeCenter	com.meizu.customizecenter	12.5.0 122050000	751	21	16	0	343	28	27
 DataMigration	com.meizu.datamigration	12.1.1 12001001	742	37	80	0	417	212	24
-Dialer	com.android.dialer	8.2.6 800200600	1128	10	9	0	404	26	44
+Dialer	com.android.dialer	8.2.6 800200600	1128	10	9	353	0	26	95
 Email	com.android.email	12.1.53 120001053	867	0	99	0	129	93	34
 FileManager	com.meizu.filemanager	12.0.21 12000021	649	0	129	0	254	36	24
 FlymeLauncher	com.meizu.flyme.launcher	13.0.0 13000000	468	19	272	0	311	30	49
 FlymeMusic	com.meizu.media.music	12.2.0 12202000	318	3	51	0	1607	240	25
 FlymeSoundRecorder	com.android.soundrecorder	12.3.7 12003007	355	7	190	0	133	3	20
-framework-res	android	16 36	1320	95	1312	215	0	0	747
+framework-res	android	16 36	1320	95	1312	275	0	0	687
 Gallery	com.meizu.media.gallery	12.7.3 1200070003	1305	12	468	0	497	68	27
 GameCenter	com.meizu.flyme.gamecenter	12.3.0 12003000	1062	16	6	0	570	151	41
 InCallUI	com.android.incallui	14.01.07 14001007	188	7	43	0	68	3	30

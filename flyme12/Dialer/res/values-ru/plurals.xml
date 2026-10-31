@@ -24,6 +24,12 @@
         <item quantity="other">Контакты: %1$s</item>
         <item quantity="one">Контакты: %1$s</item>
     </plurals>
+    <plurals name="mzc_contacts_multiple_delete_confirm">
+        <item quantity="one">Удалить %s контакт</item>
+        <item quantity="few">Удалить %s контакта</item>
+        <item quantity="many">Удалить %s контактов</item>
+        <item quantity="other">Удалить %s контакта</item>
+    </plurals>
     <plurals name="mzc_group_manager_remove_contacts_from_item">
         <item quantity="other">Удалить контакты: %s</item>
         <item quantity="one">Удалить контакты: %s</item>
