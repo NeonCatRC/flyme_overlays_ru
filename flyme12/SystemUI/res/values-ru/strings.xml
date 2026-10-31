@@ -348,10 +348,28 @@
     <string name="anniversary_status">Годовщина</string>
     <string name="anniversary_status_content_description">%1$s отмечает юбилей</string>
     <string name="aod_confirm_btn_txt">Приложения</string>
+    <string name="aod_navi_title_color">Цвет</string>
+    <string name="aod_navi_title_composing">Макет</string>
     <string name="aod_navi_title_info">Информация</string>
+    <string name="aod_navi_title_signature">Подпись</string>
     <string name="aod_notification_txt">Уведомления</string>
+    <string name="aod_personal_signature_one">Стремление\nрождается\nиз любви</string>
+    <string name="aod_personal_signature_three">Стремиться к совершенству,\nне называя ничего идеальным</string>
+    <string name="aod_personal_signature_two">Мечта</string>
     <string name="aod_time_txt">Время</string>
+    <string name="aod_type_animals">Живые</string>
     <string name="aod_type_classic_clock">Классика и минимализм</string>
+    <string name="aod_type_deep_blue">Глубина синего</string>
+    <string name="aod_type_dolphin">Белый дельфин</string>
+    <string name="aod_type_flora">Флора</string>
+    <string name="aod_type_merry">Веселье</string>
+    <string name="aod_type_multi_flora">Калейдоскоп</string>
+    <string name="aod_type_my_aod">Мой AOD</string>
+    <string name="aod_type_new_born">Рождение</string>
+    <string name="aod_type_personal_signature">Статус</string>
+    <string name="aod_type_planet">Фактурная планета</string>
+    <string name="aod_type_space">Пробел</string>
+    <string name="aod_type_walker">Путник</string>
     <string name="apn_settings_not_available">Этот пользователь не может изменять настройки точки доступа</string>
     <string name="app_channels_settings_title">Управление уведомлениями</string>
     <string name="app_clips_save_add_to_note">Добавить в заметку</string>
@@ -474,7 +492,10 @@
     <string name="bluetooth_active_media_only_battery_level">Используется (только для медиа), заряд: %1$s.</string>
     <string name="bluetooth_active_media_only_battery_level_untethered">Используется (только для медиа), заряд: %1$s (Л), %2$s (П).</string>
     <string name="bluetooth_active_media_only_no_battery_level">Используется (только для медиа)</string>
+    <string name="bluetooth_active_no_a2dp">Используется только для звонков</string>
+    <string name="bluetooth_active_no_a2dp_battery_level">Используется только для звонков, заряд %1$s</string>
     <string name="bluetooth_active_no_battery_level">Активно</string>
+    <string name="bluetooth_active_no_headset">Используется только для медиа</string>
     <string name="bluetooth_battery_level">Заряд батареи: %1$s</string>
     <string name="bluetooth_battery_level_lea_support">Подключено (поддерживается отправка аудио), заряд: %1$s.</string>
     <string name="bluetooth_battery_level_untethered">Заряд: %1$s (Л), %2$s (П).</string>
@@ -530,7 +551,14 @@
     <string name="bluetooth_le_audio_profile_summary_use_for">Использовать для LE_AUDIO</string>
     <string name="bluetooth_map_profile_summary_connected">Доступ к сообщениям</string>
     <string name="bluetooth_map_profile_summary_use_for">Использовать для доступа к сообщениям</string>
+    <string name="bluetooth_meizu_active_battery_level">Active, л: %1$s п: %2$s</string>
     <string name="bluetooth_meizu_active_battery_level_sp">Активно, заряд батареи: %1$s</string>
+    <string name="bluetooth_meizu_active_no_a2dp_battery_level">Используется только для звонков, левый %1$s, правый %2$s</string>
+    <string name="bluetooth_meizu_active_no_a2dp_battery_level_sp">Используется только для звонков, заряд %1$s</string>
+    <string name="bluetooth_meizu_connected_battery_level">Connected, л. %1$s п. %2$s</string>
+    <string name="bluetooth_meizu_connected_battery_level_sp">Подключено, заряд %1$s</string>
+    <string name="bluetooth_meizu_connected_no_a2dp_battery_level">Подключено только для звонков, левый %1$s, правый %2$s</string>
+    <string name="bluetooth_meizu_connected_no_a2dp_battery_level_sp">Подключено только для звонков, заряд %1$s</string>
     <string name="bluetooth_no_battery_level_lea_support">Подключено (поддерживается отправка аудио).</string>
     <string name="bluetooth_opp_profile_summary_connected">Установлено подключение к серверу передачи файлов</string>
     <string name="bluetooth_opp_profile_summary_not_connected">Нет подключения к серверу передачи файлов</string>
@@ -711,6 +739,7 @@
     <string name="clock_12hr_format">hm</string>
     <string name="clock_24hr_format">Hm</string>
     <string name="clock_default_description">Цифровые часы, стандартный</string>
+    <string name="clock_default_name">По умолчанию</string>
     <string name="clock_title_analog">Стрелки</string>
     <string name="clock_title_bubble">Пузырь</string>
     <string name="clock_title_default">По умолчанию</string>
@@ -727,6 +756,7 @@
     <string name="communal_widgets_disclaimer_text">Чтобы открыть приложение, используя виджет, вам нужно будет подтвердить свою личность. Обратите внимание, что виджеты видны всем, даже если планшет заблокирован. Некоторые виджеты не предназначены для использования на заблокированном экране. Добавлять их туда может быть небезопасно.</string>
     <string name="communal_widgets_disclaimer_title">Виджеты на заблокированном экране</string>
     <string name="config_navBarLayout">space,back;home;recent,menu_ime</string>
+    <string name="config_rat_4g">4G</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включён этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="confirm_new_pin_tips">Подтвердите новый PIN-код</string>
@@ -841,6 +871,8 @@
     <string name="data_connection_lte_plus">LTE+</string>
     <string name="data_connection_no_internet">Нет подключения к Интернету.</string>
     <string name="data_connection_roaming">Роуминг</string>
+    <string name="data_disable_ciwlan_call_might_drop_message">Если выключить мобильный интернет, текущий звонок может прерваться.</string>
+    <string name="data_disable_ciwlan_call_will_drop_message">Если выключить мобильный интернет, текущий звонок прервётся.</string>
     <string name="data_saver">Экономия трафика</string>
     <string name="data_usage_disabled_dialog">Передача данных отключена, поскольку достигнут установленный вами лимит. Вы можете снова включить её, однако за переданные данные оператор может взимать дополнительную плату</string>
     <string name="data_usage_disabled_dialog_enable">Возобновить</string>
@@ -907,6 +939,8 @@
     <string name="development_settings_not_available">Параметры для разработчиков недоступны для данного пользователя</string>
     <string name="development_settings_summary">Настройка параметров для разработчиков</string>
     <string name="development_settings_title">Для разработчиков</string>
+    <string name="device_control_header_menu_edit">Изменить элементы управления устройствами</string>
+    <string name="device_control_header_menu_user_manual">Руководство пользователя</string>
     <string name="dial_emergency_error">Вызов не выполнен, так как «%s» не является номером экстренной службы!</string>
     <string name="dialog_close">Закрыть</string>
     <string name="dialog_title_to_allow_any_widget">Разрешить добавлять любые виджеты на заблокированный экран?</string>
@@ -958,6 +992,7 @@
     <string name="dropdown_menu">Раскрывающееся меню</string>
     <string name="ear_protection_continue">Продолжить</string>
     <string name="ear_protection_got_it">Понятно</string>
+    <string name="ear_protection_ignore">Не уведомлять</string>
     <string name="ear_protection_long_time_warning">Вы используете наушники в течение долгого промежутка времени. Рекомендуется сделать перерыв, чтобы защитить ваш слух</string>
     <string name="ear_protection_message">Прослушивание музыки на высокой громкости может повредить ваш слух. Будьте осторожны</string>
     <string name="ear_protection_message1">Можно отключить защиту слуха в наушниках в разделе Настройки &gt; Звук и вибрация &gt; Дополнительные настройки звука</string>
@@ -1116,6 +1151,7 @@
     <string name="flyme_media_projection_dialog_text">При записи или передаче контента \"%s\" может получить доступ ко всей информации, отображаемой на вашем экране или воспроизводимой на устройстве, включая пароли, сведения о платежах, фотографии и воспроизводимые аудиозаписи и другие личные информацию.</string>
     <string name="flyme_media_projection_dialog_title">Разрешить \"%s\" записывать или передавать контент?</string>
     <string name="flyme_notification_sensitive_tip_message">Получено %d новых сообщений</string>
+    <string name="flyme_prompt_reason_device_admin">После блокировки экрана сторонним приложением подтвердите пароль</string>
     <string name="flyme_sensor_privacy_camera_positive">Разрешить доступ к камере</string>
     <string name="flyme_sensor_privacy_mic_positive">Разрешить доступ к микрофону</string>
     <string name="flyme_sensor_privacy_one_time">Разрешить</string>
@@ -1124,6 +1160,8 @@
     <string name="flyme_sensor_privacy_start_use_mic_camera_dialog_title">Камера и микрофон отключены в режиме инкогнито. Разрешить приложению %s использовать камеру и микрофон?</string>
     <string name="flyme_sensor_privacy_start_use_mic_dialog_title">Микрофон отключен в режиме инкогнито. Разрешить приложению %s использовать микрофон?</string>
     <string name="flyme_sensor_privacy_start_use_mic_dialog_title_for_dialer">Микрофон отключен в режиме инкогнито, из-за этого собеседник не услышит ваш голос. Разрешить Телефону использовать микрофон?</string>
+    <string name="flyme_thermal_critical_dialog_subtitle">Дождитесь, пока устройство остынет</string>
+    <string name="flyme_thermal_critical_dialog_title">Слишком высокая температура</string>
     <string name="font_scale_percentage">%1$d %%</string>
     <string name="font_scaling_dialog_title">Размер шрифта</string>
     <string name="font_scaling_larger">Увеличить</string>
@@ -1327,7 +1365,10 @@
     <string name="keyboard_key_backspace">Backspace</string>
     <string name="keyboard_key_button_template">Кнопка «%1$s»</string>
     <string name="keyboard_key_dpad_center">Центральная стрелка</string>
+    <string name="keyboard_key_dpad_down">Стрелка вниз</string>
+    <string name="keyboard_key_dpad_left">Стрелка влево</string>
     <string name="keyboard_key_dpad_right">Стрелка вправо</string>
+    <string name="keyboard_key_dpad_up">Стрелка вверх</string>
     <string name="keyboard_key_enter">Ввод</string>
     <string name="keyboard_key_esc">Esc</string>
     <string name="keyboard_key_forward_del">Удалить</string>
@@ -1455,6 +1496,7 @@
     <string name="keyguard_restart_unlock">Введите пароль после перезагрузки</string>
     <string name="keyguard_retry">Чтобы повторить попытку, проведите вверх</string>
     <string name="keyguard_security_password_ok">ОК</string>
+    <string name="keyguard_side_fingerprint_not_match_first_time">Отпечаток не совпадает. Следите, чтобы палец и сканер были чистыми</string>
     <string name="keyguard_sim_error_message_short">Ошибка SIM-карты.</string>
     <string name="keyguard_sim_locked_message">SIM-карта заблокирована</string>
     <string name="keyguard_sim_puk_locked_message">Для разблокировки SIM-карты требуется PUK-код</string>
@@ -1648,6 +1690,7 @@
     <string name="location_kill_process">Закрыть</string>
     <string name="location_status">Делится геоданными</string>
     <string name="location_status_content_description">%1$s показывает свое местоположение</string>
+    <string name="lock_enter_editor_tips">Нажмите и удерживайте ещё раз, чтобы изменить оформление</string>
     <string name="lock_month">MMMM</string>
     <string name="lock_month_day">d MMMM</string>
     <string name="lock_password_left_times">Осталось попыток ввода пароля: %s</string>
@@ -1700,6 +1743,7 @@
     <string name="manage_notifications_history_text">История</string>
     <string name="manage_notifications_text">Управление</string>
     <string name="manage_users">Управление пользователями</string>
+    <string name="manage_windows_icon_text">Открытые окна: %1$d</string>
     <string name="manage_windows_text">Управление окнами</string>
     <string name="managed_user_title">Рабочий профиль</string>
     <string name="masculine">Мужской</string>
@@ -1812,6 +1856,7 @@
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
+    <string name="mc_search_description">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
@@ -1953,6 +1998,7 @@
     <string name="mobile_data_connection_active">Подключено</string>
     <string name="mobile_data_disable_message">Вы не сможете передавать данные или выходить в интернет через оператора \"%s\". Интернет будет доступен только по сети Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">ваш оператор</string>
+    <string name="mobile_data_disable_message_on_dual_data">Вы не сможете пользоваться мобильным интернетом через %s.</string>
     <string name="mobile_data_disable_title">Отключить мобильный интернет?</string>
     <string name="mobile_data_disabled_message">Мобильная передача данных не активна, попробуйте позже</string>
     <string name="mobile_data_is_off">Мобильный интернет отключен</string>
@@ -1960,6 +2006,7 @@
     <string name="mobile_data_off_summary">Без автоподключения к мобильному интернету</string>
     <string name="mobile_data_poor_connection">Слабый сигнал</string>
     <string name="mobile_data_settings_title">Моб. интернет</string>
+    <string name="mobile_data_summary_not_allowed_to_disable_data">Недоступно во время звонка с другой SIM-карты</string>
     <string name="mobile_data_temp_connection_active">Временное подключение</string>
     <string name="mobile_data_text_format">%1$s – %2$s</string>
     <string name="mock_location_app">ПО для фиктивных местоположений</string>
@@ -2019,6 +2066,8 @@
     <string name="mr_chooser_done_button_label">Готово</string>
     <string name="mr_chooser_searching">Поиск устройств</string>
     <string name="mr_chooser_title">Передать</string>
+    <string name="mr_chooser_wifi_warning_description">Убедитесь, что устройство и устройство Cast подключены к одной сети Wi-Fi.</string>
+    <string name="mr_chooser_zero_routes_description">Устройства не найдены. Убедитесь, что устройство и устройство Cast подключены к одной сети Wi-Fi, и повторите попытку.</string>
     <string name="mr_chooser_zero_routes_found_title">Нет доступных устройств</string>
     <string name="mr_controller_album_art">Обложка альбома</string>
     <string name="mr_controller_casting_screen">Передача изображения</string>
@@ -2125,6 +2174,7 @@
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mz_zenmode_time_always">Постоянно</string>
     <string name="nav_bar">Панель навигации</string>
+    <string name="nav_bar_edge_panel">Боковая панель навигации</string>
     <string name="nav_bar_layout">Расположение кнопок</string>
     <string name="navigation_menu">Меню навигации</string>
     <string name="neuter">Средний</string>
@@ -2317,10 +2367,13 @@
     <string name="playstate_buffering_text">Буферизация</string>
     <string name="please_select_phase2">2-й этап аутентификации</string>
     <string name="plugin_weather_txt">Погода</string>
+    <string name="plugins">Плагины</string>
     <string name="pointer_location">Отображать касания</string>
     <string name="pointer_location_summary">Визуализировать на экране нажатия и жесты</string>
     <string name="pop_notification_quick_open">Ответ</string>
     <string name="popup_on_dismiss_cta_tile_text">Нажмите и удерживайте, чтобы настроить виджеты.</string>
+    <string name="poster_tip_text">Проведите влево, чтобы открыть удивительный мир.</string>
+    <string name="poster_today_hot_txt">Популярные темы дня</string>
     <string name="power_charging">%1$s – %2$s</string>
     <string name="power_charging_duration">%1$s – %2$s до полной зарядки</string>
     <string name="power_charging_duration_v2">%1$s – полностью зарядится к %2$s</string>
@@ -2399,6 +2452,11 @@
     <string name="qs_bluetooth_usable">Доступные устройства</string>
     <string name="qs_control_center">Панель управления</string>
     <string name="qs_customize_remove">Удалить</string>
+    <string name="qs_device_center_drag_tips">Нажмите и удерживайте, чтобы перетащить</string>
+    <string name="qs_device_center_user_manual">Справка</string>
+    <string name="qs_device_center_without_added_device">Нет добавленных элементов управления</string>
+    <string name="qs_device_center_without_device">Нет элементов управления</string>
+    <string name="qs_device_center_without_hidden_device">Нет скрытых элементов управления</string>
     <string name="qs_dnd_prompt_app">Режим \"Не беспокоить\" был включен приложением (%s).</string>
     <string name="qs_dnd_prompt_auto_rule">Режим \"Не беспокоить\" был включен специальным правилом (%s).</string>
     <string name="qs_dnd_prompt_auto_rule_app">Режим \"Не беспокоить\" был включен специальным правилом или приложением.</string>
@@ -2418,6 +2476,7 @@
     <string name="qs_header_date_main_pattern12">a EEE, %s</string>
     <string name="qs_header_date_main_pattern24">EEE, %s</string>
     <string name="qs_media_player_title_default">Не воспроизводится</string>
+    <string name="qs_media_player_title_playing">Проигрывается</string>
     <string name="qs_record_issue_bug_report">Отчет об ошибке</string>
     <string name="qs_record_issue_dropdown_header">С чем связана проблема, с которой вы столкнулись?</string>
     <string name="qs_record_issue_dropdown_prompt">Выберите тип проблемы</string>
@@ -2425,7 +2484,10 @@
     <string name="qs_record_issue_label">Запись неполадки</string>
     <string name="qs_record_issue_start">Начать</string>
     <string name="qs_record_issue_stop">Стоп</string>
+    <string name="qs_reset_layout_message">Все элементы вернутся к макету по умолчанию</string>
+    <string name="qs_reset_layout_negative">Отмена</string>
     <string name="qs_reset_layout_positive">Сбросить</string>
+    <string name="qs_reset_layout_title">Сбросить макет центра управления?</string>
     <string name="qs_showing_label">Отображение названия</string>
     <string name="qs_tile_config_cue_line_text">Перетащите вверх</string>
     <string name="qs_tile_config_title">Управление переключателями</string>
@@ -2433,6 +2495,10 @@
     <string name="qs_tile_request_dialog_not_add">Не добавлять</string>
     <string name="qs_tile_request_dialog_text">Приложение \"%1$s\" хочет добавить в быстрые настройки следующий параметр:</string>
     <string name="qs_tiles_edit_done">Готово</string>
+    <string name="qs_tiles_edit_empty_hint">Нет элементов для добавления</string>
+    <string name="qs_tiles_edit_header_hint">Нажмите и перетащите или нажмите, чтобы добавить элементы</string>
+    <string name="qs_tiles_edit_hide_name">Скрыть названия</string>
+    <string name="qs_tiles_edit_reset_layout">Сбросить макет</string>
     <string name="qs_tiles_edit_show_name">Отображение названия</string>
     <string name="qs_tiles_edit_tips_text">Перетащите сюда иконку для скрытия</string>
     <string name="qs_tiles_edit_tips_text_max">Невозможно отобразить больше иконок</string>
@@ -2492,6 +2558,7 @@
     <string name="quick_settings_dark_mode_secondary_label_until">До %s</string>
     <string name="quick_settings_dark_mode_secondary_label_until_bedtime_ends">Ограничить временем сна</string>
     <string name="quick_settings_dark_mode_secondary_label_until_sunrise">До рассвета</string>
+    <string name="quick_settings_device_control">Управление устройствами</string>
     <string name="quick_settings_disclosure_managed_profile_monitoring">Ваша организация может контролировать сетевой трафик в вашем рабочем профиле</string>
     <string name="quick_settings_disclosure_managed_profile_named_vpn">Рабочий профиль подключен к сети %1$s</string>
     <string name="quick_settings_disclosure_managed_profile_network_activity">История действий в сети доступна администратору в рабочем аккаунте.</string>
@@ -2780,12 +2847,15 @@
     <string name="sensor_privacy_start_use_mic_dialog_title">Разблокировать микрофон устройства?</string>
     <string name="set_default_notes_app_toast_content">Задайте стандартное приложение для заметок в настройках.</string>
     <string name="settings_label">Настройки</string>
+    <string name="settingslib_action_label_pause">Пауза</string>
+    <string name="settingslib_action_label_resume">Возобновить</string>
     <string name="settingslib_category_personal">Личные данные</string>
     <string name="settingslib_category_private">Частный профиль</string>
     <string name="settingslib_category_work">Работа</string>
     <string name="settingslib_dismiss_button_content_description">Выйти</string>
     <string name="settingslib_expressive_text_collapse">Свернуть</string>
     <string name="settingslib_expressive_text_expand">Развернуть</string>
+    <string name="settingslib_illustration_content_description">Анимация</string>
     <string name="settingslib_learn_more_text">Подробнее</string>
     <string name="shade_display_awareness_title">Расположение панели уведомлений</string>
     <string name="share">Передать</string>
@@ -2970,6 +3040,7 @@
     <string name="status_bar_settings_auto_rotation">Автоповорот</string>
     <string name="status_bar_settings_autobrightness">Автояркость</string>
     <string name="status_bar_settings_bell">Звонок</string>
+    <string name="status_bar_settings_caculator">Калькулятор</string>
     <string name="status_bar_settings_datasave">Экон. трафика</string>
     <string name="status_bar_settings_developeroptions">Меню разр.</string>
     <string name="status_bar_settings_drivemode">Вождение</string>
@@ -2983,6 +3054,7 @@
     <string name="status_bar_settings_screenshot">Скриншот</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключён</string>
     <string name="status_bar_settings_smarttouch">Жесты</string>
+    <string name="status_bar_settings_soundrecord">Диктофон</string>
     <string name="status_bar_settings_vibrate">Вибрация</string>
     <string name="status_bar_settings_visualenhance">Улучшение визуальных эффектов</string>
     <string name="status_bar_settings_vpn">VPN</string>
@@ -3008,6 +3080,8 @@
     <string name="stream_notification_unavailable">Недоступно в беззвучном режиме</string>
     <string name="stream_ring">Звонок</string>
     <string name="stream_system">Система</string>
+    <string name="stream_system_enforced">Системные звуки (принудительно)</string>
+    <string name="stream_tts">Синтез речи</string>
     <string name="stream_unavailable_by_modes">Недоступно, так как включен режим \"%s\"</string>
     <string name="stream_unavailable_by_unknown">Недоступно</string>
     <string name="stream_voice_call">Вызов</string>
@@ -3016,9 +3090,17 @@
     <string name="stylus_battery_low">Низкий заряд батареи стилуса</string>
     <string name="stylus_battery_low_percentage">Батарея стилуса: %s</string>
     <string name="stylus_battery_low_subtitle">Поставьте стилус на зарядку.</string>
+    <string name="sud_back_button_label">Назад</string>
+    <string name="sud_less_info">Меньше</string>
     <string name="sud_more_button_label">Ещё</string>
+    <string name="sud_more_info">Подробнее</string>
+    <string name="sud_next_button_label">Далее</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="super_charge_state">Супер-зарядка</string>
+    <string name="super_volume_dialog_button_cancel">Отмена</string>
+    <string name="super_volume_dialog_button_goto_enable">Включить</string>
+    <string name="super_volume_dialog_message">Повышает максимальную громкость всех звуков. Может увеличиться расход энергии</string>
+    <string name="super_volume_dialog_title">Включить сверхгромкость?</string>
     <string name="swipe_again">Проведите снова</string>
     <string name="switch_bar_off">Откл.</string>
     <string name="switch_bar_on">Вкл.</string>
@@ -3066,6 +3148,7 @@
     <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
     <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
+    <string name="text_input_hint_text">Введите текст</string>
     <string name="thermal">Нагрев</string>
     <string name="thermal_shutdown_dialog_help_text">Подробнее о действиях при перегреве…</string>
     <string name="thermal_shutdown_dialog_message">Телефон выключился из-за перегрева. Сейчас он работает нормально.\n\nВозможные причины перегрева:\n\t• использование ресурсоемких игр и приложений, например связанных с видео или навигацией;\n\t• скачивание или загрузка больших файлов;\n\t• высокая температура окружающей среды.</string>
@@ -3166,6 +3249,8 @@
     <string name="tts_status_title">Язык по умолчанию</string>
     <string name="tuner_app">Приложение \"%1$s\"</string>
     <string name="tuner_circle">Круг</string>
+    <string name="tuner_doze">Активный экран</string>
+    <string name="tuner_doze_always_on">Всегда включён</string>
     <string name="tuner_launch_app">Запустить приложение \"%1$s\"</string>
     <string name="tuner_left">Стрелка влево</string>
     <string name="tuner_lock_screen">Заблокировать экран</string>
@@ -3208,6 +3293,10 @@
     <string name="twentyfour_hours">24 часа</string>
     <string name="two_hundred_mb">200 МБ</string>
     <string name="two_weeks_timestamp">2 недели назад</string>
+    <string name="udfps_accessibility_touch_hints_down">Опустить</string>
+    <string name="udfps_accessibility_touch_hints_left">Сдвиньте влево</string>
+    <string name="udfps_accessibility_touch_hints_right">Сдвиньте вправо</string>
+    <string name="udfps_accessibility_touch_hints_up">Поднять</string>
     <string name="unimportant_notification">Маловажные</string>
     <string name="unknown">Неизвестно</string>
     <string name="unknown_albumTitle">Неизвестный альбом</string>
@@ -3295,6 +3384,7 @@
     <string name="volume_dialog_ringer_guidance_ring">Для звонков и уведомлений включен звук (уровень громкости: %1$s)</string>
     <string name="volume_dialog_title">%s: регулировка громкости</string>
     <string name="volume_dnd_silent">Кнопки регулировки громкости</string>
+    <string name="volume_icon_description_assistant">Aicy</string>
     <string name="volume_icon_description_call">Вызов</string>
     <string name="volume_icon_description_media">Медиа</string>
     <string name="volume_icon_description_notification">Уведомления</string>
@@ -3354,6 +3444,7 @@
     <string name="webview_launch_devtools_no_activity">Не удалось запустить инструменты разработчика.</string>
     <string name="webview_launch_devtools_no_package">Пакет WebView не найден.</string>
     <string name="webview_launch_devtools_title">Инструменты разработчика от поставщика WebView</string>
+    <string name="whether_to_allow_live_notification">Разрешить живые уведомления?</string>
     <string name="wifi_access_points">Сети Wi-Fi</string>
     <string name="wifi_add_network">Добавить сеть</string>
     <string name="wifi_advanced_ip_address_title">IP-адрес</string>

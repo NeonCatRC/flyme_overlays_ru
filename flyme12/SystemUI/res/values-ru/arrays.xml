@@ -549,6 +549,13 @@
         <item>Источник аудио</item>
         <item>MIDI</item>
     </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Поиск…</item>

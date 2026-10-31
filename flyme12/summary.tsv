@@ -37,7 +37,7 @@ Picker	com.meizu.picker	12.2.34 12002034	304	4	7	0	247	78	23
 SDKStage	com.meizu.flyme.sdkstage	5.0.01 50000001	128	0	9	0	88	11	8
 Settings	com.android.settings	12.1.0 12001000	4521	436	4691	192	0	158	582
 Suggestion	com.meizu.suggestion	12.5.10 12005010	89	2	0	0	512	3	15
-SystemUI	com.android.systemui	16.26.06.25_base 16260625	1771	64	1947	0	249	171	138
+SystemUI	com.android.systemui	16.26.06.25_base 16260625	1771	64	1947	94	0	171	293
 SystemUIEx	com.flyme.systemuiex	12.3.14 12003014	267	7	48	0	58	65	25
 SystemUITools	com.flyme.systemuitools	13.1.2 13001002	314	5	168	0	214	16	26
 ToolBox	com.meizu.flyme.toolbox	12.0.15 12000015	367	0	107	0	88	51	20

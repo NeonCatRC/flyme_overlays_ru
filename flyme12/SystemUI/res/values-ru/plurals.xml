@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="one" formatted="false">Введите PIN-код SIM%d. Осталась %d попытка, после чего для разблокировки устройства придётся обратиться к оператору.</item>
+        <item quantity="few" formatted="false">Введите PIN-код SIM%d. Осталось %d попытки.</item>
+        <item quantity="many" formatted="false">Введите PIN-код SIM%d. Осталось %d попыток.</item>
+        <item quantity="other" formatted="false">Введите PIN-код SIM%d. Осталось %d попытки.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="one" formatted="false">Неверный PIN-код SIM%d. Осталась %d попытка, после чего для разблокировки устройства придётся обратиться к оператору.</item>
+        <item quantity="few" formatted="false">Неверный PIN-код SIM%d. Осталось %d попытки.</item>
+        <item quantity="many" formatted="false">Неверный PIN-код SIM%d. Осталось %d попыток.</item>
+        <item quantity="other" formatted="false">Неверный PIN-код SIM%d. Осталось %d попытки.</item>
+    </plurals>
     <plurals name="mz_fp_management_count">
         <item quantity="other">Сохранено отпечатков: %1$d</item>
         <item quantity="one">Сохранено отпечатков: %1$d</item>
