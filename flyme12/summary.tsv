@@ -13,7 +13,7 @@ DataMigration	com.meizu.datamigration	12.1.1 12001001	742	37	80	0	417	212	24
 Dialer	com.android.dialer	8.2.6 800200600	1128	10	9	353	0	26	95
 Email	com.android.email	12.1.53 120001053	867	0	99	0	129	93	34
 FileManager	com.meizu.filemanager	12.0.21 12000021	649	0	129	0	254	36	24
-FlymeLauncher	com.meizu.flyme.launcher	13.0.0 13000000	468	19	272	0	311	30	49
+FlymeLauncher	com.meizu.flyme.launcher	13.0.0 13000000	468	19	272	155	0	30	205
 FlymeMusic	com.meizu.media.music	12.2.0 12202000	318	3	51	0	1607	240	25
 FlymeSoundRecorder	com.android.soundrecorder	12.3.7 12003007	355	7	190	0	133	3	20
 framework-res	android	16 36	1320	95	1312	275	0	0	687

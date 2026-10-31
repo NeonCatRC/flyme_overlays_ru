@@ -43,7 +43,7 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | Dialer | 8.2.6 | 100% | 1128 | 10 | 9 | 353 | 0 | 26 |
 | Email | 12.1.53 | 88% | 867 | 0 | 99 | 0 | 129 | 93 |
 | FileManager | 12.0.21 | 75% | 649 | 0 | 129 | 0 | 254 | 36 |
-| FlymeLauncher | 13.0.0 | 70% | 468 | 19 | 272 | 0 | 311 | 30 |
+| FlymeLauncher | 13.0.0 | 100% | 468 | 19 | 272 | 155 | 0 | 30 |
 | FlymeMusic | 12.2.0 | 18% | 318 | 3 | 51 | 0 | 1607 | 240 |
 | FlymeSoundRecorder | 12.3.7 | 80% | 355 | 7 | 190 | 0 | 133 | 3 |
 | framework-res | 16 | 100% | 1320 | 95 | 1312 | 275 | 0 | 0 |
@@ -74,4 +74,4 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | Video | 17.23.0 | 52% | 263 | 0 | 30 | 0 | 266 | 29 |
 | VoiceAssistant | 12.1.46 | 40% | 754 | 8 | 0 | 0 | 1120 | 234 |
 | Weather | 54.3.60 | 49% | 461 | 0 | 111 | 0 | 592 | 61 |
-| **Total** | | 73% | 29290 | 1220 | 14366 | 1056 | 16443 | 3300 |
+| **Total** | | 74% | 29290 | 1220 | 14366 | 1211 | 16132 | 3300 |
