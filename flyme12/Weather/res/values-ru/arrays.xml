@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="copy_choice_item">
+        <item>Копировать</item>
+    </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
@@ -54,5 +57,69 @@
         <item>Чт</item>
         <item>Пт</item>
         <item>Сб</item>
+    </string-array>
+    <string-array name="news_sdk_before_today">
+        <item>Вчера HH:mm</item>
+        <item>Позавчера HH:mm</item>
+        <item>d.M HH:mm</item>
+    </string-array>
+    <string-array name="news_sdk_hour_ago">
+        <item>%d ч назад</item>
+    </string-array>
+    <string-array name="news_sdk_last_visit_position">
+        <item>Вы смотрели здесь. Нажмите, чтобы обновить</item>
+        <item>В прошлый раз вы остановились здесь. Нажмите, чтобы обновить</item>
+    </string-array>
+    <string-array name="news_sdk_minute_ago">
+        <item>%d мин назад</item>
+    </string-array>
+    <string-array name="news_sdk_picture_operate">
+        <item>Поделиться изображением</item>
+        <item>Сохранить изображение</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete">
+        <item>Новых статей нет</item>
+        <item>Обновлено статей: %d</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete_video">
+        <item>Новых видео нет</item>
+        <item>Обновлено видео: %d</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_video_array">
+        <item>Порнография/насилие</item>
+        <item>Кликбейт</item>
+        <item>Реклама</item>
+        <item>Плохое качество видео</item>
+        <item>Оскорбительная обложка</item>
+        <item>Нарушение прав</item>
+    </string-array>
+    <string-array name="news_tip_report_article_array">
+        <item>Реклама</item>
+        <item>Устаревшее содержимое</item>
+        <item>Непристойное содержимое</item>
+        <item>Преувеличенный заголовок</item>
+        <item>Не соответствует фактам</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>Реклама</item>
+        <item>Непристойность или насилие</item>
+        <item>Ложный или преувеличенный заголовок</item>
+        <item>Нарушение прав</item>
+        <item>Плохое качество видео</item>
+        <item>Оскорбительная обложка</item>
+    </string-array>
+    <string-array name="report_choice_item">
+        <item>Эротика</item>
+        <item>Слухи</item>
+        <item>Клевета</item>
+        <item>Политически чувствительное</item>
+        <item>Оскорбления</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
     </string-array>
 </resources>

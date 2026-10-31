@@ -105,6 +105,8 @@
     <string name="descp_zoom_value">Увеличение: %1s</string>
     <string name="descp_zoom_value_1x">Вернуть к 1х</string>
     <string name="dialog_ok">ОК</string>
+    <string name="download_already_pause">Приостановлено</string>
+    <string name="download_resume">Продолжить загрузку</string>
     <string name="error_a11y_label">Ошибка: недопустимое значение</string>
     <string name="expand_button_title">Дополнительно</string>
     <string name="flyme_internal_app_permission_location_text">Для записи местоположения при съемке фото или видео</string>
@@ -135,6 +137,10 @@
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
+    <string name="mz_adaptive_mark_time_limited_confirm_hint">Подтвердить</string>
+    <string name="mz_adaptive_mark_time_limited_content_hint">Ограниченный по времени стиль водяного знака доступен только в определённый период. Когда стиль станет недоступен, водяной знак камеры вернётся к стилю по умолчанию</string>
+    <string name="mz_adaptive_mark_time_limited_hint">Ограниченный</string>
+    <string name="mz_adaptive_mark_time_limited_style_hint">Ограниченный по времени стиль водяного знака</string>
     <string name="mz_address_info_addr">Адрес</string>
     <string name="mz_address_info_birthday">День рождения</string>
     <string name="mz_address_info_cell">Телефон</string>
@@ -241,6 +247,7 @@
     <string name="mz_filter_lut">Мой фильтр</string>
     <string name="mz_filter_mgr">Менеджер</string>
     <string name="mz_filter_none_title">Нет</string>
+    <string name="mz_filter_simulated_film">Имитация плёнки</string>
     <string name="mz_forcetouch_item_mirror">Зеркало</string>
     <string name="mz_forcetouch_item_video">Видео</string>
     <string name="mz_funny_cam_ar_intro_desc">Опробуйте новую функцию AR Fun</string>
@@ -340,6 +347,7 @@
     <string name="mz_permission_inform_f9_only_internet">Для предоставления основных услуг этому приложению необходимо подключение к сети</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешения</string>
     <string name="mz_permission_policy_description_f10">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_policy_description_f9">Чтобы лучше защитить ваши права, мы обновили соглашение. Подробнее: %1$s</string>
     <string name="mz_permission_policy_description_noly_internet">Для пользования перечисленными выше функциями и службами</string>
     <string name="mz_permission_policy_description_update">Для того, чтобы полностью защитить ваши права, мы обновили нашу политику приватности, которую можно увидеть %1$s</string>
     <string name="mz_permission_usage_instructions_text">«Инструкция по использованию разрешений»</string>
@@ -354,6 +362,8 @@
     <string name="mz_please_open_audio_permission_message">Для записи видео, создания динамических фотографий и других функций требуется это разрешение</string>
     <string name="mz_please_open_camera_permission">Пожалуйста, включите разрешение \'Камера\'</string>
     <string name="mz_please_open_camera_permission_message">Для фотосъемки, видеозаписи и других функций требуется это разрешение</string>
+    <string name="mz_please_open_location_permission">Включите разрешение на доступ к местоположению</string>
+    <string name="mz_please_open_location_permission_message">Это разрешение нужно, например, чтобы указывать место в водяном знаке.</string>
     <string name="mz_pref_camera_shutter_speed_default">Авто</string>
     <string name="mz_privacy_exit">Выход</string>
     <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
@@ -392,11 +402,13 @@
     <string name="mz_setting_fs_hd">HD камера</string>
     <string name="mz_setting_funnycam_mark_title">Вотермарк Meizu</string>
     <string name="mz_setting_gesture">Сделать фото жестом</string>
+    <string name="mz_setting_highpixel_200m_title">200 Мп</string>
     <string name="mz_setting_lens_correction_switch_label">Скорректировать оптическую деформацию объектива, но область съёмки немного сузится</string>
     <string name="mz_setting_lens_correction_switch_title">Корректировка объектива</string>
     <string name="mz_setting_level_title">Уровень</string>
     <string name="mz_setting_light_fb_title">Легкая коррекция лица</string>
     <string name="mz_setting_live_photo_switch_title">Переключение Живого фото</string>
+    <string name="mz_setting_manual_108m_title">Ручной 108 Мп</string>
     <string name="mz_setting_manual_20m_title">Ручное 20M</string>
     <string name="mz_setting_manual_48m_title">Ручное 48M</string>
     <string name="mz_setting_manual_50m_title">Ручное 50M</string>
@@ -410,6 +422,8 @@
     <string name="mz_setting_mark_preference_none">Нет</string>
     <string name="mz_setting_mark_preference_pro">Вручную</string>
     <string name="mz_setting_mark_style">Стиль водяного знака</string>
+    <string name="mz_setting_mark_style_color">Цвет рамки</string>
+    <string name="mz_setting_mark_style_image">Изображение</string>
     <string name="mz_setting_meshline_title">Сетка</string>
     <string name="mz_setting_mirror_title">Зеркало</string>
     <string name="mz_setting_picture_size_full_size">Full</string>
@@ -423,6 +437,7 @@
     <string name="mz_setting_simple_mark_hint_middle">По центру</string>
     <string name="mz_setting_simple_mark_hint_right">По правому краю</string>
     <string name="mz_setting_slow_motion_fps_title">Слоу-мо FPS</string>
+    <string name="mz_setting_snapshot_live_photo_switch_title">Живое фото при быстрой съёмке</string>
     <string name="mz_setting_title_devicemark_custom">Свой водяной знак</string>
     <string name="mz_setting_tripod_title">Трипод</string>
     <string name="mz_setting_video_4k_60fps_limit">В этом размере длина записи до 10 минут</string>
@@ -434,6 +449,7 @@
     <string name="mz_setting_watermark_device">Девайс</string>
     <string name="mz_setting_watermark_location">Местоположение</string>
     <string name="mz_setting_watermark_more">Ещё</string>
+    <string name="mz_setting_watermark_style">Стиль водяного знака</string>
     <string name="mz_setting_watermark_time">Время и дата</string>
     <string name="mz_slow_motion_desc_120fps">120fps, 1080P</string>
     <string name="mz_slow_motion_desc_240fps">240fps, 1080P</string>
@@ -487,8 +503,10 @@
     <string name="mz_toggle_hint_fb_close">Мейкап отключён</string>
     <string name="mz_toggle_hint_fb_depth_beauty">Сильно приукрашено</string>
     <string name="mz_toggle_hint_fb_mild_beauty">Слегка приукрашено</string>
+    <string name="mz_toggle_hint_flash_3x_unsupported">Вспышка доступна при зуме меньше 3x</string>
     <string name="mz_toggle_hint_flash_asd_infant">В кадре распознан ребёнок. Съёмка со вспышкой не рекомендуется.</string>
     <string name="mz_toggle_hint_flash_auto">Автовспышка включена</string>
+    <string name="mz_toggle_hint_flash_cam_unsupported">Переключитесь на другой объектив, чтобы включить вспышку</string>
     <string name="mz_toggle_hint_flash_close">Вспышка отключена</string>
     <string name="mz_toggle_hint_flash_close_infant">Ребёнок распознаётся и вспышка выключена</string>
     <string name="mz_toggle_hint_flash_open">Вспышка включена</string>
@@ -539,6 +557,7 @@
     <string name="mzuc_download_progress_desc_s" formatted="false">Загружается %s %s</string>
     <string name="mzuc_downloading">Загружается</string>
     <string name="mzuc_found_update_s">Доступно обновление: %s</string>
+    <string name="mzuc_hide_dialog">Скрыть</string>
     <string name="mzuc_install_cancel_tip">Загрузка отменена</string>
     <string name="mzuc_install_fail">Ошибка установки</string>
     <string name="mzuc_install_immediately">"Установить
@@ -549,6 +568,8 @@
     <string name="mzuc_manual_checking_update">Проверка обновления</string>
     <string name="mzuc_manual_current_version">Текущая версия %s</string>
     <string name="mzuc_manual_download_fail">Ошибка загрузки</string>
+    <string name="mzuc_manual_download_pause">Загрузка новой версии %s приостановлена. Нажмите, чтобы продолжить</string>
+    <string name="mzuc_manual_downloading_new_version">Загрузка новой версии %s</string>
     <string name="mzuc_manual_found_new_version">Найдена новая версия. Нажмите для обновления</string>
     <string name="mzuc_manual_install_fail">Ошибка установки</string>
     <string name="mzuc_manual_install_new_version">Обновление загружено, нажмите для установки</string>
@@ -556,6 +577,9 @@
     <string name="mzuc_manual_latest_version">Текущая версия - актуальная</string>
     <string name="mzuc_manual_update_title">Проверить обновления</string>
     <string name="mzuc_msg_indicator">Что нового:</string>
+    <string name="mzuc_new_version_notification_message_s">Размер пакета обновления: %s. При обновлении пакет будет скачан и установлен</string>
+    <string name="mzuc_new_version_update_later">Не обновлять сейчас</string>
+    <string name="mzuc_new_version_update_later_noti">Не обновлять сейчас</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_pause_download">Пауза</string>
     <string name="mzuc_retry">Повтор</string>
@@ -572,8 +596,33 @@
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="policy_dialog_reminder">Для работы приложения требуется доступ в сеть, локальная запись звука, фоновая съёмка/запись экрана, съёмка фото/видео и возможность чтения и изменения медиа-файлов (фото, видео и аудио) для предоставления аудио-видео, захвата изображений, предварительного просмотра и аналитики. При использовании считываются данные о местоположении для фиксации места съёмки фото и видео. Эти операции с персональными данными выполняются только при использовании конкретных функций. \n\nПожалуйста, прочтите %1$s %2$s, чтобы узнать больше о том, как мы обрабатываем вашу личную информацию. Нажимая «Согласен», вы принимаете всё вышеописанное.</string>
     <string name="policy_mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>
+    <string name="policy_sdk_account_center">Центр аккаунта</string>
+    <string name="policy_sdk_account_pp_message">Политика конфиденциальности</string>
+    <string name="policy_sdk_account_pp_title">Политика конфиденциальности</string>
+    <string name="policy_sdk_btn_setting_network">Настроить сеть</string>
+    <string name="policy_sdk_network_error">Ошибка сети, повторите попытку позже</string>
     <string name="policy_sdk_network_retry">Повтор</string>
+    <string name="policy_sdk_permission_access_media_location">Чтение местоположения на фото</string>
+    <string name="policy_sdk_permission_activity_recognition">Данные о физической активности</string>
+    <string name="policy_sdk_permission_fine_location">Точное местоположение</string>
     <string name="policy_sdk_permission_location">Местоположение</string>
+    <string name="policy_sdk_permission_read_media">Чтение фото и видео</string>
+    <string name="policy_sdk_permission_read_media_audio">Чтение музыки и аудио</string>
+    <string name="policy_sdk_permission_read_phone_state">Доступ к состоянию вызовов и данным мобильной сети</string>
+    <string name="policy_sdk_permission_record_audio">Использование микрофона</string>
+    <string name="policy_sdk_permission_write_calendar">Создание, изменение и удаление событий календаря</string>
+    <string name="policy_sdk_permission_write_call_log">Создание, изменение и удаление журнала вызовов</string>
+    <string name="policy_sdk_permission_write_contacts">Создание, изменение и удаление контактов</string>
+    <string name="policy_sdk_withdraw_check_message">Также удалить персональные данные в облаке</string>
+    <string name="policy_sdk_withdraw_check_message_account">Также удалить персональные данные в облаке, включая заказы и права</string>
+    <string name="policy_sdk_withdraw_text_basic_account">Если вы отзовёте согласие с документом «%1$s», мы будем предоставлять только базовые функции и перестанем собирать и обрабатывать ваши персональные данные. Отзыв согласия не помешает входить с аккаунтом Flyme и пользоваться другими продуктами и сервисами Meizu. Чтобы удалить аккаунт, перейдите в раздел %2$s. \n \nПосле отзыва согласия локальные данные будут удалены, а приложение закроется. Подумайте ещё раз. Подробнее — в разделе о правах субъекта персональных данных документа «%1$s».\n \n Чтобы снова пользоваться нашими продуктами и сервисами, откройте приложение и примите документ «%1$s» или выберите базовый режим.</string>
+    <string name="policy_sdk_withdraw_text_basic_not_account">Если вы отзовёте согласие с документом «%1$s», мы будем предоставлять только базовые функции и перестанем собирать и обрабатывать ваши персональные данные. Отзыв согласия может привести к потере некоторых прав, подумайте ещё раз. Подробнее — в разделе о правах субъекта персональных данных документа «%1$s». Чтобы пользоваться функциями сверх базовых, нужно снова принять документ «%1$s».</string>
+    <string name="policy_sdk_withdraw_text_confirm">Отозвать согласие</string>
+    <string name="policy_sdk_withdraw_text_exit">Отмена</string>
+    <string name="policy_sdk_withdraw_text_not_basic_has_account">Если вы отзовёте согласие с документом «%1$s», мы перестанем собирать и обрабатывать ваши персональные данные и больше не будем предоставлять услуги этого приложения. Отзыв согласия не помешает входить с аккаунтом Flyme и пользоваться другими продуктами и сервисами Meizu. Чтобы удалить аккаунт, перейдите в раздел %2$s\n \nОтзыв согласия может привести к потере некоторых прав. Подумайте ещё раз, подробнее — в разделе о правах субъекта персональных данных «Политики конфиденциальности»\n \n Чтобы снова пользоваться нашими продуктами и сервисами, откройте приложение и примите документ «%1$s»</string>
+    <string name="policy_sdk_withdraw_text_not_basic_not_account">Если вы отзовёте согласие с документом «%1$s», мы перестанем собирать и обрабатывать ваши персональные данные и больше не будем предоставлять услуги этого приложения. Отзыв согласия может привести к потере некоторых прав, подумайте ещё раз. Подробнее — в разделе о правах субъекта персональных данных документа «%1$s». Чтобы снова пользоваться нашими продуктами и сервисами, откройте приложение и примите документ «%1$s».</string>
+    <string name="policy_sdk_withdraw_text_notify">"\n \nПримечание: после отзыва локальные данные будут удалены, а приложение закроется. Персональные данные в облаке можно удалить по желанию."</string>
+    <string name="policy_sdk_withdraw_text_title">Отзыв согласия с политикой конфиденциальности</string>
     <string name="pref_camera_flashmode_default">Выкл.</string>
     <string name="pref_camera_flashmode_entry_auto">Авто</string>
     <string name="pref_camera_flashmode_entry_off">Выкл.</string>
