@@ -71,6 +71,7 @@
     <string name="accessibility_autoclick_seekbar_desc">Время автонажатия</string>
     <string name="accessibility_autoclick_short_summary">0,2 секунды</string>
     <string name="accessibility_autoclick_short_title">Короткая задержка</string>
+    <string name="accessibility_autoclick_shortcut_title">Быстрый запуск автонажатия</string>
     <string name="accessibility_autoclick_shorter_desc">Уменьшить</string>
     <string name="accessibility_banner_message_dismiss">Закрыть</string>
     <string name="accessibility_button_about_title">О кнопке специальных возможностей</string>
@@ -348,6 +349,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="accessibility_shortcut_type_triple_tap">Тройное нажатие на экран</string>
     <string name="accessibility_shortcut_unassigned_setting_unavailable_summary">Чтобы использовать этот параметр, включите быстрый запуск функции \"%1$s\" на странице специальных возможностей</string>
     <string name="accessibility_shortcuts_settings_title">Быстрый доступ к специальным возможностям</string>
+    <string name="accessibility_status_bar_click_to_top">Нажмите на строку состояния, чтобы вернуться в начало страницы</string>
     <string name="accessibility_status_bar_tint_title">Окрашенная строка состояния</string>
     <string name="accessibility_summary_shortcut_disabled">Отключено</string>
     <string name="accessibility_summary_shortcut_enabled">Быстрое включение активно</string>
@@ -545,9 +547,11 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="add_schedule">Добавить</string>
     <string name="add_shortcut_to_desktop">Добавить значок на рабочий стол</string>
     <string name="add_shortcut_to_desktop_summary">Добавить значок на рабочий стол</string>
+    <string name="add_source_group">Добавить источник трансляции в группу</string>
     <string name="add_user_failed">Не удалось создать пользователя</string>
     <string name="add_virtual_keyboard">Управление клавиатурами</string>
     <string name="add_white_list">Добавить номер</string>
+    <string name="added_sources_dashboard_title">Добавленные источники трансляции</string>
     <string name="adding_profile_owner_warning">Администратор будет управлять этим профилем и сможет сохранять связанные с ним данные, а также вашу личную информацию. Кроме того, администратор сможет контролировать и изменять настройки и параметры доступа, а также управлять данными этого профиля, в том числе получать сведения о действиях в сети и местоположении.</string>
     <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
     <string name="adjust_error">Ошибка калибровки. Попробуйте снова</string>
@@ -631,6 +635,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="ai_key_scenarios_title_quick_pay">Быстрый платёж</string>
     <string name="ai_key_scenarios_title_scene_assistant">Ассистент сценариев</string>
     <string name="ai_key_scenarios_title_tools">Инструменты</string>
+    <string name="ai_key_screen_recognition_summary">Умные подсказки по сценарию — в одно касание</string>
     <string name="ai_key_setup_continue_button">Продолжить</string>
     <string name="ai_key_setup_custom_setting_button">Настройки пользователя</string>
     <string name="ai_key_setup_later_setting_button">Настроить позднее</string>
@@ -711,6 +716,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="ambient_display_tap_screen_title">Нажать, чтобы проверить телефон</string>
     <string name="ambient_display_title">Просмотр времени и уведомлений двойным нажатием</string>
     <string name="ambient_display_wake_screen_title">Включить экран</string>
+    <string name="android_auto_title">Android Auto</string>
     <string name="android_beam_explained">Когда включена эта функция, можно передавать содержимое приложений на другое устройство оборудованное NFC, находящееся рядом, например, страницы браузера, ролики из YouTube, контакты и прочее. Просто расположите два устройства рядом (обычно, тыльной стороной друг к другу) и коснитесь экрана, а приложение само определит, что можно передать</string>
     <string name="android_beam_off_summary">Выкл.</string>
     <string name="android_beam_on_summary">Обмен данными по NFC</string>
@@ -786,13 +792,20 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="app_behavior_record">запись поведения приложения</string>
     <string name="app_category_title">Приложения</string>
     <string name="app_cellular_data_usage">Трафик приложений (моб. сеть)</string>
+    <string name="app_clone_dialog_detailed_summary">При отправке нажмите и удерживайте значок приложения в списке, чтобы выбрать основное приложение или его клон</string>
+    <string name="app_clone_dialog_summary">Выберите действие по умолчанию при отправке в это приложение или узнайте, как выбирать каждый раз</string>
+    <string name="app_clone_dialog_summary_check">Выбор при отправке</string>
     <string name="app_clone_disable_dialog_title">После удаления копии, её данные будут безвозвратно утеряны</string>
     <string name="app_clone_enabled_title">Клонированное ПО</string>
     <string name="app_clone_no_app__title">Нет приложений для клонирования</string>
     <string name="app_clone_open_app_default">Продолжить</string>
     <string name="app_clone_private_app_dialog_title">Если основное приложение является приложением личного режима, то его копия также будет частью личного режима</string>
+    <string name="app_clone_share_app">Отправить в приложение</string>
     <string name="app_clone_suggested_title">Рекомендуемое ПО</string>
     <string name="app_clone_summary">Клонирование приложений создает копию приложения на рабочем столе. Приложение и его копия могут работать независимо друг от друга</string>
+    <string name="app_clone_summary_ask">Всегда спрашивать</string>
+    <string name="app_clone_summary_clone">Клон приложения</string>
+    <string name="app_clone_summary_main">Основное приложение</string>
     <string name="app_clone_supported_title">Поддерживаемое ПО</string>
     <string name="app_clone_supported_warning">Клонирование некоторых приложений может работать нестабильно. Все возможные ошибки будут исправлены в будущих обновлениях</string>
     <string name="app_clone_title">Клонирование приложений</string>
@@ -950,6 +963,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="assist_flash_summary">Подсвечивать края экрана, когда приложение-помощник получает доступ к тексту с экрана или скриншота</string>
     <string name="assist_flash_title">Подсветка экрана</string>
     <string name="assist_footer">Приложения-помощники работают с информацией на экране. Для большего удобства некоторые из них поддерживают панель запуска и голосовой ввод.</string>
+    <string name="assist_gesture_title">Жест помощника</string>
     <string name="assistant_corner_gesture_summary">Проведите вверх из нижнего угла экрана, чтобы вызвать цифрового помощника</string>
     <string name="assistant_corner_gesture_title">Жест вызова помощника</string>
     <string name="assistant_gesture_category_title">Цифровой помощник</string>
@@ -1138,8 +1152,13 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="auto_sync_account_title">Автосинхронизация данных</string>
     <string name="auto_warm_color_temperature">Автоматическое переключение на теплый экран</string>
     <string name="auto_zone_requires_location_summary">Устанавливать автоматически, используя геолокацию</string>
+    <string name="autoclick_cursor_area_size_dialog_option_default">По умолчанию</string>
+    <string name="autoclick_cursor_area_size_dialog_option_extra_large">Очень большая</string>
+    <string name="autoclick_cursor_area_size_dialog_option_extra_small">Очень маленькая</string>
     <string name="autoclick_cursor_area_size_dialog_option_large">Крупный</string>
     <string name="autoclick_cursor_area_size_dialog_option_small">Мелкий</string>
+    <string name="autoclick_cursor_area_size_summary">Область, в которой курсор может свободно двигаться после начала отсчёта, не отменяя нажатие</string>
+    <string name="autoclick_cursor_area_size_title">Область нажатия</string>
     <string name="autoclick_disabled">Отключено</string>
     <string name="autofill">Заполнить автоматически</string>
     <string name="autofill_app">Служба автозаполнения</string>
@@ -1193,6 +1212,8 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="background_install_title">Приложения, уста­нов­лен­ные в фоновом режиме</string>
     <string name="background_install_uninstall_button_description">Удалить приложение</string>
     <string name="background_process_stop_description">Это старый процесс приложения, который по-прежнему запущен на случай, если он снова понадобится. Обычно останавливать его не требуется.</string>
+    <string name="backup_calling_setting_summary">Если сеть %1$s недоступна или в роуминге, звонки %1$s будут идти через SIM-карту для мобильного интернета.</string>
+    <string name="backup_calling_settings_title">Резервные звонки</string>
     <string name="backup_configure_account_default_summary">Не найдены аккаунты с резервными копиями данных</string>
     <string name="backup_configure_account_title">Аккаунт для резервирования</string>
     <string name="backup_data_management_title">Управление резервным аккаунтом</string>
@@ -1414,6 +1435,16 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="battery_usage_uninstalled_apps">Удалённое ПО</string>
     <string name="battery_usage_without_time"></string>
     <string name="battery_used_by">%1$s использовано %2$s</string>
+    <string name="bcast_audio_sync_state">Статус синхронизации аудио</string>
+    <string name="bcast_enable_audio_sync">Синхронизация аудио</string>
+    <string name="bcast_info_update">Обновить сведения об источнике</string>
+    <string name="bcast_metadata_sync_state">Статус синхронизации метаданных</string>
+    <string name="bcast_source_address">Устройство-источник трансляции</string>
+    <string name="bcast_source_enc_status">Статус шифрования</string>
+    <string name="bcast_source_info_sid">ID источника трансляции</string>
+    <string name="bcast_source_metadata">Метаданные</string>
+    <string name="bcast_update_code_summary">Введите код трансляции и нажмите «Обновить сведения об источнике»</string>
+    <string name="bcast_update_code_title">Обновить код трансляции</string>
     <string name="bearer">Владелец</string>
     <string name="billing_cycle">Платёжный цикл</string>
     <string name="billing_cycle_days_left">{count,plural, =1{Остался # день}one{Остался # день}few{Осталось # дня}many{Осталось # дней}other{Осталось # дня}}</string>
@@ -1473,7 +1504,10 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="bluetooth_active_media_only_battery_level">Используется (только для медиа), заряд: %1$s.</string>
     <string name="bluetooth_active_media_only_battery_level_untethered">Используется (только для медиа), заряд: %1$s (Л), %2$s (П).</string>
     <string name="bluetooth_active_media_only_no_battery_level">Используется (только для медиа)</string>
+    <string name="bluetooth_active_no_a2dp">Используется только для звонков</string>
+    <string name="bluetooth_active_no_a2dp_battery_level">Используется только для звонков, заряд %1$s</string>
     <string name="bluetooth_active_no_battery_level">Активно</string>
+    <string name="bluetooth_active_no_headset">Используется только для медиа</string>
     <string name="bluetooth_ambient_volume_control">Окружающие звуки</string>
     <string name="bluetooth_ambient_volume_control_collapse">Объединить в один элемент</string>
     <string name="bluetooth_ambient_volume_control_description">Окружающие звуки</string>
@@ -1510,10 +1544,14 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="bluetooth_battery_level_untethered_left_lea_support">Подключено (поддерживается отправка аудио), заряд: %1$s (Л).</string>
     <string name="bluetooth_battery_level_untethered_right">Заряд: %1$s (П)</string>
     <string name="bluetooth_battery_level_untethered_right_lea_support">Подключено (поддерживается отправка аудио), заряд: %1$s (П).</string>
+    <string name="bluetooth_bcast_rcvr_device_name">Приёмник трансляции</string>
+    <string name="bluetooth_broadcast">Трансляция</string>
     <string name="bluetooth_broadcast_dialog_broadcast_app">Транслировать \"%1$s\"</string>
     <string name="bluetooth_broadcast_dialog_broadcast_message">Транслируйте медиаконтент на ближайшие устройства или подключайтесь к трансляциям других пользователей.</string>
     <string name="bluetooth_broadcast_dialog_find_message">Подключайтесь к трансляциям рядом с вами.</string>
     <string name="bluetooth_broadcast_dialog_title">Трансляция</string>
+    <string name="bluetooth_broadcast_pin_configure">Трансляция: код конфиденциальности Bluetooth</string>
+    <string name="bluetooth_broadcast_pin_configure_dialog">Трансляция: настройка кода конфиденциальности Bluetooth</string>
     <string name="bluetooth_bypass_leaudio_allowlist">Обходить белый список Bluetooth LE Audio</string>
     <string name="bluetooth_bypass_leaudio_allowlist_summary">Использовать LE Audio по умолчанию, даже если периферийное устройство LE Audio не соответствует критериям белого списка</string>
     <string name="bluetooth_call_title">Звук во время звонков</string>
@@ -1596,6 +1634,8 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="bluetooth_enable_alphanumeric_pin">Стандартная клавиатура</string>
     <string name="bluetooth_enable_gabeldorsche">Включить Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Включить стек Bluetooth Gabeldorsche</string>
+    <string name="bluetooth_enable_leaudio_allow_list">Включить список разрешённых для Bluetooth LE Audio</string>
+    <string name="bluetooth_enable_leaudio_allow_list_summary">Включить список разрешённых устройств Bluetooth LE Audio.</string>
     <string name="bluetooth_enter_passkey_msg">Введите ключ доступа</string>
     <string name="bluetooth_enter_passkey_other_device">Возможно, потребуется ввести ключ доступа на другом устройстве.</string>
     <string name="bluetooth_enter_pin_other_device">Возможно, потребуется ввести PIN-код на другом устройстве.</string>
@@ -1663,6 +1703,14 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Выберите максимум подключаемых Bluetooth-аудиоустройств</string>
     <string name="bluetooth_max_connected_audio_devices_string">Лимит подключенных Bluetooth-аудиоустройств</string>
     <string name="bluetooth_media_title">Медиа и системные звуки</string>
+    <string name="bluetooth_meizu_active_battery_level">Active, л: %1$s п: %2$s</string>
+    <string name="bluetooth_meizu_active_battery_level_sp">Active, %1$s battery</string>
+    <string name="bluetooth_meizu_active_no_a2dp_battery_level">Используется только для звонков, левый %1$s, правый %2$s</string>
+    <string name="bluetooth_meizu_active_no_a2dp_battery_level_sp">Используется только для звонков, заряд %1$s</string>
+    <string name="bluetooth_meizu_connected_battery_level">Connected, л. %1$s п. %2$s</string>
+    <string name="bluetooth_meizu_connected_battery_level_sp">Подключено, заряд %1$s</string>
+    <string name="bluetooth_meizu_connected_no_a2dp_battery_level">Подключено только для звонков, левый %1$s, правый %2$s</string>
+    <string name="bluetooth_meizu_connected_no_a2dp_battery_level_sp">Подключено только для звонков, заряд %1$s</string>
     <string name="bluetooth_message_access_dialog_content">Устройство Bluetooth (%1$s) запрашивает доступ к вашим сообщениям.\n\nЭто ваше первое подключение к устройству \"%2$s\".</string>
     <string name="bluetooth_message_access_dialog_title">Предоставить доступ к сообщениям?</string>
     <string name="bluetooth_message_access_notification_content">Устройство запрашивает доступ к вашим сообщениям. Нажмите, чтобы узнать больше.</string>
@@ -1719,6 +1767,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="bluetooth_profile_a2dp">Профиль A2DP</string>
     <string name="bluetooth_profile_a2dp_high_quality">HD-звук: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD-звук</string>
+    <string name="bluetooth_profile_bc">Профиль BC</string>
     <string name="bluetooth_profile_dun">Сеть Dial-Up</string>
     <string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
     <string name="bluetooth_profile_hearing_aid">Слуховой аппарат</string>
@@ -1745,12 +1794,15 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="bluetooth_screen_auto_on_summary">Bluetooth снова включится на следующий день после отключения</string>
     <string name="bluetooth_screen_auto_on_title">Включить автоматически завтра</string>
     <string name="bluetooth_screen_related">Похожие</string>
+    <string name="bluetooth_search_bcast_sources_pref_title">Поиск источников трансляции</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Глубина кодирования звука</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">Аудиокодек для Bluetooth: разрядность</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Режим аудиоканала Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">Аудиокодек для Bluetooth: режим канала</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Качество воспроизведения (LDAC)</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">Аудиокодек LDAC для Bluetooth: качество воспроизведения</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Аудиокодек Bluetooth LHDC: качество воспроизведения</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">Выберите аудиокодек Bluetooth LHDC:\nкачество воспроизведения</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Частота дискретизации</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Аудиокодек для Bluetooth: частота дискретизации</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Потоковая передача: %1$s</string>
@@ -1774,6 +1826,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="bluetooth_sim_card_access_notification_title">Запрос на доступ к SIM-карте</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Компьютер</string>
+    <string name="bluetooth_talkback_group">Группировать устройства</string>
     <string name="bluetooth_talkback_headphone">Наушники</string>
     <string name="bluetooth_talkback_headset">Гарнитура</string>
     <string name="bluetooth_talkback_hearing_aids">Слуховые аппараты</string>
@@ -1861,6 +1914,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Чтобы изменение вступило в силу, необходимо перезапустить устройство. Вы можете сделать это сейчас или позже.</string>
     <string name="calendar_sound_title">События календаря</string>
     <string name="call_category">Звонки</string>
+    <string name="call_connected_tones_title">Сигнал соединения вызова</string>
     <string name="call_digital_assistant">Активировать виртуального помощника</string>
     <string name="call_notification_answer_action">Ответ</string>
     <string name="call_notification_answer_video_action">Видео</string>
@@ -1900,6 +1954,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="cancel">Отмена</string>
     <string name="cancelString">Отмена</string>
     <string name="cancel_lock_screen_dialog_button_label">Отмена</string>
+    <string name="cancel_refresh_group">Отменить обновление</string>
     <string name="cannot_change_apn_toast">Изменить параметры этой точки доступа невозможно</string>
     <string name="cant_sync_dialog_message">Синхронизация отключена. Чтобы включить её, временно разрешите передачу данных в фоновом режиме и автоматическую синхронизацию.</string>
     <string name="cant_sync_dialog_title">Не удалось синхронизировать</string>
@@ -1957,6 +2012,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="category_title_your_satellite_plan">Ваш аккаунт %1$s</string>
     <string name="category_work">Работа</string>
     <string name="cdma_lte_data_service">Настройка передачи данных</string>
+    <string name="cdma_manual_mode_disallowed_summary">Недоступно в сети CDMA</string>
     <string name="cdma_subscription_dialogtitle">подписка</string>
     <string name="cdma_subscription_summary">Переключение между RUIM/SIM и NV</string>
     <string name="cdma_subscription_title">Подписка на CDMA</string>
@@ -2089,7 +2145,16 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="choose_sim_text">{count,plural, =1{На это устройство добавлена одна SIM-карта.}=2{На это устройство добавлено две SIM-карты, но использовать их можно только по одной.}one{На это устройство добавлена # SIM-карта, но использовать их можно только по одной.}few{На это устройство добавлено # SIM-карты, но использовать их можно только по одной.}many{На это устройство добавлено # SIM-карт, но использовать их можно только по одной.}other{На это устройство добавлено # SIM-карты, но использовать их можно только по одной.}}</string>
     <string name="choose_sim_title">Выберите SIM-карту</string>
     <string name="choose_spell_checker">Проверка правописания</string>
+    <string name="ciwlan_channel_name">Звонки через мобильный интернет</string>
+    <string name="ciwlan_dialog_nw_compatible_dds_incompatible_ndds_attempt_dds">Звонки через мобильный интернет могут стать недоступны после смены SIM-карты для передачи данных: предпочтительный тип сети другой SIM-карты не включает LTE, NR или «Глобальный».</string>
+    <string name="ciwlan_dialog_nw_compatible_dds_incompatible_ndds_attempt_ndds">Звонки через мобильный интернет могут стать недоступны после смены SIM-карты для передачи данных: предпочтительный тип сети не включает LTE, NR или «Глобальный».</string>
+    <string name="ciwlan_dialog_nw_incompatible_dds_compatible_ndds_attempt_dds">Чтобы включить звонки через мобильный интернет, выберите предпочтительный тип сети с LTE, NR или «Глобальный».</string>
+    <string name="ciwlan_dialog_nw_incompatible_dds_compatible_ndds_attempt_ndds">Чтобы включить звонки через мобильный интернет, выберите для другой SIM-карты предпочтительный тип сети с LTE, NR или «Глобальный».</string>
+    <string name="ciwlan_dialog_nw_incompatible_dds_incompatible_ndds_attempt_either">Чтобы включить звонки через мобильный интернет, выберите для обеих SIM-карт предпочтительный тип сети с LTE, NR или «Глобальный».</string>
+    <string name="ciwlan_exit_notification_description">Отключение может помочь найти сеть.</string>
     <string name="ciwlan_exit_notification_negative_button">Закрыть</string>
+    <string name="ciwlan_exit_notification_positive_button">ОТКРЫТЬ НАСТРОЙКИ</string>
+    <string name="ciwlan_exit_notification_title">" недоступно на %s"</string>
     <string name="classical_control_board">Классическая панель</string>
     <string name="classical_control_board_tip">Переместите панель уведомлений вниз, чтобы одновременно открыть центр уведомлений и часть быстрых настроек. Повторное перемещение вниз откроет полный центр управления.</string>
     <string name="clean_options">Параметры</string>
@@ -2183,6 +2248,8 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="color_white">Белый</string>
     <string name="color_yellow">Жёлтый</string>
     <string name="colors_viewpager_content_description">Предпросмотр цвета</string>
+    <string name="com_spotify_music">Spotify</string>
+    <string name="com_tencent_ibg_joox">JOOX Music</string>
     <string name="commit_fail">Ошибка подтверждения</string>
     <string name="commit_success">Подтверждено</string>
     <string name="common_permissions_all">Управление всеми разрешениями</string>
@@ -2243,6 +2310,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="confirm_sim_deletion_description">Запрашивать подтверждение личности перед удалением eSIM</string>
     <string name="confirm_sim_deletion_title">Подтвердите удаление eSIM</string>
     <string name="confirmation_turn_on">Да</string>
+    <string name="connect_group">Подключить группу</string>
     <string name="connected_device_add_device_summary">Bluetooth будет включен для сопряжения</string>
     <string name="connected_device_bluetooth_turned_on_toast">Модуль Bluetooth включен</string>
     <string name="connected_device_call_device_title">Устройства для совершения звонков</string>
@@ -2474,6 +2542,8 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="data_connection_gprs">GPRS</string>
     <string name="data_connection_lte">LTE</string>
     <string name="data_connection_lte_plus">LTE+</string>
+    <string name="data_during_calls_summary">Разрешить использовать эту SIM-карту для мобильного интернета только во время звонков</string>
+    <string name="data_during_calls_title">Интернет во время звонков</string>
     <string name="data_enabled">Передача данных</string>
     <string name="data_encrypt_fail_summary_one">Процесс шифрования данных был прерван и не может быть завершен. Вы не сможете использовать эти данные</string>
     <string name="data_encrypt_fail_summary_two">Чтобы продолжить пользоваться устройством, вам необходимо выполнить сброс к заводским настройкам. Все данные будут сброшены</string>
@@ -2483,6 +2553,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="data_limit">Лимит трафика</string>
     <string name="data_only">Только данные</string>
     <string name="data_overusage">Более ^1</string>
+    <string name="data_preference">SIM-карта для передачи данных</string>
     <string name="data_remaining">Осталось ^1</string>
     <string name="data_roaming_enable_mobile">Роуминг</string>
     <string name="data_saver_off">Выкл.</string>
@@ -2575,6 +2646,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="dc_warning_dialog_enable">Включение</string>
     <string name="dc_warning_dialog_summary">После включения технологии DC-регулирования яркости можно снизить мерцание экрана при низкой яркости. Однако при отображении больших областей темно-серых элементов при низкой яркости экран может незначительно неравномерно освещаться. Кроме того, это может привести к ненормальной работе функции автоматической регулировки яркости экрана.</string>
     <string name="dc_warning_dialog_title">Инструкции по использованию DC-регулирования яркости</string>
+    <string name="dds_preference_smart_dds_switch_is_on">Умное переключение SIM-карты для данных включено</string>
     <string name="debug_app">Выбрать приложение для отладки</string>
     <string name="debug_app_not_set">Приложение для отладки не задано</string>
     <string name="debug_app_set">Приложение для отладки: %1$s</string>
@@ -2688,6 +2760,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="dev_settings_warning_title">Включить настройки разработчика?</string>
     <string name="developer_options_main_switch_title">Режим разработчика</string>
     <string name="developer_smallest_width">Плотность экрана</string>
+    <string name="developers_cellular_network">Мобильная сеть</string>
     <string name="development_log_output_range_title">Диапазон вывода логов</string>
     <string name="development_memtag_footer">Когда функция MTE включена, устройство может работать медленнее.</string>
     <string name="development_memtag_intro">Memory Tagging Extension (MTE) облегчает поиск проблем с безопасным доступом к памяти в приложении и защищает нативный код.</string>
@@ -2760,6 +2833,14 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="disable_screen_share_protections_for_apps_and_notifications_summary">Системные средства, защищающие конфиденциальный контент в приложениях, перестанут работать в будущих сеансах демонстрации экрана</string>
     <string name="disable_service_title">Остановить «%1$s»?</string>
     <string name="disable_text">Отключить</string>
+    <string name="disable_wifi_hotspot_title">Не использовать точку доступа Wi‑Fi</string>
+    <string name="disable_wifi_hotspot_when_bluetooth_and_ethernet_on">Раздавать интернет только через Bluetooth и Ethernet</string>
+    <string name="disable_wifi_hotspot_when_bluetooth_on">Раздавать интернет только через Bluetooth</string>
+    <string name="disable_wifi_hotspot_when_ethernet_on">Раздавать интернет только через Ethernet</string>
+    <string name="disable_wifi_hotspot_when_usb_and_bluetooth_and_ethernet_on">Раздавать интернет только через USB, Bluetooth и Ethernet</string>
+    <string name="disable_wifi_hotspot_when_usb_and_bluetooth_on">Раздавать интернет только через USB и Bluetooth</string>
+    <string name="disable_wifi_hotspot_when_usb_and_ethernet_on">Раздавать интернет только через USB и Ethernet</string>
+    <string name="disable_wifi_hotspot_when_usb_on">Раздавать интернет только через USB</string>
     <string name="disabled">Отключено</string>
     <string name="disabled_all_apps">Отключить все</string>
     <string name="disabled_because_no_backup_security">Сначала необходимо настроить блокировку экрана</string>
@@ -2791,11 +2872,13 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="disallow_all_app">Запретить все приложения</string>
     <string name="disallow_all_people">Запретить всем</string>
     <string name="disconnect">Отключить</string>
+    <string name="disconnect_group">Отключить группу</string>
     <string name="disconnected">Отключено</string>
     <string name="disk_style_text_1">Римские</string>
     <string name="disk_style_text_2">Простой</string>
     <string name="disk_style_text_3">Упрощённый</string>
     <string name="display_and_brightness">Экран</string>
+    <string name="display_and_fonts">Шрифт</string>
     <string name="display_category_title">Экран</string>
     <string name="display_cutout_emulation">Эмуляция экрана с вырезом</string>
     <string name="display_cutout_emulation_keywords">вырез экрана, выемка</string>
@@ -2933,7 +3016,10 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="dsds_activation_failure_title">Не удалось активировать SIM-карту</string>
     <string name="dsds_notification_after_suw_text">Выберите активную SIM-карту или используйте сразу обе.</string>
     <string name="dsds_notification_after_suw_title">Настройте другую SIM-карту</string>
+    <string name="dsu_is_running">DSU запущен</string>
+    <string name="dsu_loader_description">Загрузить образ динамического обновления системы</string>
     <string name="dsu_loader_loading">Загрузка…</string>
+    <string name="dsu_loader_title">Загрузчик DSU</string>
     <string name="dtmf_tone_enable_title">Набор номера</string>
     <string name="dual_cdma_sim_warning_notification_channel_title">Сочетание SIM-карт</string>
     <string name="dual_cdma_sim_warning_notification_summary">При использовании пары SIM-карт %1$s функциональность может быть ограничена. Нажмите, чтобы узнать больше.</string>
@@ -3040,6 +3126,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="enable_scheduled">Временное включение</string>
     <string name="enable_sending_mms_notification_title">Не удалось отправить MMS-сообщение</string>
     <string name="enable_service_title">Использовать «%1$s»?</string>
+    <string name="enable_snpn">Включить SNPN</string>
     <string name="enable_terminal_summary">Разрешить терминальный доступ к локальной оболочке</string>
     <string name="enable_terminal_title">Локальный терминальный доступ</string>
     <string name="enable_text">Включить</string>
@@ -3048,6 +3135,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="enable_verbose_vendor_logging_summary">Включать в информацию об ошибках дополнительные записи поставщика об устройстве, которые могут содержать личные данные и занимать больше места. Также это может увеличить расход заряда батареи.</string>
     <string name="enable_when_connected_to_car_bluetooth">Включать при подключении к Bluetooth автомобиля</string>
     <string name="enabled">Включено</string>
+    <string name="enabled_5g_mode_title">Включить 5G</string>
     <string name="enabled_all_apps">Включить все</string>
     <string name="enabled_by_admin">Включено администратором</string>
     <string name="enabled_locales_keyboard_layout">Раскладка</string>
@@ -3395,6 +3483,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="flyme_navigation_summary">Использовать mBack</string>
     <string name="flyme_navigation_title">Классическая навигация</string>
     <string name="flyme_notification_app_switch_title">Разрешить уведомления</string>
+    <string name="flyme_notification_bubble_switch_title">Разрешить приложениям показывать всплывающие чаты</string>
     <string name="flyme_notification_channel_light_title">Индикатор дыхания</string>
     <string name="flyme_notification_channel_priority_switch_accept_tip">Не издает звуков или вибраций, отображается в хранилище</string>
     <string name="flyme_notification_channel_priority_switch_accept_title">App Store</string>
@@ -3555,6 +3644,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="global_locale_change_title">Измените язык</string>
     <string name="glove_model_summary">Поддержка управления в перчатках</string>
     <string name="glove_model_title">Режим перчаток</string>
+    <string name="gms_google_title">Google</string>
     <string name="go_back_button_label">Назад</string>
     <string name="go_to_identity_check">Настройки проверки личности</string>
     <string name="go_to_settings">Открыть настройки</string>
@@ -3572,6 +3662,11 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="graphics_driver_dashboard_title">Настройки графического драйвера</string>
     <string name="graphics_driver_footer_text">Если на устройстве доступно несколько графических драйверов, вы можете использовать улучшенный драйвер для установленных приложений.</string>
     <string name="graphics_driver_main_switch_title">Изменение настроек графического драйвера</string>
+    <string name="group_active_devices">Активные устройства</string>
+    <string name="group_bonded_devices">Сопряжённое устройство</string>
+    <string name="group_connected_devices">Подключённые устройства</string>
+    <string name="group_options">Параметры группы</string>
+    <string name="group_previously_connected_screen_title">Ранее подключённые группы</string>
     <string name="group_settings">группа</string>
     <string name="gsensor_calibrate_text">Датчик ускорения и гироскоп</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Режим сети</string>
@@ -3611,6 +3706,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="guide_aicy_touch">Aicy и AI</string>
     <string name="guide_basic_settings">Основные настройки</string>
     <string name="guide_desktop_settings">Настройки рабочего стола</string>
+    <string name="guide_details">Подробнее</string>
     <string name="guide_dialog_summary_choose_familiar_phone">На основе выбранного телефона будут применены привычные настройки, что изменит некоторые системные параметры по умолчанию</string>
     <string name="guide_dialog_title_choose_familiar_phone">Выберите знакомый телефон</string>
     <string name="guide_double_tap_off_screen_summary">Дважды коснитесь пустого места на рабочем столе для блокировки экрана</string>
@@ -3793,6 +3889,13 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="inch">Дюйм</string>
     <string name="inclall_alert_message">После включения данной опции Мигание светового сигнала при входящем звонке будет отключено. Вы уверены, что хотите включить?</string>
     <string name="include_app_data_title">Учитывать данные приложений</string>
+    <string name="incompatible_pref_nw_ciwlan_dialog_title">Несовместимый тип сети</string>
+    <string name="incompatible_pref_nw_for_dds_with_ciwlan_ui_on_both">Чтобы выбрать тип сети без LTE, NR или «Глобальный», выключите звонки через мобильный интернет на обеих SIM-картах.</string>
+    <string name="incompatible_pref_nw_for_dds_with_ciwlan_ui_on_dds">Чтобы выбрать тип сети без LTE, NR или «Глобальный», выключите звонки через мобильный интернет.</string>
+    <string name="incompatible_pref_nw_for_dds_with_ciwlan_ui_on_ndds">Чтобы выбрать тип сети без LTE, NR или «Глобальный», выключите звонки через мобильный интернет на другой SIM-карте.</string>
+    <string name="incompatible_pref_nw_for_ndds_with_ciwlan_ui_on_both">Звонки через мобильный интернет могут стать недоступны на обеих SIM-картах после смены SIM-карты для передачи данных: выбранный тип сети не включает LTE, NR или «Глобальный».</string>
+    <string name="incompatible_pref_nw_for_ndds_with_ciwlan_ui_on_dds">Звонки через мобильный интернет могут стать недоступны на другой SIM-карте после смены SIM-карты для передачи данных: выбранный тип сети не включает LTE, NR или «Глобальный».</string>
+    <string name="incompatible_pref_nw_for_ndds_with_ciwlan_ui_on_ndds">Звонки через мобильный интернет могут стать недоступны после смены SIM-карты для передачи данных: выбранный тип сети не включает LTE, NR или «Глобальный».</string>
     <string name="increase_color_contrast_title">Повышение контрастности цветов</string>
     <string name="indeterminate">Отмечено частично</string>
     <string name="infinity_space_settings_title">Infinity Space</string>
@@ -3940,6 +4043,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="keywords_auto_click">моторика, мышь, внешняя мышь, управление курсором с помощью движений головы, адаптивная мышь, инвалидная коляска, джойстик</string>
     <string name="keywords_auto_rotate">поворот, повернуть, портретный, ландшафтный, ориентация, вертикальный, горизонтальный</string>
     <string name="keywords_backup">копия, копировать</string>
+    <string name="keywords_backup_calling">резервные звонки</string>
     <string name="keywords_battery">расход заряда батареи, зарядка</string>
     <string name="keywords_battery_adaptive_preferences">адаптивные настройки, адаптивное энергопотребление</string>
     <string name="keywords_battery_info">информация о батарее, дата изготовления, количество циклов, дата первого использования</string>
@@ -4025,6 +4129,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="keywords_media_controls">Мультимедиа</string>
     <string name="keywords_media_management_apps">медиа, файл, управление, менеджер, управлять, редактировать, редактор, приложение, программа</string>
     <string name="keywords_media_vibration">виброотклик, вибрация, чувствительность, медиаконтент</string>
+    <string name="keywords_memtag">MTE, Memory Tagging Extension, тегирование памяти</string>
     <string name="keywords_model_and_hardware">серийный номер, версия оборудования</string>
     <string name="keywords_more_mobile_networks">передача данных, мобильный, сотовый оператор, беспроводной, мобильный интернет, 4g, 3g, 2g, lte</string>
     <string name="keywords_network_reset">сброс, восстановление, заводские настройки</string>
@@ -4659,6 +4764,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
+    <string name="mc_search_description">Поиск</string>
     <string name="mc_search_icon">Поиск</string>
     <string name="mc_search_icon_input_clear">Очистка</string>
     <string name="mc_search_text">Поиск</string>
@@ -4754,6 +4860,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="memory_expansion_reboot_device_message_extended_memory_is">Расширенная оперативная память %1$s</string>
     <string name="memory_expansion_reboot_device_message_not_enabled">Расширенная оперативная память не включена</string>
     <string name="memory_expansion_reboot_device_restart_takes_effect">Действует после перезагрузки</string>
+    <string name="memory_expansion_value">+%d ГБ</string>
     <string name="memory_maximum_usage">Макс. памяти использовано</string>
     <string name="memory_other">Другое</string>
     <string name="memory_performance">Оценка доступной памяти</string>
@@ -4830,6 +4937,8 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="mobile_data_off_summary">Без автоподключения к мобильному интернету</string>
     <string name="mobile_data_settings_summary">Доступ к интернету по мобильной сети</string>
     <string name="mobile_data_settings_summary_auto_switch">Телефон автоматически подключится к сети этого оператора, когда вы окажетесь в зоне ее действия.</string>
+    <string name="mobile_data_settings_summary_default_data_unavailable">После завершения звонка передача данных автоматически переключится на этого оператора</string>
+    <string name="mobile_data_settings_summary_on_smart_dds_unavailable">Недоступно во время звонка, если включено умное переключение SIM-карты для данных</string>
     <string name="mobile_data_settings_summary_unavailable">Нет доступных SIM-карт</string>
     <string name="mobile_data_settings_title">Передача данных</string>
     <string name="mobile_data_temp_connection_active">Временное подключение</string>
@@ -4886,9 +4995,13 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="model_info">Модель</string>
     <string name="model_number">Модель</string>
     <string name="modes_sound_summary_off">{count,plural, =0{Выключено}=1{Выключено/Может автоматически включиться 1 режим}one{Выключено/Может автоматически включиться # режим}few{Выключено/Может автоматически включиться # режима}many{Выключено/Могут автоматически включиться # режимов}other{Выключено/Могут автоматически включиться # режима}}</string>
+    <string name="modifier_keys_alt">Alt</string>
     <string name="modifier_keys_cancel">Отмена</string>
+    <string name="modifier_keys_caps_lock">Caps Lock</string>
+    <string name="modifier_keys_ctrl">Ctrl</string>
     <string name="modifier_keys_default_summary">По умолчанию</string>
     <string name="modifier_keys_done">Готово</string>
+    <string name="modifier_keys_meta">Клавиша действия</string>
     <string name="modifier_keys_picker_summary">Выберите новую клавишу для %1$s:</string>
     <string name="modifier_keys_picker_title">Выбор клавиши-модификатора</string>
     <string name="modifier_keys_reset">Сброс</string>
@@ -4952,9 +5065,12 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="multiple_users_main_switch_keywords">разрешить, несколько, пользователь, разрешение, много</string>
     <string name="multiple_users_main_switch_title">Разрешить смену пользователя</string>
     <string name="multiple_users_title_keywords">несколько, пользователи, профили, люди, аккаунты, переключиться, много</string>
+    <string name="music_bodian">Bodian Music</string>
     <string name="music_category_title">Музыка</string>
     <string name="music_light_effect">Световые эффекты музыки</string>
     <string name="music_light_effect_tip">Световые эффекты синхронизируются с ритмом музыки во время воспроизведения</string>
+    <string name="music_migu">Migu Music</string>
+    <string name="music_salt">Salt Music</string>
     <string name="mutual_transmission">Meizu Share</string>
     <string name="mvno_match_data">Значение MVNO</string>
     <string name="mvno_type">Тип MVNO</string>
@@ -5107,14 +5223,20 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="mz_permission_apply">Запрос разрешения</string>
     <string name="mz_permission_deny">Отклонить</string>
     <string name="mz_permission_disagree">Запретить</string>
+    <string name="mz_permission_i_know">ОК</string>
     <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
     <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9_no_internet">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
+    <string name="mz_permission_inform_f9_only_internet">Для предоставления основных услуг этому приложению необходимо подключение к сети</string>
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешения на %2$s</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешения</string>
     <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
     <string name="mz_permission_policy_description_f9">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
+    <string name="mz_permission_policy_description_noly_internet">Для пользования перечисленными выше функциями и службами</string>
+    <string name="mz_permission_policy_description_update">Для того, чтобы полностью защитить ваши права, мы обновили нашу политику приватности, которую можно увидеть %1$s</string>
     <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
     <string name="mz_permission_title_terms">Разрешения и заявления</string>
+    <string name="mz_permission_use_info">Инструкции по использованию</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">Wi-fi</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
@@ -5300,6 +5422,9 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="navigation_category_title">Навигация</string>
     <string name="navigation_menu">Меню навигации</string>
     <string name="netease_music">Музыка Netease Cloud</string>
+    <string name="network_2G_3G_preferred">Предпочтительно 2G/3G</string>
+    <string name="network_2G_only">Только 2G</string>
+    <string name="network_3G_only">Только 3G</string>
     <string name="network_4G">4G (рекомендуется)</string>
     <string name="network_4G_pure">4G</string>
     <string name="network_5G_recommended">5G (рекомендуется)</string>
@@ -5308,13 +5433,18 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="network_access_dialog_title">Лицензия на доступ к сети</string>
     <string name="network_access_electronic_license">Лицензия на доступ к сети</string>
     <string name="network_access_license">Лицензия на доступ к сети</string>
+    <string name="network_access_license_cmiit_id">CMIIT ID: %1$s</string>
     <string name="network_access_license_company_content">Zhuhai Meizu Technology Co., Ltd.</string>
+    <string name="network_access_license_company_name">Zhuhai Meizu Technology Co., Ltd.</string>
     <string name="network_access_license_company_title">Компания:</string>
+    <string name="network_access_license_device_model">Модель: %1$s</string>
     <string name="network_access_license_device_model_title">Номер модели:</string>
     <string name="network_access_license_device_name_content">Цифровой мобильный телефон TD-LTE</string>
     <string name="network_access_license_device_name_title">Модель:</string>
     <string name="network_access_license_number_title">Номер лицензии сети:</string>
+    <string name="network_access_license_place_of_origin">Сделано в Китае</string>
     <string name="network_access_license_preference">Лицензия на доступ к сети</string>
+    <string name="network_access_license_product_type">Цифровой мобильный телефон 5G</string>
     <string name="network_access_license_query_authenticity_btn">Запрос подлинности</string>
     <string name="network_access_license_query_authenticity_content">https://www.tenaa.com.cn</string>
     <string name="network_access_license_query_authenticity_title">Запрос подлинности:</string>
@@ -5348,12 +5478,14 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="network_dashboard_summary_no_mobile">Wi‑Fi, точка доступа</string>
     <string name="network_dashboard_title">Сеть и Интернет</string>
     <string name="network_disconnected">Отключено</string>
+    <string name="network_global">Глобальный</string>
     <string name="network_id">Идентификатор сети</string>
     <string name="network_lte">LTE (рекомендуется)</string>
     <string name="network_operator_category">Сеть</string>
     <string name="network_operators_settings">Операторы связи</string>
     <string name="network_query_error">Сети не найдены. Повторите попытку.</string>
     <string name="network_reset_not_available">Сброс настроек недоступен для этого пользователя</string>
+    <string name="network_scan_error">Ошибка поиска сетей. Выберите сеть или повторите попытку.</string>
     <string name="network_scorer_change_active_dialog_text">Использовать приложение «%1$s» вместо приложения «%2$s» для управления сетевыми подключениями?</string>
     <string name="network_scorer_change_active_dialog_title">Сменить ассистента Wi-Fi?</string>
     <string name="network_scorer_change_active_no_previous_dialog_text">Использовать приложение «%s» для управления сетевыми подключениями?</string>
@@ -5418,6 +5550,8 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="nfc_setting_on">Вкл.</string>
     <string name="nfc_snoop_log_summary">Сохранять пакеты NFC, которые могут содержать конфиденциальную информацию</string>
     <string name="nfc_snoop_log_title">Журнал NFC NCI без фильтрации</string>
+    <string name="nfc_stack_debuglog_summary">Повысить уровень журналирования стека NFC</string>
+    <string name="nfc_stack_debuglog_title">Журнал отладки стека NFC</string>
     <string name="nfc_verbose_vendor_log_summary">Включать в отчеты об ошибках дополнительные записи поставщика об устройстве, которые могут содержать конфиденциальную информацию</string>
     <string name="nfc_verbose_vendor_log_title">Подробный журнал отладки NFC</string>
     <string name="nfc_work_text">Рабочие</string>
@@ -5797,6 +5931,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="password_hint">Пароль</string>
     <string name="password_not_same_tip">Пароли не совпадают. Введите снова.</string>
     <string name="password_secure_protection">Безопасный ввод паролей</string>
+    <string name="password_summary_note">Запомните пароль блокировки экрана. Если вы его забудете, восстановить его нельзя — только сбросить, удалив все личные данные и приложения.</string>
     <string name="password_toggle_content_description">Показать пароль</string>
     <string name="pause_animation">Приостановить анимацию</string>
     <string name="pdf_category_title">PDF-документы</string>
@@ -5880,6 +6015,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="platform_compat_default_disabled_title">Изменения, отключенные по умолчанию</string>
     <string name="platform_compat_default_enabled_title">Изменения, включенные по умолчанию</string>
     <string name="platform_compat_dialog_text_no_apps">Настраивать изменение параметров совместимости можно только для приложений, доступных для отладки. Установите такое приложение и повторите попытку.</string>
+    <string name="platform_compat_target_sdk_title">Включено для targetSdkVersion &gt;= %d</string>
     <string name="please_select_phase2">2-й этап аутентификации</string>
     <string name="plmn_failure_radio_off">Не удалось выбрать сеть, причина: антенны неактивны или недоступны</string>
     <string name="pointer_fill_style">Цвет указателя</string>
@@ -5901,7 +6037,17 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="pointer_stroke_style_name_none">Нет</string>
     <string name="pointer_stroke_style_name_white">Белый</string>
     <string name="policy_mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="policy_sdk_btn_setting_network">Настроить сеть</string>
+    <string name="policy_sdk_network_error">Ошибка сети, повторите попытку позже</string>
     <string name="policy_sdk_network_retry">Повторить</string>
+    <string name="policy_sdk_permission_access_media_location">Чтение местоположения на фото</string>
+    <string name="policy_sdk_permission_read_media">Чтение фото и видео</string>
+    <string name="policy_sdk_permission_read_media_audio">Чтение музыки и аудио</string>
+    <string name="policy_sdk_permission_read_phone_state">Доступ к состоянию вызовов и данным мобильной сети</string>
+    <string name="policy_sdk_permission_record_audio">Использование микрофона</string>
+    <string name="policy_sdk_permission_write_calendar">Создание, изменение и удаление событий календаря</string>
+    <string name="policy_sdk_permission_write_call_log">Создание, изменение и удаление журнала вызовов</string>
+    <string name="policy_sdk_permission_write_contacts">Создание, изменение и удаление контактов</string>
     <string name="post_dsds_reboot_notification_text">Нажмите, чтобы обновить настройки SIM-карты.</string>
     <string name="post_dsds_reboot_notification_title_with_carrier">SIM-карта оператора \"%1$s\" активна</string>
     <string name="power_bluetooth">Bluetooth</string>
@@ -6282,6 +6428,8 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="pull_to_mark_unread">Потяните вниз, чтобы отметить как непрочитанное</string>
     <string name="push_channel_title">Уведомления о сообщениях</string>
     <string name="pwd_exist">Пароли совпадают. Введите другой пароль</string>
+    <string name="pwm_switch_summary">Переключить подсветку с DC на ШИМ</string>
+    <string name="pwm_switch_title">Включить ШИМ</string>
     <string name="qishui_music">Qishui Music</string>
     <string name="qq_music">Музыка из QQ</string>
     <string name="qq_music_meizu">Музыка из QQ (версия для Meizu)</string>
@@ -6341,6 +6489,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="radio_info_http_client_test">Проверка клиента HTTP:</string>
     <string name="radio_info_ping_hostname_v4">Запрос ping для www.google.com, IPv4:</string>
     <string name="raise_flip_config_title">Поднять для пробуждения</string>
+    <string name="ram_total_size">Общий объём ОЗУ</string>
     <string name="range_end">Конец диапазона</string>
     <string name="range_start">Начало диапазона</string>
     <string name="rar_category_title">Архивированные файлы</string>
@@ -6396,6 +6545,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="reduce_bright_colors_preference_title">Доп. уменьшение яркости</string>
     <string name="reduce_bright_colors_shortcut_title">Быстрый запуск дополнительного уменьшения яркости</string>
     <string name="reduce_bright_colors_switch_title">Дополнительно уменьшить яркость экрана</string>
+    <string name="refresh_group">Обновить группу</string>
     <string name="refresh_rate_120hz">120 Гц</string>
     <string name="refresh_rate_120hz_summary">Использование высокой частоты обновления для более плавных анимаций</string>
     <string name="refresh_rate_144hz">144 Гц</string>
@@ -6574,6 +6724,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
     <string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
     <string name="roaming_warning">Может взиматься плата за роуминг.</string>
+    <string name="rom_total_size">Общий объём ПЗУ</string>
     <string name="root_allowing_title">Разрешить приложению «%s» запрашивать Root-доступ</string>
     <string name="root_app_list_empty">Нет приложений для управления</string>
     <string name="root_category_allowed">Доступ разрешен: %d приложен.</string>
@@ -6623,6 +6774,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="runtime_permissions_summary_no_permissions_requested">Приложение не запрашивало разрешения</string>
     <string name="rx_ethernet_speed">Скорость получения данных</string>
     <string name="rx_link_speed">%1$d Мбит/с</string>
+    <string name="rx_link_speed_label">Скорость приёма:</string>
     <string name="rx_wifi_speed">Скорость получения данных</string>
     <string name="safe_pay_button_warning">При оплате в общественных беспроводных сетях используйте мобильные данные.</string>
     <string name="safety_and_regulatory_info">Информация о безопасности и легитимных правах</string>
@@ -6709,6 +6861,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="screen_refresh_rate_force_disable_dynamic_summay">Отключить динамическую частоту обновления экрана при включенном экране, чтобы сохранить текущую выбранную частоту обновления. Это приведет к повышенному расходу энергии и тепловыделению, а также может вызвать сбои в некоторых приложениях и играх</string>
     <string name="screen_refresh_rate_force_use_120hz">Принудительное включение частоты обновления экрана 120 Гц</string>
     <string name="screen_refresh_rate_force_use_120hz_summary">Это приведет к повышенному расходу энергии и возможным сбоям в некоторых приложениях и играх</string>
+    <string name="screen_refresh_rate_ninty_hz">90 Гц</string>
     <string name="screen_refresh_rate_ninty_hz_summary">Динамическое увеличение частоты обновления экрана для более плавного отображения</string>
     <string name="screen_refresh_rate_resolution_power_save_summary">Стандартная частота обновления и разрешение, более экономичные (60 Гц + 1080p)</string>
     <string name="screen_refresh_rate_resolution_power_save_title">Экономия</string>
@@ -6716,6 +6869,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="screen_refresh_rate_resolution_smooth_title">Плавность</string>
     <string name="screen_refresh_rate_resolution_ultra_clear_summary">Более четкое изображение (60 Гц + 2K)</string>
     <string name="screen_refresh_rate_resolution_ultra_clear_title">Супер-чёткость</string>
+    <string name="screen_refresh_rate_sixty_hz">60 Гц</string>
     <string name="screen_refresh_rate_sixty_hz_summary">Стандартная частота обновления экрана для более экономичного энергопотребления</string>
     <string name="screen_refresh_rate_tips">Попробуйте игры с поддержкой высокой частоты обновления</string>
     <string name="screen_resolution">Разрешение экрана</string>
@@ -7204,6 +7358,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="settingslib_dismiss_button_content_description">Закрыть</string>
     <string name="settingslib_expressive_text_collapse">Свернуть</string>
     <string name="settingslib_expressive_text_expand">Развернуть</string>
+    <string name="settingslib_illustration_content_description">Анимация</string>
     <string name="settingslib_learn_more_text">Подробнее</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_message">Для разблокировки телефона вы выбрали сканирование отпечатка пальца. Настройка займет около минуты. Если вы пропустите её сейчас, вам все равно придётся сделать это позже.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Не настраивать доступ по отпечаткам?</string>
@@ -7240,6 +7395,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="show_clip_access_notification_summary">Показывать уведомления, когда приложения обращаются к скопированному тексту, изображениям или другому контенту</string>
     <string name="show_dev_already">Не нужно, вы уже разработчик</string>
     <string name="show_dev_countdown">{count,plural, =1{Нажмите ещё # раз, чтобы включить возможности разработчика.}one{Нажмите ещё # раз, чтобы включить возможности разработчика.}few{Нажмите ещё # раза, чтобы включить возможности разработчика.}many{Нажмите ещё # раз, чтобы включить возможности разработчика.}other{Нажмите ещё # раза, чтобы включить возможности разработчика.}}</string>
+    <string name="show_dev_minors_mode_tip">В детском режиме параметры разработчика отключены</string>
     <string name="show_dev_on">Вы стали разработчиком!</string>
     <string name="show_first_crash_dialog">Всегда показ. уведомление о сбое</string>
     <string name="show_first_crash_dialog_summary">Показывать окно при сбое приложения</string>
@@ -7453,6 +7609,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="sms_preference_title">SMS</string>
     <string name="snackbar_pane_title">Оповещение</string>
     <string name="snooze_options_title">Разрешить откладывать уведомления</string>
+    <string name="software_version">Версия ПО</string>
     <string name="sometimes_running">Иногда (%s)</string>
     <string name="sort_avg_use">Упорядочить по средн. объёму исп. памяти</string>
     <string name="sort_max_use">Упорядочить по макс. объёму исп. памяти</string>
@@ -7471,6 +7628,10 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="sound_effect">Звуковые эффекты</string>
     <string name="sound_effect_enhance_title">Улучшение звука</string>
     <string name="sound_effects_enable_title">Нажатие на экран</string>
+    <string name="sound_enhancement_extreme">Максимальный</string>
+    <string name="sound_enhancement_extreme_summary">Объёмный стереозвук во всех сценариях.</string>
+    <string name="sound_enhancement_intelligent">Умный</string>
+    <string name="sound_enhancement_intelligent_summary">Автоматически подбирает режим звука для текущего сценария</string>
     <string name="sound_mode_and_adjust">Режим звука и настройка</string>
     <string name="sound_settings">Звук и вибрация</string>
     <string name="sound_super_volume_summary">Увеличивает максимальный уровень громкости всех типов звуков, может увеличить расход батареи</string>
@@ -7482,6 +7643,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="sound_work_settings">Звуки рабочего профиля</string>
     <string name="source_color_display_summary">Автоматическая коррекция цвета экрана в соответствии с окружающим освещением для более комфортного просмотра изображений</string>
     <string name="source_color_display_title">Оригинальный цвет</string>
+    <string name="source_info_details_title">Сведения об источнике трансляции</string>
     <string name="spatial_audio_footer_learn_more_text">Настройки подключенных устройств</string>
     <string name="spatial_audio_footer_title">Пространственное звучание можно также включить для устройств Bluetooth.</string>
     <string name="spatial_audio_multi_toggle_head_tracking_on">Динамичное</string>
@@ -7720,9 +7882,16 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="subscreen_use_tips">Демо</string>
     <string name="subscription_available">Доступно</string>
     <string name="sud_back_button_label">Назад</string>
+    <string name="sud_card_view_check_mark_icon_label">Выбрано</string>
     <string name="sud_default_device_name">Устройство</string>
+    <string name="sud_less_info">Меньше</string>
     <string name="sud_lottie_animation_view_accessibility_action_pause">Пауза</string>
     <string name="sud_lottie_animation_view_accessibility_action_resume">Продолжить</string>
+    <string name="sud_lottie_animation_view_accessibility_description">Анимация</string>
+    <string name="sud_lottie_animation_view_role_description">Анимация, которую можно остановить</string>
+    <string name="sud_more_button_label">Ещё</string>
+    <string name="sud_more_info">Подробнее</string>
+    <string name="sud_next_button_label">Далее</string>
     <string name="sud_skip_button_label">Пропустить</string>
     <string name="suggest_max_length_text">Не более 500 символов</string>
     <string name="suggest_name">Рекомендуемое название</string>
@@ -7885,10 +8054,12 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="tethering_hardware_offload">Оптимизация режима модема</string>
     <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение для режима модема (если доступно)</string>
     <string name="tethering_help_button_text">Справка</string>
+    <string name="tethering_interface_options">Режим модема</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
     <string name="text_input_hint_text">Введите текст</string>
     <string name="theme_and_wallpaper">Тема и обои</string>
     <string name="third_inputmethod_tip">Сторонние клавиатуры могут получать доступ ко всем введённым данным. Ознакомьтесь с информацией от разработчика и политикой конфиденциальности.</string>
+    <string name="this_app_does_not_support_jump">Это приложение не поддерживает переход</string>
     <string name="thread_network_settings_footer_title">Thread помогает связать устройства умного дома, повышая эффективность всей системы.\n\nЕсли настройка включена, этот телефон можно присоединить к сети Thread и с него управлять устройствами с поддержкой Matter.</string>
     <string name="thread_network_settings_learn_more">Подробнее о Thread…</string>
     <string name="thread_network_settings_main_switch_title">Использовать Thread</string>
@@ -7934,6 +8105,9 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="to_switch_networks_disconnect_ethernet">Чтобы переключиться между сетями, отключите кабель Ethernet</string>
     <string name="toast_16k_update_failed_text">Не удалось обеспечить совместимость ядра с размером страницы 16 КБ.</string>
     <string name="toast_allows_restricted_settings_successfully">Приложению \"%s\" разрешен доступ к настройкам.</string>
+    <string name="toggle_disable_ciwlan_call_dialog_title">Выключить %s?</string>
+    <string name="toggle_disable_ciwlan_call_might_drop_dialog_body">Если выключить %s, текущий звонок может прерваться.</string>
+    <string name="toggle_disable_ciwlan_call_will_drop_dialog_body">Если выключить %s, текущий звонок прервётся.</string>
     <string name="tooltip_description">Подсказка</string>
     <string name="tooltip_label">Показать подсказку</string>
     <string name="top_intro_numbering_system_title">Выберите способ отображения цифр на устройстве, веб-сайтах и в приложениях</string>
@@ -7954,6 +8128,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="track_frame_time_keywords">Графический процессор</string>
     <string name="trackpad_bottom_right_tap_summary">Нажмите на правый нижний угол сенсорной панели, чтобы увидеть другие опции</string>
     <string name="trackpad_bottom_right_tap_title">Нажатие на правый нижний угол</string>
+    <string name="trackpad_gestures_disabled_footer_text">Некоторые настройки недоступны, так как жесты сенсорной панели выключены. Включить их можно в разделе «Специальные возможности: указатель и сенсорная панель» &gt; «Жесты сенсорной панели»</string>
     <string name="trackpad_mouse_settings">Сенсорная панель и мышь</string>
     <string name="trackpad_pointer_speed">Скорость движения указателя</string>
     <string name="trackpad_reverse_scrolling_summary">При прокручивании вниз контент перемещается вверх</string>
@@ -8045,9 +8220,12 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="twilight_mode_pending_location">Геолокация включена. Расписание активируется, когда будет определено ваше местоположение.</string>
     <string name="tx_ethernet_speed">Скорость передачи данных</string>
     <string name="tx_link_speed">%1$d Мбит/с</string>
+    <string name="tx_link_speed_label">Скорость передачи:</string>
     <string name="tx_wifi_speed">Скорость передачи данных</string>
     <string name="txt_category_title">Текстовый документ</string>
     <string name="udfps_accessibility_touch_hints_down">Опустить</string>
+    <string name="udfps_accessibility_touch_hints_left">Сдвиньте влево</string>
+    <string name="udfps_accessibility_touch_hints_right">Сдвиньте вправо</string>
     <string name="udfps_accessibility_touch_hints_up">Поднять</string>
     <string name="uid_not_match">UID не совпадает с именем пакета</string>
     <string name="uk_measurement_system">Британская система</string>
@@ -8382,6 +8560,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="video_with_memc_title">Компенсация движения видео MEMC</string>
     <string name="video_without_memc_title">Обычное видео</string>
     <string name="view_saved_network">Для просмотра выберите сохраненную сеть</string>
+    <string name="vioce_assisant_hit">Попробуйте сказать: «Рингтон»</string>
     <string name="virtual_data_summary">Трафик в домашнем регионе и заграницей будет доступен без SIM-карты</string>
     <string name="virtual_data_title">mLiteSIM</string>
     <string name="virtual_device_companion_app_category">Подключением управляет</string>
@@ -8526,6 +8705,8 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="wapi_no">Нет</string>
     <string name="wapi_no_vaild_cert">Нет доступных сертификатов. Установить сейчас?</string>
     <string name="wapi_password_empty">Пожалуйста, введите пароль</string>
+    <string name="wapi_password_hex_format_invalid">Недопустимые шестнадцатеричные символы</string>
+    <string name="wapi_password_hex_length_invalid">Число шестнадцатеричных символов должно быть чётным</string>
     <string name="wapi_password_length_invalid">Пароль должен содержать от 8 до 64 символов</string>
     <string name="wapi_psk_type">Тип пароля</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
@@ -8609,8 +8790,10 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="wifi_allow_wep_networks_summary">WEP – это устаревший протокол безопасности с низким уровнем защиты</string>
     <string name="wifi_allow_wep_networks_summary_carrier_not_allow">Ваш оператор запрещает использовать сети с шифрованием WEP из-за их низкого уровня защиты</string>
     <string name="wifi_ap_choose_2G">2,4 ГГц</string>
+    <string name="wifi_ap_choose_vendor_dual_band">Два диапазона</string>
     <string name="wifi_ap_hide_ssid_txt">Скрытая сеть</string>
     <string name="wifi_ap_prefer_5G">5,0 ГГц (рекомендуется)</string>
+    <string name="wifi_ap_prefer_6G">Предпочтительно 6 ГГц</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Точка доступа заполнена</string>
     <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_ask_disable">Приложению «%s» требуется отключить Wi-Fi</string>
@@ -8626,6 +8809,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="wifi_calling_main_switch_title">Использование звонков по Wi-Fi</string>
     <string name="wifi_calling_mode_cellular_preferred_summary">Использовать Wi‑Fi, если мобильная сеть недоступна.</string>
     <string name="wifi_calling_mode_dialog_title">Режим вызовов по Wi-Fi</string>
+    <string name="wifi_calling_mode_ims_preferred_summary">Если LTE и Wi‑Fi недоступны, использовать 2G/3G</string>
     <string name="wifi_calling_mode_title">Настройки вызовов</string>
     <string name="wifi_calling_mode_wifi_only_summary">Звонки по Wi‑Fi. Если подключение прервется, звонок будет завершен.</string>
     <string name="wifi_calling_mode_wifi_preferred_summary">Использовать мобильную сеть, если сеть Wi‑Fi недоступна.</string>
@@ -8898,6 +9082,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="wifi_scan_throttling">Ограничить поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает расход заряда батареи и улучшает работу сети</string>
     <string name="wifi_security">Безопасность</string>
+    <string name="wifi_security_dpp">DPP</string>
     <string name="wifi_security_eap">WPA/WPA2/WPA3-Enterprise</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise 192 бита</string>
     <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
