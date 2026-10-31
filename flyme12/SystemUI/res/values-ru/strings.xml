@@ -368,7 +368,7 @@
     <string name="aod_type_new_born">Рождение</string>
     <string name="aod_type_personal_signature">Статус</string>
     <string name="aod_type_planet">Фактурная планета</string>
-    <string name="aod_type_space">Пробел</string>
+    <string name="aod_type_space">Космос</string>
     <string name="aod_type_walker">Путник</string>
     <string name="apn_settings_not_available">Этот пользователь не может изменять настройки точки доступа</string>
     <string name="app_channels_settings_title">Управление уведомлениями</string>
@@ -756,7 +756,6 @@
     <string name="communal_widgets_disclaimer_text">Чтобы открыть приложение, используя виджет, вам нужно будет подтвердить свою личность. Обратите внимание, что виджеты видны всем, даже если планшет заблокирован. Некоторые виджеты не предназначены для использования на заблокированном экране. Добавлять их туда может быть небезопасно.</string>
     <string name="communal_widgets_disclaimer_title">Виджеты на заблокированном экране</string>
     <string name="config_navBarLayout">space,back;home;recent,menu_ime</string>
-    <string name="config_rat_4g">4G</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включён этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="confirm_new_pin_tips">Подтвердите новый PIN-код</string>
@@ -2476,7 +2475,7 @@
     <string name="qs_header_date_main_pattern12">a EEE, %s</string>
     <string name="qs_header_date_main_pattern24">EEE, %s</string>
     <string name="qs_media_player_title_default">Не воспроизводится</string>
-    <string name="qs_media_player_title_playing">Проигрывается</string>
+    <string name="qs_media_player_title_playing">Воспроизводится</string>
     <string name="qs_record_issue_bug_report">Отчет об ошибке</string>
     <string name="qs_record_issue_dropdown_header">С чем связана проблема, с которой вы столкнулись?</string>
     <string name="qs_record_issue_dropdown_prompt">Выберите тип проблемы</string>

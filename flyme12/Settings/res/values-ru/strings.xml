@@ -803,7 +803,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="app_clone_share_app">Отправить в приложение</string>
     <string name="app_clone_suggested_title">Рекомендуемое ПО</string>
     <string name="app_clone_summary">Клонирование приложений создает копию приложения на рабочем столе. Приложение и его копия могут работать независимо друг от друга</string>
-    <string name="app_clone_summary_ask">Всегда спрашивать</string>
+    <string name="app_clone_summary_ask">Спрашивать каждый раз</string>
     <string name="app_clone_summary_clone">Клон приложения</string>
     <string name="app_clone_summary_main">Основное приложение</string>
     <string name="app_clone_supported_title">Поддерживаемое ПО</string>
@@ -1704,7 +1704,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="bluetooth_max_connected_audio_devices_string">Лимит подключенных Bluetooth-аудиоустройств</string>
     <string name="bluetooth_media_title">Медиа и системные звуки</string>
     <string name="bluetooth_meizu_active_battery_level">Active, л: %1$s п: %2$s</string>
-    <string name="bluetooth_meizu_active_battery_level_sp">Active, %1$s battery</string>
+    <string name="bluetooth_meizu_active_battery_level_sp">Активно, заряд %1$s</string>
     <string name="bluetooth_meizu_active_no_a2dp_battery_level">Используется только для звонков, левый %1$s, правый %2$s</string>
     <string name="bluetooth_meizu_active_no_a2dp_battery_level_sp">Используется только для звонков, заряд %1$s</string>
     <string name="bluetooth_meizu_connected_battery_level">Connected, л. %1$s п. %2$s</string>
@@ -7882,7 +7882,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="subscreen_use_tips">Демо</string>
     <string name="subscription_available">Доступно</string>
     <string name="sud_back_button_label">Назад</string>
-    <string name="sud_card_view_check_mark_icon_label">Выбрано</string>
+    <string name="sud_card_view_check_mark_icon_label">отмечено</string>
     <string name="sud_default_device_name">Устройство</string>
     <string name="sud_less_info">Меньше</string>
     <string name="sud_lottie_animation_view_accessibility_action_pause">Пауза</string>
@@ -9082,7 +9082,6 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="wifi_scan_throttling">Ограничить поиск сетей Wi-Fi</string>
     <string name="wifi_scan_throttling_summary">Уменьшает расход заряда батареи и улучшает работу сети</string>
     <string name="wifi_security">Безопасность</string>
-    <string name="wifi_security_dpp">DPP</string>
     <string name="wifi_security_eap">WPA/WPA2/WPA3-Enterprise</string>
     <string name="wifi_security_eap_suiteb">WPA3-Enterprise 192 бита</string>
     <string name="wifi_security_eap_wpa">WPA-Enterprise</string>

@@ -222,7 +222,7 @@
     <string name="request_video_call_text">Выполнение видеозвонка</string>
     <string name="requesting_video_call">Incoming video request</string>
     <string name="scam_number_label">Подозрительный звонок</string>
-    <string name="searchview_clear_text_content_description">Clear text</string>
+    <string name="searchview_clear_text_content_description">Очистить текст</string>
     <string name="searchview_navigation_content_description">Назад</string>
     <string name="selected">Выбрано</string>
     <string name="separate_from_conference">Разделить</string>

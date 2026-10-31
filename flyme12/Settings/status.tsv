@@ -9990,7 +9990,7 @@ wifi_scan_notify_text_scanning_off	own_check
 wifi_scan_throttling	own
 wifi_scan_throttling_summary	own
 wifi_security	own
-wifi_security_dpp	new
+wifi_security_dpp	skip
 wifi_security_eap	apk
 wifi_security_eap_suiteb	apk
 wifi_security_eap_wpa	apk

@@ -6,7 +6,7 @@ Assistant	com.meizu.assistant	13.0.6 130000006	398	9	17	0	643	57	27
 Browser	com.android.browser	12.9.1 12209001	506	6	2538	0	2435	379	65
 Calculator	com.meizu.flyme.calculator	12.0.17 12000017	388	0	105	0	173	5	74
 Calendar	com.android.calendar	19.3.3 19003003	742	17	34	0	753	70	64
-Camera	com.meizu.media.camera	12.7.2 12007002	533	13	83	0	133	16	52
+Camera	com.meizu.media.camera	12.7.2 12007002	533	13	83	49	0	16	136
 ConnectivitySettings	com.meizu.connectivitysettings	12.15.000 12015000	1962	50	521	0	188	124	144
 CustomizeCenter	com.meizu.customizecenter	12.5.0 122050000	751	21	16	0	343	28	27
 DataMigration	com.meizu.datamigration	12.1.1 12001001	742	37	80	0	417	212	24
@@ -21,7 +21,7 @@ Gallery	com.meizu.media.gallery	12.7.3 1200070003	1305	12	468	0	497	68	27
 GameCenter	com.meizu.flyme.gamecenter	12.3.0 12003000	1062	16	6	0	570	151	41
 InCallUI	com.android.incallui	14.01.07 14001007	188	7	43	20	0	3	78
 mCareNew	com.meizu.mcare	8.0.0 800	184	2	71	0	346	28	24
-Mms	com.android.mms	12.3.4 12003004	878	20	0	408	0	225	151
+Mms	com.android.mms	12.3.4 12003004	878	20	0	399	0	225	160
 MusicFX	com.android.musicfx	5.0.0 50001	213	0	3	0	9	5	3
 MzAccount	com.meizu.account	12.0.14 12000014	258	4	100	0	111	24	23
 MzBatteryManager	com.meizu.battery	12.0.24 12000024	252	6	8	0	166	76	24
@@ -35,12 +35,12 @@ PackageInstaller	com.android.packageinstaller	16 36	360	18	110	0	177	45	23
 Pedometer	com.meizu.net.pedometer	12.0.13 12000013	419	8	44	0	172	55	23
 Picker	com.meizu.picker	12.2.34 12002034	304	4	7	0	247	78	23
 SDKStage	com.meizu.flyme.sdkstage	5.0.01 50000001	128	0	9	0	88	11	8
-Settings	com.android.settings	12.1.0 12001000	4521	436	4691	192	0	158	582
+Settings	com.android.settings	12.1.0 12001000	4521	436	4691	191	0	158	583
 Suggestion	com.meizu.suggestion	12.5.10 12005010	89	2	0	0	512	3	15
-SystemUI	com.android.systemui	16.26.06.25_base 16260625	1771	64	1947	94	0	171	293
+SystemUI	com.android.systemui	16.26.06.25_base 16260625	1771	64	1947	93	0	171	294
 SystemUIEx	com.flyme.systemuiex	12.3.14 12003014	267	7	48	14	0	65	69
 SystemUITools	com.flyme.systemuitools	13.1.2 13001002	314	5	168	165	0	16	75
 ToolBox	com.meizu.flyme.toolbox	12.0.15 12000015	367	0	107	0	88	51	20
 Video	com.meizu.media.video	17.23.0 17223000	263	0	30	0	266	29	23
 VoiceAssistant	com.meizu.voiceassistant	12.1.46 12000146	754	8	0	0	1120	234	54
-Weather	com.meizu.flyme.weather	54.3.60 54003060	461	0	111	0	592	61	33
+Weather	com.meizu.flyme.weather	54.3.60 54003060	461	0	111	456	0	61	169

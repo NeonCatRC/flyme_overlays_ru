@@ -311,11 +311,11 @@
     <string name="icon_background_color_green">Зеленый</string>
     <string name="icon_background_color_purple">Фиолетовый</string>
     <string name="icon_background_color_yellow">Желтый</string>
-    <string name="icon_change_text">значок</string>
+    <string name="icon_change_text">Значок</string>
     <string name="icon_color">Цвет значков</string>
     <string name="icon_color_auto">Авто</string>
-    <string name="icon_color_dark">Темный</string>
-    <string name="icon_color_light">Свечение</string>
+    <string name="icon_color_dark">Тёмный</string>
+    <string name="icon_color_light">Светлый</string>
     <string name="icon_pack_default_icon_name">По умолчанию</string>
     <string name="icon_pack_item_loading_label">Используется</string>
     <string name="iconarrange_click_tips">Нажмите на значок приложения</string>
@@ -586,7 +586,7 @@
     <string name="nav_rail_expanded_a11y_label">Развёрнуто</string>
     <string name="network_disconnected">Нет подключения к сети, проверьте настройки сети</string>
     <string name="network_error">Ошибка сети, нажмите, чтобы переподключиться</string>
-    <string name="network_execption">Network exception, please try again later</string>
+    <string name="network_execption">Ошибка сети, повторите попытку позже</string>
     <string name="network_fail">Нет подключения к сети, проверьте настройки сети</string>
     <string name="network_unavailable">Нет подключения к Интернету, пожалуйста, проверьте настройки сети</string>
     <string name="new_window_option_taskbar">Новое окно</string>
@@ -636,11 +636,11 @@
     <string name="preview_AlipayGphone">Alipay</string>
     <string name="preview_alarmclock">Часы</string>
     <string name="preview_customizecenter">Темы</string>
-    <string name="preview_email">Эл. почта</string>
+    <string name="preview_email">Почта</string>
     <string name="preview_filemanager">Файлы</string>
     <string name="preview_folder">Папка</string>
     <string name="preview_gallery">Галерея</string>
-    <string name="preview_gamecenter">Game Center</string>
+    <string name="preview_gamecenter">Игровой центр</string>
     <string name="preview_mms">Сообщения</string>
     <string name="preview_mznfcpay">Flyme Pay</string>
     <string name="preview_sceneengine">Помощник сценариев</string>

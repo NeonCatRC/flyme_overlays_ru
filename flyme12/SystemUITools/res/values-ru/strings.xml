@@ -48,7 +48,7 @@
     <string name="copy">Копировать</string>
     <string name="date_time_set">Установить</string>
     <string name="dingtalk_call">Вызов DingTalk Call</string>
-    <string name="download_already_pause">" приостановлено"</string>
+    <string name="download_already_pause">Приостановлено</string>
     <string name="download_resume">Продолжить загрузку</string>
     <string name="drivemode">Driving Mode</string>
     <string name="drivemode_auto_enter_drivemode_when_conn_bluetooth">Активация режима вождения при Bluetooth-соединении</string>
@@ -236,7 +236,7 @@
     <string name="game_privacy_statement">Политика конфиденциальности Xunyou Mobile Game Accelerator</string>
     <string name="gamemode_acceleration_switch_title">Сетевое ускорение</string>
     <string name="gamemode_adaptive_summary">Частота кадров подстраивается под нагрузку системы</string>
-    <string name="gamemode_adaptive_title">Автоматически</string>
+    <string name="gamemode_adaptive_title">Адаптивная</string>
     <string name="gamemode_common_caller_close_btn">Блокировка входящих вызовов отключена</string>
     <string name="gamemode_common_caller_open_btn">Блокировка входящих вызовов включена</string>
     <string name="gamemode_common_caller_summary">До выхода из игры будет отключена возможность совершать и принимать вызовы.</string>
@@ -339,7 +339,7 @@
     <string name="gm_function_screen_shot">Скриншот</string>
     <string name="gm_function_screenoff">Экран в режиме ожидания</string>
     <string name="gm_function_screenrecord">Запись экрана</string>
-    <string name="gm_function_setting">Найстройки</string>
+    <string name="gm_function_setting">Настройки</string>
     <string name="gm_function_shieldcall">Блокировать входящие вызовы</string>
     <string name="gm_function_touchsetting">Настройки защиты от случайных касаний</string>
     <string name="gm_fury">Ярость</string>
@@ -359,7 +359,7 @@
     <string name="gm_notification_panel_summary">Во время игры входящие звонки, будильники и уведомления о зарядке будут отображаться в мини-формате</string>
     <string name="gm_panel_Casting_was_interrupted">Трансляция прервана. Можно транслировать на</string>
     <string name="gm_panel_can_cast_to">Можно транслировать на</string>
-    <string name="gm_panel_cast_to">Передать</string>
+    <string name="gm_panel_cast_to">Транслировать на</string>
     <string name="gm_panel_casting_in_progress">Идёт трансляция</string>
     <string name="gm_panel_casting_while_driving">Трансляция недоступна во время вождения</string>
     <string name="gm_panel_connect_device_not_support_casting">Устройство не поддерживает трансляцию</string>
