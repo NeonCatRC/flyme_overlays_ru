@@ -176,7 +176,7 @@ comment_view_item_hot_reply	own
 comment_view_item_reply_format	own
 commit_love_tips	own
 commit_view_into_all_comment	own
-common_private_policy_title	own
+common_private_policy_title	new
 common_user_policy_title	new
 compared_with_yesterday	new
 confirm	new
@@ -1017,7 +1017,7 @@ policy_sdk_withdraw_text_title	new
 policy_withdrawal	new
 policy_withdrawal_cancel	new
 policy_withdrawal_dialog_content	new
-policy_withdrawal_dialog_private_policy	own
+policy_withdrawal_dialog_private_policy	new
 policy_withdrawal_dialog_title	new
 pp_webview_title	own
 precipitation_probability	new
