@@ -1,0 +1,6 @@
+{
+ "target": "com.android.incallui",
+ "target_path": "/system/priv-app/InCallUI/InCallUI.apk",
+ "app_version": "14.01.07 14001007",
+ "flyme": "12.6"
+}

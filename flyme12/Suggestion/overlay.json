@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.suggestion",
+ "target_path": "/system/priv-app/Suggestion/Suggestion.apk",
+ "app_version": "12.5.10 12005010",
+ "flyme": "12.6"
+}

@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.flyme.calculator",
+ "target_path": "/system/MzApp/FlymeCalculator/FlymeCalculator.apk",
+ "app_version": "12.0.17 12000017",
+ "flyme": "12.6"
+}

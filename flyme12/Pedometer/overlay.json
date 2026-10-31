@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.net.pedometer",
+ "target_path": "/system/MzApp/Pedometer/Pedometer.apk",
+ "app_version": "12.0.13 12000013",
+ "flyme": "12.6"
+}

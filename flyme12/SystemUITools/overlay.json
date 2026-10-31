@@ -1,0 +1,6 @@
+{
+ "target": "com.flyme.systemuitools",
+ "target_path": "/system/priv-app/SystemUITools/SystemUITools.apk",
+ "app_version": "13.1.2 13001002",
+ "flyme": "12.6"
+}

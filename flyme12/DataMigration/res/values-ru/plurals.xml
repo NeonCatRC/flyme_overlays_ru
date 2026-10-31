@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="backup_select_multi_choice_title">
+        <item quantity="other">%d штук выбрано</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+{
+ "target": "com.android.musicfx",
+ "target_path": "/system/MzApp/MusicFX/MusicFX.apk",
+ "app_version": "5.0.0 50001",
+ "flyme": "12.6"
+}

@@ -1,0 +1,6 @@
+{
+ "target": "com.android.alarmclock",
+ "target_path": "/system/MzApp/FlymeAlarmClock/FlymeAlarmClock.apk",
+ "app_version": "12.0.46 120000046",
+ "flyme": "12.6"
+}

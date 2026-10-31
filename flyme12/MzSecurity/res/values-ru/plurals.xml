@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="news_lite_before_today">
+        <item quantity="other">d.M HH:mm</item>
+        <item quantity="zero">HH:mm</item>
+    </plurals>
+    <plurals name="news_lite_before_today_chinese">
+        <item quantity="other">d.M HH:mm</item>
+        <item quantity="zero">HH:mm</item>
+    </plurals>
+</resources>

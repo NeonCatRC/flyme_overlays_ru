@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="OPERATION_FOR_IMAGE">
+        <item>Preview</item>
+        <item>Replace</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_SLIDESHOW">
+        <item>Preview</item>
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="OPERATION_FOR_VIDEO">
+        <item>Play</item>
+        <item>Replace</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="abilities">
+        <item>phone_message_goto</item>
+        <item>phone_message_read</item>
+        <item>phone_message_smart_receive</item>
+    </string-array>
+    <string-array name="attach_file_array">
+        <item>Select text file</item>
+        <item>Select audio file</item>
+    </string-array>
+    <string-array name="attach_file_type_array">
+        <item>application/pdf</item>
+        <item>application/vnd.ms-powerpoint</item>
+        <item>application/vnd.openxmlformats-officedocument.presentationml.presentation</item>
+        <item>application/msword</item>
+        <item>application/rtf</item>
+        <item>application/vnd.openxmlformats-officedocument.wordprocessingml.document</item>
+        <item>application/vnd.ms-excel</item>
+        <item>application/vnd.openxmlformats-officedocument.spreadsheetml.sheet</item>
+        <item>text/plain</item>
+    </string-array>
+    <string-array name="attach_video_array">
+        <item>Take new video</item>
+        <item>Select existing video</item>
+    </string-array>
+    <string-array name="attach_voice_array">
+        <item>Take a new recording</item>
+        <item>Audio library</item>
+    </string-array>
+    <string-array name="custom_time_picker_lunar_day">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>廿十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>No subject</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="mz_app_to_next_open_enter_translate_y">
+        <item>1f</item>
+        <item>0.9098163031f</item>
+        <item>0.8200344432f</item>
+        <item>0.7394374282f</item>
+        <item>0.6665901263f</item>
+        <item>0.600401837f</item>
+        <item>0.5400114811f</item>
+        <item>0.4847301952f</item>
+        <item>0.4340413318f</item>
+        <item>0.3874856487f</item>
+        <item>0.3446613088f</item>
+        <item>0.3052812859f</item>
+        <item>0.2691733639f</item>
+        <item>0.2359931114f</item>
+        <item>0.2056257176f</item>
+        <item>0.1778415614f</item>
+        <item>0.1525258324f</item>
+        <item>0.1295637199f</item>
+        <item>0.1088404133f</item>
+        <item>0.0901836969f</item>
+        <item>0.07347876f</item>
+        <item>0.07347876f</item>
+        <item>0.058783008f</item>
+        <item>0.0458094145f</item>
+        <item>0.0346727899f</item>
+        <item>0.0251435132f</item>
+        <item>0.0172789897f</item>
+        <item>0.0109070034f</item>
+        <item>0.0060849598f</item>
+        <item>0.0026406429f</item>
+        <item>0.0006314581f</item>
+        <item>0f</item>
+    </string-array>
+    <string-array name="mz_shader_glow_inner_colors">
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FFCC00</item>
+        <item>#FA55BB</item>
+        <item>#661AFF</item>
+        <item>#133AFF</item>
+    </string-array>
+    <string-array name="mz_shader_glow_outer_colors">
+        <item>#1AFFFF</item>
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FF8C1A</item>
+        <item>#FFC21A</item>
+        <item>#1AFFFF</item>
+    </string-array>
+    <string-array name="phrases">
+        <item>I\'m busy now. Can I call you back later?</item>
+        <item>Please call me later. Thanks!</item>
+        <item>All right, thanks.</item>
+        <item>There is a traffic jam. I\'ll be a little late.</item>
+    </string-array>
+    <string-array name="rcs_ext_file_audio">
+        <item>.3gpp</item>
+        <item>.aac</item>
+        <item>.x-mpeg</item>
+        <item>.amr</item>
+        <item>.mp4a</item>
+        <item>.ogg</item>
+        <item>.midi</item>
+        <item>.mp2</item>
+        <item>.mnd</item>
+        <item>.mns</item>
+        <item>.m3u</item>
+        <item>.mp3</item>
+        <item>.wav</item>
+        <item>.wma</item>
+        <item>.mid</item>
+        <item>.m4a</item>
+        <item>.flac</item>
+    </string-array>
+    <string-array name="rcs_ext_file_ban">
+        <item>.jar</item>
+        <item>.bin</item>
+        <item>.exe</item>
+        <item>.apk</item>
+    </string-array>
+    <string-array name="rcs_ext_file_documentation">
+        <item>.xls</item>
+        <item>.xlsx</item>
+        <item>.doc</item>
+        <item>.docx</item>
+        <item>.ppt</item>
+        <item>.pptx</item>
+    </string-array>
+    <string-array name="rcs_ext_file_image">
+        <item>.png</item>
+        <item>.gif</item>
+        <item>.jpg</item>
+        <item>.jpeg</item>
+        <item>.JPEG</item>
+        <item>.bmp</item>
+        <item>.webp</item>
+        <item>.wbmp</item>
+    </string-array>
+    <string-array name="rcs_ext_file_pdf">
+        <item>.pdf</item>
+    </string-array>
+    <string-array name="rcs_ext_file_text">
+        <item>.txt</item>
+        <item>.java</item>
+        <item>.c</item>
+        <item>.cpp</item>
+        <item>.py</item>
+        <item>.xml</item>
+        <item>.json</item>
+        <item>.log</item>
+    </string-array>
+    <string-array name="rcs_ext_file_vcard">
+        <item>.vcf</item>
+    </string-array>
+    <string-array name="rcs_ext_file_video">
+        <item>.mp4</item>
+        <item>.3gp</item>
+        <item>.m4v</item>
+        <item>.3gpp</item>
+        <item>.webm</item>
+        <item>.3g2</item>
+        <item>.3gpp2</item>
+        <item>.avi</item>
+        <item>.wmv</item>
+    </string-array>
+    <string-array name="rcs_ext_file_zip">
+        <item>.jar</item>
+        <item>.zip</item>
+        <item>.rar</item>
+        <item>.gz</item>
+        <item>.apk</item>
+        <item>.img</item>
+        <item>.gzip</item>
+    </string-array>
+    <string-array name="rcs_preview_bottom">
+        <item>Manually open</item>
+        <item>Save to local</item>
+    </string-array>
+    <string-array name="search_label_config">
+        <item>电费</item>
+        <item>水费</item>
+        <item>燃气</item>
+        <item>营业厅</item>
+        <item>账单</item>
+        <item>快递</item>
+        <item>提取码</item>
+        <item>验证码</item>
+        <item>12306</item>
+        <item>机票</item>
+        <item>取件</item>
+        <item>退订</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="values_close_exit_translate_app">
+        <item>0.0f</item>
+        <item>0.12734375f</item>
+        <item>0.290538194f</item>
+        <item>0.445486111f</item>
+        <item>0.579947917f</item>
+        <item>0.678038194f</item>
+        <item>0.747916667f</item>
+        <item>0.802170139f</item>
+        <item>0.845746528f</item>
+        <item>0.881510417f</item>
+        <item>0.911024306f</item>
+        <item>0.935503472f</item>
+        <item>0.95546875f</item>
+        <item>0.971440972f</item>
+        <item>0.983767361f</item>
+        <item>0.992708333f</item>
+        <item>0.998090278f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="values_extra_close_exit_translate_app">
+        <item>0.0</item>
+        <item>0.0047222222</item>
+        <item>0.0180555556</item>
+        <item>0.0391666667</item>
+        <item>0.0669444444</item>
+        <item>0.100462963</item>
+        <item>0.1387962963</item>
+        <item>0.1812037037</item>
+        <item>0.2268518519</item>
+        <item>0.2749074074</item>
+        <item>0.3247222222</item>
+        <item>0.3756481481</item>
+        <item>0.4271296296</item>
+        <item>0.4785185185</item>
+        <item>0.5294444444</item>
+        <item>0.5792592593</item>
+        <item>0.6277777778</item>
+        <item>0.6744444444</item>
+        <item>0.7188888889</item>
+        <item>0.7609259259</item>
+        <item>0.8002777778</item>
+        <item>0.8365740741</item>
+        <item>0.8696296296</item>
+        <item>0.8993518519</item>
+        <item>0.925462963</item>
+        <item>0.9478703704</item>
+        <item>0.9664814815</item>
+        <item>0.9810185185</item>
+        <item>0.9914814815</item>
+        <item>0.9978703704</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_extra_open_enter_translate_app">
+        <item>0.0</item>
+        <item>0.0037037037</item>
+        <item>0.0149074074</item>
+        <item>0.0334259259</item>
+        <item>0.0590740741</item>
+        <item>0.0915740741</item>
+        <item>0.1301851852</item>
+        <item>0.1741666667</item>
+        <item>0.2228703704</item>
+        <item>0.2750925926</item>
+        <item>0.3299074074</item>
+        <item>0.3862962963</item>
+        <item>0.4431481481</item>
+        <item>0.4996296296</item>
+        <item>0.5548148148</item>
+        <item>0.6081481481</item>
+        <item>0.6589814815</item>
+        <item>0.7068518519</item>
+        <item>0.7513888889</item>
+        <item>0.7924074074</item>
+        <item>0.8297222222</item>
+        <item>0.8632407407</item>
+        <item>0.892962963</item>
+        <item>0.9188888889</item>
+        <item>0.9410185185</item>
+        <item>0.959537037</item>
+        <item>0.9744444444</item>
+        <item>0.9857407407</item>
+        <item>0.9937962963</item>
+        <item>0.9984259259</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_open_enter_translate_app">
+        <item>0.0f</item>
+        <item>0.240190972f</item>
+        <item>0.466145833f</item>
+        <item>0.617708333f</item>
+        <item>0.721440972f</item>
+        <item>0.7921875f</item>
+        <item>0.844270833f</item>
+        <item>0.886197917f</item>
+        <item>0.919010417f</item>
+        <item>0.944010417f</item>
+        <item>0.9625f</item>
+        <item>0.975954861f</item>
+        <item>0.985416667f</item>
+        <item>0.991840278f</item>
+        <item>0.996006944f</item>
+        <item>0.9984375f</item>
+        <item>0.999652778f</item>
+        <item>1.0f</item>
+    </string-array>
+</resources>

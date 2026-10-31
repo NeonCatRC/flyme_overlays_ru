@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="emailAddressTypes">
+        <item>Персональный</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Работа</item>
+        <item>Другая</item>
+        <item>Своя</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Домашний</item>
+        <item>Мобильный</item>
+        <item>Рабочий</item>
+        <item>Рабочий FAX</item>
+        <item>Домашний FAX</item>
+        <item>Пэйджер</item>
+        <item>Другой</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="config_globalActionsList">
+        <item>Питание</item>
+        <item>Перезагрузка</item>
+        <item>Блокировка</item>
+        <item>Выход</item>
+        <item>Баг-репорт</item>
+        <item>Снимок экрана</item>
+        <item>Экстренный</item>
+    </string-array>
+    <string-array name="face_acquired_vendor">
+    </string-array>
+    <string-array name="face_error_vendor">
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Не отпускайте</item>
+        <item>Приложите палец</item>
+        <item>Отпустите палец</item>
+        <item>Вышло время попытки</item>
+        <item>Выровняйте палец</item>
+        <item>Приложите палец, который не зарегистрирован</item>
+    </string-array>
+    <string-array name="fingerprint_error_vendor">
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Домашний</item>
+        <item>Рабочий</item>
+        <item>Другой</item>
+        <item>Свой</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Мобильная сеть</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Интернет</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Чтобы совершать звонки и отправлять сообщения по беспроводной сети, сначала запросите своего оператора настроить эту услугу. Затем снова включите вызов по Wi-Fi из настроек. (Код ошибки: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Проблема с регистрацией вызовов по Wi-Fi у вашего оператора: %1$s</item>
+    </string-array>
+    <string-array name="calendar_week_title">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="smartbar_left_right_padding">
+        <item>160px</item>
+        <item>170px (по умолч.)</item>
+        <item>180px</item>
+    </string-array>
+    <string-array name="system_ringtone_name_list1">
+        <item>Ожидание</item>
+        <item>Пианино</item>
+        <item>Цифровое</item>
+        <item>Flyme</item>
+        <item>Музыкальная шкатулка</item>
+        <item>Техника и наука</item>
+        <item>Гитара</item>
+        <item>Маримба</item>
+        <item>Каприз</item>
+        <item>Кристалл</item>
+        <item>Состояние</item>
+        <item>Котята</item>
+        <item>Утренняя песня</item>
+        <item>Звонок любви</item>
+        <item>Переключатель</item>
+        <item>Путешествие начинается</item>
+        <item>Новая жизнь</item>
+        <item>Сердцебиение</item>
+        <item>East ville memory</item>
+        <item>Вальс</item>
+        <item>Кантор</item>
+        <item>Энтузиазм</item>
+        <item>Путешествие</item>
+        <item>Игра</item>
+        <item>Танец дождя</item>
+        <item>Ночные танцы</item>
+        <item>Перед рассветом</item>
+        <item>Домой</item>
+        <item>Блюз</item>
+        <item>Тире</item>
+        <item>Механический рингтон</item>
+        <item>Телефон</item>
+        <item>Звуковой сигнал</item>
+        <item>После школы</item>
+        <item>Марио</item>
+        <item>Доброй ночи</item>
+        <item>Полет</item>
+        <item>Детство</item>
+        <item>Утренняя пробежка</item>
+        <item>Милый</item>
+        <item>Вызов на сцену</item>
+        <item>Колокольчик</item>
+        <item>Челеста</item>
+        <item>Триумф</item>
+        <item>Напоминание</item>
+        <item>Дверной звонок</item>
+        <item>Продвижение</item>
+        <item>Маленький кристалл</item>
+        <item>Прибытие</item>
+        <item>Умнее</item>
+        <item>Гибкость</item>
+        <item>Пробка красного вина</item>
+        <item>Касание</item>
+        <item>Капля воды</item>
+        <item>Ссылка</item>
+        <item>Вращение</item>
+        <item>Подарок</item>
+        <item>Зачеркивания</item>
+        <item>Чистый</item>
+        <item>Ритм</item>
+        <item>Каприз</item>
+        <item>Шоколад</item>
+        <item>Кодовое слово</item>
+        <item>Угол</item>
+        <item>Империя</item>
+        <item>Прыжок</item>
+        <item>Лапута</item>
+        <item>Метеор</item>
+        <item>Рябь</item>
+        <item>Блеск</item>
+        <item>Тихая ночь</item>
+        <item>Северная звезда</item>
+        <item>Time Tunnel</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="urlspan_date_dialog_title">
+        <item>Новое событие</item>
+        <item>Открыть в календаре</item>
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="urlspan_email_dialog_title">
+        <item>Отправить письмо</item>
+        <item>Копировать</item>
+        <item>Добавить в контакт</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title">
+        <item>Открыть</item>
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="urlspan_open_dialog_title_chinamobile">
+        <item>Открыть</item>
+        <item>Копировать</item>
+        <item>В закладки</item>
+    </string-array>
+    <string-array name="urlspan_tel_dialog_title">
+        <item>Набрать номер</item>
+        <item>Отправить сообщение</item>
+        <item>Копировать</item>
+        <item>Добавить в контакт</item>
+    </string-array>
+</resources>

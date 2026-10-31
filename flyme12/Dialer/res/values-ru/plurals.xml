@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d контакт.</item>
+        <item quantity="one">%1$d контакт</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Всего контактов: %d</item>
+        <item quantity="one">Всего: 1 контакт</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Контакты с номерами телефона: %d</item>
+        <item quantity="one">Контакты с номерами телефона: 1</item>
+    </plurals>
+    <plurals name="mz_action_bar_multi_choice_title">
+        <item quantity="other">Выбрано: %d</item>
+        <item quantity="one">Выбрано: %d</item>
+    </plurals>
+    <plurals name="mzc_contact_count">
+        <item quantity="other">Контакты: %1$s</item>
+        <item quantity="one">Контакты: %1$s</item>
+    </plurals>
+    <plurals name="mzc_group_manager_remove_contacts_from_item">
+        <item quantity="other">Удалить контакты: %s</item>
+        <item quantity="one">Удалить контакты: %s</item>
+    </plurals>
+    <plurals name="mzc_group_selection_list_num_contacts_in_group">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">Голосовые сообщения: %1$d</item>
+        <item quantity="one">Голосовые сообщения</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">Найдено: %d</item>
+        <item quantity="one">Найдено: 1</item>
+    </plurals>
+</resources>

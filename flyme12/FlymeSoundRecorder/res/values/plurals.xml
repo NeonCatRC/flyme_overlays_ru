@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="delete_item_selected">
+        <item quantity="one">Delete 1 Recording</item>
+        <item quantity="other">Delete %1$d Recordings</item>
+    </plurals>
+</resources>

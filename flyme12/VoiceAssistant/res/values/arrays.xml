@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ability_signs">
+        <item>current_screen_content_access:true:0:1:none</item>
+        <item>phone_voice_api:true:0:1:none</item>
+    </string-array>
+    <string-array name="alarm_getup_word">
+        <item>叫醒</item>
+        <item>闹醒</item>
+        <item>起床</item>
+        <item>喊醒</item>
+    </string-array>
+    <string-array name="answer_string_array">
+        <item>我遇到点状况，麻烦稍后再试试</item>
+    </string-array>
+    <string-array name="call_hungup">
+        <item>挂断</item>
+        <item>拒绝</item>
+        <item>挂</item>
+        <item>挂电话</item>
+    </string-array>
+    <string-array name="call_mute">
+        <item>忽略</item>
+    </string-array>
+    <string-array name="call_receive">
+        <item>接听</item>
+        <item>接电话</item>
+        <item>接</item>
+    </string-array>
+    <string-array name="close_alarm_tip">
+        <item>这下清净了</item>
+        <item>你被解放了</item>
+        <item>恭喜你获得了自由</item>
+    </string-array>
+    <string-array name="cmd_first_card">
+        <item>卡1</item>
+        <item>卡一</item>
+        <item>第一张卡</item>
+        <item>第1张卡</item>
+        <item>一号卡</item>
+        <item>1号卡</item>
+    </string-array>
+    <string-array name="cmd_receive_sms_later">
+        <item>稍后</item>
+        <item>稍后处理</item>
+    </string-array>
+    <string-array name="cmd_receive_sms_play">
+        <item>播报</item>
+        <item>播放</item>
+        <item>播</item>
+        <item>报</item>
+    </string-array>
+    <string-array name="cmd_second_card">
+        <item>卡2</item>
+        <item>卡二</item>
+        <item>第二张卡</item>
+        <item>第2张卡</item>
+        <item>二号卡</item>
+        <item>2号卡</item>
+        <item>卡厄</item>
+        <item>卡额</item>
+        <item>卡饿</item>
+        <item>卡恶</item>
+        <item>卡塔尔</item>
+        <item>卡鄂</item>
+        <item>卡尔</item>
+    </string-array>
+    <string-array name="cmd_shutstart_cancel">
+        <item>取消</item>
+        <item>不需要</item>
+        <item>NO</item>
+        <item>否</item>
+        <item>For</item>
+        <item>Four</item>
+        <item>不行</item>
+        <item>不好</item>
+        <item>不要</item>
+        <item>不用</item>
+        <item>别</item>
+        <item>不确认</item>
+        <item>不确定</item>
+        <item>不可以</item>
+        <item>不是</item>
+        <item>不对</item>
+    </string-array>
+    <string-array name="cmd_shutstart_ok">
+        <item>确认</item>
+        <item>确定</item>
+        <item>可以</item>
+        <item>是</item>
+        <item>对</item>
+        <item>没错</item>
+        <item>好</item>
+        <item>号</item>
+        <item>How</item>
+        <item>好的</item>
+        <item>需要</item>
+        <item>YES</item>
+        <item>恩</item>
+        <item>OK</item>
+        <item>要</item>
+    </string-array>
+    <string-array name="create_timer_tips">
+        <item>%s的计时器已经设置好了</item>
+        <item>已帮你设置了%s的计时器</item>
+    </string-array>
+    <string-array name="dialog_cmd_collection">
+        <item>你是谁</item>
+    </string-array>
+    <string-array name="eighteen_to_tweenty">
+        <item>晚上好，\n需要什么帮助吗</item>
+    </string-array>
+    <string-array name="eleven_thirty_to_tweleve_thirty">
+        <item>中午好，\n有什么可以帮你</item>
+    </string-array>
+    <string-array name="entries_meizu_app_font_size">
+        <item>小号</item>
+        <item>默认</item>
+        <item>中号</item>
+        <item>大号</item>
+        <item>超大</item>
+    </string-array>
+    <string-array name="entryvalues_meizu_app_font_size">
+        <item>0.94</item>
+        <item>1.00</item>
+        <item>1.06</item>
+        <item>1.12</item>
+        <item>1.18</item>
+    </string-array>
+    <string-array name="error_answer">
+        <item>哎呀，我遇到了点状况，麻烦稍后再试试</item>
+        <item>糟糕，我出了点问题，麻烦稍后再试试</item>
+        <item>抱歉，我遇到点小问题，麻烦稍后再试试</item>
+        <item>抱歉，我这边有点小状况，麻烦稍后再试试</item>
+    </string-array>
+    <string-array name="error_answer1">
+        <item>抱歉，任务执行出了点状况，麻烦稍后再试试</item>
+        <item>抱歉，任务执行出了点问题，麻烦稍后再试试</item>
+    </string-array>
+    <string-array name="error_answer2">
+        <item>账号验证时出了一点小状况，麻烦稍后再试试</item>
+    </string-array>
+    <string-array name="error_answer3">
+        <item>这个问题我答不上来，但其他问题我很乐意解答呢</item>
+        <item>这个问题我答不上来，但其他问题我很乐意解答呢</item>
+    </string-array>
+    <string-array name="error_answer4">
+        <item>抱歉，指令理解出了点状况，麻烦稍后再试试</item>
+        <item>抱歉，指令理解出了点问题，麻烦稍后再试试</item>
+    </string-array>
+    <string-array name="exit_assistant_array">
+        <item>再见</item>
+        <item>告辞</item>
+        <item>拜拜</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="horoscope_date">
+        <item>3.21 - 4.19</item>
+        <item>4.20 - 5.20</item>
+        <item>5.21 - 6.21</item>
+        <item>6.22 - 7.22</item>
+        <item>7.23 - 8.22</item>
+        <item>8.23 - 9.22</item>
+        <item>9.23 - 10.23</item>
+        <item>10.24 - 11.22</item>
+        <item>11.23 - 12.21</item>
+        <item>12.22 - 1.19</item>
+        <item>1.20 - 2.18</item>
+        <item>2.19 - 3.20</item>
+    </string-array>
+    <string-array name="horoscope_name">
+        <item>白羊</item>
+        <item>金牛</item>
+        <item>双子</item>
+        <item>巨蟹</item>
+        <item>狮子</item>
+        <item>处女</item>
+        <item>天秤</item>
+        <item>天蝎</item>
+        <item>射手</item>
+        <item>摩羯</item>
+        <item>水瓶</item>
+        <item>双鱼</item>
+    </string-array>
+    <string-array name="light_effect_weather_types">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>小雨</item>
+        <item>中雨</item>
+        <item>大雨</item>
+        <item>暴雨</item>
+        <item>大暴雨</item>
+        <item>特大暴雨</item>
+        <item>小到中雨</item>
+        <item>中到大雨</item>
+        <item>大到暴雨</item>
+        <item>暴雨到大暴雨</item>
+        <item>大暴雨到特大暴雨</item>
+        <item>阵雨</item>
+        <item>冻雨</item>
+        <item>雨夹雪</item>
+        <item>雷阵雨</item>
+        <item>雷阵雨伴有冰雹</item>
+        <item>阵雪</item>
+        <item>小雪</item>
+        <item>中雪</item>
+        <item>大雪</item>
+        <item>暴雪</item>
+        <item>小到中雪</item>
+        <item>中到大雪</item>
+        <item>大到暴雪</item>
+        <item>雾</item>
+        <item>沙尘暴</item>
+        <item>浮尘</item>
+        <item>扬沙</item>
+        <item>强沙尘暴</item>
+        <item>霾</item>
+        <item>台风</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="minor_mode_reply">
+        <item>这个我还在研究呢，要不试试别的操作？</item>
+        <item>这个我还在学习中，还有其他想让我做的吗？</item>
+        <item>这个我还要再研究一下！试试下面的推荐技能吧。</item>
+    </string-array>
+    <string-array name="mz_app_to_next_open_enter_translate_y">
+        <item>1f</item>
+        <item>0.9098163031f</item>
+        <item>0.8200344432f</item>
+        <item>0.7394374282f</item>
+        <item>0.6665901263f</item>
+        <item>0.600401837f</item>
+        <item>0.5400114811f</item>
+        <item>0.4847301952f</item>
+        <item>0.4340413318f</item>
+        <item>0.3874856487f</item>
+        <item>0.3446613088f</item>
+        <item>0.3052812859f</item>
+        <item>0.2691733639f</item>
+        <item>0.2359931114f</item>
+        <item>0.2056257176f</item>
+        <item>0.1778415614f</item>
+        <item>0.1525258324f</item>
+        <item>0.1295637199f</item>
+        <item>0.1088404133f</item>
+        <item>0.0901836969f</item>
+        <item>0.07347876f</item>
+        <item>0.07347876f</item>
+        <item>0.058783008f</item>
+        <item>0.0458094145f</item>
+        <item>0.0346727899f</item>
+        <item>0.0251435132f</item>
+        <item>0.0172789897f</item>
+        <item>0.0109070034f</item>
+        <item>0.0060849598f</item>
+        <item>0.0026406429f</item>
+        <item>0.0006314581f</item>
+        <item>0f</item>
+    </string-array>
+    <string-array name="mz_shader_glow_inner_colors">
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FFCC00</item>
+        <item>#FA55BB</item>
+        <item>#661AFF</item>
+        <item>#133AFF</item>
+    </string-array>
+    <string-array name="mz_shader_glow_outer_colors">
+        <item>#1AFFFF</item>
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FF8C1A</item>
+        <item>#FFC21A</item>
+        <item>#1AFFFF</item>
+    </string-array>
+    <string-array name="negative_cmd_collection">
+        <item>取消</item>
+        <item>不需要</item>
+        <item>NO</item>
+        <item>不用</item>
+        <item>别</item>
+        <item>不可以</item>
+    </string-array>
+    <string-array name="negative_element_collection">
+        <item>不</item>
+        <item>别</item>
+        <item>不要</item>
+        <item>不是</item>
+    </string-array>
+    <string-array name="nine_to_eleven_thirty">
+        <item>上午好！\n需要什么帮助吗</item>
+    </string-array>
+    <string-array name="positive_cmd_collection">
+        <item>发送</item>
+        <item>保存</item>
+        <item>创建</item>
+        <item>确定</item>
+        <item>可以</item>
+        <item>是</item>
+        <item>对</item>
+        <item>没错</item>
+        <item>好的</item>
+        <item>需要</item>
+        <item>YES</item>
+        <item>恩</item>
+        <item>OK</item>
+        <item>谢谢</item>
+    </string-array>
+    <string-array name="random">
+        <item>请说，我在听</item>
+        <item>有何贵干</item>
+        <item>请问需要什么帮助吗</item>
+    </string-array>
+    <string-array name="setting_name">
+        <item>WIFI</item>
+        <item>蓝牙</item>
+        <item>飞行模式</item>
+        <item>静音</item>
+        <item>振动</item>
+        <item>NFC</item>
+        <item>GPS</item>
+        <item>4G</item>
+        <item>3G</item>
+        <item>2G</item>
+        <item>GPRS</item>
+        <item>移动数据</item>
+        <item>数据连接</item>
+        <item>无线网络</item>
+        <item>无线网</item>
+        <item>车载模式</item>
+        <item>驾驶辅助</item>
+        <item>驾驶模式</item>
+        <item>旋转</item>
+        <item>悬浮球</item>
+        <item>旋转模式</item>
+        <item>便携式热点</item>
+        <item>便携热点</item>
+        <item>手电筒</item>
+        <item>免打扰</item>
+        <item>语音助手</item>
+        <item>智能语音</item>
+        <item>MTP</item>
+        <item>PTP</item>
+        <item>关机</item>
+        <item>重启</item>
+        <item>重启手机</item>
+        <item>亮度调高一点</item>
+        <item>亮度调低一点</item>
+        <item>加大音量</item>
+        <item>减小音量</item>
+        <item>字体调大</item>
+        <item>字体调小</item>
+        <item>字体调大一点</item>
+        <item>字体调小一点</item>
+        <item>字体变大一点</item>
+        <item>字体变小一点</item>
+        <item>字体放大一点</item>
+        <item>字体缩小一点</item>
+        <item>调大字体</item>
+        <item>调小字体</item>
+    </string-array>
+    <string-array name="simcard_opt">
+        <item>卡1</item>
+        <item>卡2</item>
+        <item>卡一</item>
+        <item>卡二</item>
+        <item>第一张卡</item>
+        <item>第二张卡</item>
+        <item>一号卡</item>
+        <item>二号卡</item>
+        <item>用第一张卡</item>
+        <item>用第二张卡</item>
+        <item>用第一张卡拨出</item>
+        <item>用第二张卡拨出</item>
+        <item>移动卡</item>
+        <item>联通卡</item>
+        <item>电信卡</item>
+        <item>用移动卡</item>
+        <item>用联通卡</item>
+        <item>用电信卡</item>
+        <item>中国移动</item>
+        <item>中国联通</item>
+        <item>中国电信</item>
+        <item>中国移动卡</item>
+        <item>中国联通卡</item>
+        <item>中国电信卡</item>
+        <item>用中国移动卡</item>
+        <item>用中国联通卡</item>
+        <item>用中国电信卡</item>
+    </string-array>
+    <string-array name="six_to_nine">
+        <item>早上好，\n需要什么帮助吗</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="sorry">
+        <item>不好意思</item>
+        <item>对不起</item>
+        <item>抱歉</item>
+    </string-array>
+    <string-array name="think_hint">
+        <item>请稍等，我来思考一下</item>
+        <item>让我想想</item>
+        <item>让我思考下，马上就好</item>
+    </string-array>
+    <string-array name="tweenty_to_tweenty_four">
+        <item>晚上好，\n有什么可以帮你</item>
+    </string-array>
+    <string-array name="tweleve_thirty_to_eighteen">
+        <item>下午好！\n有什么可以帮你</item>
+        <item>下午好！\n需要什么帮助吗</item>
+    </string-array>
+    <string-array name="values_close_exit_translate_app">
+        <item>0.0f</item>
+        <item>0.12734375f</item>
+        <item>0.290538194f</item>
+        <item>0.445486111f</item>
+        <item>0.579947917f</item>
+        <item>0.678038194f</item>
+        <item>0.747916667f</item>
+        <item>0.802170139f</item>
+        <item>0.845746528f</item>
+        <item>0.881510417f</item>
+        <item>0.911024306f</item>
+        <item>0.935503472f</item>
+        <item>0.95546875f</item>
+        <item>0.971440972f</item>
+        <item>0.983767361f</item>
+        <item>0.992708333f</item>
+        <item>0.998090278f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="values_extra_close_exit_translate_app">
+        <item>0.0</item>
+        <item>0.0047222222</item>
+        <item>0.0180555556</item>
+        <item>0.0391666667</item>
+        <item>0.0669444444</item>
+        <item>0.100462963</item>
+        <item>0.1387962963</item>
+        <item>0.1812037037</item>
+        <item>0.2268518519</item>
+        <item>0.2749074074</item>
+        <item>0.3247222222</item>
+        <item>0.3756481481</item>
+        <item>0.4271296296</item>
+        <item>0.4785185185</item>
+        <item>0.5294444444</item>
+        <item>0.5792592593</item>
+        <item>0.6277777778</item>
+        <item>0.6744444444</item>
+        <item>0.7188888889</item>
+        <item>0.7609259259</item>
+        <item>0.8002777778</item>
+        <item>0.8365740741</item>
+        <item>0.8696296296</item>
+        <item>0.8993518519</item>
+        <item>0.925462963</item>
+        <item>0.9478703704</item>
+        <item>0.9664814815</item>
+        <item>0.9810185185</item>
+        <item>0.9914814815</item>
+        <item>0.9978703704</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_extra_open_enter_translate_app">
+        <item>0.0</item>
+        <item>0.0037037037</item>
+        <item>0.0149074074</item>
+        <item>0.0334259259</item>
+        <item>0.0590740741</item>
+        <item>0.0915740741</item>
+        <item>0.1301851852</item>
+        <item>0.1741666667</item>
+        <item>0.2228703704</item>
+        <item>0.2750925926</item>
+        <item>0.3299074074</item>
+        <item>0.3862962963</item>
+        <item>0.4431481481</item>
+        <item>0.4996296296</item>
+        <item>0.5548148148</item>
+        <item>0.6081481481</item>
+        <item>0.6589814815</item>
+        <item>0.7068518519</item>
+        <item>0.7513888889</item>
+        <item>0.7924074074</item>
+        <item>0.8297222222</item>
+        <item>0.8632407407</item>
+        <item>0.892962963</item>
+        <item>0.9188888889</item>
+        <item>0.9410185185</item>
+        <item>0.959537037</item>
+        <item>0.9744444444</item>
+        <item>0.9857407407</item>
+        <item>0.9937962963</item>
+        <item>0.9984259259</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_open_enter_translate_app">
+        <item>0.0f</item>
+        <item>0.240190972f</item>
+        <item>0.466145833f</item>
+        <item>0.617708333f</item>
+        <item>0.721440972f</item>
+        <item>0.7921875f</item>
+        <item>0.844270833f</item>
+        <item>0.886197917f</item>
+        <item>0.919010417f</item>
+        <item>0.944010417f</item>
+        <item>0.9625f</item>
+        <item>0.975954861f</item>
+        <item>0.985416667f</item>
+        <item>0.991840278f</item>
+        <item>0.996006944f</item>
+        <item>0.9984375f</item>
+        <item>0.999652778f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="values_wave_fail_four">
+        <item>0.79</item>
+        <item>0.97</item>
+        <item>0.75</item>
+        <item>0.46</item>
+        <item>0.24</item>
+        <item>0.1</item>
+        <item>0.02</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="values_wave_fail_one">
+        <item>0</item>
+        <item>0.16</item>
+        <item>0.52</item>
+        <item>0.88</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="values_wave_fail_three">
+        <item>0.79</item>
+        <item>0.3</item>
+        <item>0.29</item>
+        <item>0.79</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="values_wave_fail_two">
+        <item>0.69</item>
+        <item>0</item>
+        <item>0.69</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="values_wave_out">
+        <item>0</item>
+        <item>0.027022</item>
+        <item>0.140551</item>
+        <item>0.307348</item>
+        <item>0.44271</item>
+        <item>0.544407</item>
+        <item>0.623598</item>
+        <item>0.687352</item>
+        <item>0.73989</item>
+        <item>0.783874</item>
+        <item>0.821085</item>
+        <item>0.852775</item>
+        <item>0.87986</item>
+        <item>0.903031</item>
+        <item>0.922825</item>
+        <item>0.939668</item>
+        <item>0.953902</item>
+        <item>0.965812</item>
+        <item>0.975631</item>
+        <item>0.983559</item>
+        <item>0.989765</item>
+        <item>0.994393</item>
+        <item>0.990796</item>
+        <item>0.9949245</item>
+        <item>0.997571</item>
+        <item>0.999407</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="values_wave_out_circle">
+        <item>0</item>
+        <item>0.109288</item>
+        <item>0.217986</item>
+        <item>0.347593</item>
+        <item>0.490754</item>
+        <item>0.640753</item>
+        <item>0.789576</item>
+        <item>0.923479</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="values_wave_success">
+        <item>0</item>
+        <item>0.20564</item>
+        <item>0.402041</item>
+        <item>0.531764</item>
+        <item>0.627577</item>
+        <item>0.702377</item>
+        <item>0.762544</item>
+        <item>0.811764</item>
+        <item>0.852389</item>
+        <item>0.886027</item>
+        <item>0.913834</item>
+        <item>0.936678</item>
+        <item>0.955225</item>
+        <item>0.970005</item>
+        <item>0.981444</item>
+        <item>0.989893</item>
+        <item>0.995643</item>
+        <item>0.998942</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="values_wave_success_circle">
+        <item>0</item>
+        <item>0.980324</item>
+        <item>0.925926</item>
+        <item>0.84375</item>
+        <item>0.740741</item>
+        <item>0.623843</item>
+        <item>0.5</item>
+        <item>0.376157</item>
+        <item>0.259259</item>
+        <item>0.15625</item>
+        <item>0.074074</item>
+        <item>0.019676</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="voice_age_type">
+        <item>幼年</item>
+        <item>少年</item>
+        <item>青年</item>
+    </string-array>
+    <string-array name="voice_clone_tab">
+        <item>我的</item>
+        <item>女声</item>
+        <item>男声</item>
+        <item>方言</item>
+    </string-array>
+    <string-array name="voice_continue_time">
+        <item>5秒</item>
+        <item>10秒</item>
+        <item>20秒</item>
+    </string-array>
+    <string-array name="voice_continue_time_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="voice_role_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="voice_sex">
+        <item>男声</item>
+        <item>女声</item>
+    </string-array>
+    <string-array name="voice_tab">
+        <item>推荐</item>
+        <item>女声</item>
+        <item>男声</item>
+        <item>方言</item>
+    </string-array>
+    <string-array name="voice_timbre">
+        <item>柔和</item>
+        <item>热情</item>
+        <item>活力</item>
+        <item>温醇</item>
+        <item>酥魅</item>
+        <item>知性</item>
+        <item>自然</item>
+        <item>可爱</item>
+        <item>阳光</item>
+        <item>奶萌</item>
+        <item>方言</item>
+    </string-array>
+    <string-array name="weather_types">
+        <item>晴</item>
+        <item>多云</item>
+        <item>阴</item>
+        <item>小雨</item>
+        <item>中雨</item>
+        <item>大雨</item>
+        <item>暴雨</item>
+        <item>大暴雨</item>
+        <item>特大暴雨</item>
+        <item>小到中雨</item>
+        <item>中到大雨</item>
+        <item>大到暴雨</item>
+        <item>暴雨到大暴雨</item>
+        <item>大暴雨到特大暴雨</item>
+        <item>阵雨</item>
+        <item>冻雨</item>
+        <item>雨夹雪</item>
+        <item>雷阵雨</item>
+        <item>雷阵雨伴有冰雹</item>
+        <item>阵雪</item>
+        <item>小雪</item>
+        <item>中雪</item>
+        <item>大雪</item>
+        <item>暴雪</item>
+        <item>小到中雪</item>
+        <item>中到大雪</item>
+        <item>大到暴雪</item>
+        <item>雾</item>
+        <item>沙尘暴</item>
+        <item>浮尘</item>
+        <item>扬沙</item>
+        <item>强沙尘暴</item>
+        <item>霾</item>
+        <item>台风</item>
+    </string-array>
+</resources>

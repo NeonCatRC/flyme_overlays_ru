@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">%d д. назад</item>
+        <item quantity="one">%d д. назад</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">%d мин. назад</item>
+        <item quantity="one">%d мин. назад</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">%d л. назад</item>
+        <item quantity="one">%d год назад</item>
+    </plurals>
+    <plurals name="all_apps_count">
+        <item quantity="other">%1$d всего</item>
+        <item quantity="one">%1$d всего</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="one">%1$s, %2$s</item>
+        <item quantity="few">%1$s, %2$s</item>
+        <item quantity="many">%1$s, %2$s</item>
+        <item quantity="other">%1$s, %2$s</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item quantity="other">%d активного промежуточного агента</item>
+        <item quantity="one">1 активный промежуточный агент</item>
+    </plurals>
+    <plurals name="mz_face_management_count">
+        <item quantity="one">Зарегистрировано %1$d лиц</item>
+        <item quantity="other">Зарегистрировано %1$d лиц</item>
+    </plurals>
+    <plurals name="mz_fp_management_count">
+        <item quantity="other">%1$d всего</item>
+        <item quantity="one">%1$d всего</item>
+    </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="other">~%d уведомлений в день</item>
+        <item quantity="one">~%d уведомление в день</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="other">~%d уведомлений в неделю</item>
+        <item quantity="one">~%d уведомление в неделю</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Нажмите ещё %1$d раз(а) для входа в режим для разработчиков</item>
+        <item quantity="one">Нажмите ещё %1$d раз(а) для входа в режим для разработчиков</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неверный PIN-код, осталось попыток: %d</item>
+        <item quantity="one">Неверный PIN-код, осталось попыток: %d. Затем вам придётся обратиться к своему оператору для разблокировки телефона.</item>
+    </plurals>
+</resources>

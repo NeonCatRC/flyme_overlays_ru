@@ -1,0 +1,6 @@
+{
+ "target": "com.flyme.systemuiex",
+ "target_path": "/system_ext/priv-app/ScreenCapture/ScreenCapture.apk",
+ "app_version": "12.3.14 12003014",
+ "flyme": "12.6"
+}

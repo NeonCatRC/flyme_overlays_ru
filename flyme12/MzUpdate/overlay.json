@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.flyme.update",
+ "target_path": "/system/app/MzUpdate/MzUpdate.apk",
+ "app_version": "12.0.15 12000015",
+ "flyme": "12.6"
+}

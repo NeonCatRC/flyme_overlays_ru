@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="abilities">
+        <item>phone_calendar_event_added</item>
+        <item>phone_add_calendar_event</item>
+        <item>phone_add_special_event</item>
+        <item>phone_start_to_calendar_event_detail</item>
+        <item>phone_query_calendar_event</item>
+        <item>phone_special_event_added</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Busy</item>
+        <item>Available</item>
+        <item>Tentative</item>
+    </string-array>
+    <string-array name="branch_string_array">
+        <item>酉</item>
+        <item>戌</item>
+        <item>亥</item>
+        <item>子</item>
+        <item>丑</item>
+        <item>寅</item>
+        <item>卯</item>
+        <item>辰</item>
+        <item>巳</item>
+        <item>午</item>
+        <item>未</item>
+        <item>申</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Only this event</item>
+        <item>All repeated events</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="chinese_number">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="copy_choice_item">
+        <item>Copy</item>
+    </string-array>
+    <string-array name="copy_report_choice_item">
+        <item>Copy</item>
+        <item>Report</item>
+    </string-array>
+    <string-array name="delay_labels">
+        <item>Don\'t remind</item>
+        <item>Alert in 10 minutes</item>
+        <item>Alert in 30 minutes</item>
+        <item>Alert in 1 hour</item>
+        <item>Alert in 3 hours</item>
+    </string-array>
+    <string-array name="delay_values">
+        <item>-1</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Only this event</item>
+        <item>This and future events</item>
+        <item>All events</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="dialog_permission_summary_value">
+        <item>Show your calendar</item>
+        <item>Add calendar events</item>
+        <item>Check login status of Flyme account</item>
+        <item>Read calendar files</item>
+        <item>Image caching</item>
+    </string-array>
+    <string-array name="email_options">
+        <item>Send email</item>
+        <item>Add to contacts</item>
+    </string-array>
+    <string-array name="event_tabs">
+        <item>All</item>
+        <item>Schedule</item>
+        <item>Travel</item>
+        <item>To-Do</item>
+        <item>Important Days</item>
+    </string-array>
+    <string-array name="gre_festival">
+        <item>New Year</item>
+        <item>Valentine\'s Day</item>
+        <item>Women\'s Day</item>
+        <item></item>
+        <item>International Consumer Rights Day</item>
+        <item></item>
+        <item>Fool\'s Day</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>International Workers\'Day</item>
+        <item>International Youth Day</item>
+        <item></item>
+        <item>Children\'s Day</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Teacher\'s Day</item>
+        <item></item>
+        <item>Hallow\'s Eve</item>
+        <item>Hallow\'s Day</item>
+        <item>Christmas Eve</item>
+        <item>Christmas</item>
+    </string-array>
+    <string-array name="horoscope_array">
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+        <item>Aquarius</item>
+        <item>Pisces</item>
+    </string-array>
+    <string-array name="horoscope_colors">
+        <item>#ff6767</item>
+        <item>#fcd211</item>
+        <item>#2dda76</item>
+        <item>#259bff</item>
+        <item>#ffbf13</item>
+        <item>#ff4747</item>
+        <item>#22d153</item>
+        <item>#ff3f90</item>
+        <item>#05d49d</item>
+        <item>#ffa633</item>
+        <item>#4989ff</item>
+        <item>#1ec7ff</item>
+    </string-array>
+    <string-array name="horoscope_dark_from_colors">
+        <item>#d9ff6767</item>
+        <item>#d9fcd211</item>
+        <item>#d92dda76</item>
+        <item>#d9259bff</item>
+        <item>#d9ffbf13</item>
+        <item>#d9ff4747</item>
+        <item>#d922d153</item>
+        <item>#d9ff3f90</item>
+        <item>#d905d49d</item>
+        <item>#d9ffa633</item>
+        <item>#d94989ff</item>
+        <item>#d91ec7ff</item>
+    </string-array>
+    <string-array name="horoscope_dark_to_colors">
+        <item>#b3ff6767</item>
+        <item>#b3fcd211</item>
+        <item>#b32dda76</item>
+        <item>#b3259bff</item>
+        <item>#b3ffbf13</item>
+        <item>#b3ff4747</item>
+        <item>#b322d153</item>
+        <item>#b3ff3f90</item>
+        <item>#b305d49d</item>
+        <item>#b3ffa633</item>
+        <item>#b34989ff</item>
+        <item>#b31ec7ff</item>
+    </string-array>
+    <string-array name="horoscope_date">
+        <item>3/21 - 4/19</item>
+        <item>4/20 - 5/20</item>
+        <item>5/21 - 6/21</item>
+        <item>6/22 - 7/22</item>
+        <item>7/23 - 8/22</item>
+        <item>8/23 - 9/22</item>
+        <item>9/23 - 10/23</item>
+        <item>10/24 - 11/22</item>
+        <item>11/23 - 12/21</item>
+        <item>12/22 - 1/19</item>
+        <item>1/20 - 2/18</item>
+        <item>2/19 - 3/20</item>
+    </string-array>
+    <string-array name="horoscope_date_read">
+        <item>3月21日 至 4月19日</item>
+        <item>4月20日 至 5月20日</item>
+        <item>5月21日 至 6月21日</item>
+        <item>6月22日 至 7月22日</item>
+        <item>7月23日 至 8月22日</item>
+        <item>8月23日 至 9月22日</item>
+        <item>9月23日 至 10月23日</item>
+        <item>10月24日 至 11月22日</item>
+        <item>11月23日 至 12月21日</item>
+        <item>12月22日 至 1月19日</item>
+        <item>1月20日 至 2月18日</item>
+        <item>2月19日 至 3月20日</item>
+    </string-array>
+    <string-array name="horoscope_light_from_colors">
+        <item>#d9ff6767</item>
+        <item>#d9fcd211</item>
+        <item>#d92dda76</item>
+        <item>#d9259bff</item>
+        <item>#d9ffbf13</item>
+        <item>#d9ff4747</item>
+        <item>#d922d153</item>
+        <item>#d9ff3f90</item>
+        <item>#d905d49d</item>
+        <item>#d9ffa633</item>
+        <item>#d94989ff</item>
+        <item>#d91ec7ff</item>
+    </string-array>
+    <string-array name="horoscope_light_to_colors">
+        <item>#99ff6767</item>
+        <item>#99fcd211</item>
+        <item>#992dda76</item>
+        <item>#99259bff</item>
+        <item>#99ffbf13</item>
+        <item>#99ff4747</item>
+        <item>#9922d153</item>
+        <item>#99ff3f90</item>
+        <item>#9905d49d</item>
+        <item>#99ffa633</item>
+        <item>#994989ff</item>
+        <item>#991ec7ff</item>
+    </string-array>
+    <string-array name="lunar_day">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>二十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </string-array>
+    <string-array name="lunar_first_of_month">
+        <item>春节</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>冬月</item>
+        <item>腊月</item>
+    </string-array>
+    <string-array name="lunar_month">
+        <item>Jan.</item>
+        <item>Feb.</item>
+        <item>Mar.</item>
+        <item>Apr.</item>
+        <item>May</item>
+        <item>Jun.</item>
+        <item>Jul.</item>
+        <item>Aug.</item>
+        <item>Sept.</item>
+        <item>Oct.</item>
+        <item>Nov.</item>
+        <item>Dec.</item>
+    </string-array>
+    <string-array name="lunar_month_normal">
+        <item>Jan.</item>
+        <item>Feb.</item>
+        <item>Mar.</item>
+        <item>Apr.</item>
+        <item>May</item>
+        <item>Jun.</item>
+        <item>Jul.</item>
+        <item>Aug.</item>
+        <item>Sept.</item>
+        <item>Oct.</item>
+        <item>Nov.</item>
+        <item>Dec.</item>
+    </string-array>
+    <string-array name="lunar_number">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+    </string-array>
+    <string-array name="lunar_str">
+        <item>初一</item>
+        <item>初二</item>
+        <item>初三</item>
+        <item>初四</item>
+        <item>初五</item>
+        <item>初六</item>
+        <item>初七</item>
+        <item>初八</item>
+        <item>初九</item>
+        <item>初十</item>
+        <item>十一</item>
+        <item>十二</item>
+        <item>十三</item>
+        <item>十四</item>
+        <item>十五</item>
+        <item>十六</item>
+        <item>十七</item>
+        <item>十八</item>
+        <item>十九</item>
+        <item>二十</item>
+        <item>廿一</item>
+        <item>廿二</item>
+        <item>廿三</item>
+        <item>廿四</item>
+        <item>廿五</item>
+        <item>廿六</item>
+        <item>廿七</item>
+        <item>廿八</item>
+        <item>廿九</item>
+        <item>三十</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="month_string_array">
+        <item>JAN</item>
+        <item>FEB</item>
+        <item>MAR</item>
+        <item>APR</item>
+        <item>MAY</item>
+        <item>JUN</item>
+        <item>JUL</item>
+        <item>AUG</item>
+        <item>SEP</item>
+        <item>OCT</item>
+        <item>NOV</item>
+        <item>DEC</item>
+    </string-array>
+    <string-array name="mz_app_to_next_open_enter_translate_y">
+        <item>1f</item>
+        <item>0.9098163031f</item>
+        <item>0.8200344432f</item>
+        <item>0.7394374282f</item>
+        <item>0.6665901263f</item>
+        <item>0.600401837f</item>
+        <item>0.5400114811f</item>
+        <item>0.4847301952f</item>
+        <item>0.4340413318f</item>
+        <item>0.3874856487f</item>
+        <item>0.3446613088f</item>
+        <item>0.3052812859f</item>
+        <item>0.2691733639f</item>
+        <item>0.2359931114f</item>
+        <item>0.2056257176f</item>
+        <item>0.1778415614f</item>
+        <item>0.1525258324f</item>
+        <item>0.1295637199f</item>
+        <item>0.1088404133f</item>
+        <item>0.0901836969f</item>
+        <item>0.07347876f</item>
+        <item>0.07347876f</item>
+        <item>0.058783008f</item>
+        <item>0.0458094145f</item>
+        <item>0.0346727899f</item>
+        <item>0.0251435132f</item>
+        <item>0.0172789897f</item>
+        <item>0.0109070034f</item>
+        <item>0.0060849598f</item>
+        <item>0.0026406429f</item>
+        <item>0.0006314581f</item>
+        <item>0f</item>
+    </string-array>
+    <string-array name="mz_shader_glow_inner_colors">
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FFCC00</item>
+        <item>#FA55BB</item>
+        <item>#661AFF</item>
+        <item>#133AFF</item>
+    </string-array>
+    <string-array name="mz_shader_glow_outer_colors">
+        <item>#1AFFFF</item>
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FF8C1A</item>
+        <item>#FFC21A</item>
+        <item>#1AFFFF</item>
+    </string-array>
+    <string-array name="news_sdk_before_today">
+        <item>昨天 HH:mm</item>
+        <item>前天 HH:mm</item>
+        <item>M/d HH:mm</item>
+    </string-array>
+    <string-array name="news_sdk_hour_ago">
+        <item>%d小时前</item>
+    </string-array>
+    <string-array name="news_sdk_last_visit_position">
+        <item>Just viewed here. Tap to refresh</item>
+        <item>Last time viewed here. Tap to refresh</item>
+    </string-array>
+    <string-array name="news_sdk_minute_ago">
+        <item>%d分钟前</item>
+    </string-array>
+    <string-array name="news_sdk_picture_operate">
+        <item>Share image</item>
+        <item>Save image</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete">
+        <item>It\'s the latest</item>
+        <item>Updated %d articles</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete_video">
+        <item>It\'s the latest</item>
+        <item>Updated %d videos</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_article_array">
+        <item>Ad</item>
+        <item>Outdated content</item>
+        <item>Pornography</item>
+        <item>Clickbait</item>
+        <item>Not the fact</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_video_array">
+        <item>Pornography/violence</item>
+        <item>Clickbait headline</item>
+        <item>Ad</item>
+        <item>Poor video quality</item>
+        <item>The cover is offensive</item>
+        <item>Infringement</item>
+    </string-array>
+    <string-array name="news_tip_report_article_array">
+        <item>广告</item>
+        <item>内容过时</item>
+        <item>低俗色情</item>
+        <item>标题夸张</item>
+        <item>与事实不符</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>广告</item>
+        <item>低俗色情暴力</item>
+        <item>标题虚假夸张</item>
+        <item>侵权</item>
+        <item>视频质量差</item>
+        <item>封面令人反感</item>
+    </string-array>
+    <string-array name="pref_calendar_view_labels">
+        <item>Month View</item>
+        <item>Week View</item>
+    </string-array>
+    <string-array name="pref_calendar_view_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_default_all_day_reminder_labels">
+        <item>On day of event (9:00 AM)</item>
+        <item>1 day before (9:00 AM)</item>
+        <item>2 days before (9:00 AM)</item>
+    </string-array>
+    <string-array name="pref_default_all_day_reminder_values">
+        <item>-540</item>
+        <item>900</item>
+        <item>2340</item>
+    </string-array>
+    <string-array name="pref_default_festival_reminder_labels">
+        <item>None</item>
+        <item>On day of event (9:00 AM)</item>
+        <item>1 day before (9:00 AM)</item>
+        <item>2 days before (9:00 AM)</item>
+    </string-array>
+    <string-array name="pref_default_reminder_labels">
+        <item>At time of event</item>
+        <item>5 minutes before</item>
+        <item>10 minutes before</item>
+        <item>30 minutes before</item>
+        <item>1 hour before</item>
+        <item>2 hour before</item>
+        <item>1 day before</item>
+        <item>1 week before</item>
+    </string-array>
+    <string-array name="pref_default_reminder_values">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>1440</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="pref_week_start_labels">
+        <item>Default region</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+    </string-array>
+    <string-array name="pref_week_start_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="principle_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>I\'ll be late for a few minutes</item>
+        <item>Be there in about 10 minutes.</item>
+        <item>Go ahead and start without me.</item>
+        <item>Sorry, I can\'t make it. We\'ll have to reschedule.</item>
+        <item>Write your own...</item>
+    </string-array>
+    <string-array name="reminder_day_labels">
+        <item>On day of event</item>
+        <item>1 day before</item>
+        <item>2 days before</item>
+        <item>3 days before</item>
+        <item>1 week before</item>
+    </string-array>
+    <string-array name="reminder_day_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Notifications</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_types">
+        <item>Heads-up notifications</item>
+        <item>Pop-up Alerts</item>
+    </string-array>
+    <string-array name="reminder_types_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="repeats_end_labels">
+        <item>Forever</item>
+        <item>Until a date</item>
+        <item>A certain number of times</item>
+    </string-array>
+    <string-array name="report_choice_item">
+        <item>Sexy</item>
+        <item>Rumour</item>
+        <item>Smear Campaign</item>
+        <item>Politically Sensitive</item>
+        <item>Abuse Attack</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="sectional_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="solar_festival">
+        <item>0101元旦</item>
+        <item>0214情人节</item>
+        <item>0308妇女节</item>
+        <item>0312植树节</item>
+        <item>0315消权日</item>
+        <item>0401愚人节</item>
+        <item>0422地球日</item>
+        <item>0501劳动节</item>
+        <item>0504青年节</item>
+        <item>0601儿童节</item>
+        <item>0701建党节</item>
+        <item>0801建军节</item>
+        <item>0910教师节</item>
+        <item>1001国庆节</item>
+        <item>1031万圣夜</item>
+        <item>1101万圣节</item>
+        <item>1224平安夜</item>
+        <item>1225圣诞节</item>
+    </string-array>
+    <string-array name="solar_festival1">
+        <item>0101New Year</item>
+        <item>0214Valentine\'s Day</item>
+        <item>0308Women\'s Day</item>
+        <item></item>
+        <item>0315International Consumer Rights Day</item>
+        <item></item>
+        <item>0401Fool\'s Day</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>0501International Workers\'Day</item>
+        <item>0504International Youth Day</item>
+        <item></item>
+        <item>0601Children\'s Day</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>0910Teacher\'s Day</item>
+        <item></item>
+        <item></item>
+        <item>1031All Hallow\'s Eve</item>
+        <item>1101All Hallow\'s Day</item>
+        <item>1224Christmas Eve</item>
+        <item>1225Christmas</item>
+    </string-array>
+    <string-array name="solar_term">
+        <item>春分</item>
+        <item>清明</item>
+        <item>谷雨</item>
+        <item>立夏</item>
+        <item>小满</item>
+        <item>芒种</item>
+        <item>夏至</item>
+        <item>小暑</item>
+        <item>大暑</item>
+        <item>立秋</item>
+        <item>处暑</item>
+        <item>白露</item>
+        <item>秋分</item>
+        <item>寒露</item>
+        <item>霜降</item>
+        <item>立冬</item>
+        <item>小雪</item>
+        <item>大雪</item>
+        <item>冬至</item>
+        <item>小寒</item>
+        <item>大寒</item>
+        <item>立春</item>
+        <item>雨水</item>
+        <item>惊蛰</item>
+    </string-array>
+    <string-array name="solar_term1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="special_festivals">
+        <item>母亲节</item>
+        <item>父亲节</item>
+        <item>感恩节</item>
+    </string-array>
+    <string-array name="tool_types">
+        <item>Date calculation</item>
+        <item>Time interval</item>
+        <item>Gregorian-lunar calendar conversion</item>
+    </string-array>
+    <string-array name="tradition_festival">
+        <item>除夕</item>
+        <item>0101春节</item>
+        <item>0115元宵</item>
+        <item>0505端午</item>
+        <item>0707七夕</item>
+        <item>0815中秋</item>
+        <item>0909重阳</item>
+        <item>1208腊八</item>
+    </string-array>
+    <string-array name="tradition_festival1">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="trunk_string_array">
+        <item>辛</item>
+        <item>壬</item>
+        <item>癸</item>
+        <item>甲</item>
+        <item>乙</item>
+        <item>丙</item>
+        <item>丁</item>
+        <item>戊</item>
+        <item>己</item>
+        <item>庚</item>
+    </string-array>
+    <string-array name="values_close_exit_translate_app">
+        <item>0.0f</item>
+        <item>0.12734375f</item>
+        <item>0.290538194f</item>
+        <item>0.445486111f</item>
+        <item>0.579947917f</item>
+        <item>0.678038194f</item>
+        <item>0.747916667f</item>
+        <item>0.802170139f</item>
+        <item>0.845746528f</item>
+        <item>0.881510417f</item>
+        <item>0.911024306f</item>
+        <item>0.935503472f</item>
+        <item>0.95546875f</item>
+        <item>0.971440972f</item>
+        <item>0.983767361f</item>
+        <item>0.992708333f</item>
+        <item>0.998090278f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="values_extra_close_exit_translate_app">
+        <item>0.0</item>
+        <item>0.0047222222</item>
+        <item>0.0180555556</item>
+        <item>0.0391666667</item>
+        <item>0.0669444444</item>
+        <item>0.100462963</item>
+        <item>0.1387962963</item>
+        <item>0.1812037037</item>
+        <item>0.2268518519</item>
+        <item>0.2749074074</item>
+        <item>0.3247222222</item>
+        <item>0.3756481481</item>
+        <item>0.4271296296</item>
+        <item>0.4785185185</item>
+        <item>0.5294444444</item>
+        <item>0.5792592593</item>
+        <item>0.6277777778</item>
+        <item>0.6744444444</item>
+        <item>0.7188888889</item>
+        <item>0.7609259259</item>
+        <item>0.8002777778</item>
+        <item>0.8365740741</item>
+        <item>0.8696296296</item>
+        <item>0.8993518519</item>
+        <item>0.925462963</item>
+        <item>0.9478703704</item>
+        <item>0.9664814815</item>
+        <item>0.9810185185</item>
+        <item>0.9914814815</item>
+        <item>0.9978703704</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_extra_open_enter_translate_app">
+        <item>0.0</item>
+        <item>0.0037037037</item>
+        <item>0.0149074074</item>
+        <item>0.0334259259</item>
+        <item>0.0590740741</item>
+        <item>0.0915740741</item>
+        <item>0.1301851852</item>
+        <item>0.1741666667</item>
+        <item>0.2228703704</item>
+        <item>0.2750925926</item>
+        <item>0.3299074074</item>
+        <item>0.3862962963</item>
+        <item>0.4431481481</item>
+        <item>0.4996296296</item>
+        <item>0.5548148148</item>
+        <item>0.6081481481</item>
+        <item>0.6589814815</item>
+        <item>0.7068518519</item>
+        <item>0.7513888889</item>
+        <item>0.7924074074</item>
+        <item>0.8297222222</item>
+        <item>0.8632407407</item>
+        <item>0.892962963</item>
+        <item>0.9188888889</item>
+        <item>0.9410185185</item>
+        <item>0.959537037</item>
+        <item>0.9744444444</item>
+        <item>0.9857407407</item>
+        <item>0.9937962963</item>
+        <item>0.9984259259</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_open_enter_translate_app">
+        <item>0.0f</item>
+        <item>0.240190972f</item>
+        <item>0.466145833f</item>
+        <item>0.617708333f</item>
+        <item>0.721440972f</item>
+        <item>0.7921875f</item>
+        <item>0.844270833f</item>
+        <item>0.886197917f</item>
+        <item>0.919010417f</item>
+        <item>0.944010417f</item>
+        <item>0.9625f</item>
+        <item>0.975954861f</item>
+        <item>0.985416667f</item>
+        <item>0.991840278f</item>
+        <item>0.996006944f</item>
+        <item>0.9984375f</item>
+        <item>0.999652778f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="weekSpeakArr">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="week_string_array">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="weekarr">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="year_view_week_string_array">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+    </string-array>
+</resources>

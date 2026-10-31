@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.battery",
+ "target_path": "/system/app/MzBatteryManager/MzBatteryManager.apk",
+ "app_version": "12.0.24 12000024",
+ "flyme": "12.6"
+}

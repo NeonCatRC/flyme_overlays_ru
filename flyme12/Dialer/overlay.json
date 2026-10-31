@@ -1,0 +1,6 @@
+{
+ "target": "com.android.dialer",
+ "target_path": "/system/priv-app/FlymeDialer/FlymeDialer.apk",
+ "app_version": "8.2.6 800200600",
+ "flyme": "12.6"
+}

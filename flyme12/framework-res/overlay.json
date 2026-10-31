@@ -1,0 +1,6 @@
+{
+ "target": "android",
+ "target_path": "/system/framework/framework-res.apk",
+ "app_version": "16 36",
+ "flyme": "12.6"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="confirm_delete_conversation">
+        <item quantity="one">Delete %1$s conversation(s)</item>
+        <item quantity="other">Delete %1$s conversation(s)</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+        <item quantity="other">%s s</item>
+    </plurals>
+</resources>

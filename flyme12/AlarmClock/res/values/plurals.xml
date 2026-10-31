@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="one">Snoozing for 1 minute</item>
+        <item quantity="other">Snoozing for %d minutes</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="one">1 day</item>
+        <item quantity="other">%s days</item>
+    </plurals>
+    <plurals name="delete_alarm_with_num">
+        <item quantity="one">Delete 1 alarm</item>
+        <item quantity="other">Delete %s alarms</item>
+    </plurals>
+    <plurals name="delete_city_with_num">
+        <item quantity="one">Delete 1 city</item>
+        <item quantity="other">Delete %s cities</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="one">1 hour</item>
+        <item quantity="other">%s hours</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">1 minute</item>
+        <item quantity="other">%s minutes</item>
+    </plurals>
+</resources>

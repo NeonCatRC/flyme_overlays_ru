@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.flyme.launcher",
+ "target_path": "/system_ext/priv-app/FlymeLauncher/FlymeLauncher.apk",
+ "app_version": "13.0.0 13000000",
+ "flyme": "12.6"
+}

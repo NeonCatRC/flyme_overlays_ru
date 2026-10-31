@@ -1,0 +1,6 @@
+{
+ "target": "com.android.mms",
+ "target_path": "/system/priv-app/FlymeMms/FlymeMms.apk",
+ "app_version": "12.3.4 12003004",
+ "flyme": "12.6"
+}

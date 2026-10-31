@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.customizecenter",
+ "target_path": "/system/MzApp/CustomizeCenter/CustomizeCenter.apk",
+ "app_version": "12.5.0 122050000",
+ "flyme": "12.6"
+}

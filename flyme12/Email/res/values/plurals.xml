@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="message_remind_day_hours_time">
+        <item quantity="one">Remind in %1$d day %2$d hours</item>
+        <item quantity="other">Remind in %1$d day %2$d hours</item>
+    </plurals>
+    <plurals name="message_remind_day_one_hour_time">
+        <item quantity="one">Remind in %1$d day %2$d hour</item>
+        <item quantity="other">Remind in %1$d day %2$d hour</item>
+    </plurals>
+    <plurals name="message_remind_day_time">
+        <item quantity="one">Remind in %1$d day</item>
+        <item quantity="other">Remind in %1$d day</item>
+    </plurals>
+    <plurals name="message_remind_hour_minutes_time">
+        <item quantity="one">Remind in %1$d hour %2$d minutes</item>
+        <item quantity="other">Remind in %1$d hour %2$d minutes</item>
+    </plurals>
+    <plurals name="message_remind_hour_one_minute_time">
+        <item quantity="one">Remind in %1$d hour %2$d minute</item>
+        <item quantity="other">Remind in %1$d hour %2$d minute</item>
+    </plurals>
+    <plurals name="message_remind_hour_time">
+        <item quantity="one">Remind in %1$d hour</item>
+        <item quantity="other">Remind in %1$d hour</item>
+    </plurals>
+    <plurals name="message_remind_minute_time">
+        <item quantity="one">Remind in %1$d minute</item>
+        <item quantity="other">Remind in %1$d minute</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="one">%d B</item>
+        <item quantity="other">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="one">%d GB</item>
+        <item quantity="other">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="one">%d KB</item>
+        <item quantity="other">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="one">%d MB</item>
+        <item quantity="other">%d MB</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="one">%1$d account(s)</item>
+        <item quantity="other">%1$d account(s)</item>
+    </plurals>
+</resources>

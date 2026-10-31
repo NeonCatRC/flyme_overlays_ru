@@ -1,0 +1,6 @@
+{
+ "target": "com.android.settings",
+ "target_path": "/system_ext/priv-app/Settings/Settings.apk",
+ "app_version": "12.1.0 12001000",
+ "flyme": "12.6"
+}

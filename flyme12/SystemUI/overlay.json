@@ -1,0 +1,6 @@
+{
+ "target": "com.android.systemui",
+ "target_path": "/system_ext/priv-app/SystemUI/SystemUI.apk",
+ "app_version": "16.26.06.25_base 16260625",
+ "flyme": "12.6"
+}

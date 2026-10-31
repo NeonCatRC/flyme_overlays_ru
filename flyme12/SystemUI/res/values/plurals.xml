@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="kg_password_default_pin_message_multi_sim">
+        <item quantity="one" formatted="false">Enter SIM%d PIN, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other" formatted="false">Enter SIM%d PIN, you have %d remaining attempts.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="one" formatted="false">Incorrect SIM%d PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other" formatted="false">Incorrect SIM%d PIN code, you have %d remaining attempts.</item>
+    </plurals>
+    <plurals name="mz_fp_management_count">
+        <item quantity="one">%1$d fingerprint(s) captured</item>
+        <item quantity="other">%1$d fingerprint(s) captured</item>
+    </plurals>
+    <plurals name="quick_settings_bluetooth_secondary_label_num_devices">
+        <item quantity="one">Bluetooth %d</item>
+        <item quantity="other">Bluetooth %d</item>
+    </plurals>
+</resources>

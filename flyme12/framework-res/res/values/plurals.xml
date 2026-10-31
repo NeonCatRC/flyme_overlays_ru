@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pinpuk_attempts">
+        <item quantity="one">You have %d remaining attempt before SIM is locked.</item>
+        <item quantity="other">You have %d remaining attempts before SIM is locked.</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="one">WLAN available</item>
+        <item quantity="other">WLAN available</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="one">Tap to Connect</item>
+        <item quantity="other">Tap to Connect</item>
+    </plurals>
+</resources>

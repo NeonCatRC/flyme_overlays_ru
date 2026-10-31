@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.flyme.toolbox",
+ "target_path": "/system/MzApp/ToolBox/ToolBox.apk",
+ "app_version": "12.0.15 12000015",
+ "flyme": "12.6"
+}

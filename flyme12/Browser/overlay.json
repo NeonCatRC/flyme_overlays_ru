@@ -1,0 +1,6 @@
+{
+ "target": "com.android.browser",
+ "target_path": "/system/priv-app/Browser/Browser.apk",
+ "app_version": "12.9.1 12209001",
+ "flyme": "12.6"
+}

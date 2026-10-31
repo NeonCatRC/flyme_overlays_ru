@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.connectivitysettings",
+ "target_path": "/system_ext/priv-app/ConnectivitySettings/ConnectivitySettings.apk",
+ "app_version": "12.15.000 12015000",
+ "flyme": "12.6"
+}

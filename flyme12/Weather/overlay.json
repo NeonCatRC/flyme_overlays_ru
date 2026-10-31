@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.flyme.weather",
+ "target_path": "/system/MzApp/Weather/Weather.apk",
+ "app_version": "54.3.60 54003060",
+ "flyme": "12.6"
+}

@@ -1,0 +1,6 @@
+{
+ "target": "com.android.soundrecorder",
+ "target_path": "/system/MzApp/FlymeSoundRecorder/FlymeSoundRecorder.apk",
+ "app_version": "12.3.7 12003007",
+ "flyme": "12.6"
+}

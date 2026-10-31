@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.flyme.gamecenter",
+ "target_path": "/system/MzApp/GameCenter/GameCenter.apk",
+ "app_version": "12.3.0 12003000",
+ "flyme": "12.6"
+}

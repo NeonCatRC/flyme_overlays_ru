@@ -1,0 +1,6 @@
+{
+ "target": "com.flyme.netadmin",
+ "target_path": "/system/app/NetAdmin/NetAdmin.apk",
+ "app_version": "11.0.3 110000300",
+ "flyme": "12.6"
+}

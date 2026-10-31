@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="profile_folder_song_num_title">
+        <item quantity="other">%1$d首</item>
+    </plurals>
+    <plurals name="qq_music_album_count">
+        <item quantity="other">%1$d个专辑</item>
+    </plurals>
+    <plurals name="qq_music_all_songs_count">
+        <item quantity="other">共%1$d首</item>
+    </plurals>
+    <plurals name="qq_music_digital_album_count">
+        <item quantity="other">%1$d张数字专辑</item>
+    </plurals>
+    <plurals name="qq_music_folder_count">
+        <item quantity="other">%1$d个歌单</item>
+    </plurals>
+    <plurals name="qq_music_list_select_count">
+        <item quantity="other">已选定%1$d首</item>
+    </plurals>
+    <plurals name="qq_music_mv_count">
+        <item quantity="other">%1$d个视频</item>
+    </plurals>
+    <plurals name="qq_music_radio_album_item_subtitle">
+        <item quantity="other">%1$s 集 来自%2$s</item>
+    </plurals>
+    <plurals name="qq_music_radio_count">
+        <item quantity="other">%1$d个节目</item>
+    </plurals>
+    <plurals name="qq_music_song_item_subtitle">
+        <item quantity="other">%1$s 首 来自%2$s</item>
+    </plurals>
+    <plurals name="qqmusic_download_radio_paused">
+        <item quantity="other">%1$d个节目暂停下载</item>
+    </plurals>
+    <plurals name="qqmusic_download_songs_paused">
+        <item quantity="other">%1$d首歌曲暂停下载</item>
+    </plurals>
+    <plurals name="qqmusic_downloading_radio_count">
+        <item quantity="other">正在下载%1$d个节目</item>
+    </plurals>
+    <plurals name="qqmusic_downloading_songs_count">
+        <item quantity="other">正在下载%1$d首歌曲</item>
+    </plurals>
+</resources>

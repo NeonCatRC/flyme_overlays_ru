@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.assistant",
+ "target_path": "/system/priv-app/Assistant/Assistant.apk",
+ "app_version": "13.0.6 130000006",
+ "flyme": "12.6"
+}

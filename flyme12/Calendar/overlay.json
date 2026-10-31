@@ -1,0 +1,6 @@
+{
+ "target": "com.android.calendar",
+ "target_path": "/system/MzApp/FlymeCalendar/FlymeCalendar.apk",
+ "app_version": "19.3.3 19003003",
+ "flyme": "12.6"
+}

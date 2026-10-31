@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="AdditionalDnsQueryTypesEnabledEntries">
+        <item>Allow additional DNS query types</item>
+        <item>Prevent additional DNS query types</item>
+    </string-array>
+    <string-array name="AdditionalDnsQueryTypesEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="AlternateErrorPagesEnabledEntries">
+        <item>Enable alternate error pages</item>
+        <item>Disable alternate error pages</item>
+    </string-array>
+    <string-array name="AlternateErrorPagesEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="AutofillAddressEnabledEntries">
+        <item>Enable AutoFill for addresses</item>
+        <item>Disable AutoFill for addresses</item>
+    </string-array>
+    <string-array name="AutofillAddressEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="AutofillCreditCardEnabledEntries">
+        <item>Enable AutoFill for credit cards</item>
+        <item>Disable AutoFill for credit cards</item>
+    </string-array>
+    <string-array name="AutofillCreditCardEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="BackForwardCacheEnabledEntries">
+        <item>Allow the back-forward cache to be used</item>
+        <item>Do not allow the back-forward cache to be used</item>
+    </string-array>
+    <string-array name="BackForwardCacheEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="BlockThirdPartyCookiesEntries">
+        <item>Block 3rd party cookies</item>
+        <item>Allow 3rd party cookies</item>
+        <item>Allow 3rd party cookies, but allow the user to change this setting</item>
+    </string-array>
+    <string-array name="BlockThirdPartyCookiesValues">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="BrowserSigninEntries">
+        <item>Disable browser sign-in</item>
+        <item>Enable browser sign-in</item>
+    </string-array>
+    <string-array name="BrowserSigninValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="CECPQ2EnabledEntries">
+        <item>Enable default CECPQ2 rollout process</item>
+        <item>Disable CECPQ2</item>
+    </string-array>
+    <string-array name="CECPQ2EnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="CORSNonWildcardRequestHeadersSupportEntries">
+        <item>Support CORS non-wildcard request headers.</item>
+        <item>Do not support CORS non-wildcard request headers.</item>
+    </string-array>
+    <string-array name="CORSNonWildcardRequestHeadersSupportValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="CloudUserPolicyMergeEntries">
+        <item>Enable merging of user-level cloud policies.</item>
+        <item>Disable merging of user-level cloud policies.</item>
+    </string-array>
+    <string-array name="CloudUserPolicyMergeValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="CloudUserPolicyOverridesCloudMachinePolicyEntries">
+        <item>Allow user cloud policies to override machine cloud policies.</item>
+        <item>Prevent user cloud policies from overriding machine cloud policies.</item>
+    </string-array>
+    <string-array name="CloudUserPolicyOverridesCloudMachinePolicyValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="ContextualSearchEnabledEntries">
+        <item>Allow users to use Touch to Search</item>
+        <item>Prevent users from using Touch to Search</item>
+    </string-array>
+    <string-array name="ContextualSearchEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="DefaultCookiesSettingEntries">
+        <item>Allow all sites to set local data</item>
+        <item>Do not allow any site to set local data</item>
+        <item>Keep cookies for the duration of the session</item>
+    </string-array>
+    <string-array name="DefaultCookiesSettingValues">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="DefaultGeolocationSettingEntries">
+        <item>Allow sites to track the users\' physical location</item>
+        <item>Do not allow any site to track the users\' physical location</item>
+        <item>Ask whenever a site wants to track the users\' physical location</item>
+    </string-array>
+    <string-array name="DefaultGeolocationSettingValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="DefaultJavaScriptJitSettingEntries">
+        <item>Allow any site to run JavaScript JIT</item>
+        <item>Do not allow any site to run JavaScript JIT</item>
+    </string-array>
+    <string-array name="DefaultJavaScriptJitSettingValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="DefaultJavaScriptSettingEntries">
+        <item>Allow all sites to run JavaScript</item>
+        <item>Do not allow any site to run JavaScript</item>
+    </string-array>
+    <string-array name="DefaultJavaScriptSettingValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="DefaultPopupsSettingEntries">
+        <item>Allow all sites to show pop-ups</item>
+        <item>Do not allow any site to show pop-ups</item>
+    </string-array>
+    <string-array name="DefaultPopupsSettingValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="DefaultSearchProviderEnabledEntries">
+        <item>Enable the default search provider</item>
+        <item>Disable the default search provider</item>
+        <item>Enable the default search provider and allow users to modify the search provier list</item>
+    </string-array>
+    <string-array name="DefaultSearchProviderEnabledValues">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="DefaultSensorsSettingEntries">
+        <item>Allow sites to access sensors</item>
+        <item>Do not allow any site to access sensors</item>
+    </string-array>
+    <string-array name="DefaultSensorsSettingValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="DefaultWebBluetoothGuardSettingEntries">
+        <item>Do not allow any site to request access to Bluetooth devices via the Web Bluetooth API</item>
+        <item>Allow sites to ask the user to grant access to a nearby Bluetooth device</item>
+    </string-array>
+    <string-array name="DefaultWebBluetoothGuardSettingValues">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="DefaultWebUsbGuardSettingEntries">
+        <item>Do not allow any site to request access to USB devices via the WebUSB API</item>
+        <item>Allow sites to ask the user to grant access to a connected USB device</item>
+    </string-array>
+    <string-array name="DefaultWebUsbGuardSettingValues">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="DisableAuthNegotiateCnameLookupEntries">
+        <item>Disable CNAME lookup during Kerberos authentication</item>
+        <item>Use CNAME lookup during Kerberos authentication</item>
+    </string-array>
+    <string-array name="DisableAuthNegotiateCnameLookupValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="DnsOverHttpsModeEntries">
+        <item>Disable DNS-over-HTTPS</item>
+        <item>Enable DNS-over-HTTPS with insecure fallback</item>
+        <item>Enable DNS-over-HTTPS without insecure fallback</item>
+    </string-array>
+    <string-array name="DnsOverHttpsModeValues">
+        <item>off</item>
+        <item>automatic</item>
+        <item>secure</item>
+    </string-array>
+    <string-array name="EditBookmarksEnabledEntries">
+        <item>Enable bookmark editing</item>
+        <item>Disable bookmark editing</item>
+    </string-array>
+    <string-array name="EditBookmarksEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="EncryptedClientHelloEnabledEntries">
+        <item>Enable the TLS Encrypted ClientHello experiment</item>
+        <item>Disable the TLS Encrypted ClientHello experiment</item>
+    </string-array>
+    <string-array name="EncryptedClientHelloEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="EventPathEnabledEntries">
+        <item>Event.path API will be available.</item>
+        <item>Event.path API will be unavailable.</item>
+        <item>Event.path API will be in the default status: available before M109, and unavailable in M109 to 114.</item>
+    </string-array>
+    <string-array name="EventPathEnabledValues">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="ExplicitlyAllowedNetworkPortsEntries">
+    </string-array>
+    <string-array name="ExplicitlyAllowedNetworkPortsValues">
+    </string-array>
+    <string-array name="ForceGoogleSafeSearchEntries">
+        <item>Force the use of SafeSearch in Google Search</item>
+        <item>Do not enforce the use of SafeSearch in Google Search</item>
+    </string-array>
+    <string-array name="ForceGoogleSafeSearchValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="ForceMajorVersionToMinorPositionInUserAgentEntries">
+        <item>Default to browser settings for User-Agent string version.</item>
+        <item>The User-Agent string will not freeze the major version.</item>
+        <item>The User-Agent string will freeze the major version as 99 and include the browser\'s major version in the minor position.</item>
+    </string-array>
+    <string-array name="ForceMajorVersionToMinorPositionInUserAgentValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="ForceYouTubeRestrictEntries">
+        <item>Do not enforce Restricted Mode on YouTube</item>
+        <item>Enforce at least Moderate Restricted Mode on YouTube</item>
+        <item>Enforce Strict Restricted Mode for YouTube</item>
+    </string-array>
+    <string-array name="ForceYouTubeRestrictValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="HttpsOnlyModeEntries">
+        <item>Allow users to enable HTTPS-Only Mode</item>
+        <item>Do not allow users to enable HTTPS-Only Mode</item>
+        <item>Force enable HTTPS-Only Mode (not supported yet)</item>
+    </string-array>
+    <string-array name="HttpsOnlyModeValues">
+        <item>allowed</item>
+        <item>disallowed</item>
+        <item>force_enabled</item>
+    </string-array>
+    <string-array name="IncognitoModeAvailabilityEntries">
+        <item>Incognito mode available</item>
+        <item>Incognito mode disabled</item>
+    </string-array>
+    <string-array name="IncognitoModeAvailabilityValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="InsecurePrivateNetworkRequestsAllowedEntries">
+        <item>Allow insecure websites to make requests to any network endpoint</item>
+        <item>Use default behavior when determining if insecure websites can make requests to any network endpoint</item>
+    </string-array>
+    <string-array name="InsecurePrivateNetworkRequestsAllowedValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="LensCameraAssistedSearchEnabledEntries">
+        <item>Enable Google Lens camera assisted search for Enterprise user</item>
+        <item>Disable Google Lens camera assisted search for Enterprise user</item>
+    </string-array>
+    <string-array name="LensCameraAssistedSearchEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="NTPContentSuggestionsEnabledEntries">
+        <item>Show content suggestions on the New Tab page</item>
+        <item>Do not show content suggestions on the New Tab page</item>
+    </string-array>
+    <string-array name="NTPContentSuggestionsEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="NetworkPredictionOptionsEntries">
+        <item>Predict network actions on any network connection</item>
+        <item>Predict network actions on any network that is not cellular. (Deprecated in 50, removed in 52. After 52, if value 1 is set, it will be treated as 0 - predict network actions on any network connection.)</item>
+        <item>Do not predict network actions on any network connection</item>
+    </string-array>
+    <string-array name="NetworkPredictionOptionsValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="NtlmV2EnabledEntries">
+        <item>Turn NTLMv2 on</item>
+        <item>Turn NTLMv2 off</item>
+    </string-array>
+    <string-array name="NtlmV2EnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="PasswordLeakDetectionEnabledEntries">
+        <item>Enable password leak detection</item>
+        <item>Disable password leak detection</item>
+    </string-array>
+    <string-array name="PasswordLeakDetectionEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="PasswordManagerEnabledEntries">
+        <item>Enable saving passwords using the password manager</item>
+        <item>Disable saving passwords using the password manager</item>
+    </string-array>
+    <string-array name="PasswordManagerEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="PolicyDictionaryMultipleSourceMergeListEntries">
+        <item>Managed user manual exception URLs</item>
+        <item>Power management on the login screen</item>
+        <item>Extension management settings</item>
+        <item>Key Permissions</item>
+        <item>Power management settings when the user becomes idle</item>
+        <item>Screen brightness percent</item>
+        <item>Screen lock delays</item>
+    </string-array>
+    <string-array name="PolicyDictionaryMultipleSourceMergeListValues">
+        <item>ContentPackManualBehaviorURLs</item>
+        <item>DeviceLoginScreenPowerManagement</item>
+        <item>ExtensionSettings</item>
+        <item>KeyPermissions</item>
+        <item>PowerManagementIdleSettings</item>
+        <item>ScreenBrightnessPercent</item>
+        <item>ScreenLockDelays</item>
+    </string-array>
+    <string-array name="PrintingEnabledEntries">
+        <item>Enable printing</item>
+        <item>Disable printing</item>
+    </string-array>
+    <string-array name="PrintingEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="SSLVersionMinEntries">
+        <item>TLS 1.2</item>
+    </string-array>
+    <string-array name="SSLVersionMinValues">
+        <item>tls1.2</item>
+    </string-array>
+    <string-array name="SafeBrowsingProtectionLevelEntries">
+        <item>Safe Browsing is never active.</item>
+        <item>Safe Browsing is active in the standard mode.</item>
+        <item>Safe Browsing is active in the enhanced mode. This mode provides better security, but requires sharing more browsing information with Google.</item>
+    </string-array>
+    <string-array name="SafeBrowsingProtectionLevelValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="SavingBrowserHistoryDisabledEntries">
+        <item>Disable saving browser history</item>
+        <item>Enable saving browser history</item>
+    </string-array>
+    <string-array name="SavingBrowserHistoryDisabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="SearchSuggestEnabledEntries">
+        <item>Enable search suggestions</item>
+        <item>Disable search suggestions</item>
+    </string-array>
+    <string-array name="SearchSuggestEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="SuppressDifferentOriginSubframeDialogsEntries">
+        <item>Block JavaScript dialogs triggered from a different origin subframe.</item>
+        <item>Allow JavaScript dialogs triggered from a different origin subframe.</item>
+    </string-array>
+    <string-array name="SuppressDifferentOriginSubframeDialogsValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="TosDialogBehaviorEntries">
+        <item>Use default browser behavior, shows the ToS and waits for the user to accept.</item>
+        <item>Automatically skips ToS and loads the browser.</item>
+    </string-array>
+    <string-array name="TosDialogBehaviorValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="TranslateEnabledEntries">
+        <item>Always offer translation</item>
+        <item>Never offer translation</item>
+        <item>Allow the user to decide</item>
+    </string-array>
+    <string-array name="TranslateEnabledValues">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="UnthrottledNestedTimeoutEnabledEntries">
+        <item>Javascript setTimeout() will not be clamped until a higher nesting threshold.</item>
+        <item>Javascript setTimeout() will be clamped after a normal nesting threshold.</item>
+        <item>Default behavior for setTimeout() function nested clamp.</item>
+    </string-array>
+    <string-array name="UnthrottledNestedTimeoutEnabledValues">
+        <item>True</item>
+        <item>False</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="UrlParamFilterEnabledEntries">
+        <item>Allow the browser to filter URL parameters.</item>
+        <item>Disallow any filtering of URL parameters.</item>
+    </string-array>
+    <string-array name="UrlParamFilterEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="UserAgentClientHintsGREASEUpdateEnabledEntries">
+        <item>Allow the updated User-Agent GREASE algorithm to be run.</item>
+        <item>Force the prior User-Agent GREASE algorithm to be used.</item>
+    </string-array>
+    <string-array name="UserAgentClientHintsGREASEUpdateEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="UserAgentReductionEntries">
+        <item>User Agent reduction will be controllable via Field-Trials and Origin-Trials.</item>
+        <item>User Agent reduction disabled, and not enabled by Field-Trials or Origin-Trials.</item>
+        <item>User Agent reduction will be enabled for all origins.</item>
+    </string-array>
+    <string-array name="UserAgentReductionValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="WebSQLAccessEntries">
+        <item>Force WebSQL to be enabled.</item>
+        <item>Allow WebSQL to be disabled by Chrome flag.</item>
+    </string-array>
+    <string-array name="WebSQLAccessValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="WebSQLNonSecureContextEnabledEntries">
+        <item>Force WebSQL in non-secure contexts to be enabled.</item>
+        <item>Disable WebSQL in non-secure contexts unless enabled by Chrome flag.</item>
+    </string-array>
+    <string-array name="WebSQLNonSecureContextEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="WebXRImmersiveArEnabledEntries">
+        <item>Allow creating WebXR\'s \"immersive-ar\" sessions</item>
+        <item>Prevent creating WebXR\'s \"immersive-ar\" sessions</item>
+    </string-array>
+    <string-array name="WebXRImmersiveArEnabledValues">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="address_type">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="alert_btn_account_bindphone">
+        <item>去绑定</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_account_level">
+        <item>去升等级</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_clear">
+        <item>清空</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_d">
+        <item>确定</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_delete">
+        <item>删除</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_fix_openfail">
+        <item>重新下载</item>
+        <item>继续打开</item>
+    </string-array>
+    <string-array name="alert_btn_login">
+        <item>登录</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_setting_permission">
+        <item>设置</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_tip_exit_pcode">
+        <item>退出</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_btn_understand">
+        <item>知道了</item>
+    </string-array>
+    <string-array name="alert_cloud_login">
+        <item>登录</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_download_book">
+        <item>立即下载</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_drm_fail_btn">
+        <item>去购买</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_login_agreement">
+        <item>同意协议并继续</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="alert_voice_btn_d">
+        <item>本次允许</item>
+        <item>总是允许</item>
+    </string-array>
+    <string-array name="apk_download_wifi_tips">
+        <item>继续下载</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="bookmark_folder_context_menu">
+        <item>Rename Folder</item>
+        <item>Delete Folder</item>
+    </string-array>
+    <string-array name="bookmarks_mz">
+        <item>Meizu official website</item>
+        <item>http://m.meizu.com/en/</item>
+        <item>Flyme official website</item>
+        <item>http://www.flymeos.com/</item>
+        <item>Flyme forum</item>
+        <item>http://forum.flymeos.com/</item>
+    </string-array>
+    <string-array name="bookmarks_unisoc">
+    </string-array>
+    <string-array name="break_pay">
+        <item>去查看</item>
+        <item>知道了</item>
+    </string-array>
+    <string-array name="btn_cancel">
+        <item>取消</item>
+    </string-array>
+    <string-array name="btn_ok">
+        <item>确定</item>
+    </string-array>
+    <string-array name="businesscard_address_type">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="businesscard_instantmessenger_type">
+        <item>QQ</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>Hangouts</item>
+        <item>ICQ</item>
+    </string-array>
+    <string-array name="businesscard_mail_type">
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="businesscard_phone_type">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="cartoon_net_alert">
+        <item>继续阅读</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="chap_cache_download">
+        <item>继续下载</item>
+        <item>退出阅读</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>Auto-Detect</item>
+        <item>Unicode(UTF-8)</item>
+        <item>简体中文(GBK)</item>
+        <item>简体中文(GB2312)</item>
+        <item>繁体中文(BIG5)</item>
+        <item>繁体中文(Big5_HKSCS)</item>
+        <item>Western(ISO-8859-1)</item>
+        <item>Western(Windows)</item>
+        <item>Central European(ISO-8859-2)</item>
+        <item>Central European(Windows)</item>
+        <item>Unicode(UTF-16LE)</item>
+        <item>Unicode(UTF-16BE)</item>
+        <item>Arabic(ISO-8859-6)</item>
+        <item>Arabic(Windows)</item>
+        <item>Baltic(ISO-8859-4)</item>
+        <item>Baltic(Windows)</item>
+        <item>Cyrillic(ISO-8859-5)</item>
+        <item>Cyrillic(Windows)</item>
+        <item>Cyrillic(KOI8-R)</item>
+        <item>Greek(ISO-8859-7)</item>
+        <item>Greek(Windows)</item>
+        <item>Hebrew(ISO-8859-8)</item>
+        <item>Hebrew(Windows)</item>
+        <item>Japanese(EUC-JP)</item>
+        <item>Japanese(Windows)</item>
+        <item>Korean(EUC-KR)</item>
+        <item>Korean(Windows)</item>
+        <item>Turkish(ISO-8859-9)</item>
+        <item>Turkish(Windows)</item>
+        <item>Thai(Windows)</item>
+        <item>Vietnamese(Windows)</item>
+    </string-array>
+    <string-array name="charset_value">
+        <item>auto</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>GB2312</item>
+        <item>BIG5</item>
+        <item>BIG5-HKSCS</item>
+        <item>ISO-8859-1</item>
+        <item>windows-1252</item>
+        <item>ISO-8859-2</item>
+        <item>windows-1250</item>
+        <item>UTF-16LE</item>
+        <item>UTF-16BE</item>
+        <item>ISO-8859-6</item>
+        <item>windows-1256</item>
+        <item>ISO-8859-4</item>
+        <item>windows-1257</item>
+        <item>ISO-8859-5</item>
+        <item>windows-1251</item>
+        <item>KOI8-R</item>
+        <item>ISO-8859-7</item>
+        <item>windows-1253</item>
+        <item>ISO-8859-8</item>
+        <item>windows-1255</item>
+        <item>EUC-JP</item>
+        <item>Shift_JIS</item>
+        <item>EUC-KR</item>
+        <item>ISO-2022-KR</item>
+        <item>ISO-8859-9</item>
+        <item>windows-1254</item>
+        <item>windows-874</item>
+        <item>windows-1258</item>
+    </string-array>
+    <string-array name="close_screen_time">
+        <item>系统</item>
+        <item>5分钟</item>
+        <item>15分钟</item>
+        <item>常亮</item>
+    </string-array>
+    <string-array name="close_screen_time_value">
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>12000</item>
+    </string-array>
+    <string-array name="cloud_restore">
+        <item>保留当前书架并同步</item>
+        <item>不同步</item>
+    </string-array>
+    <string-array name="cloud_restore_localEmpty">
+        <item>同步</item>
+        <item>不同步</item>
+    </string-array>
+    <string-array name="copy_choice_item">
+        <item>Copy</item>
+    </string-array>
+    <string-array name="copy_report_choice_item">
+        <item>Copy</item>
+        <item>Report</item>
+    </string-array>
+    <string-array name="diagnose_net_type">
+        <item>wifi</item>
+        <item>移动2G(net)</item>
+        <item>移动3G(net)</item>
+        <item>移动4G(net)</item>
+        <item>移动2G(wap)</item>
+        <item>移动3G(wap)</item>
+        <item>移动4G(wap)</item>
+        <item>电信2G(net)</item>
+        <item>电信3G(net)</item>
+        <item>电信4G(net)</item>
+        <item>电信2G(wap)</item>
+        <item>电信3G(wap)</item>
+        <item>电信4G(wap)</item>
+        <item>联通2G(net)</item>
+        <item>联通3G(net)</item>
+        <item>联通4G(net)</item>
+        <item>联通2G(wap)</item>
+        <item>联通3G(wap)</item>
+        <item>联通4G(wap)</item>
+        <item>其他网络</item>
+    </string-array>
+    <string-array name="font_setting_event_name">
+        <item>font_default</item>
+        <item>font_mid</item>
+        <item>font_large</item>
+    </string-array>
+    <string-array name="mail_type">
+        <item>Personal</item>
+        <item>Work</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="mz_app_to_next_open_enter_translate_y">
+        <item>1f</item>
+        <item>0.9098163031f</item>
+        <item>0.8200344432f</item>
+        <item>0.7394374282f</item>
+        <item>0.6665901263f</item>
+        <item>0.600401837f</item>
+        <item>0.5400114811f</item>
+        <item>0.4847301952f</item>
+        <item>0.4340413318f</item>
+        <item>0.3874856487f</item>
+        <item>0.3446613088f</item>
+        <item>0.3052812859f</item>
+        <item>0.2691733639f</item>
+        <item>0.2359931114f</item>
+        <item>0.2056257176f</item>
+        <item>0.1778415614f</item>
+        <item>0.1525258324f</item>
+        <item>0.1295637199f</item>
+        <item>0.1088404133f</item>
+        <item>0.0901836969f</item>
+        <item>0.07347876f</item>
+        <item>0.07347876f</item>
+        <item>0.058783008f</item>
+        <item>0.0458094145f</item>
+        <item>0.0346727899f</item>
+        <item>0.0251435132f</item>
+        <item>0.0172789897f</item>
+        <item>0.0109070034f</item>
+        <item>0.0060849598f</item>
+        <item>0.0026406429f</item>
+        <item>0.0006314581f</item>
+        <item>0f</item>
+    </string-array>
+    <string-array name="mz_shader_glow_inner_colors">
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FFCC00</item>
+        <item>#FA55BB</item>
+        <item>#661AFF</item>
+        <item>#133AFF</item>
+    </string-array>
+    <string-array name="mz_shader_glow_outer_colors">
+        <item>#1AFFFF</item>
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FF8C1A</item>
+        <item>#FFC21A</item>
+        <item>#1AFFFF</item>
+    </string-array>
+    <string-array name="newsSdkTextRefreshComplete">
+        <item>Loading new content</item>
+        <item>Updated %d article(s)</item>
+    </string-array>
+    <string-array name="newsSdkTextRefreshCompleteVideo">
+        <item>Loading new content</item>
+        <item>Updated %d video(s)</item>
+    </string-array>
+    <string-array name="news_sdk_before_today">
+        <item>昨天 HH:mm</item>
+        <item>前天 HH:mm</item>
+        <item>M/d HH:mm</item>
+    </string-array>
+    <string-array name="news_sdk_hour_ago">
+        <item>%d小时前</item>
+    </string-array>
+    <string-array name="news_sdk_last_visit_position">
+        <item>Just viewed here. Tap to refresh</item>
+        <item>Last time viewed here. Tap to refresh</item>
+    </string-array>
+    <string-array name="news_sdk_minute_ago">
+        <item>%d分钟前</item>
+    </string-array>
+    <string-array name="news_sdk_picture_operate">
+        <item>Share image</item>
+        <item>Save image</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete">
+        <item>It\'s the latest</item>
+        <item>Updated %d articles</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete_video">
+        <item>It\'s the latest</item>
+        <item>Updated %d videos</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_article_array">
+        <item>Ad</item>
+        <item>Outdated content</item>
+        <item>Pornography</item>
+        <item>Clickbait</item>
+        <item>Not the fact</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_video_array">
+        <item>Pornography/violence</item>
+        <item>Clickbait headline</item>
+        <item>Ad</item>
+        <item>Poor video quality</item>
+        <item>The cover is offensive</item>
+        <item>Infringement</item>
+    </string-array>
+    <string-array name="open_miui_lock_screen_permission">
+        <item>去设置</item>
+        <item>已设置</item>
+    </string-array>
+    <string-array name="open_notebook_error_i_know">
+        <item>知道了</item>
+    </string-array>
+    <string-array name="permission_list_titles">
+        <item>Camera</item>
+        <item>Record</item>
+        <item>Location</item>
+        <item>Clipboard</item>
+        <item>Mobile phone storage</item>
+    </string-array>
+    <string-array name="phone_type">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Fax</item>
+        <item>Pager</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="pref_homepage_values2">
+        <item>current</item>
+        <item>chrome-native://newtab/</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="pref_orientation_setting_name">
+        <item>Default</item>
+        <item>Portrait</item>
+        <item>Landscape</item>
+    </string-array>
+    <string-array name="pref_orientation_setting_value">
+        <item>system</item>
+        <item>portrait</item>
+        <item>landscape</item>
+    </string-array>
+    <string-array name="pref_set_text_degree_choices">
+        <item>Default</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="pref_set_text_degree_choices_values">
+        <item>100</item>
+        <item>110</item>
+        <item>120</item>
+    </string-array>
+    <string-array name="pref_topic_news_setting_event_value">
+        <item>auto_update</item>
+        <item>simple_style</item>
+    </string-array>
+    <string-array name="pref_topic_news_setting_name">
+        <item>Standard version</item>
+        <item>Minimalist version</item>
+    </string-array>
+    <string-array name="pref_topic_news_setting_value">
+        <item>normal</item>
+        <item>simple</item>
+    </string-array>
+    <string-array name="pref_video_auto_play_name">
+        <item>WLAN only</item>
+        <item>Any network</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="pref_video_auto_play_value">
+        <item>wifi_only</item>
+        <item>freestyle</item>
+        <item>off</item>
+    </string-array>
+    <string-array name="report_choice_item">
+        <item>Sexy</item>
+        <item>Rumour</item>
+        <item>Smear Campaign</item>
+        <item>Politically Sensitive</item>
+        <item>Abuse Attack</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="tel_alert_btn">
+        <item>拨打</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="theme_list10">
+        <item>theme_bg_huyan.xml</item>
+        <item>theme_bg_yejian7.xml</item>
+        <item>theme_bg_yejian8.xml</item>
+        <item>theme_bg_yejian9.xml</item>
+        <item>theme_bg_yejian6.xml</item>
+        <item>theme_bgfine.xml</item>
+        <item>theme_bg1.xml</item>
+        <item>theme_bg2.xml</item>
+        <item>theme_bg3.xml</item>
+        <item>theme_bg5.xml</item>
+        <item>theme_layout_pad100.xml</item>
+        <item>theme_layout_pad100_chuban.xml</item>
+        <item>theme_layout_pad100_wangwen.xml</item>
+        <item>theme_layout_pad100_qingsuan.xml</item>
+        <item>theme_layout_manhua.xml</item>
+        <item>theme_user.xml</item>
+    </string-array>
+    <string-array name="theme_list3">
+        <item>theme_bg_huyan.xml</item>
+        <item>theme_bgfine.xml</item>
+        <item>theme_bg1.xml</item>
+        <item>theme_bg2.xml</item>
+        <item>theme_bg3.xml</item>
+        <item>theme_bg5.xml</item>
+        <item>theme_bg_yejian7.xml</item>
+        <item>theme_bg_yejian8.xml</item>
+        <item>theme_bg_yejian9.xml</item>
+        <item>theme_bg_yejian6.xml</item>
+        <item>theme_layout_phone35.xml</item>
+        <item>theme_layout_phone35_chuban.xml</item>
+        <item>theme_layout_phone35_wangwen.xml</item>
+        <item>theme_layout_phone35_qingsuan.xml</item>
+        <item>theme_layout_manhua.xml</item>
+        <item>theme_user.xml</item>
+    </string-array>
+    <string-array name="theme_list7">
+        <item>theme_bg_huyan.xml</item>
+        <item>theme_bg_yejian7.xml</item>
+        <item>theme_bg_yejian8.xml</item>
+        <item>theme_bg_yejian9.xml</item>
+        <item>theme_bg_yejian6.xml</item>
+        <item>theme_bgfine.xml</item>
+        <item>theme_bg1.xml</item>
+        <item>theme_bg2.xml</item>
+        <item>theme_bg3.xml</item>
+        <item>theme_bg5.xml</item>
+        <item>theme_layout_pad70.xml</item>
+        <item>theme_layout_pad70_chuban.xml</item>
+        <item>theme_layout_pad70_wangwen.xml</item>
+        <item>theme_layout_pad70_qingsuan.xml</item>
+        <item>theme_layout_manhua.xml</item>
+        <item>theme_user.xml</item>
+    </string-array>
+    <string-array name="ui_com_google_android_gms_fonts_certs_dev">
+        <item>MIIEqDCCA5CgAwIBAgIJANWFuGx90071MA0GCSqGSIb3DQEBBAUAMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTAeFw0wODA0MTUyMzM2NTZaFw0zNTA5MDEyMzM2NTZaMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbTCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBANbOLggKv+IxTdGNs8/TGFy0PTP6DHThvbbR24kT9ixcOd9W+EaBPWW+wPPKQmsHxajtWjmQwWfna8mZuSeJS48LIgAZlKkpFeVyxW0qMBujb8X8ETrWy550NaFtI6t9+u7hZeTfHwqNvacKhp1RbE6dBRGWynwMVX8XW8N1+UjFaq6GCJukT4qmpN2afb8sCjUigq0GuMwYXrFVee74bQgLHWGJwPmvmLHC69EH6kWr22ijx4OKXlSIx2xT1AsSHee70w5iDBiK4aph27yH3TxkXy9V89TDdexAcKk/cVHYNnDBapcavl7y0RiQ4biu8ymM8Ga/nmzhRKya6G0cGw8CAQOjgfwwgfkwHQYDVR0OBBYEFI0cxb6VTEM8YYY6FbBMvAPyT+CyMIHJBgNVHSMEgcEwgb6AFI0cxb6VTEM8YYY6FbBMvAPyT+CyoYGapIGXMIGUMQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEQMA4GA1UEChMHQW5kcm9pZDEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDEiMCAGCSqGSIb3DQEJARYTYW5kcm9pZEBhbmRyb2lkLmNvbYIJANWFuGx90071MAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEEBQADggEBABnTDPEF+3iSP0wNfdIjIz1AlnrPzgAIHVvXxunW7SBrDhEglQZBbKJEk5kT0mtKoOD1JMrSu1xuTKEBahWRbqHsXclaXjoBADb0kkjVEJu/Lh5hgYZnOjvlba8Ld7HCKePCVePoTJBdI4fvugnL8TsgK05aIskyY0hKI9L8KfqfGTl1lzOv2KoWD0KWwtAWPoGChZxmQ+nBli+gwYMzM1vAkP+aayLe0a1EQimlOalO762r0GXO0ks+UeXde2Z4e+8S/pf7pITEI/tP+MxJTALw9QUWEv9lKTk+jkbqxbsh8nfBUapfKqYn0eidpwq2AzVp3juYl7//fKnaPhJD9gs=</item>
+    </string-array>
+    <string-array name="ui_com_google_android_gms_fonts_certs_prod">
+        <item>MIIEQzCCAyugAwIBAgIJAMLgh0ZkSjCNMA0GCSqGSIb3DQEBBAUAMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDAeFw0wODA4MjEyMzEzMzRaFw0zNjAxMDcyMzEzMzRaMHQxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtHb29nbGUgSW5jLjEQMA4GA1UECxMHQW5kcm9pZDEQMA4GA1UEAxMHQW5kcm9pZDCCASAwDQYJKoZIhvcNAQEBBQADggENADCCAQgCggEBAKtWLgDYO6IIrgqWbxJOKdoR8qtW0I9Y4sypEwPpt1TTcvZApxsdyxMJZ2JORland2qSGT2y5b+3JKkedxiLDmpHpDsz2WCbdxgxRczfey5YZnTJ4VZbH0xqWVW/8lGmPav5xVwnIiJS6HXk+BVKZF+JcWjAsb/GEuq/eFdpuzSqeYTcfi6idkyugwfYwXFU1+5fZKUaRKYCwkkFQVfcAs1fXA5V+++FGfvjJ/CxURaSxaBvGdGDhfXE28LWuT9ozCl5xw4Yq5OGazvV24mZVSoOO0yZ31j7kYvtwYK6NeADwbSxDdJEqO4k//0zOHKrUiGYXtqw/A0LFFtqoZKFjnkCAQOjgdkwgdYwHQYDVR0OBBYEFMd9jMIhF1Ylmn/Tgt9r45jk14alMIGmBgNVHSMEgZ4wgZuAFMd9jMIhF1Ylmn/Tgt9r45jk14aloXikdjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLR29vZ2xlIEluYy4xEDAOBgNVBAsTB0FuZHJvaWQxEDAOBgNVBAMTB0FuZHJvaWSCCQDC4IdGZEowjTAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBAUAA4IBAQBt0lLO74UwLDYKqs6Tm8/yzKkEu116FmH4rkaymUIE0P9KaMftGlMexFlaYjzmB2OxZyl6euNXEsQH8gjwyxCUKRJNexBiGcCEyj6z+a1fuHHvkiaai+KL8W1EyNmgjmyy8AW7P+LLlkR+ho5zEHatRbM/YAnqGcFh5iZBqpknHf1SKMXFh4dd239FJ1jWYfbMDMy3NS5CTMQ2XFI1MvcyUTdZPErjQfTbQe3aDQsQcafEQPD+nqActifKZ0Np0IS9L9kR/wbNvyz6ENwPiTrjV2KRkEjH78ZMcUQXg0L3BYHJ3lc69Vs5Ddf9uUGGMYldX3WfMBEmh/9iFBDAaTCK</item>
+    </string-array>
+    <string-array name="upload_error_btn">
+        <item>一键上传</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="url_span_email_dialog_title">
+        <item>New e-mail</item>
+        <item>Copy</item>
+        <item>Add as a contact</item>
+    </string-array>
+    <string-array name="url_span_tel_dialog_title">
+        <item>Call</item>
+        <item>Send a message</item>
+        <item>Copy</item>
+        <item>Add as a contact</item>
+    </string-array>
+    <string-array name="values_close_exit_translate_app">
+        <item>0.0f</item>
+        <item>0.12734375f</item>
+        <item>0.290538194f</item>
+        <item>0.445486111f</item>
+        <item>0.579947917f</item>
+        <item>0.678038194f</item>
+        <item>0.747916667f</item>
+        <item>0.802170139f</item>
+        <item>0.845746528f</item>
+        <item>0.881510417f</item>
+        <item>0.911024306f</item>
+        <item>0.935503472f</item>
+        <item>0.95546875f</item>
+        <item>0.971440972f</item>
+        <item>0.983767361f</item>
+        <item>0.992708333f</item>
+        <item>0.998090278f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="values_extra_close_exit_translate_app">
+        <item>0.0</item>
+        <item>0.0047222222</item>
+        <item>0.0180555556</item>
+        <item>0.0391666667</item>
+        <item>0.0669444444</item>
+        <item>0.100462963</item>
+        <item>0.1387962963</item>
+        <item>0.1812037037</item>
+        <item>0.2268518519</item>
+        <item>0.2749074074</item>
+        <item>0.3247222222</item>
+        <item>0.3756481481</item>
+        <item>0.4271296296</item>
+        <item>0.4785185185</item>
+        <item>0.5294444444</item>
+        <item>0.5792592593</item>
+        <item>0.6277777778</item>
+        <item>0.6744444444</item>
+        <item>0.7188888889</item>
+        <item>0.7609259259</item>
+        <item>0.8002777778</item>
+        <item>0.8365740741</item>
+        <item>0.8696296296</item>
+        <item>0.8993518519</item>
+        <item>0.925462963</item>
+        <item>0.9478703704</item>
+        <item>0.9664814815</item>
+        <item>0.9810185185</item>
+        <item>0.9914814815</item>
+        <item>0.9978703704</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_extra_open_enter_translate_app">
+        <item>0.0</item>
+        <item>0.0037037037</item>
+        <item>0.0149074074</item>
+        <item>0.0334259259</item>
+        <item>0.0590740741</item>
+        <item>0.0915740741</item>
+        <item>0.1301851852</item>
+        <item>0.1741666667</item>
+        <item>0.2228703704</item>
+        <item>0.2750925926</item>
+        <item>0.3299074074</item>
+        <item>0.3862962963</item>
+        <item>0.4431481481</item>
+        <item>0.4996296296</item>
+        <item>0.5548148148</item>
+        <item>0.6081481481</item>
+        <item>0.6589814815</item>
+        <item>0.7068518519</item>
+        <item>0.7513888889</item>
+        <item>0.7924074074</item>
+        <item>0.8297222222</item>
+        <item>0.8632407407</item>
+        <item>0.892962963</item>
+        <item>0.9188888889</item>
+        <item>0.9410185185</item>
+        <item>0.959537037</item>
+        <item>0.9744444444</item>
+        <item>0.9857407407</item>
+        <item>0.9937962963</item>
+        <item>0.9984259259</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_open_enter_translate_app">
+        <item>0.0f</item>
+        <item>0.240190972f</item>
+        <item>0.466145833f</item>
+        <item>0.617708333f</item>
+        <item>0.721440972f</item>
+        <item>0.7921875f</item>
+        <item>0.844270833f</item>
+        <item>0.886197917f</item>
+        <item>0.919010417f</item>
+        <item>0.944010417f</item>
+        <item>0.9625f</item>
+        <item>0.975954861f</item>
+        <item>0.985416667f</item>
+        <item>0.991840278f</item>
+        <item>0.996006944f</item>
+        <item>0.9984375f</item>
+        <item>0.999652778f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="zixun_detial_feedback_item">
+        <item>Ad</item>
+        <item>Illegal</item>
+        <item>Pornographic</item>
+        <item>Clickbait</item>
+        <item>Rumor</item>
+        <item>Poor content</item>
+        <item>Vulgar</item>
+        <item>Repeated</item>
+        <item>Typos</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">You have %d remaining attempts. SIM will be locked if it fails again.</item>
+        <item quantity="one">You have %d remaining attempt. SIM will be locked if it fails again.</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Доступен Wi-Fi</item>
+        <item quantity="one">Доступен Wi-Fi</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Нажмите для подключения</item>
+        <item quantity="one">Нажмите для подключения</item>
+    </plurals>
+</resources>

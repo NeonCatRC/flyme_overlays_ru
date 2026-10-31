@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.mstore",
+ "target_path": "/system/app/AppCenter/AppCenter.apk",
+ "app_version": "12.5.1 12205001",
+ "flyme": "12.6"
+}

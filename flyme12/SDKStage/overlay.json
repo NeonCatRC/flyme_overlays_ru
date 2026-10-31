@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.flyme.sdkstage",
+ "target_path": "/system/priv-app/SDKStage/SDKStage.apk",
+ "app_version": "5.0.01 50000001",
+ "flyme": "12.6"
+}

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="abilities">
+        <item>phone_weather_sub</item>
+        <item>phone_weather_instant_access</item>
+        <item>phone_weather_15_acccess</item>
+    </string-array>
+    <string-array name="copy_choice_item">
+        <item>Copy</item>
+    </string-array>
+    <string-array name="copy_report_choice_item">
+        <item>Copy</item>
+        <item>Report</item>
+    </string-array>
+    <string-array name="important_citys_name">
+        <item>上海市</item>
+        <item>北京市</item>
+        <item>杭州市</item>
+        <item>南京市</item>
+        <item>苏州市</item>
+        <item>深圳市</item>
+        <item>成都市</item>
+        <item>重庆市</item>
+        <item>天津市</item>
+        <item>武汉市</item>
+        <item>西安市</item>
+        <item>广州市</item>
+    </string-array>
+    <string-array name="important_scenic_name">
+        <item>长城</item>
+        <item>龙庆峡</item>
+        <item>松山</item>
+        <item>龙潭</item>
+        <item>陶然亭</item>
+        <item>青龙湖</item>
+        <item>圣莲山</item>
+        <item>周口店</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="mz_app_to_next_open_enter_translate_y">
+        <item>1f</item>
+        <item>0.9098163031f</item>
+        <item>0.8200344432f</item>
+        <item>0.7394374282f</item>
+        <item>0.6665901263f</item>
+        <item>0.600401837f</item>
+        <item>0.5400114811f</item>
+        <item>0.4847301952f</item>
+        <item>0.4340413318f</item>
+        <item>0.3874856487f</item>
+        <item>0.3446613088f</item>
+        <item>0.3052812859f</item>
+        <item>0.2691733639f</item>
+        <item>0.2359931114f</item>
+        <item>0.2056257176f</item>
+        <item>0.1778415614f</item>
+        <item>0.1525258324f</item>
+        <item>0.1295637199f</item>
+        <item>0.1088404133f</item>
+        <item>0.0901836969f</item>
+        <item>0.07347876f</item>
+        <item>0.07347876f</item>
+        <item>0.058783008f</item>
+        <item>0.0458094145f</item>
+        <item>0.0346727899f</item>
+        <item>0.0251435132f</item>
+        <item>0.0172789897f</item>
+        <item>0.0109070034f</item>
+        <item>0.0060849598f</item>
+        <item>0.0026406429f</item>
+        <item>0.0006314581f</item>
+        <item>0f</item>
+    </string-array>
+    <string-array name="mz_shader_glow_inner_colors">
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FFCC00</item>
+        <item>#FA55BB</item>
+        <item>#661AFF</item>
+        <item>#133AFF</item>
+    </string-array>
+    <string-array name="mz_shader_glow_outer_colors">
+        <item>#1AFFFF</item>
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FF8C1A</item>
+        <item>#FFC21A</item>
+        <item>#1AFFFF</item>
+    </string-array>
+    <string-array name="news_sdk_before_today">
+        <item>昨天 HH:mm</item>
+        <item>前天 HH:mm</item>
+        <item>M/d HH:mm</item>
+    </string-array>
+    <string-array name="news_sdk_hour_ago">
+        <item>%d小时前</item>
+    </string-array>
+    <string-array name="news_sdk_last_visit_position">
+        <item>Just viewed here. Tap to refresh</item>
+        <item>Last time viewed here. Tap to refresh</item>
+    </string-array>
+    <string-array name="news_sdk_minute_ago">
+        <item>%d分钟前</item>
+    </string-array>
+    <string-array name="news_sdk_picture_operate">
+        <item>Share image</item>
+        <item>Save image</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete">
+        <item>It\'s the latest</item>
+        <item>Updated %d articles</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete_video">
+        <item>It\'s the latest</item>
+        <item>Updated %d videos</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_article_array">
+        <item>Ad</item>
+        <item>Outdated content</item>
+        <item>Pornography</item>
+        <item>Clickbait</item>
+        <item>Not the fact</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_video_array">
+        <item>Pornography/violence</item>
+        <item>Clickbait headline</item>
+        <item>Ad</item>
+        <item>Poor video quality</item>
+        <item>The cover is offensive</item>
+        <item>Infringement</item>
+    </string-array>
+    <string-array name="news_tip_report_article_array">
+        <item>广告</item>
+        <item>内容过时</item>
+        <item>低俗色情</item>
+        <item>标题夸张</item>
+        <item>与事实不符</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>广告</item>
+        <item>低俗色情暴力</item>
+        <item>标题虚假夸张</item>
+        <item>侵权</item>
+        <item>视频质量差</item>
+        <item>封面令人反感</item>
+    </string-array>
+    <string-array name="report_choice_item">
+        <item>Sexy</item>
+        <item>Rumour</item>
+        <item>Smear Campaign</item>
+        <item>Politically Sensitive</item>
+        <item>Abuse Attack</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="values_close_exit_translate_app">
+        <item>0.0f</item>
+        <item>0.12734375f</item>
+        <item>0.290538194f</item>
+        <item>0.445486111f</item>
+        <item>0.579947917f</item>
+        <item>0.678038194f</item>
+        <item>0.747916667f</item>
+        <item>0.802170139f</item>
+        <item>0.845746528f</item>
+        <item>0.881510417f</item>
+        <item>0.911024306f</item>
+        <item>0.935503472f</item>
+        <item>0.95546875f</item>
+        <item>0.971440972f</item>
+        <item>0.983767361f</item>
+        <item>0.992708333f</item>
+        <item>0.998090278f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="values_extra_close_exit_translate_app">
+        <item>0.0</item>
+        <item>0.0047222222</item>
+        <item>0.0180555556</item>
+        <item>0.0391666667</item>
+        <item>0.0669444444</item>
+        <item>0.100462963</item>
+        <item>0.1387962963</item>
+        <item>0.1812037037</item>
+        <item>0.2268518519</item>
+        <item>0.2749074074</item>
+        <item>0.3247222222</item>
+        <item>0.3756481481</item>
+        <item>0.4271296296</item>
+        <item>0.4785185185</item>
+        <item>0.5294444444</item>
+        <item>0.5792592593</item>
+        <item>0.6277777778</item>
+        <item>0.6744444444</item>
+        <item>0.7188888889</item>
+        <item>0.7609259259</item>
+        <item>0.8002777778</item>
+        <item>0.8365740741</item>
+        <item>0.8696296296</item>
+        <item>0.8993518519</item>
+        <item>0.925462963</item>
+        <item>0.9478703704</item>
+        <item>0.9664814815</item>
+        <item>0.9810185185</item>
+        <item>0.9914814815</item>
+        <item>0.9978703704</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_extra_open_enter_translate_app">
+        <item>0.0</item>
+        <item>0.0037037037</item>
+        <item>0.0149074074</item>
+        <item>0.0334259259</item>
+        <item>0.0590740741</item>
+        <item>0.0915740741</item>
+        <item>0.1301851852</item>
+        <item>0.1741666667</item>
+        <item>0.2228703704</item>
+        <item>0.2750925926</item>
+        <item>0.3299074074</item>
+        <item>0.3862962963</item>
+        <item>0.4431481481</item>
+        <item>0.4996296296</item>
+        <item>0.5548148148</item>
+        <item>0.6081481481</item>
+        <item>0.6589814815</item>
+        <item>0.7068518519</item>
+        <item>0.7513888889</item>
+        <item>0.7924074074</item>
+        <item>0.8297222222</item>
+        <item>0.8632407407</item>
+        <item>0.892962963</item>
+        <item>0.9188888889</item>
+        <item>0.9410185185</item>
+        <item>0.959537037</item>
+        <item>0.9744444444</item>
+        <item>0.9857407407</item>
+        <item>0.9937962963</item>
+        <item>0.9984259259</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_open_enter_translate_app">
+        <item>0.0f</item>
+        <item>0.240190972f</item>
+        <item>0.466145833f</item>
+        <item>0.617708333f</item>
+        <item>0.721440972f</item>
+        <item>0.7921875f</item>
+        <item>0.844270833f</item>
+        <item>0.886197917f</item>
+        <item>0.919010417f</item>
+        <item>0.944010417f</item>
+        <item>0.9625f</item>
+        <item>0.975954861f</item>
+        <item>0.985416667f</item>
+        <item>0.991840278f</item>
+        <item>0.996006944f</item>
+        <item>0.9984375f</item>
+        <item>0.999652778f</item>
+        <item>1.0f</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.media.camera",
+ "target_path": "/system/app/Camera/Camera.apk",
+ "app_version": "12.7.2 12007002",
+ "flyme": "12.6"
+}

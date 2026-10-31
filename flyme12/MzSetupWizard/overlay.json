@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.setup",
+ "target_path": "/system/priv-app/MzSetupWizard/MzSetupWizard.apk",
+ "app_version": "12.0.25 12000025",
+ "flyme": "12.6"
+}

@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.account",
+ "target_path": "/system/app/MzAccount/MzAccount.apk",
+ "app_version": "12.0.14 12000014",
+ "flyme": "12.6"
+}

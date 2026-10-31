@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mz_fp_management_count">
+        <item quantity="other">Сохранено отпечатков: %1$d</item>
+        <item quantity="one">Сохранено отпечатков: %1$d</item>
+    </plurals>
+    <plurals name="quick_settings_bluetooth_secondary_label_num_devices">
+        <item quantity="one">Bluetooth %d</item>
+        <item quantity="other">Bluetooth %d</item>
+    </plurals>
+</resources>

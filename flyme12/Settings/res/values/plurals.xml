@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d day ago</item>
+        <item quantity="other">%d days ago</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d min ago</item>
+        <item quantity="other">%d min ago</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d yr ago</item>
+        <item quantity="other">%d yr ago</item>
+    </plurals>
+    <plurals name="all_apps_count">
+        <item quantity="one">%1$d app</item>
+        <item quantity="other">%1$d apps</item>
+    </plurals>
+    <plurals name="lockscreen_quick_affordances_summary">
+        <item quantity="zero">None</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="other">%1$s, %2$s</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item quantity="one">1 active trust agent</item>
+        <item quantity="other">%d active trust agents</item>
+    </plurals>
+    <plurals name="mz_face_management_count">
+        <item quantity="one">%1$d face enrolled</item>
+        <item quantity="other">%1$d faces enrolled</item>
+    </plurals>
+    <plurals name="mz_fp_management_count">
+        <item quantity="one">%1$d fingerprint enrolled</item>
+        <item quantity="other">%1$d fingerprints enrolled</item>
+    </plurals>
+    <plurals name="notifications_sent_daily">
+        <item quantity="one">~%d notification per day</item>
+        <item quantity="other">~%d notifications per day</item>
+    </plurals>
+    <plurals name="notifications_sent_weekly">
+        <item quantity="one">~%d notification per week</item>
+        <item quantity="other">~%d notifications per week</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Tap %1$d more time to enter developer mode</item>
+        <item quantity="other">Tap %1$d more times to enter developer mode</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="one">Wrong SIM PIN, you have %d attempt before you have to contact your carrier for unlocking the phone</item>
+        <item quantity="other">Wrong SIM PIN, you have %d attempts</item>
+    </plurals>
+</resources>

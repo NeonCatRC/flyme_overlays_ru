@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.filemanager",
+ "target_path": "/system/MzApp/FileManager/FileManager.apk",
+ "app_version": "12.0.21 12000021",
+ "flyme": "12.6"
+}

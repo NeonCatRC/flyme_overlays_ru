@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.datamigration",
+ "target_path": "/system/MzApp/datamigration/datamigration.apk",
+ "app_version": "12.1.1 12001001",
+ "flyme": "12.6"
+}

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="camera_time_lapse_entryvalues">
+        <item>0.5s</item>
+        <item>1s</item>
+        <item>2s</item>
+        <item>4s</item>
+        <item>8s</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="mz_camera2_dof_entry">
+        <item>f/1.4</item>
+        <item>f/1.6</item>
+        <item>f/1.8</item>
+        <item>f/2.0</item>
+        <item>f/2.2</item>
+        <item>f/2.5</item>
+        <item>f/2.8</item>
+        <item>f/3.2</item>
+        <item>f/3.5</item>
+        <item>f/4.0</item>
+        <item>f/4.5</item>
+        <item>f/5.0</item>
+        <item>f/5.6</item>
+        <item>f/6.3</item>
+        <item>f/7.1</item>
+        <item>f/8.0</item>
+        <item>f/9.0</item>
+        <item>f/10</item>
+        <item>f/11</item>
+        <item>f/13</item>
+        <item>f/14</item>
+        <item>f/16</item>
+    </string-array>
+    <string-array name="mz_camera2_dof_entryvalue">
+        <item>1.4</item>
+        <item>1.6</item>
+        <item>1.8</item>
+        <item>2.0</item>
+        <item>2.2</item>
+        <item>2.5</item>
+        <item>2.8</item>
+        <item>3.2</item>
+        <item>3.5</item>
+        <item>4.0</item>
+        <item>4.5</item>
+        <item>5.0</item>
+        <item>5.6</item>
+        <item>6.3</item>
+        <item>7.1</item>
+        <item>8.0</item>
+        <item>9.0</item>
+        <item>10</item>
+        <item>11</item>
+        <item>13</item>
+        <item>14</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="mz_camera2_dof_filter_entryvalue">
+        <item>1.4</item>
+        <item>2.0</item>
+        <item>2.8</item>
+        <item>4.0</item>
+        <item>5.6</item>
+        <item>8.0</item>
+        <item>11</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="mz_camera2_shutter_speed_min_1v6000_filter_values">
+        <item>0</item>
+        <item>166.666</item>
+        <item>312.5</item>
+        <item>625</item>
+        <item>1250</item>
+        <item>2500</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>20000</item>
+        <item>40000</item>
+        <item>83333.333</item>
+        <item>166666.666</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>1200000</item>
+        <item>2500000</item>
+        <item>5000000</item>
+        <item>10000000</item>
+        <item>20000000</item>
+        <item>35000000</item>
+        <item>50000000</item>
+    </string-array>
+    <string-array name="mz_camera2_shutter_speed_min_1v8000_filter_values">
+        <item>0</item>
+        <item>125</item>
+        <item>250</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>4000</item>
+        <item>8000</item>
+        <item>16666.666</item>
+        <item>33333.333</item>
+        <item>66666.666</item>
+        <item>125000</item>
+        <item>250000</item>
+        <item>500000</item>
+        <item>1000000</item>
+        <item>2000000</item>
+        <item>4000000</item>
+        <item>8000000</item>
+        <item>15000000</item>
+        <item>30000000</item>
+        <item>45000000</item>
+        <item>60000000</item>
+    </string-array>
+    <string-array name="mz_m80_exposure_filter_values">
+        <item>-3.0</item>
+        <item>0.0</item>
+        <item>3.0</item>
+    </string-array>
+    <string-array name="mz_setting_cinematic_fps_hint">
+        <item>30FPS</item>
+        <item>24FPS</item>
+    </string-array>
+    <string-array name="mz_setting_cinematic_fps_hint_24_only">
+        <item>24FPS</item>
+    </string-array>
+    <string-array name="mz_setting_cinematic_size_hint">
+        <item>4K</item>
+        <item>1080P</item>
+    </string-array>
+    <string-array name="mz_setting_cinematic_size_hint_1808_only">
+        <item>1080P</item>
+    </string-array>
+    <string-array name="mz_setting_video_fps_24fps_hint">
+        <item>60FPS</item>
+        <item>30FPS</item>
+        <item>24FPS</item>
+    </string-array>
+    <string-array name="mz_setting_video_fps_hint">
+        <item>60FPS</item>
+        <item>30FPS</item>
+    </string-array>
+    <string-array name="mz_setting_video_size_hint">
+        <item>4K</item>
+        <item>1080P</item>
+        <item>720P</item>
+    </string-array>
+    <string-array name="mz_setting_video_size_hint_8k">
+        <item>8K</item>
+        <item>4K</item>
+        <item>1080P</item>
+        <item>720P</item>
+    </string-array>
+    <string-array name="mz_setting_watermark_style_type_list">
+        <item>0</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>600</item>
+        <item>700</item>
+        <item>800</item>
+        <item>900</item>
+    </string-array>
+    <string-array name="mz_shader_glow_outer_colors">
+        <item>#1AFFFF</item>
+        <item>#133AFF</item>
+        <item>#661AFF</item>
+        <item>#FA55BB</item>
+        <item>#FF8C1A</item>
+        <item>#FFC21A</item>
+        <item>#1AFFFF</item>
+    </string-array>
+    <string-array name="mz_small_square_setting_picture_size_hint">
+        <item>1:1</item>
+        <item>4:3</item>
+        <item>16:9</item>
+    </string-array>
+    <string-array name="mz_storage_entryvalues">
+        <item>sdcard</item>
+        <item>emulated</item>
+    </string-array>
+    <string-array name="mz_timer_entryvalues">
+        <item>0</item>
+        <item>3</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="mz_zoom_click_out_values_index_for_cinematic">
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="mz_zoom_click_out_values_index_for_super_macro">
+        <item>1</item>
+        <item>2</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="mz_zoom_click_values_index">
+        <item>-1</item>
+        <item>0</item>
+        <item>100</item>
+        <item>200</item>
+        <item>700</item>
+    </string-array>
+    <string-array name="mz_zoom_click_values_index_for_100x">
+        <item>-1</item>
+        <item>0</item>
+        <item>100</item>
+        <item>200</item>
+        <item>900</item>
+        <item>2900</item>
+        <item>9900</item>
+    </string-array>
+    <string-array name="mz_zoom_click_values_index_for_10x">
+        <item>-1</item>
+        <item>0</item>
+        <item>100</item>
+        <item>200</item>
+        <item>900</item>
+    </string-array>
+    <string-array name="mz_zoom_click_values_index_for_10x_for_insensorzoom">
+        <item>-1</item>
+        <item>0</item>
+        <item>100</item>
+        <item>300</item>
+        <item>900</item>
+    </string-array>
+    <string-array name="mz_zoom_click_values_index_for_30x">
+        <item>-1</item>
+        <item>0</item>
+        <item>100</item>
+        <item>200</item>
+        <item>900</item>
+        <item>2900</item>
+    </string-array>
+    <string-array name="mz_zoom_click_values_index_for_cinematic">
+        <item>0</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="mz_zoom_click_values_index_for_super_macro">
+        <item>0</item>
+        <item>100</item>
+        <item>300</item>
+        <item>900</item>
+        <item>9900</item>
+    </string-array>
+    <string-array name="mz_zoom_click_values_index_for_super_macro_10x">
+        <item>0</item>
+        <item>100</item>
+        <item>200</item>
+        <item>900</item>
+    </string-array>
+    <string-array name="mz_zoom_click_values_index_for_super_macro_30x">
+        <item>0</item>
+        <item>100</item>
+        <item>300</item>
+        <item>900</item>
+        <item>2900</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_angle">
+        <item>0</item>
+        <item>15</item>
+        <item>22.5</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_angle_100x">
+        <item>0</item>
+        <item>15</item>
+        <item>22.5</item>
+        <item>48.8</item>
+        <item>73.5</item>
+        <item>99</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_angle_10x">
+        <item>0</item>
+        <item>15</item>
+        <item>22.5</item>
+        <item>49.5</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_angle_10x_for_insensorzoom">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>49.5</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_angle_30x">
+        <item>0</item>
+        <item>15</item>
+        <item>22.5</item>
+        <item>48.8</item>
+        <item>73.5</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_angle_for_super_macro">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>48.8</item>
+        <item>99</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_angle_for_super_macro_10x">
+        <item>0</item>
+        <item>15</item>
+        <item>22.5</item>
+        <item>49.5</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_angle_for_super_macro_30x">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>48.8</item>
+        <item>73.5</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_hint_text_for_super_macro">
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+    </string-array>
+    <string-array name="mz_zoom_thick_hint_text_for_super_macro_10x">
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_entryvalues">
+        <item>off</item>
+        <item>auto</item>
+        <item>on</item>
+    </string-array>
+    <string-array name="pref_camera_flashmode_torch_entryvalues">
+        <item>off</item>
+        <item>auto</item>
+        <item>on</item>
+        <item>torch</item>
+    </string-array>
+    <string-array name="pref_camera_focusmode_default_array">
+        <item>continuous-picture</item>
+        <item>auto</item>
+    </string-array>
+    <string-array name="pref_video_flashmode_entryvalues">
+        <item>off</item>
+        <item>torch</item>
+    </string-array>
+    <string-array name="values_close_exit_translate_app">
+        <item>0.0f</item>
+        <item>0.12734375f</item>
+        <item>0.290538194f</item>
+        <item>0.445486111f</item>
+        <item>0.579947917f</item>
+        <item>0.678038194f</item>
+        <item>0.747916667f</item>
+        <item>0.802170139f</item>
+        <item>0.845746528f</item>
+        <item>0.881510417f</item>
+        <item>0.911024306f</item>
+        <item>0.935503472f</item>
+        <item>0.95546875f</item>
+        <item>0.971440972f</item>
+        <item>0.983767361f</item>
+        <item>0.992708333f</item>
+        <item>0.998090278f</item>
+        <item>1.0f</item>
+    </string-array>
+    <string-array name="values_extra_close_exit_translate_app">
+        <item>0.0</item>
+        <item>0.0047222222</item>
+        <item>0.0180555556</item>
+        <item>0.0391666667</item>
+        <item>0.0669444444</item>
+        <item>0.100462963</item>
+        <item>0.1387962963</item>
+        <item>0.1812037037</item>
+        <item>0.2268518519</item>
+        <item>0.2749074074</item>
+        <item>0.3247222222</item>
+        <item>0.3756481481</item>
+        <item>0.4271296296</item>
+        <item>0.4785185185</item>
+        <item>0.5294444444</item>
+        <item>0.5792592593</item>
+        <item>0.6277777778</item>
+        <item>0.6744444444</item>
+        <item>0.7188888889</item>
+        <item>0.7609259259</item>
+        <item>0.8002777778</item>
+        <item>0.8365740741</item>
+        <item>0.8696296296</item>
+        <item>0.8993518519</item>
+        <item>0.925462963</item>
+        <item>0.9478703704</item>
+        <item>0.9664814815</item>
+        <item>0.9810185185</item>
+        <item>0.9914814815</item>
+        <item>0.9978703704</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_extra_open_enter_translate_app">
+        <item>0.0</item>
+        <item>0.0037037037</item>
+        <item>0.0149074074</item>
+        <item>0.0334259259</item>
+        <item>0.0590740741</item>
+        <item>0.0915740741</item>
+        <item>0.1301851852</item>
+        <item>0.1741666667</item>
+        <item>0.2228703704</item>
+        <item>0.2750925926</item>
+        <item>0.3299074074</item>
+        <item>0.3862962963</item>
+        <item>0.4431481481</item>
+        <item>0.4996296296</item>
+        <item>0.5548148148</item>
+        <item>0.6081481481</item>
+        <item>0.6589814815</item>
+        <item>0.7068518519</item>
+        <item>0.7513888889</item>
+        <item>0.7924074074</item>
+        <item>0.8297222222</item>
+        <item>0.8632407407</item>
+        <item>0.892962963</item>
+        <item>0.9188888889</item>
+        <item>0.9410185185</item>
+        <item>0.959537037</item>
+        <item>0.9744444444</item>
+        <item>0.9857407407</item>
+        <item>0.9937962963</item>
+        <item>0.9984259259</item>
+        <item>1.0</item>
+    </string-array>
+    <string-array name="values_open_enter_translate_app">
+        <item>0.0f</item>
+        <item>0.240190972f</item>
+        <item>0.466145833f</item>
+        <item>0.617708333f</item>
+        <item>0.721440972f</item>
+        <item>0.7921875f</item>
+        <item>0.844270833f</item>
+        <item>0.886197917f</item>
+        <item>0.919010417f</item>
+        <item>0.944010417f</item>
+        <item>0.9625f</item>
+        <item>0.975954861f</item>
+        <item>0.985416667f</item>
+        <item>0.991840278f</item>
+        <item>0.996006944f</item>
+        <item>0.9984375f</item>
+        <item>0.999652778f</item>
+        <item>1.0f</item>
+    </string-array>
+</resources>

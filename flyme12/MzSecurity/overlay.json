@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.safe",
+ "target_path": "/system/app/MzSecurity/MzSecurity.apk",
+ "app_version": "12.1.48 12001048",
+ "flyme": "12.6"
+}

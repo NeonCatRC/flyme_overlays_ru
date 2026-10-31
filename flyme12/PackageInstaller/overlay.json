@@ -1,0 +1,6 @@
+{
+ "target": "com.android.packageinstaller",
+ "target_path": "/system/priv-app/PackageInstaller/PackageInstaller.apk",
+ "app_version": "16 36",
+ "flyme": "12.6"
+}
