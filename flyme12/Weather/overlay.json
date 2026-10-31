@@ -2,5 +2,6 @@
  "target": "com.meizu.flyme.weather",
  "target_path": "/system/MzApp/Weather/Weather.apk",
  "app_version": "54.3.60 54003060",
- "flyme": "12.6"
+ "flyme": "12.6",
+ "mod_required": "city names and weather conditions come from the server in Chinese; day labels (yesterday/today/tomorrow, weekdays) are written in code; one settings banner is text inside a layout. Checked on a 21 Pro on 2026-10-31."
 }

@@ -9,7 +9,7 @@ Every app folder holds:
 - `res/values-en/` — English fixes: only strings whose English is missing or poor in the app;
 - `status.tsv` — where every Russian string comes from;
 - `status_en.tsv` — English strings this repository adds (`new`), corrects (`fix`) or still lacks (`todo`);
-- `overlay.json` — target package and app version.
+- `overlay.json` — target package and app version; `mod_required` when an overlay is not enough.
 
 ## Origins (`status.tsv`)
 
@@ -30,6 +30,12 @@ When a string is checked or fixed, its origin becomes `own`.
 Most strings keep the English shipped in the app (Meizu or AOSP). `status_en.tsv` lists only
 the exceptions: `new` — the app had Chinese and no English; `fix` — Meizu's English was wrong;
 `todo` — Chinese with no English, not done yet.
+
+## Mod required (Обязательная модификация)
+
+Apps marked **MOD** show less than ~90% of their text from string resources: the rest comes from
+the server or is written in code or layouts. An overlay translates only the resources, so a full
+translation of these apps needs a modified app. Reasons are listed under the table.
 
 ## State
 
@@ -81,5 +87,9 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | ToolBox | 12.0.15 | 84% | 367 | 0 | 107 | 0 | 88 | 51 | 0 | 0 | 0 |
 | Video | 17.23.0 | 52% | 263 | 0 | 30 | 0 | 266 | 29 | 0 | 0 | 0 |
 | VoiceAssistant | 12.1.46 | 40% | 754 | 8 | 0 | 0 | 1120 | 234 | 0 | 0 | 0 |
-| Weather | 54.3.60 | 100% | 459 | 0 | 111 | 458 | 0 | 61 | 99 | 102 | 0 |
+| Weather **MOD** | 54.3.60 | 100% | 459 | 0 | 111 | 458 | 0 | 61 | 99 | 102 | 0 |
 | **Total** | | 76% | 29288 | 1220 | 14366 | 2172 | 14462 | 3300 | 99 | 102 | 0 |
+
+### Why a modification is required
+
+- **Weather**: city names and weather conditions come from the server in Chinese; day labels (yesterday/today/tomorrow, weekdays) are written in code; one settings banner is text inside a layout. Checked on a 21 Pro on 2026-10-31.
