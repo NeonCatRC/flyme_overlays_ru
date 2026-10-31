@@ -38,6 +38,7 @@
     <string name="copy">Копировать</string>
     <string name="date_time_set">Установить</string>
     <string name="delete">delete</string>
+    <string name="error_a11y_label">Ошибка: недопустимое значение</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="mc_action_settings">Настройки</string>
     <string name="mc_allow">OK</string>
@@ -163,11 +164,21 @@
     <string name="mc_weekend">Выходные</string>
     <string name="mc_working_day">Рабочие дни</string>
     <string name="mc_yes">OK</string>
+    <string name="mic_conflict_action_turn_on">Продолжить</string>
+    <string name="mic_conflict_tip1">Микрофон уже используется</string>
+    <string name="mic_conflict_tip2">Микрофон сейчас используется. Если включить запись с микрофона, запись в других приложениях во время этого сеанса может прерваться</string>
     <string name="more_item_label">Ещё</string>
+    <string name="mtrl_checkbox_state_description_checked">проверено</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Отмечено частично</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Не отмечено</string>
     <string name="mtrl_picker_announce_current_selection_none">Снять</string>
+    <string name="mtrl_picker_end_date_description">Дата окончания: %1$s</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Перейти к текущему году (%1$d)</string>
     <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_start_date_description">Дата начала: %1$s</string>
     <string name="mtrl_picker_text_input_day_abbr">д.</string>
     <string name="mtrl_picker_text_input_year_abbr">г.</string>
+    <string name="mtrl_picker_today_description">Сегодня, %1$s</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Снять</string>
@@ -222,6 +233,7 @@
     <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
     <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
+    <string name="mz_screenrecord_restart_tip">Нажмите, чтобы удалить и записать заново</string>
     <string name="mz_screenshot_saved_text">Нажмите, чтобы просмотреть детали изображения</string>
     <string name="mz_screenshot_saved_title">Снимок экрана</string>
     <string name="mz_screenshot_window_is_already_displayed">Текущая страница не поддерживает снятие снимка экрана</string>
@@ -309,7 +321,9 @@
     <string name="screenshot_three_fingers_slide_down">Проведите вниз тремя пальцами для создания снимка экрана</string>
     <string name="screenshot_three_fingers_slide_down_guide">Проведите вниз тремя пальцами для создания снимка экрана</string>
     <string name="search_menu_title">Поиск</string>
+    <string name="send_to_note">Добавлено в заметку</string>
     <string name="share">Отправить</string>
+    <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="v7_preference_on">Вкл.</string>
     <string name="wechat_message_type_voice">[Голос]</string>
