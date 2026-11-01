@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="_install_progress_bar_text_download">立即下载</string>
-    <string name="_install_progress_bar_text_install">立即安装</string>
-    <string name="_short_video_detail">查看详情</string>
-    <string name="_short_video_install_button_text_download">立即下载</string>
-    <string name="_short_video_install_button_text_downloading">正在下载</string>
-    <string name="_short_video_install_button_text_install">立即安装</string>
+    <string name="_install_progress_bar_text_download">Скачать</string>
+    <string name="_install_progress_bar_text_install">Установить</string>
+    <string name="_short_video_detail">Подробнее</string>
+    <string name="_short_video_install_button_text_download">Скачать</string>
+    <string name="_short_video_install_button_text_downloading">Загрузка…</string>
+    <string name="_short_video_install_button_text_install">Установить</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
@@ -35,7 +35,7 @@
     <string name="bububao_downlaod_wallet_des">Пройдите 5000 шагов в день, получите бесплатную страховку на ￥100 000 от критических заболеваний</string>
     <string name="bububao_title">Шаг в безопасность</string>
     <string name="cal_history">История</string>
-    <string name="cancel">取消</string>
+    <string name="cancel">Отмена</string>
     <string name="category_current_version">Текущая версия: V%s</string>
     <string name="category_current_version_fail">Ошибка обновления</string>
     <string name="category_current_version_latest">Ваша версия находится в актуальном состоянии</string>
@@ -50,10 +50,10 @@
     <string name="dialog_close">Закрыть</string>
     <string name="dialog_sure">Загрузить кошелек</string>
     <string name="distance_mile">км</string>
-    <string name="download_dialog_negative_button_text">取消</string>
-    <string name="download_dialog_positive_button_text">确定</string>
-    <string name="download_right_now">立即下载</string>
-    <string name="downloading">正在下载</string>
+    <string name="download_dialog_negative_button_text">Отмена</string>
+    <string name="download_dialog_positive_button_text">ОК</string>
+    <string name="download_right_now">Скачать</string>
+    <string name="downloading">Загрузка…</string>
     <string name="energy_calory">Ккал</string>
     <string name="error_is_throwed">Ошибка авторизации, повторите попытку позже.</string>
     <string name="flyme_internal_app_permission_activity_recognition_text">Получать информацию о количестве шагов</string>
@@ -80,7 +80,7 @@
     <string name="hert_note">Частота сердечных сокращений представляет собой количество сердечных сокращений в минуту, когда человек находится в состоянии покоя. Нормальный диапазон составляет от 60 до 100 ударов в минуту, которые могут варьироваться в зависимости от возраста, пола и других физиологических факторов. Обычно, чем моложе человек, тем выше количество сердечных сокращений. Как правило у пожилых людей и мужчин частота сердечных сокращений ниже, чем у молодых людей и женщин. Нормальная частота сердечных сокращений в покое у взрослых колеблется от 60 до 100 ударов в минуту, тогда как идеальный диапазон составляет от 55 до 70 ударов в минуту. По сравнению с обычными взрослыми, количество сердечных сокращений у спортсменов заметно ниже, составляет примерно 50 ударов в минуту.</string>
     <string name="hert_test_aging">Измерить снова</string>
     <string name="hint_press_finger">Поместите палец на кнопку \"Домой\", чтобы начать измерение</string>
-    <string name="install">安装</string>
+    <string name="install">Установить</string>
     <string name="intent_handle">Пожалуйста, обработайте возвращаемое значение</string>
     <string name="internet_permission_description">Синхронизировать информацию о количестве шагов</string>
     <string name="item_is_selected">%1$s выбрано</string>
@@ -301,7 +301,7 @@
     <string name="notifications_summary_target">Вы достигли своей цели!</string>
     <string name="notifications_summary_within_target">%d не достигнуто запланированное количество шагов!</string>
     <string name="notifications_title">Сегодня сделано шагов: %d</string>
-    <string name="open">打开</string>
+    <string name="open">Открыть</string>
     <string name="pattern_yesterday_hour_minute" formatted="false">Вчера %H:%M</string>
     <string name="pattern_yesterday_hour_minute_12" formatted="false">Вчера %I:%M %p</string>
     <string name="pedo_add">Добавить</string>
@@ -416,7 +416,7 @@
     <string name="pp_webview_title">Политика конфиденциальности</string>
     <string name="private_policy_setting_preference">Политика конфиденциальности</string>
     <string name="quit">Выход</string>
-    <string name="replay2">重新播放</string>
+    <string name="replay2">Повторить</string>
     <string name="retry">Повторить</string>
     <string name="scope_null_token">Авторизация не выполнена. Ошибка получения информации о %s</string>
     <string name="search_menu_title">Поиск</string>
@@ -459,14 +459,14 @@
     <string name="sync_timeout">Тайм-аут запроса. Повторите попытку.</string>
     <string name="target_step">Цель: %1$d</string>
     <string name="tips_pedo_not_support">Извините, текущее устройство не поддерживает подсчет шагов</string>
-    <string name="to_be_continued">继续</string>
+    <string name="to_be_continued">Продолжить</string>
     <string name="toast_binding_flyme_accout">Разрешить шагомеру синхронизировать счетчики шагов</string>
     <string name="today">Сегодня</string>
     <string name="uid_not_match">uid не соответствует имени пакета</string>
     <string name="unkown_error">Ошибка авторизации, повторите попытку позже.</string>
     <string name="unsupport_operation">Слишком много запросов</string>
     <string name="v7_preference_on">Вкл.</string>
-    <string name="view_details">查看详情</string>
+    <string name="view_details">Подробнее</string>
     <string name="webload_faild">Не удалось загрузить страницу</string>
     <string name="yesterday">Вчера</string>
 </resources>

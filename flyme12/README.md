@@ -47,7 +47,7 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | AliveWallPaper | 13.0.5 | 100% | 0 | 0 | 10 | 35 | 0 | 7 | 1 | 0 | 0 |
 | AlphaMe | 12.0.19 | 59% | 12 | 0 | 188 | 0 | 135 | 62 | 0 | 0 | 0 |
 | AppCenter | 12.5.1 | 27% | 256 | 2 | 62 | 0 | 850 | 49 | 0 | 0 | 0 |
-| Assistant | 13.0.6 | 39% | 398 | 9 | 17 | 0 | 643 | 57 | 0 | 0 | 0 |
+| Assistant | 13.0.6 | 39% | 397 | 9 | 17 | 1 | 643 | 57 | 0 | 0 | 0 |
 | Browser | 12.9.1 | 55% | 506 | 6 | 2538 | 0 | 2435 | 379 | 0 | 0 | 0 |
 | Calculator | 12.0.17 | 74% | 388 | 0 | 105 | 0 | 173 | 5 | 0 | 0 | 0 |
 | Calendar | 19.3.3 | 51% | 742 | 17 | 34 | 0 | 753 | 70 | 0 | 0 | 0 |
@@ -76,12 +76,12 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | MzUpdate | 12.0.15 | 81% | 651 | 13 | 38 | 0 | 159 | 1 | 0 | 0 | 0 |
 | NativeLockScreen | 12.2.2 | 100% | 0 | 0 | 215 | 216 | 0 | 35 | 85 | 16 | 0 |
 | NetAdmin | 11.0.3 | 80% | 308 | 3 | 8 | 0 | 75 | 42 | 0 | 0 | 0 |
-| NotePaper | 12.0.68 | 81% | 499 | 9 | 407 | 0 | 201 | 28 | 0 | 0 | 0 |
+| NotePaper | 12.0.68 | 81% | 499 | 9 | 406 | 1 | 201 | 28 | 0 | 0 | 0 |
 | PackageInstaller | 16 | 73% | 360 | 18 | 110 | 0 | 177 | 45 | 0 | 0 | 0 |
-| Pedometer | 12.0.13 | 73% | 419 | 8 | 44 | 0 | 172 | 55 | 0 | 0 | 0 |
+| Pedometer | 12.0.13 | 73% | 403 | 8 | 44 | 16 | 172 | 55 | 0 | 0 | 0 |
 | Picker | 12.2.34 | 56% | 304 | 4 | 7 | 0 | 247 | 78 | 0 | 0 | 0 |
 | SDKStage | 5.0.01 | 60% | 128 | 0 | 9 | 0 | 88 | 11 | 0 | 0 | 0 |
-| Settings | 12.1.0 | 100% | 4521 | 436 | 4691 | 191 | 0 | 158 | 9 | 28 | 0 |
+| Settings | 12.1.0 | 100% | 4521 | 436 | 4690 | 192 | 0 | 158 | 9 | 28 | 0 |
 | Suggestion | 12.5.10 | 15% | 89 | 2 | 0 | 0 | 512 | 3 | 0 | 0 | 0 |
 | SystemUI | 16.26.06.25_base | 100% | 1771 | 64 | 1947 | 93 | 0 | 171 | 3 | 0 | 0 |
 | SystemUIEditor | 3.5.45 | 100% | 0 | 0 | 189 | 165 | 0 | 105 | 10 | 34 | 0 |
@@ -89,11 +89,12 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | SystemUITools | 13.1.2 | 100% | 314 | 5 | 168 | 165 | 0 | 16 | 27 | 13 | 0 |
 | ToolBox | 12.0.15 | 84% | 367 | 0 | 107 | 0 | 88 | 51 | 0 | 0 | 0 |
 | Video | 17.23.0 | 52% | 263 | 0 | 30 | 0 | 266 | 29 | 0 | 0 | 0 |
-| VoiceAssistant | 12.1.46 | 40% | 754 | 8 | 0 | 0 | 1120 | 234 | 0 | 0 | 0 |
+| VoiceAssistant **MOD** | 12.1.46 | 39% | 497 | 8 | 0 | 217 | 1120 | 234 | 0 | 0 | 0 |
 | WallpaperSetting | 3.2.0 | 100% | 0 | 0 | 32 | 130 | 0 | 17 | 0 | 16 | 0 |
 | Weather **MOD** | 54.3.60 | 100% | 459 | 0 | 111 | 458 | 0 | 61 | 99 | 102 | 0 |
-| **Total** | | 76% | 29277 | 1220 | 14812 | 2729 | 14462 | 3464 | 483 | 294 | 0 |
+| **Total** | | 76% | 29003 | 1220 | 14810 | 2965 | 14462 | 3464 | 483 | 294 | 0 |
 
 ### Why a modification is required
 
+- **VoiceAssistant**: speech recognition and the assistant's answers are Chinese-only (server side); about 860 Chinese texts are written in code (replies, date formats like M月d日, stock up/down); resource keywords used to parse Chinese speech (weekdays, SIM 1/2, carriers, Hong Kong/Macao, wallet category) must stay Chinese. Code check on 2026-11-01.
 - **Weather**: city names and weather conditions come from the server in Chinese; day labels (yesterday/today/tomorrow, weekdays) are written in code; one settings banner is text inside a layout. Checked on a 21 Pro on 2026-10-31.

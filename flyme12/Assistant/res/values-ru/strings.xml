@@ -363,7 +363,7 @@
     <string name="preference_parking_summary">Для парковки</string>
     <string name="preference_route_summary">Для маршрута</string>
     <string name="price_symbol">¥</string>
-    <string name="props_dialog_confirm">确定</string>
+    <string name="props_dialog_confirm">Подтвердить</string>
     <string name="quick_action_tips">Длительное нажатие перетащите значки, чтобы отсортировать</string>
     <string name="quick_actions_app_not_installed">Нужно установить %1$s</string>
     <string name="quick_actions_title">Функциональное сокращение</string>

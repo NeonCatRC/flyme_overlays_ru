@@ -1008,7 +1008,7 @@ product_coupons_info	todo
 product_sales_normal	todo
 product_sales_ten_thousand	todo
 product_sales_thousand	todo
-props_dialog_confirm	own
+props_dialog_confirm	new
 props_dialog_selected_text	todo
 quick_action_tips	own
 quick_actions_app_not_installed	own

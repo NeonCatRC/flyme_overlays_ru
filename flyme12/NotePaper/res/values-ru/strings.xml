@@ -101,7 +101,7 @@
     <string name="ai_short">Короткий</string>
     <string name="ai_short_character">50 символов</string>
     <string name="ai_simplified">Сократить</string>
-    <string name="ai_social">Помогите написать пост для 小红书/朋友圈/微博: тема — «описание». Используйте лёгкий, дружелюбный или экспрессивный тон; контент должен быть правдивым, кратким и интересным; объём — около xx символов</string>
+    <string name="ai_social">Помогите написать пост для Xiaohongshu/Moments/Weibo на тему «описание». Используйте лёгкий, дружелюбный или экспрессивный тон; контент должен быть правдивым, кратким и интересным; объём — не более xx слов</string>
     <string name="ai_social_copy">Текст для соцсетей</string>
     <string name="ai_stop">Остановить</string>
     <string name="ai_summarize">Резюмировать</string>

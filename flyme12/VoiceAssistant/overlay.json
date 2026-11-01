@@ -2,5 +2,6 @@
  "target": "com.meizu.voiceassistant",
  "target_path": "/system/MzApp/VoiceAssistant/VoiceAssistant.apk",
  "app_version": "12.1.46 12000146",
- "flyme": "12.6"
+ "flyme": "12.6",
+ "mod_required": "speech recognition and the assistant's answers are Chinese-only (server side); about 860 Chinese texts are written in code (replies, date formats like M月d日, stock up/down); resource keywords used to parse Chinese speech (weekdays, SIM 1/2, carriers, Hong Kong/Macao, wallet category) must stay Chinese. Code check on 2026-11-01."
 }

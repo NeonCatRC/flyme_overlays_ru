@@ -2518,7 +2518,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="dashboard_flyme_account_not_login_summary">Включите синхронизацию и поиск телефона</string>
     <string name="dashboard_flyme_account_not_login_summary_without_sync_service">Включите поиск телефона</string>
     <string name="dashboard_flyme_account_not_login_title">Войти в аккаунт Flyme</string>
-    <string name="dashboard_settings_app_icp_filing_code">Номер записи ICP приложения: 粤ICP备13003602号-75A</string>
+    <string name="dashboard_settings_app_icp_filing_code">Номер записи ICP приложения: Guangdong ICP No.13003602-75A</string>
     <string name="dashboard_tile_guide_summary">Позвольте новой системе Flyme продолжить ваши привычки использования</string>
     <string name="dashboard_tile_guide_title">Простые настройки – легкий перенос привычек</string>
     <string name="dashboard_title">Настройки</string>
