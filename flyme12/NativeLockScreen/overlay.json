@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.net.nativelockscreen",
+ "target_path": "/system/priv-app/NativeLockScreen/NativeLockScreen.apk",
+ "app_version": "12.2.2 12202002",
+ "flyme": "12.6"
+}

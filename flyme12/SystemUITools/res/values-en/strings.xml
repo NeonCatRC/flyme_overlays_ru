@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="block_calls_tip">Incoming calls are blocked, so no one can reach you. Blocking ends automatically when you exit the game</string>
+    <string name="enable_esport_tip">Optimizes performance and touch, prevents accidental back gestures, and blocks notifications and incoming calls</string>
+    <string name="freedom_window">Free-form window</string>
+    <string name="game_block_floating_notifications">Block floating notifications</string>
+    <string name="game_floating_notifications_not_displayed_game">Hide floating notifications in games</string>
+    <string name="game_mode_glory_of_kings">Honor of Kings</string>
+    <string name="game_mode_total_play_time" formatted="false">%s/%s play time: %s h %s min</string>
+    <string name="game_mode_touch_optimize_summary">Faster touch response</string>
+    <string name="gamemode_follow_game_summary">Keep the frame rate set by the game</string>
+    <string name="gamemode_frame_rate_tip">Frame rate control turns off automatically when you exit the game</string>
+    <string name="gm_bind_the_soul">Soul Bind</string>
+    <string name="gm_clarity">Clarity</string>
+    <string name="gm_erosion">Erosion</string>
+    <string name="gm_execute">Execute</string>
+    <string name="gm_flicker">Flash</string>
+    <string name="gm_fury">Fury</string>
+    <string name="gm_healing_spell">Heal</string>
+    <string name="gm_ignite">Ignite</string>
+    <string name="gm_interference">Disrupt</string>
+    <string name="gm_junzu">Swift Feet</string>
+    <string name="gm_miraculous">Divine Step</string>
+    <string name="gm_purify">Purify</string>
+    <string name="gm_removal">Uproot</string>
+    <string name="gm_self_healing">Self-Heal</string>
+    <string name="gm_service_spirit">Servant Spirit</string>
+    <string name="gm_shield">Shield</string>
+    <string name="gm_shield_guard">Shield Guard</string>
+    <string name="gm_shunpo">Blink Step</string>
+    <string name="gm_smite">Punish</string>
+    <string name="gm_snowball">Snowball</string>
+    <string name="gm_sprint">Sprint</string>
+    <string name="gm_stun">Daze</string>
+    <string name="gm_surrender">Subdue</string>
+    <string name="gm_weak">Weaken</string>
+    <string name="gm_weaken">Enfeeble</string>
+    <string name="login">Sign in</string>
+    <string name="move_freedom_window">Move the free-form window</string>
+    <string name="on_hook_tip">The game keeps running with the screen off. Double-tap the screen or press the power button to wake it. This is not a lock screen, so mind your privacy</string>
+    <string name="study_window_mode_opration">Learn window controls</string>
+    <string name="turn_on">Turn on</string>
+</resources>

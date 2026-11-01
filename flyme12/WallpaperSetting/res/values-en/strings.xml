@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="account_varied_wallpaper">Lock screen magazine</string>
+    <string name="aod">AOD</string>
+    <string name="aod_display_mode_subtitle">Tap the screen to show content for a while</string>
+    <string name="aod_notification_bright_screen">Wake screen for notifications</string>
+    <string name="aod_notification_bright_screen_subtitle">When the screen is off, it turns on when a notification arrives</string>
+    <string name="appearance_manage">Manage</string>
+    <string name="i_know">Got it</string>
+    <string name="lock">Lock screen</string>
+    <string name="move_phone_display">Show when the phone moves</string>
+    <string name="request_permissin_desc">You can turn it on or off in Themes.</string>
+    <string name="save_power_mode">This feature is not supported</string>
+    <string name="setting">Settings</string>
+    <string name="system_setting_layout_des_1">AOD</string>
+    <string name="system_setting_more_des_4">Smart and ever-changing</string>
+    <string name="system_setting_more_des_7">Smart and ever-changing</string>
+    <string name="to_setting">Set up</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="aod_delete_records">
+        <item quantity="one">Удалить %s запись</item>
+        <item quantity="few">Удалить %s записи</item>
+        <item quantity="many">Удалить %s записей</item>
+        <item quantity="other">Удалить %s записи</item>
+    </plurals>
+    <plurals name="aod_select_num">
+        <item quantity="one">Выбран %d элемент</item>
+        <item quantity="few">Выбрано %d элемента</item>
+        <item quantity="many">Выбрано %d элементов</item>
+        <item quantity="other">Выбрано %d элемента</item>
+    </plurals>
+</resources>

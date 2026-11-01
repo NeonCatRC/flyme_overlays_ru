@@ -1,5 +1,6 @@
 app	package	version	own	own_check	apk	new	todo	unused	skip	en_new	en_fix	en_todo
 AlarmClock	com.android.alarmclock	12.0.46 120000046	353	0	114	0	151	50	25	0	0	0
+AliveWallPaper	com.flyme.alivewallpaper	13.0.5 13000005	0	0	10	35	0	7	9	1	0	0
 AlphaMe	com.meizu.alphame	12.0.19 12000019	12	0	188	0	135	62	21	0	0	0
 AppCenter	com.meizu.mstore	12.5.1 12205001	256	2	62	0	850	49	37	0	0	0
 Assistant	com.meizu.assistant	13.0.6 130000006	398	9	17	0	643	57	27	0	0	0
@@ -29,6 +30,7 @@ MzSecurity	com.meizu.safe	12.1.48 12001048	1255	26	38	0	1002	57	35	0	0	0
 MzSetupWizard	com.meizu.setup	12.0.25 12000025	0	256	66	0	358	66	26	0	0	0
 MzShare	com.meizu.share	6.1.14 6001014	471	5	18	0	87	69	24	0	0	0
 MzUpdate	com.meizu.flyme.update	12.0.15 12000015	651	13	38	0	159	1	24	0	0	0
+NativeLockScreen	com.meizu.net.nativelockscreen	12.2.2 12202002	0	0	215	216	0	35	131	85	16	0
 NetAdmin	com.flyme.netadmin	11.0.3 110000300	308	3	8	0	75	42	19	0	0	0
 NotePaper	com.meizu.notepaper	12.0.68 1200000068	499	9	407	0	201	28	22	0	0	0
 PackageInstaller	com.android.packageinstaller	16 36	360	18	110	0	177	45	23	0	0	0
@@ -37,10 +39,12 @@ Picker	com.meizu.picker	12.2.34 12002034	304	4	7	0	247	78	23	0	0	0
 SDKStage	com.meizu.flyme.sdkstage	5.0.01 50000001	128	0	9	0	88	11	8	0	0	0
 Settings	com.android.settings	12.1.0 12001000	4521	436	4691	191	0	158	583	0	0	0
 Suggestion	com.meizu.suggestion	12.5.10 12005010	89	2	0	0	512	3	15	0	0	0
-SystemUI	com.android.systemui	16.26.06.25_base 16260625	1771	64	1947	93	0	171	294	0	0	0
+SystemUI	com.android.systemui	16.26.06.25_base 16260625	1771	64	1947	93	0	171	294	3	0	0
+SystemUIEditor	com.flyme.systemuieditor	3.5.45 30005045	0	0	189	165	0	105	149	10	34	0
 SystemUIEx	com.flyme.systemuiex	12.3.14 12003014	267	7	48	14	0	65	69	0	0	0
-SystemUITools	com.flyme.systemuitools	13.1.2 13001002	314	5	168	165	0	16	75	0	0	0
+SystemUITools	com.flyme.systemuitools	13.1.2 13001002	314	5	168	165	0	16	75	27	13	0
 ToolBox	com.meizu.flyme.toolbox	12.0.15 12000015	367	0	107	0	88	51	20	0	0	0
 Video	com.meizu.media.video	17.23.0 17223000	263	0	30	0	266	29	23	0	0	0
 VoiceAssistant	com.meizu.voiceassistant	12.1.46 12000146	754	8	0	0	1120	234	54	0	0	0
+WallpaperSetting	com.meizu.wallpapersetting	3.2.0 3002000	0	0	32	130	0	17	67	0	16	0
 Weather	com.meizu.flyme.weather	54.3.60 54003060	459	0	111	458	0	61	169	99	102	0

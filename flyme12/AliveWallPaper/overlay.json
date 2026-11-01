@@ -1,0 +1,6 @@
+{
+ "target": "com.flyme.alivewallpaper",
+ "target_path": "/system/app/AliveWallPaper/AliveWallPaper.apk",
+ "app_version": "13.0.5 13000005",
+ "flyme": "12.6"
+}

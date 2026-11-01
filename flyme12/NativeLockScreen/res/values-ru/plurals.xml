@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="local_delete_pap">
+        <item quantity="one">Удалить %d обои</item>
+        <item quantity="few">Удалить %d обоев</item>
+        <item quantity="many">Удалить %d обоев</item>
+        <item quantity="other">Удалить %d обоев</item>
+    </plurals>
+    <plurals name="news_lite_hour_ago">
+        <item quantity="one">%d час назад</item>
+        <item quantity="few">%d часа назад</item>
+        <item quantity="many">%d часов назад</item>
+        <item quantity="other">%d часа назад</item>
+    </plurals>
+    <plurals name="news_lite_minute_ago">
+        <item quantity="one">%d минуту назад</item>
+        <item quantity="few">%d минуты назад</item>
+        <item quantity="many">%d минут назад</item>
+        <item quantity="other">%d минуты назад</item>
+    </plurals>
+</resources>

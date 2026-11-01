@@ -1,0 +1,6 @@
+{
+ "target": "com.meizu.wallpapersetting",
+ "target_path": "/system/app/WallpaperSetting/WallpaperSetting.apk",
+ "app_version": "3.2.0 3002000",
+ "flyme": "12.6"
+}

@@ -1,0 +1,6 @@
+{
+ "target": "com.flyme.systemuieditor",
+ "target_path": "/system/app/SystemUIEditor/SystemUIEditor.apk",
+ "app_version": "3.5.45 30005045",
+ "flyme": "12.6"
+}
