@@ -8,4 +8,18 @@
         <item quantity="other">d.M HH:mm</item>
         <item quantity="zero">HH:mm</item>
     </plurals>
+    <plurals name="news_lite_before_today_chinese_year">
+        <item quantity="zero">HH:mm</item>
+        <item quantity="other">d.M.yyyy</item>
+    </plurals>
+    <plurals name="news_lite_before_today_year">
+        <item quantity="zero">HH:mm</item>
+        <item quantity="other">d.M.yyyy</item>
+    </plurals>
+    <plurals name="news_lite_hour_ago">
+        <item quantity="other">%d ч назад</item>
+    </plurals>
+    <plurals name="news_lite_minute_ago">
+        <item quantity="other">%d мин назад</item>
+    </plurals>
 </resources>

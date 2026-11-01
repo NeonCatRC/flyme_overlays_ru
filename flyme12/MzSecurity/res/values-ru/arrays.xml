@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="lab_mdm_query_entries">
+        <item>Fengchao: приложения, работающие в фоне</item>
+        <item>Fengchao: защита от удаления</item>
+        <item>Fengchao: запрет очистки кэша</item>
+        <item>Fengchao: доверенные приложения</item>
+        <item>Fengchao: белый список вызовов</item>
+        <item>Fengchao: чёрный список вызовов</item>
+        <item>Fengchao: режим показа номера</item>
+    </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
@@ -60,5 +69,11 @@
         <item>Нарушение</item>
         <item>Плохое качество</item>
         <item>Обложка оскорбительна</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
     </string-array>
 </resources>

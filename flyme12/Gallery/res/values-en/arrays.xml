@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="memory_video_music">
+        <item>Simple</item>
+        <item>Relaxed</item>
+        <item>Soothing</item>
+        <item>Cute</item>
+        <item>Lively</item>
+        <item>Cheerful</item>
+    </string-array>
+</resources>

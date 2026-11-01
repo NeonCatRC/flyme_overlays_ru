@@ -55,4 +55,18 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+    <string-array name="memory_video_music">
+        <item>Простая</item>
+        <item>Лёгкая</item>
+        <item>Спокойная</item>
+        <item>Милая</item>
+        <item>Живая</item>
+        <item>Весёлая</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
 </resources>

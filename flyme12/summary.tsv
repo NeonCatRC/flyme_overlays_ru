@@ -18,7 +18,7 @@ FlymeLauncher	com.meizu.flyme.launcher	13.0.0 13000000	468	19	272	155	0	30	205	4
 FlymeMusic	com.meizu.media.music	12.2.0 12202000	318	3	51	0	1607	240	25	0	0	0
 FlymeSoundRecorder	com.android.soundrecorder	12.3.7 12003007	355	7	190	0	133	3	20	0	0	0
 framework-res	android	16 36	1320	95	1312	275	0	0	687	65	11	0
-Gallery	com.meizu.media.gallery	12.7.3 1200070003	1305	12	468	0	497	68	27	0	0	0
+Gallery	com.meizu.media.gallery	12.7.3 1200070003	1309	0	468	377	0	68	155	42	52	0
 GameCenter	com.meizu.flyme.gamecenter	12.3.0 12003000	1062	16	6	0	570	151	41	0	0	0
 InCallUI	com.android.incallui	14.01.07 14001007	188	7	43	20	0	3	78	0	0	0
 mCareNew	com.meizu.mcare	8.0.0 800	184	2	71	0	346	28	24	0	0	0
@@ -26,7 +26,7 @@ Mms	com.android.mms	12.3.4 12003004	867	20	0	410	0	225	160	74	16	0
 MusicFX	com.android.musicfx	5.0.0 50001	213	0	3	0	9	5	3	0	0	0
 MzAccount	com.meizu.account	12.0.14 12000014	258	4	100	0	111	24	23	0	0	0
 MzBatteryManager	com.meizu.battery	12.0.24 12000024	252	6	8	0	166	76	24	0	0	0
-MzSecurity	com.meizu.safe	12.1.48 12001048	1255	26	38	0	1002	57	35	0	0	0
+MzSecurity	com.meizu.safe	12.1.48 12001048	1267	0	38	535	0	57	516	101	140	0
 MzSetupWizard	com.meizu.setup	12.0.25 12000025	0	256	66	0	358	66	26	0	0	0
 MzShare	com.meizu.share	6.1.14 6001014	471	5	18	0	87	69	24	0	0	0
 MzUpdate	com.meizu.flyme.update	12.0.15 12000015	651	13	38	0	159	1	24	0	0	0
