@@ -1,4 +1,5 @@
 name	origin
+array/entries_meizu_app_font_size	fix
 array/special_locale_names	skip
 camera_open_failed_msg	fix
 certificated_information_summary	fix

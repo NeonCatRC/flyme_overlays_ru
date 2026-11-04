@@ -26,6 +26,8 @@
     <string name="download_on_mobile_network_without_size">Download over mobile data</string>
     <string name="download_right_now">Download now</string>
     <string name="downloading">Downloading</string>
+    <string name="easy_flash_light_off">Flashlight off</string>
+    <string name="easy_flash_light_on">Flashlight on</string>
     <string name="error_network_content">No network connection. Please check your network settings</string>
     <string name="error_videoplay">Something went wrong. Playback failed</string>
     <string name="explain_for_demo_1">Layout cannot be changed on a demo phone</string>

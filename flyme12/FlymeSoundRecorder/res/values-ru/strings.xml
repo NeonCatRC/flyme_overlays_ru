@@ -290,7 +290,7 @@
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
     <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
-    <string name="mz_permission_policy_description_f10">Пожалуйста, ознакомьтесь с нашим %1$s. Для более детального понимания того, как мы собираем, используем или раскрываем ваши личные данные, пожалуйста, обратитесь к разделу «Как мы собираем и используем вашу личную информацию» в нашем %2$s</string>
+    <string name="mz_permission_policy_description_f10">Приложению нужны следующие обязательные разрешения:</string>
     <string name="mz_permission_policy_description_noly_internet">Для пользования перечисленными выше функциями и службами</string>
     <string name="mz_permission_policy_description_update">Для того, чтобы полностью защитить ваши права, мы обновили нашу политику приватности, которую можно увидеть %1$s</string>
     <string name="mz_permission_secondary_confirmation_title">Необходимые разрешения и полномочия</string>
@@ -387,7 +387,7 @@
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="new_edit_name_template">%d</string>
-    <string name="new_file_name_template">Новая_запись_ %d</string>
+    <string name="new_file_name_template">Новая запись</string>
     <string name="no_app">No application</string>
     <string name="no_network_hint_title">Нет соединения с сетью. Пожалуйста, проверьте настройки сети</string>
     <string name="not_save">Не сохранять</string>
@@ -416,7 +416,7 @@
     <string name="permission_storage">Внутреннее хранилище</string>
     <string name="permission_withdrawal">Отозвать согласие</string>
     <string name="pin">Приколоть</string>
-    <string name="policy_dialog_reminder">В процессе использования приложения мы можем запросить следующие разрешения: доступ к Bluetooth для соединения с Bluetooth-устройствами и доступ к контактам для записи звонков и определения источника аудио. Отказ от предоставления этих разрешений не повлияет на функциональность остальных функций.</string>
+    <string name="policy_dialog_reminder">При работе приложению нужны доступ к сети, чтение состояния телефона, доступ к медиафайлам (аудио), запись вызовов и уникальный идентификатор устройства (IMSI). Это нужно для паузы записи, воспроизведения аудио, записи вызовов и определения, к какой SIM-карте (основной или дополнительной) относится запись вызова. Личные данные собираются и используются только при работе соответствующих функций\n\nПрочитайте %1$s, чтобы узнать, как мы обрабатываем ваши личные данные. Нажимая «Принять», вы соглашаетесь со всем изложенным</string>
     <string name="policy_mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>
     <string name="policy_sdk_account_pp_message">Политика конфиденциальности</string>
     <string name="policy_sdk_account_pp_title">Политика конфиденциальности</string>

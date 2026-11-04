@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string-array name="camera_time_lapse_entryvalues">
-        <item>0.5c</item>
-        <item>1c</item>
-        <item>2c</item>
-        <item>4c</item>
-        <item>8c</item>
-    </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>

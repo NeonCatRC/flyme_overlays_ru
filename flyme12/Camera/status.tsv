@@ -1,5 +1,5 @@
 name	origin
-array/camera_time_lapse_entryvalues	own
+array/camera_time_lapse_entryvalues	skip
 array/mc_custom_time_picker_lunar_day	own
 array/mc_custom_time_picker_lunar_month	own
 array/mz_camera2_dof_entry	skip

@@ -171,7 +171,7 @@
     <string name="firmware_switch_content_2">Join in %1$s and experience the latest functions of Flyme. The system will not update to the version %2$s if you quit.</string>
     <string name="firmware_switch_daily_tag">Daily</string>
     <string name="firmware_switch_main_summary_enter">Thank you for joining in %1$s. Please wait for %2$s system to push</string>
-    <string name="firmware_switch_main_summary_out">Пожалуйста, подождите следующего обновления до версии, чтобы просмотреть обновления системы или %s</string>
+    <string name="firmware_switch_main_summary_out">Дождитесь следующего стабильного обновления системы или откатитесь на стабильную версию в сервисном центре</string>
     <string name="firmware_switch_notify_summary">Please wait for %s system push</string>
     <string name="firmware_switch_notify_title_enter">You have joined %s</string>
     <string name="firmware_switch_notify_title_out">You quitted from %s</string>

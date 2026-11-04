@@ -27,8 +27,10 @@
         <item quantity="one">1 активный промежуточный агент</item>
     </plurals>
     <plurals name="mz_face_management_count">
-        <item quantity="one">Зарегистрировано %1$d лиц</item>
-        <item quantity="other">Зарегистрировано %1$d лиц</item>
+        <item quantity="one">Зарегистрировано %1$d лицо</item>
+        <item quantity="few">Зарегистрировано %1$d лица</item>
+        <item quantity="many">Зарегистрировано %1$d лиц</item>
+        <item quantity="other">Зарегистрировано %1$d лица</item>
     </plurals>
     <plurals name="mz_fp_management_count">
         <item quantity="other">%1$d всего</item>

@@ -25,6 +25,8 @@ download_on_mobile_network	new
 download_on_mobile_network_without_size	new
 download_right_now	new
 downloading	new
+easy_flash_light_off	fix
+easy_flash_light_on	fix
 error_network_content	new
 error_videoplay	new
 explain_for_demo_1	fix

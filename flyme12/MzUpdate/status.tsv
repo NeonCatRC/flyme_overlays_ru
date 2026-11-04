@@ -214,7 +214,7 @@ firmware_switch_content	own
 firmware_switch_content_2	own
 firmware_switch_daily_tag	own
 firmware_switch_main_summary_enter	own
-firmware_switch_main_summary_out	apk
+firmware_switch_main_summary_out	new
 firmware_switch_notify_summary	own
 firmware_switch_notify_title_enter	own
 firmware_switch_notify_title_out	own

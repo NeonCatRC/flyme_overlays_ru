@@ -298,16 +298,16 @@
         <item>Лучшее качество (адаптивная скорость передачи)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Предпочтение качеству звука</item>
-        <item>Учитывайте качество аудио и подключения</item>
-        <item>Предпочтение качеству звука</item>
-        <item>Обеспечение наилучшего качества звука (адаптивный битрейт)</item>
+        <item>Приоритет качества подключения</item>
+        <item>Баланс качества звука и подключения</item>
+        <item>Высокое качество звука</item>
+        <item>Наилучшее качество (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Приоритет качества аудио (400 кбит/с)</item>
-        <item>Учёт качества аудио и соединения (500 кбит/с)</item>
-        <item>Приоритет качества аудио (900 кбит/с)</item>
-        <item>Обеспечение наилучшего качества звука (адаптивный битрейт)</item>
+        <item>Приоритет качества подключения (400 кбит/с)</item>
+        <item>Баланс качества звука и подключения (500 кбит/с)</item>
+        <item>Высокое качество звука (900 кбит/с)</item>
+        <item>Наилучшее качество (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Выбор системы (по умолчанию)</item>
@@ -360,17 +360,11 @@
         <item>Воспроизведение через слуховой аппарат</item>
         <item>Воспроизведение через динамик телефона</item>
     </string-array>
-    <string-array name="bluetooth_avrcp_version_values">
-        <item>AVRCP16</item>
-        <item>avrcp13</item>
-        <item>AVRCP14</item>
-        <item>avrcp15</item>
-    </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (по умолч.)</item>
+        <item>AVRCP 1.6 (по умолчанию)</item>
         <item>AVRCP 1.3</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.5</item>
-        <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_broadcast_pin_config_titles">
         <item>Без шифрования (нет защиты)</item>
@@ -382,15 +376,10 @@
         <item>Unicast</item>
         <item>Unicast и Broadcast</item>
     </string-array>
-    <string-array name="bluetooth_map_version_values">
-        <item>map12</item>
-        <item>map13</item>
-        <item>map14</item>
-    </string-array>
     <string-array name="bluetooth_map_versions">
-        <item>MAP 1.2 (по умолчанию)</item>
+        <item>MAP 1.4 (по умолчанию)</item>
         <item>MAP 1.3</item>
-        <item>MAP 1.4</item>
+        <item>MAP 1.2</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>Использовать выбор системы: %1$d</item>
@@ -409,6 +398,9 @@
         <item>Отключено</item>
         <item>Включены фильтры</item>
         <item>Включено</item>
+        <item>Фильтр заголовков</item>
+        <item>Фильтр медиапакетов</item>
+        <item>Фильтр профилей</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Только заголовки списка контроля доступа</item>
@@ -525,14 +517,14 @@
         <item>Полноцветный режим</item>
     </string-array>
     <string-array name="display_mode_sf_render_entries">
-        <item>Природа</item>
-        <item>профессиональный</item>
-        <item>Яркий цвет</item>
+        <item>Естественный</item>
+        <item>Профессиональный</item>
+        <item>Яркий</item>
     </string-array>
     <string-array name="display_mode_sf_render_summary">
-        <item>Цветной дисплей мягкий и естественный</item>
-        <item>Принятие стандарта D65, цветной дисплей более реалистичен</item>
-        <item>Используя широкую цветовую гамму, цветной дисплей становится более ярким</item>
+        <item>Естественные цвета с мягкими, приглушёнными тонами</item>
+        <item>Соответствует стандарту D65 для более реалистичной цветопередачи</item>
+        <item>Широкий цветовой охват для более ярких и насыщенных цветов</item>
     </string-array>
     <string-array name="display_mode_summary">
         <item>Яркие и точные цвета, подходит для повседневнего использования</item>
@@ -962,12 +954,12 @@
         <item>Только ядро</item>
     </string-array>
     <string-array name="settings_home_dialog_privacy_summary">
-        <item>Используется для чтения IMEI, MAC-адреса и отображения информации об идентификаторе устройства</item>
-        <item>Настройка приложения</item>
-        <item>Используется для настройки функции Не беспокоить</item>
+        <item>Используется для чтения IMEI, MAC-адреса и показа идентификатора устройства</item>
+        <item>Настройка работы приложений</item>
+        <item>Используется для выбора контактов, которые могут присылать уведомления в режиме фокусировки</item>
     </string-array>
     <string-array name="settings_home_dialog_privacy_title">
-        <item>Чтение статуса и идентификационного кода телефона</item>
+        <item>Доступ к статусу вызовов и данным мобильной сети</item>
         <item>Чтение списка приложений</item>
         <item>Чтение контактов</item>
     </string-array>
@@ -978,7 +970,7 @@
         <item>Последняя активность</item>
     </string-array>
     <string-array name="shade_display_awareness_summaries">
-        <item>Показывать тень только на экране устройства</item>
+        <item>Показывать панель уведомлений только на экране устройства</item>
         <item>Показывать панель уведомлений на единственном внешнем дисплее</item>
         <item>Показывать панель уведомлений на дисплее, со строкой состояния которого пользователь взаимодействовал в последний раз</item>
         <item>Показывать панель уведомлений на дисплее, на который пользователь перешел в последний раз</item>
@@ -1004,27 +996,27 @@
         <item>Центр уведомлений</item>
         <item>Центр управления</item>
         <item>Поиск</item>
-        <item>Нет отклика</item>
+        <item>Отключено</item>
     </string-array>
     <string-array name="smart_touch_behavior_click_entries">
         <item>Ничего</item>
         <item>Назад</item>
     </string-array>
     <string-array name="smart_touch_behavior_doubleclick_entries">
-        <item>Закрыть</item>
-        <item>Опустить экран вниз</item>
+        <item>Нет</item>
+        <item>Режим одной руки</item>
         <item>Открыть панель уведомлений</item>
         <item>Открыть центр управления</item>
-        <item>Блокировка экрана</item>
-        <item>Включить многозадачность</item>
+        <item>Заблокировать экран</item>
+        <item>Диспетчер задач</item>
     </string-array>
     <string-array name="smart_touch_behavior_down_entries">
-        <item>Закрыть</item>
+        <item>Нет</item>
         <item>Открыть панель уведомлений</item>
         <item>Открыть центр управления</item>
-        <item>Опустить экран вниз</item>
-        <item>Блокировка экрана</item>
-        <item>Вернуться на главный экран</item>
+        <item>Режим одной руки</item>
+        <item>Заблокировать экран</item>
+        <item>Вернуться на рабочий стол</item>
     </string-array>
     <string-array name="smart_touch_behavior_left_right_entries">
         <item>Ничего</item>
@@ -1036,8 +1028,8 @@
     </string-array>
     <string-array name="smart_touch_behavior_up_entries">
         <item>Нет</item>
-        <item>Возврат на главный экран</item>
-        <item>Блокировка экрана</item>
+        <item>Вернуться на рабочий стол</item>
+        <item>Заблокировать экран</item>
         <item>Диспетчер задач</item>
     </string-array>
     <string-array name="special_locale_names">

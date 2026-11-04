@@ -495,7 +495,7 @@
     <string name="mz_permission_deny">Отклонить</string>
     <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
-    <string name="mz_permission_policy_description_f10">Для полного использования продукта и услуг необходимо прочитать и согласиться с %1$s. Указанные выше условия помогут вам понять, какую информацию мы собираем, используем, храним и делаем доступной, а также ваши права. Для работы приложения требуется подключение к сети и предоставление следующих обязательных разрешений.</string>
+    <string name="mz_permission_policy_description_f10">Приложению нужны следующие обязательные разрешения:</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">WLAN</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>

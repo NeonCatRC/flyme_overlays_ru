@@ -394,7 +394,7 @@ mz_permission_inform_secondary_confirmation_summary	own
 mz_permission_message_content	own
 mz_permission_message_supplement	own
 mz_permission_policy_description	own
-mz_permission_policy_description_f10	apk
+mz_permission_policy_description_f10	new
 mz_permission_policy_description_f9	todo
 mz_permission_policy_description_noly_internet	own
 mz_permission_policy_description_update	own
@@ -500,7 +500,7 @@ mzuc_update_title_s	own
 mzuc_wait_tip	own
 mzuc_warn_later	own
 new_edit_name_template	apk
-new_file_name_template	apk
+new_file_name_template	new
 new_file_name_template_float	todo
 no_app	apk
 no_network_hint_title	apk
@@ -534,7 +534,7 @@ permission_save_storage	own
 permission_storage	own
 permission_withdrawal	apk
 pin	apk
-policy_dialog_reminder	apk
+policy_dialog_reminder	new
 policy_mz_wif_setting_dialog_message	own
 policy_sdk_account_center	todo
 policy_sdk_account_pp_message	own

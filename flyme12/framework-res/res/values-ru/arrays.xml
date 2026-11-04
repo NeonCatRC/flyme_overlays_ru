@@ -100,84 +100,88 @@
         <item>180px</item>
     </string-array>
     <string-array name="system_ringtone_name_list1">
+        <item>Бесконечная страсть</item>
+        <item>Flyme (фортепиано, Лан Лан)</item>
         <item>Ожидание</item>
         <item>Пианино</item>
-        <item>Цифровое</item>
+        <item>Цифровая</item>
         <item>Flyme</item>
         <item>Музыкальная шкатулка</item>
-        <item>Техника и наука</item>
+        <item>Технологии</item>
         <item>Гитара</item>
         <item>Маримба</item>
-        <item>Каприз</item>
+        <item>Озорство</item>
         <item>Кристалл</item>
-        <item>Состояние</item>
+        <item>Прогресс</item>
         <item>Котята</item>
         <item>Утренняя песня</item>
-        <item>Звонок любви</item>
-        <item>Переключатель</item>
-        <item>Путешествие начинается</item>
+        <item>Зов любви</item>
+        <item>Неваляшка</item>
+        <item>Начало пути</item>
         <item>Новая жизнь</item>
         <item>Сердцебиение</item>
-        <item>East ville memory</item>
+        <item>Воспоминания об Ист-Вилле</item>
         <item>Вальс</item>
         <item>Кантор</item>
-        <item>Энтузиазм</item>
+        <item>Страсть</item>
         <item>Путешествие</item>
         <item>Игра</item>
         <item>Танец дождя</item>
-        <item>Ночные танцы</item>
+        <item>Танец в сумерках</item>
         <item>Перед рассветом</item>
-        <item>Домой</item>
+        <item>Дом</item>
         <item>Блюз</item>
-        <item>Тире</item>
-        <item>Механический рингтон</item>
+        <item>Рывок</item>
+        <item>Механический звонок</item>
         <item>Телефон</item>
-        <item>Звуковой сигнал</item>
+        <item>Пейджер</item>
         <item>После школы</item>
         <item>Марио</item>
-        <item>Доброй ночи</item>
-        <item>Полет</item>
+        <item>Спокойной ночи</item>
+        <item>Полёт</item>
         <item>Детство</item>
         <item>Утренняя пробежка</item>
-        <item>Милый</item>
-        <item>Вызов на сцену</item>
+        <item>Любимая</item>
+        <item>Поклон</item>
         <item>Колокольчик</item>
         <item>Челеста</item>
         <item>Триумф</item>
         <item>Напоминание</item>
         <item>Дверной звонок</item>
-        <item>Продвижение</item>
-        <item>Маленький кристалл</item>
+        <item>Повышение</item>
+        <item>Кристаллик</item>
         <item>Прибытие</item>
-        <item>Умнее</item>
-        <item>Гибкость</item>
-        <item>Пробка красного вина</item>
-        <item>Касание</item>
-        <item>Капля воды</item>
-        <item>Ссылка</item>
+        <item>Смекалка</item>
+        <item>Ловкость</item>
+        <item>Пробка от вина</item>
+        <item>Постукивание</item>
+        <item>Капля</item>
+        <item>Связь</item>
         <item>Вращение</item>
         <item>Подарок</item>
-        <item>Зачеркивания</item>
-        <item>Чистый</item>
+        <item>Удары</item>
+        <item>Чистота</item>
         <item>Ритм</item>
-        <item>Каприз</item>
+        <item>Озорство</item>
         <item>Шоколад</item>
-        <item>Кодовое слово</item>
-        <item>Угол</item>
+        <item>Пароль</item>
+        <item>Уголок</item>
         <item>Империя</item>
         <item>Прыжок</item>
         <item>Лапута</item>
         <item>Метеор</item>
         <item>Рябь</item>
-        <item>Блеск</item>
+        <item>Сияние</item>
         <item>Тихая ночь</item>
-        <item>Северная звезда</item>
-        <item>Time Tunnel</item>
-        <item></item>
-        <item></item>
+        <item>Полярная звезда</item>
+        <item>Туннель времени</item>
+        <item>Пробуждение</item>
+        <item>Пробуждение (спокойная версия)</item>
+        <item>Парящий свет</item>
+        <item>Парящий свет (спокойная версия)</item>
     </string-array>
     <string-array name="urlspan_date_dialog_title">
-        <item>Новое событие</item>
+        <item>Добавить в календарь</item>
         <item>Открыть в календаре</item>
         <item>Копировать</item>
     </string-array>

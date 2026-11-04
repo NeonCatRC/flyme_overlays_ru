@@ -1588,7 +1588,7 @@
     <string name="photo_graph_describe_detect_fail_tile">Описательные слова недоступны</string>
     <string name="photo_graph_gender_tips">ИИ будет генерировать фотографии в соответствии с выбранным вами полом</string>
     <string name="photo_graph_generate_photo">Создать фотографию</string>
-    <string name="photo_graph_generating_tips_3">Генерация в процессе, ожидайте %d секунд</string>
+    <string name="photo_graph_generating_tips_3">Генерация</string>
     <string name="photo_graph_history_title">Исторические портреты</string>
     <string name="photo_graph_multi_face">На фотографии присутствует несколько человек. Пожалуйста, используйте фото с одним человеком</string>
     <string name="photo_graph_net_wifi_tips">Эта функция требует подключения к беспроводной сети для завершения начальной настройки, пожалуйста, сначала переключитесь на беспроводную сеть</string>
