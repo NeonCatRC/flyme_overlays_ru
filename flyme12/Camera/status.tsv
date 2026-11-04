@@ -335,7 +335,7 @@ mz_cam_mode_document	own
 mz_cam_mode_funny_snap	own
 mz_cam_mode_funny_snap_no_face	own
 mz_cam_mode_gif	own
-mz_cam_mode_hight_pixel	apk
+mz_cam_mode_hight_pixel	new
 mz_cam_mode_macro	own
 mz_cam_mode_makeup	own
 mz_cam_mode_manual	own
@@ -352,12 +352,12 @@ mz_cam_mode_timelapse	own
 mz_cam_mode_white_black	own
 mz_children_protect_title	apk
 mz_cpu_fm_inefficient_toast	own
-mz_cta_permission_audio	apk
+mz_cta_permission_audio	new
 mz_cta_permission_camera	apk
 mz_cta_permission_storage_read	apk
 mz_cta_permission_storage_read_title	apk
 mz_cta_permission_storage_write	apk
-mz_cta_permission_storage_write_title	apk
+mz_cta_permission_storage_write_title	new
 mz_custom_device_mark_defalut_hint	own
 mz_custom_device_mark_dialog_error_hint_length	own
 mz_custom_device_mark_dialog_negative	own
@@ -398,7 +398,7 @@ mz_handle_surrounding_dark_hint	own
 mz_hint_af_lock_ae	own
 mz_hint_af_lock_af	own
 mz_hint_af_lock_all	own
-mz_hint_edof_desc	apk
+mz_hint_edof_desc	new
 mz_hint_exit_immersion_mode	own
 mz_hint_quick_burst	own
 mz_hint_show_smart_bar_bottom	own
@@ -407,7 +407,7 @@ mz_hint_supernight_desc	own
 mz_hint_wideangle_desc	own
 mz_idle_camera_hint	apk
 mz_immersion_mode_switch_title	own
-mz_information_share_title	apk
+mz_information_share_title	new
 mz_just_wide_angle_not_support_burst	own
 mz_macro_focus_distance_hint	own
 mz_makeup_title_barbie	apk
@@ -483,10 +483,10 @@ mz_permissiongroup_name_bluetooth	own
 mz_permissiongroup_name_change_network	own
 mz_permissiongroup_name_net	own
 mz_permissiongroup_name_other	own
-mz_person_information_title	apk
-mz_please_open_audio_permission	apk
+mz_person_information_title	new
+mz_please_open_audio_permission	new
 mz_please_open_audio_permission_message	apk
-mz_please_open_camera_permission	apk
+mz_please_open_camera_permission	new
 mz_please_open_camera_permission_message	apk
 mz_please_open_location_permission	new
 mz_please_open_location_permission_message	new
@@ -496,7 +496,7 @@ mz_privacy_policy	own_check
 mz_privacy_text	apk
 mz_privacy_title	apk
 mz_privacy_withdraw	apk
-mz_reading_light_info_guide_hint	apk
+mz_reading_light_info_guide_hint	new
 mz_record_device_occupied	own
 mz_record_portrait_hint_close	own
 mz_record_portrait_hint_open	own
@@ -522,12 +522,12 @@ mz_setting_click_video_record_limited_hint	own
 mz_setting_click_video_suppord_eis_hint	own
 mz_setting_click_voice_hint	own
 mz_setting_count_down_close	own
-mz_setting_countdown_breathe_light_title	apk
+mz_setting_countdown_breathe_light_title	new
 mz_setting_countdown_title	own
 mz_setting_eis	own
 mz_setting_fs_hd	own
 mz_setting_funnycam_mark_title	own
-mz_setting_gesture	apk
+mz_setting_gesture	new
 mz_setting_hdr_title	skip
 mz_setting_highpixel_200m_title	new
 mz_setting_lens_correction_switch_label	own_check
@@ -540,7 +540,7 @@ mz_setting_manual_20m_title	own
 mz_setting_manual_48m_title	own
 mz_setting_manual_50m_title	own
 mz_setting_manual_64m_title	own
-mz_setting_mark_content	apk
+mz_setting_mark_content	new
 mz_setting_mark_hint_none	own
 mz_setting_mark_hint_pro	apk
 mz_setting_mark_hint_pro_shorthand	own
@@ -656,7 +656,7 @@ mz_toggle_hint_hdr_close	own
 mz_toggle_hint_hdr_open	own
 mz_toggle_hint_high_define_close	own
 mz_toggle_hint_high_define_open	own
-mz_toggle_hint_high_size_notify	apk
+mz_toggle_hint_high_size_notify	new
 mz_toggle_hint_hp_shoot_notify_200m	apk
 mz_toggle_hint_hp_shoot_notify_50m	apk
 mz_toggle_hint_keep_camera_stable	apk
@@ -685,8 +685,8 @@ mz_wifi_encription	own
 mz_wifi_no_password	own
 mz_wifi_password_pre	own
 mz_wifi_title	own
-mz_withdraw_privacy_policy_description_f10	apk
-mz_withdraw_privacy_title	apk
+mz_withdraw_privacy_policy_description_f10	new
+mz_withdraw_privacy_title	new
 mzuc_app_update_channel	own
 mzuc_cancel_download	own
 mzuc_cancel_install	own
@@ -796,7 +796,7 @@ pref_watermark_style_type_default	skip
 preference_copied	own
 preparing_sd	own
 qr_code_result_insist_access	own
-qr_code_result_risk_desc	apk
+qr_code_result_risk_desc	new
 qr_code_result_risk_title	own
 qr_code_result_security_desc	apk
 qr_code_result_security_title	own

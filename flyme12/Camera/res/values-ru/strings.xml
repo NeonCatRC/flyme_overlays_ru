@@ -211,7 +211,7 @@
     <string name="mz_cam_mode_funny_snap">Забавный кадр</string>
     <string name="mz_cam_mode_funny_snap_no_face">Невозможно распознать лица</string>
     <string name="mz_cam_mode_gif">GIF</string>
-    <string name="mz_cam_mode_hight_pixel">Высокий разрешение</string>
+    <string name="mz_cam_mode_hight_pixel">Высокое разрешение</string>
     <string name="mz_cam_mode_macro">Макро</string>
     <string name="mz_cam_mode_makeup">Мейкап</string>
     <string name="mz_cam_mode_manual">Вручную</string>
@@ -228,12 +228,12 @@
     <string name="mz_cam_mode_white_black">Ч/б</string>
     <string name="mz_children_protect_title">Правила защиты личной информации детей</string>
     <string name="mz_cpu_fm_inefficient_toast">Диагностирована высокая температура. Скорость обработки будет снижена для защиты телефона.</string>
-    <string name="mz_cta_permission_audio">Получать звук при записи</string>
+    <string name="mz_cta_permission_audio">Для записи звука при съёмке видео</string>
     <string name="mz_cta_permission_camera">Для фотографирования или записи видео</string>
     <string name="mz_cta_permission_storage_read">Для предварительного просмотра снятых фотографий или видео</string>
     <string name="mz_cta_permission_storage_read_title">Чтение изображений и видео</string>
     <string name="mz_cta_permission_storage_write">Для хранения изображений или видео</string>
-    <string name="mz_cta_permission_storage_write_title">Запись во внутреннюю память телефона</string>
+    <string name="mz_cta_permission_storage_write_title">Запись в хранилище</string>
     <string name="mz_custom_device_mark_defalut_hint">Своё</string>
     <string name="mz_custom_device_mark_dialog_error_hint_length">Допустимо не более 20 символов</string>
     <string name="mz_custom_device_mark_dialog_negative">Отмена</string>
@@ -272,7 +272,7 @@
     <string name="mz_hint_af_lock_ae">AE Lock</string>
     <string name="mz_hint_af_lock_af">AF Lock</string>
     <string name="mz_hint_af_lock_all">AF/AE Lock</string>
-    <string name="mz_hint_edof_desc">Нажмите, чтобы попробовать слияние глубины резкости</string>
+    <string name="mz_hint_edof_desc">Нажмите «Сложение фокуса», чтобы резкими были и передний, и задний план</string>
     <string name="mz_hint_exit_immersion_mode">Нажмите 2 раза чтобы выйти из предпросмотра</string>
     <string name="mz_hint_quick_burst">Перетащите и удерживайте затвор, чтобы сфотографировать</string>
     <string name="mz_hint_show_smart_bar_bottom">Проведите пальцем вниз, чтобы изменить положение панели действий</string>
@@ -281,7 +281,7 @@
     <string name="mz_hint_wideangle_desc">Коснитесь для расширения поля зрения и приближения</string>
     <string name="mz_idle_camera_hint">Коснитесь экрана, чтобы активировать камеру</string>
     <string name="mz_immersion_mode_switch_title">Предпросмотр</string>
-    <string name="mz_information_share_title">Список передачи данных третьим лицам</string>
+    <string name="mz_information_share_title">Информация, передаваемая третьим лицам</string>
     <string name="mz_just_wide_angle_not_support_burst">Серийная съемка не поддерживается в сверхширокоугольном режиме</string>
     <string name="mz_macro_focus_distance_hint">Лучшее расстояние фокусировки: в пределах 3 см</string>
     <string name="mz_makeup_title_barbie">Кукла Барби</string>
@@ -357,10 +357,10 @@
     <string name="mz_permissiongroup_name_change_network">Wi-Fi</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>
     <string name="mz_permissiongroup_name_other">Другое</string>
-    <string name="mz_person_information_title">Список сбора личной информации</string>
-    <string name="mz_please_open_audio_permission">Пожалуйста, включите разрешение на \'запись аудио\'</string>
+    <string name="mz_person_information_title">Список собираемых персональных данных</string>
+    <string name="mz_please_open_audio_permission">Включите разрешение «Запись аудио»</string>
     <string name="mz_please_open_audio_permission_message">Для записи видео, создания динамических фотографий и других функций требуется это разрешение</string>
-    <string name="mz_please_open_camera_permission">Пожалуйста, включите разрешение \'Камера\'</string>
+    <string name="mz_please_open_camera_permission">Включите разрешение «Камера»</string>
     <string name="mz_please_open_camera_permission_message">Для фотосъемки, видеозаписи и других функций требуется это разрешение</string>
     <string name="mz_please_open_location_permission">Включите разрешение на доступ к местоположению</string>
     <string name="mz_please_open_location_permission_message">Это разрешение нужно, например, чтобы указывать место в водяном знаке.</string>
@@ -370,7 +370,7 @@
     <string name="mz_privacy_text">Политика конфиденциальности</string>
     <string name="mz_privacy_title">Политика конфиденциальности</string>
     <string name="mz_privacy_withdraw">Отозвать согласие</string>
-    <string name="mz_reading_light_info_guide_hint">Нажмите, чтобы включить вспышку</string>
+    <string name="mz_reading_light_info_guide_hint">Нажмите, чтобы включить подсветку</string>
     <string name="mz_record_device_occupied">Сначала закройте Диктофон</string>
     <string name="mz_record_portrait_hint_close">Видеопортрет выключен</string>
     <string name="mz_record_portrait_hint_open">Видеопортрет включен</string>
@@ -396,12 +396,12 @@
     <string name="mz_setting_click_video_suppord_eis_hint">Текущие настройки поддерживают стабилизацию</string>
     <string name="mz_setting_click_voice_hint">Скажите \"Снимаю\" или \"Сыр\"</string>
     <string name="mz_setting_count_down_close">Нет</string>
-    <string name="mz_setting_countdown_breathe_light_title">Таймер</string>
+    <string name="mz_setting_countdown_breathe_light_title">Подсветка обратного отсчёта</string>
     <string name="mz_setting_countdown_title">Обратный отсчёт</string>
     <string name="mz_setting_eis">Стабилизация</string>
     <string name="mz_setting_fs_hd">HD камера</string>
     <string name="mz_setting_funnycam_mark_title">Вотермарк Meizu</string>
-    <string name="mz_setting_gesture">Сделать фото жестом</string>
+    <string name="mz_setting_gesture">Съёмка жестом</string>
     <string name="mz_setting_highpixel_200m_title">200 Мп</string>
     <string name="mz_setting_lens_correction_switch_label">Скорректировать оптическую деформацию объектива, но область съёмки немного сузится</string>
     <string name="mz_setting_lens_correction_switch_title">Корректировка объектива</string>
@@ -413,7 +413,7 @@
     <string name="mz_setting_manual_48m_title">Ручное 48M</string>
     <string name="mz_setting_manual_50m_title">Ручное 50M</string>
     <string name="mz_setting_manual_64m_title">Ручное 64M</string>
-    <string name="mz_setting_mark_content">Водяной знак</string>
+    <string name="mz_setting_mark_content">Содержимое водяного знака</string>
     <string name="mz_setting_mark_hint_none">Нет</string>
     <string name="mz_setting_mark_hint_pro">Профессиональный</string>
     <string name="mz_setting_mark_hint_pro_shorthand">Вручную</string>
@@ -517,7 +517,7 @@
     <string name="mz_toggle_hint_hdr_open">HDR включён</string>
     <string name="mz_toggle_hint_high_define_close">Отключено HD-разрешение</string>
     <string name="mz_toggle_hint_high_define_open">Включено HD-разрешение</string>
-    <string name="mz_toggle_hint_high_size_notify">HD пригодно для съемки в условиях сильной освещенности</string>
+    <string name="mz_toggle_hint_high_size_notify">HD подходит для съёмки при ярком освещении</string>
     <string name="mz_toggle_hint_hp_shoot_notify_200m">200 мегапикселей, подходит для съемки при ярком освещении</string>
     <string name="mz_toggle_hint_hp_shoot_notify_50m">50 мегапикселей</string>
     <string name="mz_toggle_hint_keep_camera_stable">Во время съемки держите камеру устойчиво</string>
@@ -546,8 +546,8 @@
     <string name="mz_wifi_no_password">Без пароля</string>
     <string name="mz_wifi_password_pre">Пароль:</string>
     <string name="mz_wifi_title">Имя точки доступа</string>
-    <string name="mz_withdraw_privacy_policy_description_f10">Если вы отзовете свое согласие на《%1$s》，мы прекратим сбор и обработку ваших персональных данных и перестанем предоставлять любые услуги этого приложения/функции. Отзыв согласия не повлияет на вашу способность продолжать использовать другие продукты и услуги, также адаптированные для этого《%1$s》\n\nОтзыв согласия может привести к потере вами некоторых прав, пожалуйста, обдумайте это внимательно, подробности см. в разделе Права субъектов персональных данных《%1$s》\n\nЕсли вы хотите продолжить использовать наши продукты и услуги, вам нужно будет повторно зайти в приложение/функцию и снова согласиться с нашей %1$s</string>
-    <string name="mz_withdraw_privacy_title">Отозвать согласие на политику конфиденциальности</string>
+    <string name="mz_withdraw_privacy_policy_description_f10">Если вы отзовёте согласие с «%1$s», мы прекратим сбор и обработку ваших персональных данных и перестанем предоставлять услуги этого приложения или функции. Отзыв согласия не повлияет на использование других продуктов и услуг, совместимых с «%1$s»\n \nОтзыв согласия может привести к потере некоторых прав, поэтому подумайте внимательно. Подробности — в разделе о правах субъекта персональных данных в «%1$s»\n \nЧтобы снова пользоваться нашими продуктами и услугами, откройте приложение или функцию и снова примите %1$s</string>
+    <string name="mz_withdraw_privacy_title">Отозвать согласие с политикой конфиденциальности</string>
     <string name="mzuc_app_update_channel">Подсказки по обновлению приложения</string>
     <string name="mzuc_cancel_download">Отменить загрузку</string>
     <string name="mzuc_cancel_install">Отменить установку</string>
@@ -648,7 +648,7 @@
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preparing_sd">Подготовка SD-карты…</string>
     <string name="qr_code_result_insist_access">Всё-равно продолжить</string>
-    <string name="qr_code_result_risk_desc">Данный веб-сайт может содержать фишинг, мошенничество и подозрительные переадресации.Менеджер телефона советует вам выйти из сайта.</string>
+    <string name="qr_code_result_risk_desc">Сайт может содержать фишинг, мошенничество с личными данными и подозрительные перенаправления. «Безопасность» рекомендует не посещать его.</string>
     <string name="qr_code_result_risk_title">Небезопасный веб-сайт</string>
     <string name="qr_code_result_security_desc">Нормально, не представляет угрозы</string>
     <string name="qr_code_result_security_title">Защищённый сайт</string>

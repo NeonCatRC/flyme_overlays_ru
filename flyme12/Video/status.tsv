@@ -218,7 +218,7 @@ mc_date_time_day	own
 mc_date_time_hour	own
 mc_date_time_min	own
 mc_date_time_month	own
-mc_date_time_year	apk
+mc_date_time_year	new
 mc_downloading_patch_prefix	apk
 mc_downloading_prefix	own
 mc_enhanceseekbar	own
@@ -234,14 +234,14 @@ mc_pattern_hour_before	own
 mc_pattern_hour_minute	todo
 mc_pattern_hour_minute_12	todo
 mc_pattern_minute_before	own
-mc_pattern_month_day	apk
+mc_pattern_month_day	new
 mc_pattern_month_day_hour_minute	own
 mc_pattern_month_day_hour_minute_12	own
 mc_pattern_week	skip
 mc_pattern_week_hour_minute	todo
 mc_pattern_week_hour_minute_12	todo
 mc_pattern_year_month	own
-mc_pattern_year_month_day	apk
+mc_pattern_year_month_day	new
 mc_pattern_year_month_day_hour_minute	own
 mc_pattern_year_month_day_hour_minute_12	own
 mc_pattern_yesterday	own
@@ -398,7 +398,7 @@ mzuc_new_version_update_later	todo
 mzuc_new_version_update_later_noti	todo
 mzuc_notification_message_s	own
 mzuc_pause_download	own
-mzuc_retry	apk
+mzuc_retry	new
 mzuc_update_finish_format	own
 mzuc_update_immediately	own
 mzuc_update_immediately_roaming	own

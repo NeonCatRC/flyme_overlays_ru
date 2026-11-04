@@ -165,7 +165,7 @@
     <string name="feedback_time_gap_toast">Не отправляйте повторно в течение 15 минут</string>
     <string name="feedback_tips">Bad weather? Please tell us the current weather to help us improve better</string>
     <string name="feedbacking_button">Feedbacking</string>
-    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМБ</string>
+    <string name="file_selected_number">Выбрано файлов: %1$s, всего %2$s МБ</string>
     <string name="filter_ultraviolet">УФ-индекс</string>
     <string name="forty_detail_title">40 days forecast</string>
     <string name="forty_rain">Дождь</string>
@@ -271,7 +271,7 @@
     <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
     <string name="mc_every_day">Каждый день</string>
     <string name="mc_friday">ПТ</string>
-    <string name="mc_go_Refreshing">Обновить</string>
+    <string name="mc_go_Refreshing">Отпустите, чтобы обновить</string>
     <string name="mc_hour">ч.</string>
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_last_refresh">Последнее обновление</string>
@@ -288,16 +288,16 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
-    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
-    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e.%-m %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e.%-m %I:%M %p</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e/%-m %H:%M</string>
-    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e/%-m %I:%M %p</string>
-    <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
-    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
-    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-e.%-m %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-e.%-m %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%-m.%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e.%-m.%Y %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
@@ -315,10 +315,10 @@
     <string name="mc_pm_location">Найти</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_not_allow_check_app">Выход</string>
+    <string name="mc_pm_not_allow_check_app">Запретить</string>
     <string name="mc_pm_not_allow_dialog_push">Отключить</string>
     <string name="mc_pm_online_intenert">Интернет</string>
-    <string name="mc_pm_open">Открыть</string>
+    <string name="mc_pm_open">Вкл.</string>
     <string name="mc_pm_r_mms">Чтение MMS</string>
     <string name="mc_pm_r_sms">Чтение SMS</string>
     <string name="mc_pm_recordaudio_local">Запись вызовов</string>
@@ -329,9 +329,9 @@
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
     <string name="mc_pm_set_wifi_on">Включить WLAN</string>
     <string name="mc_pm_wlan">WLAN</string>
-    <string name="mc_praised_message">Как</string>
-    <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
-    <string name="mc_reject">Отклонить</string>
+    <string name="mc_praised_message">Нравится</string>
+    <string name="mc_pull_refresh">Потяните вниз, чтобы обновить</string>
+    <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
     <string name="mc_search">Поиск</string>
     <string name="mc_search_button_text">Поиск</string>
@@ -398,10 +398,10 @@
     <string name="mz_comment_sdk_comment_view_item_top_is_hot">Лучший комментарий</string>
     <string name="mz_date_time_day">д.</string>
     <string name="mz_date_time_hour">ч.</string>
-    <string name="mz_date_time_min">м.</string>
-    <string name="mz_date_time_month">м.</string>
+    <string name="mz_date_time_min">мин.</string>
+    <string name="mz_date_time_month">мес.</string>
     <string name="mz_date_time_sec">с.</string>
-    <string name="mz_date_time_year">г</string>
+    <string name="mz_date_time_year">г.</string>
     <string name="mz_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_allow">Разрешить</string>
@@ -445,8 +445,8 @@
     <string name="mz_pm_location">Местоположение</string>
     <string name="mz_pm_network">Передача данных</string>
     <string name="mz_pm_nfc">Переключение NFC</string>
-    <string name="mz_pm_not_allow_check_app">Выход</string>
-    <string name="mz_pm_not_allow_dialog_push">Откл.</string>
+    <string name="mz_pm_not_allow_check_app">Запретить</string>
+    <string name="mz_pm_not_allow_dialog_push">Блокировать</string>
     <string name="mz_pm_online_intenert">Доступ в интернет</string>
     <string name="mz_pm_open">Вкл.</string>
     <string name="mz_pm_r_mms">Чтение MMS</string>
@@ -513,8 +513,8 @@
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">ОК</string>
     <string name="mzuc_pause_download">ПАУЗА</string>
-    <string name="mzuc_reboot_update_now">Перезапустить обновление</string>
-    <string name="mzuc_retry">Повтор</string>
+    <string name="mzuc_reboot_update_now">Перезапустите для завершения обновления</string>
+    <string name="mzuc_retry">Повторить</string>
     <string name="mzuc_skip_version">Пропустить</string>
     <string name="mzuc_skip_warn_tip">Если пропустить эту версию, то предложение об установке не последует</string>
     <string name="mzuc_update_finish">Обновление завершено</string>
@@ -828,14 +828,14 @@ Focus on good authors and get quality content in time"</string>
     <string name="private_policy_dialog_custom_terms_new" formatted="false">Приложению нужен доступ к сети, чтобы показывать погоду и по вашим подпискам отправлять предупреждения и бытовые индексы. Во время работы включается геолокация и считывается местоположение, чтобы показывать местную погоду. Эти данные собираются только при использовании соответствующих функций.\n\nПодробнее о том, как мы обрабатываем ваши персональные данные, — в документах %s и %s, а о ваших правах и обязанностях — в документе %s. Нажимая «Принять», вы соглашаетесь со всем вышеизложенным.</string>
     <string name="private_policy_setting_preference">Политика конфиденциальности</string>
     <string name="prpi_webview_title">Заявление о персонализированных рекомендациях</string>
-    <string name="ptr_go_Refreshing">Отпустить для обновления</string>
+    <string name="ptr_go_Refreshing">Отпустите, чтобы обновить</string>
     <string name="ptr_is_Refreshing">Загрузка</string>
     <string name="ptr_last_refresh">Последнее обновление</string>
     <string name="ptr_last_refresh_hour">ч. назад</string>
     <string name="ptr_last_refresh_just_now">Сейчас</string>
     <string name="ptr_last_refresh_minute">мин. назад</string>
     <string name="ptr_last_refresh_second">с. назад</string>
-    <string name="ptr_pull_refresh">Потянуть вниз для обновления</string>
+    <string name="ptr_pull_refresh">Потяните вниз, чтобы обновить</string>
     <string name="push_ad">Получать Push-уведомления</string>
     <string name="rank_air_quality">Рейтинг AQI</string>
     <string name="real_status_no_rain">Без осадков</string>

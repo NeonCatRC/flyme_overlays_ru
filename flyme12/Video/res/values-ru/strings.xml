@@ -58,7 +58,7 @@
     <string name="mc_date_time_hour">ч.</string>
     <string name="mc_date_time_min">м.</string>
     <string name="mc_date_time_month">м.</string>
-    <string name="mc_date_time_year">г</string>
+    <string name="mc_date_time_year">г.</string>
     <string name="mc_downloading_patch_prefix">Скачать обновление</string>
     <string name="mc_downloading_prefix">Загружено</string>
     <string name="mc_enhanceseekbar">Использовать ползунок. Текущая установка %1$s</string>
@@ -72,11 +72,11 @@
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
     <string name="mc_pattern_minute_before">, минут назад</string>
-    <string name="mc_pattern_month_day" formatted="false">%-e/%-m</string>
+    <string name="mc_pattern_month_day" formatted="false">%-e.%-m</string>
     <string name="mc_pattern_month_day_hour_minute" formatted="false">%-e/%-m %H:%M</string>
     <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-e/%-m %I:%M %p</string>
     <string name="mc_pattern_year_month" formatted="false">%-m/%Y</string>
-    <string name="mc_pattern_year_month_day" formatted="false">%-e/%-m/%Y</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%-e.%-m.%Y</string>
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
@@ -192,7 +192,7 @@
     <string name="mzuc_msg_indicator">Что нового:</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_pause_download">Пауза</string>
-    <string name="mzuc_retry">Повтор</string>
+    <string name="mzuc_retry">Повторить</string>
     <string name="mzuc_update_finish_format">Обновлено до последней версии %s</string>
     <string name="mzuc_update_immediately">Обновить сейчас</string>
     <string name="mzuc_update_immediately_roaming">Обновление в сети (%s)</string>

@@ -371,7 +371,7 @@
     <string name="aod_type_space">Космос</string>
     <string name="aod_type_walker">Путник</string>
     <string name="apn_settings_not_available">Этот пользователь не может изменять настройки точки доступа</string>
-    <string name="app_channels_settings_title">Управление уведомлениями</string>
+    <string name="app_channels_settings_title">Категории уведомлений</string>
     <string name="app_clips_save_add_to_note">Добавить в заметку</string>
     <string name="app_handle_chip_accessibility_announce">Открыть меню</string>
     <string name="app_handle_menu_accessibility_announce">Открыть в режиме \"%1$s\"</string>
@@ -437,8 +437,8 @@
     <string name="battery_saver_start_action">Включить</string>
     <string name="battery_state_unknown_notification_text">Нажмите, чтобы узнать больше.</string>
     <string name="battery_state_unknown_notification_title">Не удалось узнать уровень заряда батареи</string>
-    <string name="battery_warning_low_battery">Низкий заряд батареи</string>
-    <string name="battery_warning_shut_down">Скоро выключится</string>
+    <string name="battery_warning_low_battery">Критически низкий заряд батареи</string>
+    <string name="battery_warning_shut_down">Телефон скоро выключится</string>
     <string name="biometric_dialog_authenticated">Аутентификация выполнена</string>
     <string name="biometric_dialog_cancel_authentication">Отмена распознавания лица</string>
     <string name="biometric_dialog_confirm">Подтвердить</string>
@@ -710,7 +710,7 @@
     <string name="cell_data_off_content_description">Мобильный Интернет отключен</string>
     <string name="change_aspect_ratio_text">Изменить соотношение сторон</string>
     <string name="charge_length_format">%1$s назад</string>
-    <string name="check_music_and_control_play">Проверка музыки и управление</string>
+    <string name="check_music_and_control_play">Информация о музыке и управление воспроизведением</string>
     <string name="choose_profile">Выберите профиль</string>
     <string name="clear">Удалить</string>
     <string name="clear_adb_keys">Запретить доступ для USB-отладки</string>
@@ -994,8 +994,8 @@
     <string name="ear_protection_ignore">Не уведомлять</string>
     <string name="ear_protection_long_time_warning">Вы используете наушники в течение долгого промежутка времени. Рекомендуется сделать перерыв, чтобы защитить ваш слух</string>
     <string name="ear_protection_message">Прослушивание музыки на высокой громкости может повредить ваш слух. Будьте осторожны</string>
-    <string name="ear_protection_message1">Можно отключить защиту слуха в наушниках в разделе Настройки &gt; Звук и вибрация &gt; Дополнительные настройки звука</string>
-    <string name="ear_protection_title">Продолжить увеличение громкости?</string>
+    <string name="ear_protection_message1">Отключить защиту слуха в наушниках можно в разделе «Настройки &gt; Звук и вибрация &gt; Дополнительные настройки звука»</string>
+    <string name="ear_protection_title">Продолжить увеличение громкости в наушниках?</string>
     <string name="edit_user_info_message">Выбранные вами имя пользователя и фото профиля будут видны всем, кто использует это устройство.</string>
     <string name="edit_widget">Изменить виджет</string>
     <string name="eight_hours">8 часов</string>
@@ -1147,14 +1147,14 @@
     <string name="flash_light_disabled">Сначала выключите камеру или фонарик</string>
     <string name="float_button_text">Плавающее окно</string>
     <string name="flyme_kg_prompt_reason_timeout_password">В качестве дополнительной меры безопасности введите пароль</string>
-    <string name="flyme_media_projection_dialog_text">При записи или передаче контента \"%s\" может получить доступ ко всей информации, отображаемой на вашем экране или воспроизводимой на устройстве, включая пароли, сведения о платежах, фотографии и воспроизводимые аудиозаписи и другие личные информацию.</string>
-    <string name="flyme_media_projection_dialog_title">Разрешить \"%s\" записывать или передавать контент?</string>
-    <string name="flyme_notification_sensitive_tip_message">Получено %d новых сообщений</string>
+    <string name="flyme_media_projection_dialog_text">Во время записи или трансляции «%s» получит доступ ко всему, что показывается на экране или воспроизводится на телефоне, включая пароли, платёжные данные, фото, аудио и другую конфиденциальную информацию.</string>
+    <string name="flyme_media_projection_dialog_title">Разрешить «%s» записывать или транслировать экран?</string>
+    <string name="flyme_notification_sensitive_tip_message">Получено уведомлений: %d</string>
     <string name="flyme_prompt_reason_device_admin">После блокировки экрана сторонним приложением подтвердите пароль</string>
     <string name="flyme_sensor_privacy_camera_positive">Разрешить доступ к камере</string>
     <string name="flyme_sensor_privacy_mic_positive">Разрешить доступ к микрофону</string>
-    <string name="flyme_sensor_privacy_one_time">Разрешить</string>
-    <string name="flyme_sensor_privacy_start_positive">Разрешить доступ к камере и микрофону</string>
+    <string name="flyme_sensor_privacy_one_time">Разрешить только сейчас</string>
+    <string name="flyme_sensor_privacy_start_positive">Предоставить доступ</string>
     <string name="flyme_sensor_privacy_start_use_camera_dialog_title">Камера отключена в режиме инкогнито. Разрешить приложению %s использовать камеру?</string>
     <string name="flyme_sensor_privacy_start_use_mic_camera_dialog_title">Камера и микрофон отключены в режиме инкогнито. Разрешить приложению %s использовать камеру и микрофон?</string>
     <string name="flyme_sensor_privacy_start_use_mic_dialog_title">Микрофон отключен в режиме инкогнито. Разрешить приложению %s использовать микрофон?</string>
@@ -1450,7 +1450,7 @@
     <string name="keyguard_charged">Батарея заряжена</string>
     <string name="keyguard_demo_lock_hint">Приложите палец к области для разблокировки</string>
     <string name="keyguard_enter_password">Введите пароль</string>
-    <string name="keyguard_enter_password_unlock">Введите пароль для включения биометрической идентификации</string>
+    <string name="keyguard_enter_password_unlock">Введите пароль, чтобы включить биометрию</string>
     <string name="keyguard_enter_pattern">Введите графический ключ</string>
     <string name="keyguard_enter_pin">Введите PIN-код</string>
     <string name="keyguard_enter_your_password">Введите пароль</string>
@@ -1467,7 +1467,7 @@
     <string name="keyguard_face_unlock_unavailable">Фейсконтроль недоступен</string>
     <string name="keyguard_fingerprint_not_match">Отпечатки не совпадают</string>
     <string name="keyguard_fp_permanent_lockout">Превышен лимит попыток разблокировки отпечатком. Используйте пароль</string>
-    <string name="keyguard_fp_restart">Введите пароль после перезагрузки</string>
+    <string name="keyguard_fp_restart">После перезагрузки телефона нужно ввести пароль</string>
     <string name="keyguard_indication_after_adaptive_auth_lock">Устройство заблокировано\nСбой аутентификации</string>
     <string name="keyguard_indication_charging_time">%2$s • Зарядка • Осталось %1$s</string>
     <string name="keyguard_indication_charging_time_dock">%2$s • Зарядка • Осталось %1$s</string>
@@ -1492,7 +1492,7 @@
     <string name="keyguard_plugged_in_dock">%s • Зарядка</string>
     <string name="keyguard_plugged_in_incompatible_charger">%s • Проверьте зарядное устройство.</string>
     <string name="keyguard_plugged_in_wireless">%s • Беспроводная зарядка</string>
-    <string name="keyguard_restart_unlock">Введите пароль после перезагрузки</string>
+    <string name="keyguard_restart_unlock">После перезагрузки телефона нужно ввести пароль</string>
     <string name="keyguard_retry">Чтобы повторить попытку, проведите вверх</string>
     <string name="keyguard_security_password_ok">ОК</string>
     <string name="keyguard_side_fingerprint_not_match_first_time">Отпечаток не совпадает. Следите, чтобы палец и сканер были чистыми</string>
@@ -2118,7 +2118,7 @@
     <string name="mz_permission_always_allow">Всегда разрешать</string>
     <string name="mz_permission_apply">Запрос разрешений</string>
     <string name="mz_permission_deny">Запретить</string>
-    <string name="mz_permission_disagree">Запретить</string>
+    <string name="mz_permission_disagree">Не принимаю</string>
     <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
     <string name="mz_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
     <string name="mz_permission_message_supplement">Приложению «%1$s» требуется %2$s %3$d разрешен.</string>
@@ -2159,7 +2159,7 @@
     <string name="mz_pm_set_wifi_on">Включить Wi-Fi</string>
     <string name="mz_pm_wlan">Wi-Fi</string>
     <string name="mz_power_consumption_details">Подробнее</string>
-    <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
+    <string name="mz_privacy_policy">Политика конфиденциальности</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_screenshot_saved_app_name">Системная служба</string>
     <string name="mz_screenshot_saved_text">Нажмите, чтобы просмотреть</string>
@@ -2208,7 +2208,7 @@
     <string name="notification_alert_title">По умолчанию</string>
     <string name="notification_app_settings">Настроить</string>
     <string name="notification_automatic_title">Автоматически</string>
-    <string name="notification_bubble_title">Всплывающая подсказка</string>
+    <string name="notification_bubble_title">Всплывающий чат</string>
     <string name="notification_channel_accessibility">Специальные возможности</string>
     <string name="notification_channel_alerts">Оповещения</string>
     <string name="notification_channel_battery">Батарея</string>
@@ -2317,7 +2317,7 @@
     <string name="overview_edu_notification_title">Используйте сенсорную панель, чтобы смотреть список недавних приложений</string>
     <string name="overview_edu_toast_content">Чтобы увидеть недавние приложения, проведите по сенсорной панели тремя пальцами вверх и удерживайте.</string>
     <string name="pair_new_bluetooth_devices">Подключить устройство</string>
-    <string name="panel_touch_down_tips">Проведите вниз, чтобы открыть панель управления</string>
+    <string name="panel_touch_down_tips">Проведите вниз, чтобы открыть центр управления</string>
     <string name="passpoint_content">Учётные данные (%1$s)</string>
     <string name="passpoint_label">Сохранено:</string>
     <string name="password_toggle_content_description">Показать пароль</string>
@@ -2327,7 +2327,7 @@
     <string name="people_tile_title">Разговор</string>
     <string name="percentage">%</string>
     <string name="performance">Производительность</string>
-    <string name="permission_type_edit_contact">Изменить контактные данные</string>
+    <string name="permission_type_edit_contact">Изменение контактов</string>
     <string name="permission_type_etc">и т. д.</string>
     <string name="permission_type_just">Только что</string>
     <string name="permission_type_location">Определение местоположения</string>
@@ -2449,7 +2449,7 @@
     <string name="qs_alarm_tile_no_alarm">Нет</string>
     <string name="qs_bluetooth_bonded">Подключенные устройства</string>
     <string name="qs_bluetooth_usable">Доступные устройства</string>
-    <string name="qs_control_center">Панель управления</string>
+    <string name="qs_control_center">Центр управления</string>
     <string name="qs_customize_remove">Удалить</string>
     <string name="qs_device_center_drag_tips">Нажмите и удерживайте, чтобы перетащить</string>
     <string name="qs_device_center_user_manual">Справка</string>
@@ -2460,7 +2460,7 @@
     <string name="qs_dnd_prompt_auto_rule">Режим \"Не беспокоить\" был включен специальным правилом (%s).</string>
     <string name="qs_dnd_prompt_auto_rule_app">Режим \"Не беспокоить\" был включен специальным правилом или приложением.</string>
     <string name="qs_edit">Редактирование</string>
-    <string name="qs_edit_guide_text">Удерживайте и перетащите значок вверх, чтобы отобразить в панели управления</string>
+    <string name="qs_edit_guide_text">Нажмите и удерживайте значок, затем перетащите его вверх, чтобы показать в центре управления</string>
     <string name="qs_edit_mode_category_accessibility">Специальные возможности</string>
     <string name="qs_edit_mode_category_connectivity">Подключение</string>
     <string name="qs_edit_mode_category_display">Экран</string>
@@ -2630,8 +2630,8 @@
     <string name="quick_settings_work_mode_label">Рабочие приложения</string>
     <string name="quick_settings_work_mode_paused_state">Приостановлен</string>
     <string name="quick_step_accessibility_toggle_overview">Переключить режим обзора</string>
-    <string name="raise_up_average_num_txt">Приблизительно каждый час %s раз</string>
-    <string name="raise_up_num_txt">Поднятие телефона %s раз</string>
+    <string name="raise_up_average_num_txt">В среднем %s раз в час</string>
+    <string name="raise_up_num_txt">Телефон брали в руки %s раз</string>
     <string name="range_end">Конец диапазона</string>
     <string name="range_start">Начало диапазона</string>
     <string name="rear_display_accessibility_folded_animation">Складное устройство в разложенном виде</string>
@@ -2774,7 +2774,7 @@
     <string name="screenshot_failed_title">Не удалось сохранить скриншот</string>
     <string name="screenshot_failed_to_capture_text">Не удалось сделать скриншот: нет разрешения от приложения или организации</string>
     <string name="screenshot_failed_to_save_text">Не удалось сохранить скриншот: недостаточно места</string>
-    <string name="screenshot_failed_to_save_text2">Внутренняя ошибка, не удалось сделать снимок экрана</string>
+    <string name="screenshot_failed_to_save_text2">Не удалось сделать снимок экрана из-за внутренней ошибки</string>
     <string name="screenshot_failed_to_save_unknown_text">Не удалось сохранить скриншот</string>
     <string name="screenshot_failed_to_save_user_locked_text">Чтобы сохранить скриншот, разблокируйте устройство.</string>
     <string name="screenshot_left_boundary_pct">Граница слева: %1$d %%</string>
@@ -2943,7 +2943,7 @@
     <string name="sim_slot">Слот SIM-карты</string>
     <string name="simulate_color_space">Имитировать цвет</string>
     <string name="sixteen_thousand_kb">16 384 КБ</string>
-    <string name="sixtyfive_thousand_kb">65 536 KБ</string>
+    <string name="sixtyfive_thousand_kb">65 536 КБ</string>
     <string name="slice_permission_allow">Да</string>
     <string name="slice_permission_checkbox">Разрешить приложению \"%1$s\" показывать фрагменты других приложений</string>
     <string name="slice_permission_deny">Нет</string>
@@ -3031,8 +3031,8 @@
     <string name="status_bar_airplane">Режим полета</string>
     <string name="status_bar_alarm">Будильник</string>
     <string name="status_bar_ethernet">Ethernet</string>
-    <string name="status_bar_hot_guide_control_center">Панель управления</string>
-    <string name="status_bar_hot_guide_notification_center">Панель уведомлений</string>
+    <string name="status_bar_hot_guide_control_center">Центр управления</string>
+    <string name="status_bar_hot_guide_notification_center">Центр уведомлений</string>
     <string name="status_bar_notification_info_overflow">>999</string>
     <string name="status_bar_settings_accelerator">Очистка ОЗУ</string>
     <string name="status_bar_settings_airplane">Полёт</string>
@@ -3055,7 +3055,7 @@
     <string name="status_bar_settings_smarttouch">Жесты</string>
     <string name="status_bar_settings_soundrecord">Диктофон</string>
     <string name="status_bar_settings_vibrate">Вибрация</string>
-    <string name="status_bar_settings_visualenhance">Улучшение визуальных эффектов</string>
+    <string name="status_bar_settings_visualenhance">Улучшение изображения</string>
     <string name="status_bar_settings_vpn">VPN</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_wlan">Wi-Fi</string>
@@ -3116,7 +3116,7 @@
     <string name="system_multitasking_rhs">Разделить экран и поместить открытое приложение справа</string>
     <string name="system_multitasking_splitscreen_focus_lhs">Перейти к приложению слева или вверху на разделенном экране</string>
     <string name="system_multitasking_splitscreen_focus_rhs">Перейти к приложению справа или внизу на разделенном экране</string>
-    <string name="system_notification_disable_manager">Управление системными уведомлениями временно недоступно</string>
+    <string name="system_notification_disable_manager">Системные уведомления временно недоступны</string>
     <string name="system_trace_sensitive_data">В файлах трассировки может содержаться конфиденциальная информация о системе и приложении (например, данные о его использовании). Открывайте доступ к ним только надежным пользователям и приложениям.</string>
     <string name="system_traces_storage_title">Системные записи действий</string>
     <string name="system_tracing">Трассировка системы</string>
@@ -3170,7 +3170,7 @@
     <string name="title_usb_accessory">USB-аксессуар</string>
     <string name="to_switch_networks_disconnect_ethernet">Чтобы переключиться между сетями, отключите кабель Ethernet.</string>
     <string name="toast_screen_pinning_description_gestural">Приложение закреплено. Проведите вверх и удерживайте, чтобы открепить</string>
-    <string name="toast_screen_pinning_description_mback">Приложение закреплено. Удерживайте долго клавишу «Домой», чтобы открепить</string>
+    <string name="toast_screen_pinning_description_mback">Приложение закреплено. Удерживайте клавишу «Домой», чтобы открепить</string>
     <string name="toast_screen_pinning_description_navigation_bar">Приложение закреплено. Чтобы открепить, нажмите и удерживайте «Назад» и «Домой»</string>
     <string name="tooltip_description">Подсказка</string>
     <string name="tooltip_label">Показать подсказку</string>

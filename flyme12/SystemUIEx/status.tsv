@@ -45,7 +45,7 @@ accessible_ellipse	unused
 accessible_irregular	unused
 accessible_rect	unused
 alwaysUse	own
-android_system_label	apk
+android_system_label	new
 androidx_startup	skip
 app_name	own_check
 appbar_scrolling_view_behavior	unused
@@ -361,7 +361,7 @@ mz_pm_wlan	own
 mz_privacy_policy	own_check
 mz_reject	own
 mz_screenrecord_restart_tip	new
-mz_screenshot_saved_text	apk
+mz_screenshot_saved_text	new
 mz_screenshot_saved_title	apk
 mz_screenshot_window_is_already_displayed	apk
 mz_specific_permission_allow	own
@@ -371,7 +371,7 @@ mz_wif_setting_dialog_message	own
 mz_wif_setting_dialog_set	own
 not_set	apk
 notification_app_name_system	apk
-notification_channel_alerts	apk
+notification_channel_alerts	new
 notification_channel_screenshot	apk
 notification_reply	own
 notification_reply_send	own
@@ -394,8 +394,8 @@ screenrecord_no_disturb	apk
 screenrecord_no_disturb_tip	apk
 screenrecord_perfect_statusbar	apk
 screenrecord_perfect_statusbar_tip	apk
-screenrecord_recording_file_size	apk
-screenrecord_resolution	apk
+screenrecord_recording_file_size	new
+screenrecord_resolution	new
 screenrecord_saved_app_name	own
 screenrecord_saved_text_min	own
 screenrecord_saved_text_s	own
@@ -406,7 +406,7 @@ screenrecord_set_720	own_check
 screenrecord_set_audio	own
 screenrecord_set_screenon	own
 screenrecord_set_title	own
-screenrecord_share_delete_after_share	apk
+screenrecord_share_delete_after_share	new
 screenrecord_storage_clean	own
 screenrecord_surface	apk
 screenrecord_text_start	own
@@ -419,7 +419,7 @@ screenshot_failed_to_save_text2	apk
 screenshot_fake_status_bar	apk
 screenshot_fake_status_bar_word	apk
 screenshot_scroll_marker_txt	apk
-screenshot_share_delete_after_share	apk
+screenshot_share_delete_after_share	new
 screenshot_share_lable	own
 screenshot_text_auto_scrolling	apk
 screenshot_text_cancel	own
@@ -437,7 +437,7 @@ screenshot_text_load	own
 screenshot_text_nomore	own
 screenshot_text_noscroll	own
 screenshot_text_on_bottom	apk
-screenshot_text_on_top	apk
+screenshot_text_on_top	new
 screenshot_text_processing	apk
 screenshot_text_reach_max	own
 screenshot_text_save	own

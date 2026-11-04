@@ -372,10 +372,10 @@ mz_alway_allow	own
 mz_appbar_scrolling_view_behavior	todo
 mz_date_time_day	apk
 mz_date_time_hour	apk
-mz_date_time_min	apk
-mz_date_time_month	apk
+mz_date_time_min	new
+mz_date_time_month	new
 mz_date_time_sec	apk
-mz_date_time_year	apk
+mz_date_time_year	new
 mz_network_unavailable_hint	own
 mz_permission_agree	own
 mz_permission_allow	own

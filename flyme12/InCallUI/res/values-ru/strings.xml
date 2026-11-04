@@ -51,7 +51,7 @@
     <string name="character_counter_content_description">Превышено количество символов на %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышено количество символов на %1$d из %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="china_mobile_CRBT_tips">Воспроизведение видео-звонка</string>
+    <string name="china_mobile_CRBT_tips">Воспроизводится мелодия вместо гудка</string>
     <string name="confCall">Конференц-связь</string>
     <string name="conference_call">Конференц-связь</string>
     <string name="conference_reach_max_tip">Достигнут лимит участников</string>
@@ -188,7 +188,7 @@
     <string name="notification_action_end_call">Отклонить</string>
     <string name="notification_action_speaker_off">Отключить динамик</string>
     <string name="notification_action_speaker_on">Включить динамик</string>
-    <string name="notification_action_switch_route">Сменить маршрут звука</string>
+    <string name="notification_action_switch_route">Сменить аудиовыход</string>
     <string name="notification_channel_incoming_call">Входящие вызовы</string>
     <string name="notification_channel_ongoing_call">Исходящие вызовы</string>
     <string name="notification_dialing">Вызов</string>
@@ -216,12 +216,12 @@
     <string name="range_start">Начало диапазона</string>
     <string name="record">Запись</string>
     <string name="record_num">Добавить заметку</string>
-    <string name="record_permission_tips">Вы можете записывать звонки или аудиосообщения, однако для этого требуется согласие текущего контакта</string>
+    <string name="record_permission_tips">Запись вызовов и сообщений: имя и номер текущего контакта передаются в Диктофон, чтобы определить, чья это запись</string>
     <string name="record_permission_use_text">Правила использования</string>
     <string name="record_return_normal">Вернутся к вызову</string>
     <string name="request_video_call_text">Выполнение видеозвонка</string>
     <string name="requesting_video_call">Incoming video request</string>
-    <string name="scam_number_label">Подозрительный звонок</string>
+    <string name="scam_number_label">Мошеннический номер</string>
     <string name="searchview_clear_text_content_description">Очистить текст</string>
     <string name="searchview_navigation_content_description">Назад</string>
     <string name="selected">Выбрано</string>

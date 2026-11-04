@@ -252,8 +252,8 @@ mc_custom_date_time_show_lunar	own
 mc_custom_date_time_today	own
 mc_date_time_day	own
 mc_date_time_hour	own
-mc_date_time_min	apk
-mc_date_time_month	apk
+mc_date_time_min	new
+mc_date_time_month	new
 mc_date_time_sec	apk
 mc_date_time_set	own
 mc_date_time_year	own
@@ -276,7 +276,7 @@ mc_last_refresh_minute	own
 mc_last_refresh_second	own
 mc_loading_animation_alert	own
 mc_loading_view_text	own
-mc_minute	apk
+mc_minute	new
 mc_monday	own
 mc_never	own
 mc_pattern_a_hour_before	own
@@ -285,7 +285,7 @@ mc_pattern_hour_before	own
 mc_pattern_hour_minute	unused
 mc_pattern_hour_minute_12	unused
 mc_pattern_minute_before	own
-mc_pattern_month_day	apk
+mc_pattern_month_day	new
 mc_pattern_month_day_hour_minute	own
 mc_pattern_month_day_hour_minute_12	own
 mc_pattern_today	own
@@ -295,7 +295,7 @@ mc_pattern_week_hour_minute_12	unused
 mc_pattern_week_month_day_hour_minute	own
 mc_pattern_week_month_day_hour_minute_12	own
 mc_pattern_year_month	own
-mc_pattern_year_month_day	apk
+mc_pattern_year_month_day	new
 mc_pattern_year_month_day_hour_minute	own
 mc_pattern_year_month_day_hour_minute_12	own
 mc_pattern_yesterday	own
@@ -315,7 +315,7 @@ mc_pm_dlg_ok	apk
 mc_pm_location	own
 mc_pm_network	own
 mc_pm_nfc	own
-mc_pm_not_allow_check_app	apk
+mc_pm_not_allow_check_app	new
 mc_pm_not_allow_dialog_push	apk
 mc_pm_online_intenert	apk
 mc_pm_open	own
@@ -331,7 +331,7 @@ mc_pm_set_wifi_on	apk
 mc_pm_wlan	apk
 mc_praised_message	own
 mc_pull_refresh	own
-mc_reject	apk
+mc_reject	new
 mc_saturday	own
 mc_search	own
 mc_search_button_text	own
@@ -408,10 +408,10 @@ mz_alway_allow	own
 mz_appbar_scrolling_view_behavior	todo
 mz_date_time_day	apk
 mz_date_time_hour	apk
-mz_date_time_min	apk
-mz_date_time_month	apk
+mz_date_time_min	new
+mz_date_time_month	new
 mz_date_time_sec	apk
-mz_date_time_year	apk
+mz_date_time_year	new
 mz_network_unavailable_hint	own
 mz_permission_agree	own
 mz_permission_allow	own
@@ -456,8 +456,8 @@ mz_pm_dlg_ok	apk
 mz_pm_location	own
 mz_pm_network	own
 mz_pm_nfc	own
-mz_pm_not_allow_check_app	apk
-mz_pm_not_allow_dialog_push	apk
+mz_pm_not_allow_check_app	new
+mz_pm_not_allow_dialog_push	new
 mz_pm_online_intenert	apk
 mz_pm_open	apk
 mz_pm_r_mms	own
@@ -470,7 +470,7 @@ mz_pm_set_bluetooth_on	apk
 mz_pm_set_gprs_on	own
 mz_pm_set_wifi_on	apk
 mz_pm_wlan	apk
-mz_privacy_policy	apk
+mz_privacy_policy	new
 mz_reject	apk
 mz_revoke_text	apk
 mz_specific_permission_allow	own

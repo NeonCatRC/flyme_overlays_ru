@@ -72,7 +72,7 @@ card_title_redialing	own
 character_counter_content_description	own_check
 character_counter_overflowed_content_description	own
 character_counter_pattern	own_check
-china_mobile_CRBT_tips	apk
+china_mobile_CRBT_tips	new
 confCall	own
 conference_call	own
 conference_reach_max_tip	own_check
@@ -265,7 +265,7 @@ notification_action_answer_voice	own
 notification_action_end_call	own
 notification_action_speaker_off	apk
 notification_action_speaker_on	apk
-notification_action_switch_route	apk
+notification_action_switch_route	new
 notification_channel_incoming_call	own
 notification_channel_ongoing_call	own
 notification_dialing	own
@@ -297,12 +297,12 @@ range_end	apk
 range_start	apk
 record	own
 record_num	own
-record_permission_tips	apk
+record_permission_tips	new
 record_permission_use_text	apk
 record_return_normal	own
 request_video_call_text	own
 requesting_video_call	own
-scam_number_label	apk
+scam_number_label	new
 searchview_clear_text_content_description	new
 searchview_navigation_content_description	new
 selected	own

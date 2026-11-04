@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ приложению «%s»</string>
     <string name="abc_toolbar_collapse_description">Свернуть</string>
     <string name="alwaysUse">Использовать по умолчанию</string>
-    <string name="android_system_label">Служба системы Flyme</string>
+    <string name="android_system_label">Система Android</string>
     <string name="app_name">Расширения системы</string>
     <string name="area_screenshot_cancel">Отменить</string>
     <string name="area_screenshot_edit">Редактировать</string>
@@ -234,7 +234,7 @@
     <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_screenrecord_restart_tip">Нажмите, чтобы удалить и записать заново</string>
-    <string name="mz_screenshot_saved_text">Нажмите, чтобы просмотреть детали изображения</string>
+    <string name="mz_screenshot_saved_text">Нажмите, чтобы посмотреть</string>
     <string name="mz_screenshot_saved_title">Снимок экрана</string>
     <string name="mz_screenshot_window_is_already_displayed">Текущая страница не поддерживает снятие снимка экрана</string>
     <string name="mz_specific_permission_allow">Разрешить доступ</string>
@@ -244,7 +244,7 @@
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="not_set">Не указано</string>
     <string name="notification_app_name_system">Система</string>
-    <string name="notification_channel_alerts">Предупреждение</string>
+    <string name="notification_channel_alerts">Напоминания</string>
     <string name="notification_channel_screenshot">Снимок экрана</string>
     <string name="notification_reply">Ответить</string>
     <string name="notification_reply_send">Отправить</string>
@@ -263,8 +263,8 @@
     <string name="screenrecord_no_disturb_tip">При записи экрана отключить звуковые и вибрационные уведомления, не показывать всплывающие уведомления</string>
     <string name="screenrecord_perfect_statusbar">Идеальная строка состояния</string>
     <string name="screenrecord_perfect_statusbar_tip">При записи экрана заменить виртуальную строку состояния, как показано на изображении ниже</string>
-    <string name="screenrecord_recording_file_size">Запись экрана доставлена</string>
-    <string name="screenrecord_resolution">Качество изображения</string>
+    <string name="screenrecord_recording_file_size">Размер файла записи экрана достиг</string>
+    <string name="screenrecord_resolution">Разрешение</string>
     <string name="screenrecord_saved_app_name">Системная служба</string>
     <string name="screenrecord_saved_text_min">" м."</string>
     <string name="screenrecord_saved_text_s">" с."</string>
@@ -275,7 +275,7 @@
     <string name="screenrecord_set_audio">Микрофон</string>
     <string name="screenrecord_set_screenon">Нажатия на экран</string>
     <string name="screenrecord_set_title">Разрешение</string>
-    <string name="screenrecord_share_delete_after_share">Удалить видео после его публикации</string>
+    <string name="screenrecord_share_delete_after_share">Удалить после отправки</string>
     <string name="screenrecord_storage_clean">Очистить</string>
     <string name="screenrecord_surface">Экран</string>
     <string name="screenrecord_text_start">Старт</string>
@@ -288,7 +288,7 @@
     <string name="screenshot_fake_status_bar">Идеальная строка состояния</string>
     <string name="screenshot_fake_status_bar_word">При съемке экрана заменить виртуальную строку состояния, как показано на изображении ниже</string>
     <string name="screenshot_scroll_marker_txt">Сделать длинный снимок экрана</string>
-    <string name="screenshot_share_delete_after_share">Удалить снимок экрана после публикации</string>
+    <string name="screenshot_share_delete_after_share">Удалить после отправки</string>
     <string name="screenshot_share_lable">Отправить</string>
     <string name="screenshot_text_auto_scrolling">Нажмите на изображение, чтобы остановить автоматическую прокрутку</string>
     <string name="screenshot_text_cancel">Отмена</string>
@@ -306,7 +306,7 @@
     <string name="screenshot_text_nomore">Нет больше данных</string>
     <string name="screenshot_text_noscroll">Невозможно создать длинный скриншот на данном экране</string>
     <string name="screenshot_text_on_bottom">Достигнут конец</string>
-    <string name="screenshot_text_on_top">Проведите вверх, чтобы изменить длину снимка экрна</string>
+    <string name="screenshot_text_on_top">Проведите вверх, чтобы изменить длину снимка экрана</string>
     <string name="screenshot_text_processing">Обработка</string>
     <string name="screenshot_text_reach_max">Достигнута максимальная длина</string>
     <string name="screenshot_text_save">Сохранить</string>

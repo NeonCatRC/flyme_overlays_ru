@@ -170,7 +170,7 @@
     <string name="mz_permission_deny">Отклонить</string>
     <string name="mz_permission_inform_f9">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
-    <string name="mz_permission_policy_description_f9">Для лучшей защиты ваших прав мы обновили протокол, см. %1$s</string>
+    <string name="mz_permission_policy_description_f9">Чтобы лучше защищать ваши права, мы обновили соглашение, см. %1$s</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>
     <string name="mz_permissiongroup_name_change_network">Wi-Fi</string>
     <string name="mz_permissiongroup_name_net">Сетевые соединения</string>

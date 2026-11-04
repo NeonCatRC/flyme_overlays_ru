@@ -379,7 +379,7 @@
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>
     <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
-    <string name="mz_permission_policy_description_f9">Для полноценного использования прочтите и согласитесь с %1$s. Это приложение требует подключения к сети</string>
+    <string name="mz_permission_policy_description_f9">Чтобы лучше защищать ваши права, мы обновили соглашение, см. %1$s</string>
     <string name="mz_permission_title_supplement">" Запрос следующих разрешений"</string>
     <string name="mz_permission_title_terms">Разрешения и заявления</string>
     <string name="mz_permissiongroup_name_bluetooth">Bluetooth</string>

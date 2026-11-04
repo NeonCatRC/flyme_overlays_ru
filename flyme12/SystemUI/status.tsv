@@ -18,8 +18,8 @@ array/bluetooth_a2dp_codec_ldac_playback_quality_titles	own
 array/bluetooth_a2dp_codec_lhdc_latency_summaries	unused
 array/bluetooth_a2dp_codec_lhdc_latency_titles	unused
 array/bluetooth_a2dp_codec_lhdc_latency_values	skip
-array/bluetooth_a2dp_codec_lhdc_playback_quality_summaries	apk
-array/bluetooth_a2dp_codec_lhdc_playback_quality_titles	apk
+array/bluetooth_a2dp_codec_lhdc_playback_quality_summaries	new
+array/bluetooth_a2dp_codec_lhdc_playback_quality_titles	new
 array/bluetooth_a2dp_codec_lhdc_playback_quality_values	skip
 array/bluetooth_a2dp_codec_sample_rate_summaries	apk
 array/bluetooth_a2dp_codec_sample_rate_titles	apk
@@ -153,7 +153,7 @@ array/select_logpersist_titles	own
 array/select_logpersist_values	unused
 array/services_always_show_magnification_settings	skip
 array/shade_display_awareness_entries	apk
-array/shade_display_awareness_summaries	apk
+array/shade_display_awareness_summaries	new
 array/shade_display_awareness_values	apk
 array/show_non_rect_clip_entries	own
 array/show_non_rect_clip_values	unused
@@ -635,7 +635,7 @@ aod_type_planet	new
 aod_type_space	new
 aod_type_walker	new
 apn_settings_not_available	own
-app_channels_settings_title	apk
+app_channels_settings_title	new
 app_clips_save_add_to_note	apk
 app_handle_chip_accessibility_announce	apk
 app_handle_menu_accessibility_announce	apk
@@ -705,8 +705,8 @@ battery_saver_start_action	own
 battery_state_unknown_notification_text	apk
 battery_state_unknown_notification_title	apk
 battery_unified_frame_path_string	skip
-battery_warning_low_battery	apk
-battery_warning_shut_down	apk
+battery_warning_low_battery	new
+battery_warning_shut_down	new
 biometric_dialog_authenticated	apk
 biometric_dialog_cancel_authentication	apk
 biometric_dialog_confirm	apk
@@ -999,7 +999,7 @@ change_aspect_ratio_text	apk
 change_style_txt	unused
 character_counter_pattern	skip
 charge_length_format	own
-check_music_and_control_play	apk
+check_music_and_control_play	new
 choose_profile	own
 clear	apk
 clear_adb_keys	own
@@ -1347,8 +1347,8 @@ ear_protection_got_it	apk
 ear_protection_ignore	new
 ear_protection_long_time_warning	own_check
 ear_protection_message	own_check
-ear_protection_message1	apk
-ear_protection_title	apk
+ear_protection_message1	new
+ear_protection_title	new
 edit_user_info_message	apk
 edit_widget	apk
 eight_hours	apk
@@ -1523,16 +1523,16 @@ flash_off_path	unused
 flash_on_path	unused
 float_button_text	apk
 flyme_kg_prompt_reason_timeout_password	own
-flyme_media_projection_dialog_text	apk
-flyme_media_projection_dialog_title	apk
-flyme_notification_sensitive_tip_message	apk
+flyme_media_projection_dialog_text	new
+flyme_media_projection_dialog_title	new
+flyme_notification_sensitive_tip_message	new
 flyme_number_medium	skip
 flyme_prompt_reason_device_admin	new
 flyme_sans_serif_normal	skip
 flyme_sensor_privacy_camera_positive	apk
 flyme_sensor_privacy_mic_positive	apk
-flyme_sensor_privacy_one_time	apk
-flyme_sensor_privacy_start_positive	apk
+flyme_sensor_privacy_one_time	new
+flyme_sensor_privacy_start_positive	new
 flyme_sensor_privacy_start_use_camera_dialog_title	apk
 flyme_sensor_privacy_start_use_mic_camera_dialog_title	apk
 flyme_sensor_privacy_start_use_mic_dialog_title	apk
@@ -1854,7 +1854,7 @@ keyguard_carrier_name_with_sim_locked_template	skip
 keyguard_charged	own
 keyguard_demo_lock_hint	own
 keyguard_enter_password	own
-keyguard_enter_password_unlock	apk
+keyguard_enter_password_unlock	new
 keyguard_enter_pattern	apk
 keyguard_enter_pin	own
 keyguard_enter_your_password	apk
@@ -1872,7 +1872,7 @@ keyguard_face_unlock_unavailable	apk
 keyguard_fancy_colon	skip
 keyguard_fingerprint_not_match	own
 keyguard_fp_permanent_lockout	own
-keyguard_fp_restart	apk
+keyguard_fp_restart	new
 keyguard_indication_after_adaptive_auth_lock	apk
 keyguard_indication_charging_time	apk
 keyguard_indication_charging_time_dock	apk
@@ -1897,7 +1897,7 @@ keyguard_plugged_in_charging_slowly	apk
 keyguard_plugged_in_dock	apk
 keyguard_plugged_in_incompatible_charger	apk
 keyguard_plugged_in_wireless	apk
-keyguard_restart_unlock	apk
+keyguard_restart_unlock	new
 keyguard_retry	apk
 keyguard_security_password_ok	own
 keyguard_side_fingerprint_not_match_first_time	new
@@ -2586,7 +2586,7 @@ mz_permission_always_allow	own
 mz_permission_apply	own
 mz_permission_continue_allow	unused
 mz_permission_deny	own
-mz_permission_disagree	apk
+mz_permission_disagree	new
 mz_permission_i_know	unused
 mz_permission_inform	apk
 mz_permission_inform_f9	unused
@@ -2637,7 +2637,7 @@ mz_pm_set_gprs_on	own
 mz_pm_set_wifi_on	own
 mz_pm_wlan	own
 mz_power_consumption_details	own
-mz_privacy_policy	apk
+mz_privacy_policy	new
 mz_reject	own
 mz_screenshot_saved_app_name	own
 mz_screenshot_saved_text	own
@@ -2692,7 +2692,7 @@ notif_inline_reply_remove_attachment_description	apk
 notification_alert_title	apk
 notification_app_settings	own
 notification_automatic_title	own
-notification_bubble_title	apk
+notification_bubble_title	new
 notification_channel_accessibility	apk
 notification_channel_alerts	own
 notification_channel_battery	own
@@ -2803,7 +2803,7 @@ overview_edu_notification_content	apk
 overview_edu_notification_title	apk
 overview_edu_toast_content	apk
 pair_new_bluetooth_devices	apk
-panel_touch_down_tips	apk
+panel_touch_down_tips	new
 passpoint_content	own
 passpoint_label	own
 password_toggle_content_description	own
@@ -2817,7 +2817,7 @@ people_tile_description	apk
 people_tile_title	apk
 percentage	own
 performance	apk
-permission_type_edit_contact	apk
+permission_type_edit_contact	new
 permission_type_etc	apk
 permission_type_just	own
 permission_type_location	apk
@@ -2963,7 +2963,7 @@ qr_code_scanner_updating_secondary_label	own
 qs_alarm_tile_no_alarm	apk
 qs_bluetooth_bonded	own
 qs_bluetooth_usable	own
-qs_control_center	apk
+qs_control_center	new
 qs_customize_remove	own
 qs_device_center_drag_tips	new
 qs_device_center_user_manual	new
@@ -2974,7 +2974,7 @@ qs_dnd_prompt_app	apk
 qs_dnd_prompt_auto_rule	apk
 qs_dnd_prompt_auto_rule_app	apk
 qs_edit	own
-qs_edit_guide_text	apk
+qs_edit_guide_text	new
 qs_edit_mode_category_accessibility	apk
 qs_edit_mode_category_connectivity	apk
 qs_edit_mode_category_display	apk
@@ -3150,8 +3150,8 @@ quick_settings_wifi_secondary_label_transient	apk
 quick_settings_work_mode_label	apk
 quick_settings_work_mode_paused_state	apk
 quick_step_accessibility_toggle_overview	apk
-raise_up_average_num_txt	apk
-raise_up_num_txt	apk
+raise_up_average_num_txt	new
+raise_up_num_txt	new
 range_end	apk
 range_start	apk
 rear_display_accessibility_folded_animation	apk
@@ -3297,7 +3297,7 @@ screenshot_failed_external_display_indication	apk
 screenshot_failed_title	own
 screenshot_failed_to_capture_text	own
 screenshot_failed_to_save_text	own
-screenshot_failed_to_save_text2	apk
+screenshot_failed_to_save_text2	new
 screenshot_failed_to_save_unknown_text	own
 screenshot_failed_to_save_user_locked_text	apk
 screenshot_left_boundary_pct	apk
@@ -3471,7 +3471,7 @@ sim_permanently_locked	own
 sim_slot	own
 simulate_color_space	own
 sixteen_thousand_kb	apk
-sixtyfive_thousand_kb	apk
+sixtyfive_thousand_kb	new
 slice_permission_allow	apk
 slice_permission_checkbox	apk
 slice_permission_deny	apk
@@ -3560,8 +3560,8 @@ status_bar_airplane	own
 status_bar_alarm	own
 status_bar_connection_rate	skip
 status_bar_ethernet	own
-status_bar_hot_guide_control_center	apk
-status_bar_hot_guide_notification_center	apk
+status_bar_hot_guide_control_center	new
+status_bar_hot_guide_notification_center	new
 status_bar_network_name_separator	skip
 status_bar_notification_info_overflow	own
 status_bar_settings_accelerator	own
@@ -3586,7 +3586,7 @@ status_bar_settings_signal_meter_wifi_nossid	own
 status_bar_settings_smarttouch	own
 status_bar_settings_soundrecord	new
 status_bar_settings_vibrate	own_check
-status_bar_settings_visualenhance	apk
+status_bar_settings_visualenhance	new
 status_bar_settings_vpn	own
 status_bar_settings_wifi_button	own
 status_bar_settings_wlan	own
@@ -3665,7 +3665,7 @@ system_multitasking_replace	apk
 system_multitasking_rhs	apk
 system_multitasking_splitscreen_focus_lhs	apk
 system_multitasking_splitscreen_focus_rhs	apk
-system_notification_disable_manager	apk
+system_notification_disable_manager	new
 system_trace_sensitive_data	apk
 system_traces_storage_title	apk
 system_tracing	apk
@@ -3721,7 +3721,7 @@ title_for_empty_state_cta	apk
 title_usb_accessory	own
 to_switch_networks_disconnect_ethernet	apk
 toast_screen_pinning_description_gestural	apk
-toast_screen_pinning_description_mback	apk
+toast_screen_pinning_description_mback	new
 toast_screen_pinning_description_navigation_bar	apk
 tooltip_description	apk
 tooltip_label	apk
