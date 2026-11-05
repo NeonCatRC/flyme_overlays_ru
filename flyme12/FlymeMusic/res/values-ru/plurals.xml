@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d новых уведомлений</item>
-        <item quantity="one">%d новое уведомление</item>
-    </plurals>
-</resources>

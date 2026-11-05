@@ -59,7 +59,6 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | Email | 12.1.53 | 88% | 867 | 0 | 88 | 11 | 129 | 93 | 0 | 0 | 0 |
 | FileManager | 12.0.21 | 75% | 649 | 0 | 113 | 16 | 254 | 36 | 0 | 0 | 0 |
 | FlymeLauncher | 13.0.0 | 100% | 443 | 19 | 258 | 194 | 0 | 30 | 45 | 13 | 0 |
-| FlymeMusic | 12.2.0 | 18% | 318 | 3 | 48 | 3 | 1607 | 240 | 0 | 0 | 0 |
 | FlymeSoundRecorder | 12.3.7 | 80% | 355 | 7 | 184 | 6 | 133 | 3 | 0 | 0 | 0 |
 | framework-res | 16 | 100% | 1320 | 95 | 1275 | 312 | 0 | 0 | 65 | 11 | 0 |
 | Gallery | 12.7.3 | 100% | 1308 | 0 | 335 | 511 | 0 | 68 | 42 | 52 | 0 |
@@ -92,9 +91,13 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | VoiceAssistant **MOD** | 12.1.46 | 39% | 497 | 8 | 0 | 217 | 1120 | 234 | 0 | 0 | 0 |
 | WallpaperSetting | 3.2.0 | 100% | 0 | 0 | 20 | 142 | 0 | 17 | 0 | 16 | 0 |
 | Weather **MOD** | 54.3.60 | 100% | 356 | 0 | 92 | 580 | 0 | 61 | 99 | 102 | 0 |
-| **Total** | | 79% | 28520 | 1102 | 13987 | 5512 | 12348 | 3464 | 657 | 500 | 0 |
+| **Total** | | 81% | 28202 | 1099 | 13939 | 5509 | 10741 | 3224 | 657 | 500 | 0 |
 
 ### Why a modification is required
 
 - **VoiceAssistant**: speech recognition and the assistant's answers are Chinese-only (server side); about 860 Chinese texts are written in code (replies, date formats like M月d日, stock up/down); resource keywords used to parse Chinese speech (weekdays, SIM 1/2, carriers, Hong Kong/Macao, wallet category) must stay Chinese. Code check on 2026-11-01.
 - **Weather**: city names and weather conditions come from the server in Chinese; day labels (yesterday/today/tomorrow, weekdays) are written in code; one settings banner is text inside a layout. Checked on a 21 Pro on 2026-10-31.
+
+### Not translated
+
+- **FlymeMusic**: third-party streaming service; not worth translating

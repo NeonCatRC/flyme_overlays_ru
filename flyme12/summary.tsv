@@ -15,7 +15,6 @@ Dialer	com.android.dialer	8.2.6 800200600	1128	10	2	360	0	26	95	64	45	0
 Email	com.android.email	12.1.53 120001053	867	0	88	11	129	93	34	0	0	0
 FileManager	com.meizu.filemanager	12.0.21 12000021	649	0	113	16	254	36	24	0	0	0
 FlymeLauncher	com.meizu.flyme.launcher	13.0.0 13000000	443	19	258	194	0	30	205	45	13	0
-FlymeMusic	com.meizu.media.music	12.2.0 12202000	318	3	48	3	1607	240	25	0	0	0
 FlymeSoundRecorder	com.android.soundrecorder	12.3.7 12003007	355	7	184	6	133	3	20	0	0	0
 framework-res	android	16 36	1320	95	1275	312	0	0	687	65	11	0
 Gallery	com.meizu.media.gallery	12.7.3 1200070003	1308	0	335	511	0	68	155	42	52	0
