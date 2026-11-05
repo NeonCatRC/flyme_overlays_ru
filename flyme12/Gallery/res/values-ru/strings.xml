@@ -878,7 +878,7 @@
     <string name="location_reject_button">ОТКЛОНИТЬ</string>
     <string name="location_remember_preferences">Запомнить настройки</string>
     <string name="location_request_message">необходимо использовать данные о вашем местоположении</string>
-    <string name="location_share_button">SHARE_LOCATION</string>
+    <string name="location_share_button">Передать местоположение</string>
     <string name="location_title">Альбом Места</string>
     <string name="lode_more_pay_way">Дополнительные способы оплаты</string>
     <string name="long_crop_share_checkbox_title">Удалить после отправки</string>

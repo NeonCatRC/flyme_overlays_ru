@@ -860,7 +860,7 @@ cleaner_low_storage_notify_5g_title	own
 cleaner_low_storage_notify_content_text	own
 cleaner_low_storage_notify_title	new
 cleaner_multi_ad_refresh	own
-cleaner_multi_ad_title	own
+cleaner_multi_ad_title	new
 cleaner_no_trash_item	own
 cleaner_not_frequent_big_file	own
 cleaner_photo_model	own
@@ -2367,7 +2367,7 @@ virus_lib_available_setting_notify_tip	own
 virus_lib_update_finished	own
 virus_lib_uptodate	own
 virus_libs_update_never	own
-virus_multi_ad_title	own
+virus_multi_ad_title	new
 virus_name	own
 virus_num_f8	own
 virus_recommend_repair	own

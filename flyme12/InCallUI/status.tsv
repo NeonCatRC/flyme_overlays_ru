@@ -272,7 +272,7 @@ notification_dialing	own
 notification_incoming_call	own
 notification_on_hold	own
 notification_ongoing_call	own
-notification_requesting_video_call	own
+notification_requesting_video_call	apk
 notification_substName_active	own
 notification_substName_incoming	own
 on_screen_switch_to_voice	own
@@ -301,7 +301,7 @@ record_permission_tips	new
 record_permission_use_text	apk
 record_return_normal	own
 request_video_call_text	own
-requesting_video_call	own
+requesting_video_call	apk
 scam_number_label	new
 searchview_clear_text_content_description	new
 searchview_navigation_content_description	new

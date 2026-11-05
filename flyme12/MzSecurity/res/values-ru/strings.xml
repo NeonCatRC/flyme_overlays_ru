@@ -425,7 +425,7 @@
     <string name="cleaner_low_storage_notify_content_text">Очистить сейчас</string>
     <string name="cleaner_low_storage_notify_title">Память телефона почти заполнена, приложения могут не открываться</string>
     <string name="cleaner_multi_ad_refresh">Обновить</string>
-    <string name="cleaner_multi_ad_title">Less is more</string>
+    <string name="cleaner_multi_ad_title">Меньше — значит лучше</string>
     <string name="cleaner_no_trash_item">Нет элементов для очистки</string>
     <string name="cleaner_not_frequent_big_file">Редко используемые большие файлы</string>
     <string name="cleaner_photo_model">Фото</string>
@@ -1789,7 +1789,7 @@
     <string name="virus_lib_update_finished">БД вирусов обновлена</string>
     <string name="virus_lib_uptodate">База данных вирусов актуальна</string>
     <string name="virus_libs_update_never">БД вирусов не обновлена</string>
-    <string name="virus_multi_ad_title">Official certification is safer</string>
+    <string name="virus_multi_ad_title">С официальной сертификацией безопаснее</string>
     <string name="virus_name">Вирус:</string>
     <string name="virus_num_f8">Обнаружено вирусов: %1$s</string>
     <string name="virus_recommend_repair">Рекомендуется лечение</string>

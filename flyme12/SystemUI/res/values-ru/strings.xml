@@ -755,7 +755,6 @@
     <string name="communal_widgets_disclaimer_button">ОК</string>
     <string name="communal_widgets_disclaimer_text">Чтобы открыть приложение, используя виджет, вам нужно будет подтвердить свою личность. Обратите внимание, что виджеты видны всем, даже если планшет заблокирован. Некоторые виджеты не предназначены для использования на заблокированном экране. Добавлять их туда может быть небезопасно.</string>
     <string name="communal_widgets_disclaimer_title">Виджеты на заблокированном экране</string>
-    <string name="config_navBarLayout">space,back;home;recent,menu_ime</string>
     <string name="confirm_enable_oem_unlock_text">ВНИМАНИЕ! Функции защиты не будут работать на устройстве, пока включён этот параметр.</string>
     <string name="confirm_enable_oem_unlock_title">Разрешить заводскую разблокировку?</string>
     <string name="confirm_new_pin_tips">Подтвердите новый PIN-код</string>
@@ -1381,9 +1380,7 @@
     <string name="keyboard_key_media_stop">Стоп</string>
     <string name="keyboard_key_move_end">End</string>
     <string name="keyboard_key_move_home">Гл. экран</string>
-    <string name="keyboard_key_num_lock">Num Lock</string>
     <string name="keyboard_key_numpad_template">%1$s на цифровой панели</string>
-    <string name="keyboard_key_page_down">Page Down</string>
     <string name="keyboard_key_page_up">Page Up</string>
     <string name="keyboard_key_space">Пробел</string>
     <string name="keyboard_key_tab">Tab</string>
@@ -1700,7 +1697,7 @@
     <string name="lock_screen_settings_lock_screen_pictorial">Изменение постера</string>
     <string name="lock_screen_settings_to_change_wallpaper">Сменить обои</string>
     <string name="lock_tips_dialing">Набор</string>
-    <string name="lock_week">d.M.yyyy(EEEE)</string>
+    <string name="lock_week">d MMMM yyyy (EEE)</string>
     <string name="lockscreen_date_format_12">a EEE, %s</string>
     <string name="lockscreen_flyme_unlock_progress_dialog_message">Аутентификация аккаунта Flyme</string>
     <string name="lockscreen_none">Нет</string>
@@ -2439,8 +2436,6 @@
     <string name="process_kernel_label">ОС Android</string>
     <string name="profile_connect_timeout_subtext">Ошибка подключения. Выключите и снова включите устройство.</string>
     <string name="profile_info_settings_title">Данные профиля</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_port_hint">8080</string>
     <string name="public_notification_single_line_text">Разблокируйте экран, чтобы посмотреть.</string>
     <string name="push_channel_title">Пуш-уведомления</string>
@@ -3144,8 +3139,8 @@
     <string name="tether_settings_title_usb">USB-модем</string>
     <string name="tether_settings_title_usb_bluetooth">Режим модема</string>
     <string name="tether_settings_title_wifi">Точка доступа</string>
-    <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
-    <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
+    <string name="tethering_hardware_offload">Аппаратное ускорение в режиме модема</string>
+    <string name="tethering_hardware_offload_summary">Использовать аппаратное ускорение в режиме модема (если доступно)</string>
     <string name="tethering_settings_not_available">Этот пользователь не может изменять настройки режима модема</string>
     <string name="text_input_hint_text">Введите текст</string>
     <string name="thermal">Нагрев</string>
@@ -3601,15 +3596,10 @@
     <string name="wifi_security_short_wep">WEP</string>
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wapi_cert">WAPI CERT</string>
+    <string name="wifi_security_wapi_cert">Сертификат WAPI</string>
     <string name="wifi_security_wapi_certificate">Сертификат WAPI</string>
-    <string name="wifi_security_wapi_psk">WAPI PSK</string>
-    <string name="wifi_security_wapi_psk_ascii">WAPI PSK ASCII</string>
     <string name="wifi_security_wapi_psk_hexadecimal">WAPI PSK (шестнадцатерич.)</string>
     <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_select_assistant_dialog_title">Выбор ассистента</string>
     <string name="wifi_select_network">Выбор сети Wi-Fi</string>
@@ -3726,10 +3716,8 @@
     <string name="wifitrackerlib_wifi_security_short_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-EAP</string>
     <string name="wifitrackerlib_wifi_security_short_owe">OWE</string>
     <string name="wifitrackerlib_wifi_security_short_sae">SAE</string>
-    <string name="wifitrackerlib_wifi_security_short_wpa_wpa2">WPA/WPA2</string>
     <string name="wifitrackerlib_wifi_security_short_wpa_wpa2_wpa3">WPA/WPA2/WPA3</string>
     <string name="wifitrackerlib_wifi_security_wep">WEP</string>
-    <string name="wifitrackerlib_wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifitrackerlib_wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personal</string>
     <string name="wifitrackerlib_wifi_standard_11ac">Wi‑Fi 5</string>
     <string name="wifitrackerlib_wifi_standard_11ad">WiGig</string>

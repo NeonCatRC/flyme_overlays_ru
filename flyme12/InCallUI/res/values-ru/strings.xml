@@ -195,7 +195,7 @@
     <string name="notification_incoming_call">Входящий вызов</string>
     <string name="notification_on_hold">На удержании</string>
     <string name="notification_ongoing_call">Разговор</string>
-    <string name="notification_requesting_video_call">Incoming video request</string>
+    <string name="notification_requesting_video_call">Получен запрос на видеозвонок</string>
     <string name="notification_substName_active">Разговор</string>
     <string name="notification_substName_incoming">Входящий звонок</string>
     <string name="on_screen_switch_to_voice">Переключиться на голосовой вызов</string>
@@ -220,7 +220,7 @@
     <string name="record_permission_use_text">Правила использования</string>
     <string name="record_return_normal">Вернутся к вызову</string>
     <string name="request_video_call_text">Выполнение видеозвонка</string>
-    <string name="requesting_video_call">Incoming video request</string>
+    <string name="requesting_video_call">Собеседник приглашает вас на видеозвонок</string>
     <string name="scam_number_label">Мошеннический номер</string>
     <string name="searchview_clear_text_content_description">Очистить текст</string>
     <string name="searchview_navigation_content_description">Назад</string>
