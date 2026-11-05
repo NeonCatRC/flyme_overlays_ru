@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="horoscope_date_read">
+        <item>Mar 21 – Apr 19</item>
+        <item>Apr 20 – May 20</item>
+        <item>May 21 – Jun 21</item>
+        <item>Jun 22 – Jul 22</item>
+        <item>Jul 23 – Aug 22</item>
+        <item>Aug 23 – Sep 22</item>
+        <item>Sep 23 – Oct 23</item>
+        <item>Oct 24 – Nov 22</item>
+        <item>Nov 23 – Dec 21</item>
+        <item>Dec 22 – Jan 19</item>
+        <item>Jan 20 – Feb 18</item>
+        <item>Feb 19 – Mar 20</item>
+    </string-array>
+    <string-array name="news_sdk_before_today">
+        <item>\'Yesterday\' HH:mm</item>
+        <item>\'2 days ago\' HH:mm</item>
+        <item>M/d HH:mm</item>
+    </string-array>
+    <string-array name="news_sdk_hour_ago">
+        <item>%dh ago</item>
+    </string-array>
+    <string-array name="news_sdk_minute_ago">
+        <item>%dm ago</item>
+    </string-array>
+    <string-array name="news_tip_report_article_array">
+        <item>Ad</item>
+        <item>Outdated</item>
+        <item>Vulgar or pornographic</item>
+        <item>Clickbait</item>
+        <item>Not factual</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>Ad</item>
+        <item>Vulgar, pornographic or violent</item>
+        <item>Clickbait</item>
+        <item>Infringement</item>
+        <item>Poor video quality</item>
+        <item>Offensive cover</item>
+    </string-array>
+    <string-array name="solar_festival">
+        <item>0101New Year\'s Day</item>
+        <item>0214Valentine\'s Day</item>
+        <item>0308Women\'s Day</item>
+        <item>0312Arbor Day</item>
+        <item>0315Consumer Rights Day</item>
+        <item>0401April Fools\' Day</item>
+        <item>0422Earth Day</item>
+        <item>0501Labour Day</item>
+        <item>0504Youth Day</item>
+        <item>0601Children\'s Day</item>
+        <item>0701CPC Founding Day</item>
+        <item>0801Army Day</item>
+        <item>0910Teachers\' Day</item>
+        <item>1001National Day</item>
+        <item>1031Halloween</item>
+        <item>1101All Saints\' Day</item>
+        <item>1224Christmas Eve</item>
+        <item>1225Christmas</item>
+    </string-array>
+    <string-array name="special_festivals">
+        <item>Mother\'s Day</item>
+        <item>Father\'s Day</item>
+        <item>Thanksgiving</item>
+    </string-array>
+    <string-array name="tradition_festival">
+        <item>Chinese New Year\'s Eve</item>
+        <item>0101Spring Festival</item>
+        <item>0115Lantern Festival</item>
+        <item>0505Dragon Boat Festival</item>
+        <item>0707Qixi Festival</item>
+        <item>0815Mid-Autumn Festival</item>
+        <item>0909Double Ninth Festival</item>
+        <item>1208Laba Festival</item>
+    </string-array>
+</resources>

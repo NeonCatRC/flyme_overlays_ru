@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="mw_recipient_sns_searching">Searching Weibo contacts...</string>
+    <string name="network_error_and_reload">Network error. Tap Reload</string>
+    <string name="set_todo_action">Add to to-do</string>
+    <string name="webview_error_prompt">Network error. Tap Reload</string>
+</resources>

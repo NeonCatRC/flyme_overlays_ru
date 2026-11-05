@@ -45,7 +45,9 @@
         <item quantity="other">%d МБ</item>
     </plurals>
     <plurals name="number_of_accounts">
-        <item quantity="one">%1$d аккаунтов</item>
-        <item quantity="other">%1$d аккаунтов</item>
+        <item quantity="one">Аккаунтов: %1$d</item>
+        <item quantity="few">Аккаунтов: %1$d</item>
+        <item quantity="many">Аккаунтов: %1$d</item>
+        <item quantity="other">Аккаунтов: %1$d</item>
     </plurals>
 </resources>

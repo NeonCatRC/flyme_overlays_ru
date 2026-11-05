@@ -24,8 +24,15 @@
         <item></item>
         <item></item>
     </string-array>
+    <string-array name="copy_choice_item">
+        <item>Копировать</item>
+    </string-array>
+    <string-array name="copy_report_choice_item">
+        <item>Копировать</item>
+        <item>Пожаловаться</item>
+    </string-array>
     <string-array name="delay_labels">
-        <item>Без повтора</item>
+        <item>Не напоминать</item>
         <item>Через 10 минут</item>
         <item>Через 30 минут</item>
         <item>Через 1 час</item>
@@ -36,6 +43,13 @@
         <item>Это и будущие события</item>
         <item>Все события</item>
         <item>Отмена</item>
+    </string-array>
+    <string-array name="dialog_permission_summary_value">
+        <item>Показ календаря</item>
+        <item>Добавление событий</item>
+        <item>Проверка входа в аккаунт Flyme</item>
+        <item>Чтение файлов календаря</item>
+        <item>Кэширование изображений</item>
     </string-array>
     <string-array name="email_options">
         <item>Отправить e-mail</item>
@@ -79,6 +93,34 @@
         <item>Козерог</item>
         <item>Водолей</item>
         <item>Рыбы</item>
+    </string-array>
+    <string-array name="horoscope_date_read">
+        <item>С 21 марта по 19 апреля</item>
+        <item>С 20 апреля по 20 мая</item>
+        <item>С 21 мая по 21 июня</item>
+        <item>С 22 июня по 22 июля</item>
+        <item>С 23 июля по 22 августа</item>
+        <item>С 23 августа по 22 сентября</item>
+        <item>С 23 сентября по 23 октября</item>
+        <item>С 24 октября по 22 ноября</item>
+        <item>С 23 ноября по 21 декабря</item>
+        <item>С 22 декабря по 19 января</item>
+        <item>С 20 января по 18 февраля</item>
+        <item>С 19 февраля по 20 марта</item>
+    </string-array>
+    <string-array name="lunar_month">
+        <item>янв.</item>
+        <item>фев.</item>
+        <item>мар.</item>
+        <item>апр.</item>
+        <item>май</item>
+        <item>июн.</item>
+        <item>июл.</item>
+        <item>авг.</item>
+        <item>сент.</item>
+        <item>окт.</item>
+        <item>нояб.</item>
+        <item>дек.</item>
     </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
@@ -135,9 +177,94 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+    <string-array name="month_string_array">
+        <item>ЯНВ</item>
+        <item>ФЕВ</item>
+        <item>МАР</item>
+        <item>АПР</item>
+        <item>МАЙ</item>
+        <item>ИЮН</item>
+        <item>ИЮЛ</item>
+        <item>АВГ</item>
+        <item>СЕН</item>
+        <item>ОКТ</item>
+        <item>НОЯ</item>
+        <item>ДЕК</item>
+    </string-array>
+    <string-array name="news_sdk_before_today">
+        <item>Вчера HH:mm</item>
+        <item>Позавчера HH:mm</item>
+        <item>d.MM HH:mm</item>
+    </string-array>
+    <string-array name="news_sdk_hour_ago">
+        <item>%d ч назад</item>
+    </string-array>
+    <string-array name="news_sdk_last_visit_position">
+        <item>Вы смотрели здесь. Нажмите, чтобы обновить</item>
+        <item>Здесь вы остановились в прошлый раз. Нажмите, чтобы обновить</item>
+    </string-array>
+    <string-array name="news_sdk_minute_ago">
+        <item>%d мин назад</item>
+    </string-array>
+    <string-array name="news_sdk_picture_operate">
+        <item>Поделиться изображением</item>
+        <item>Сохранить изображение</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete">
+        <item>Это самое новое</item>
+        <item>Обновлено статей: %d</item>
+    </string-array>
+    <string-array name="news_sdk_refresh_complete_video">
+        <item>Это самое новое</item>
+        <item>Обновлено видео: %d</item>
+    </string-array>
+    <string-array name="news_sdk_tip_report_video_array">
+        <item>Порнография/насилие</item>
+        <item>Кликбейт</item>
+        <item>Реклама</item>
+        <item>Плохое качество видео</item>
+        <item>Оскорбительная обложка</item>
+        <item>Нарушение прав</item>
+    </string-array>
+    <string-array name="news_tip_report_article_array">
+        <item>Реклама</item>
+        <item>Устаревшее</item>
+        <item>Пошлость и порнография</item>
+        <item>Кликбейт</item>
+        <item>Не соответствует действительности</item>
+    </string-array>
+    <string-array name="news_tip_report_video_array">
+        <item>Реклама</item>
+        <item>Пошлость, порнография, насилие</item>
+        <item>Кликбейт</item>
+        <item>Нарушение прав</item>
+        <item>Плохое качество видео</item>
+        <item>Оскорбительная обложка</item>
+    </string-array>
     <string-array name="pref_calendar_view_labels">
         <item>Помесячный</item>
         <item>Недельный</item>
+    </string-array>
+    <string-array name="pref_default_all_day_reminder_labels">
+        <item>В день события (9:00)</item>
+        <item>За 1 день (9:00)</item>
+        <item>За 2 дня (9:00)</item>
+    </string-array>
+    <string-array name="pref_default_festival_reminder_labels">
+        <item>Нет</item>
+        <item>В день события (9:00)</item>
+        <item>За 1 день (9:00)</item>
+        <item>За 2 дня (9:00)</item>
+    </string-array>
+    <string-array name="pref_default_reminder_labels">
+        <item>Во время события</item>
+        <item>За 5 минут</item>
+        <item>За 10 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>За 2 часа</item>
+        <item>За 1 день</item>
+        <item>За 1 неделю</item>
     </string-array>
     <string-array name="pref_week_start_labels">
         <item>По умолчанию</item>
@@ -165,6 +292,13 @@
         <item>К сожалению, у меня не получается. Мы должны перенести.</item>
         <item>Написать своё…</item>
     </string-array>
+    <string-array name="reminder_day_labels">
+        <item>В день события</item>
+        <item>За 1 день</item>
+        <item>За 2 дня</item>
+        <item>За 3 дня</item>
+        <item>За 1 неделю</item>
+    </string-array>
     <string-array name="reminder_methods_labels">
         <item>Уведомления</item>
         <item>Эл. почта</item>
@@ -180,10 +314,59 @@
         <item>На дату</item>
         <item>Определённое количество раз</item>
     </string-array>
+    <string-array name="report_choice_item">
+        <item>Непристойное содержимое</item>
+        <item>Слухи</item>
+        <item>Клевета</item>
+        <item>Политически чувствительное</item>
+        <item>Оскорбления</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
+    <string-array name="solar_festival">
+        <item>0101Новый год</item>
+        <item>0214День святого Валентина</item>
+        <item>0308Международный женский день</item>
+        <item>0312День посадки деревьев</item>
+        <item>0315День защиты прав потребителей</item>
+        <item>0401День смеха</item>
+        <item>0422День Земли</item>
+        <item>0501Праздник труда</item>
+        <item>0504День молодёжи</item>
+        <item>0601День защиты детей</item>
+        <item>0701День основания КПК</item>
+        <item>0801День основания НОАК</item>
+        <item>0910День учителя</item>
+        <item>1001День образования КНР</item>
+        <item>1031Канун Дня всех святых</item>
+        <item>1101День всех святых</item>
+        <item>1224Сочельник</item>
+        <item>1225Рождество</item>
+    </string-array>
+    <string-array name="special_festivals">
+        <item>День матери</item>
+        <item>День отца</item>
+        <item>День благодарения</item>
+    </string-array>
     <string-array name="tool_types">
-        <item>Встречи</item>
+        <item>Расчёт дат</item>
         <item>Интервал</item>
-        <item>Переключение между григорианским и лунным</item>
+        <item>Перевод в лунный календарь</item>
+    </string-array>
+    <string-array name="tradition_festival">
+        <item>Канун Праздника весны</item>
+        <item>0101Праздник весны</item>
+        <item>0115Праздник фонарей</item>
+        <item>0505Праздник драконьих лодок</item>
+        <item>0707Цисицзе</item>
+        <item>0815Праздник середины осени</item>
+        <item>0909Праздник двойной девятки</item>
+        <item>1208Лаба</item>
     </string-array>
     <string-array name="weekSpeakArr">
         <item>Воскресенье</item>
@@ -194,6 +377,15 @@
         <item>Пятница</item>
         <item>Суббота</item>
     </string-array>
+    <string-array name="week_string_array">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
     <string-array name="weekarr">
         <item>Вс</item>
         <item>Пн</item>
@@ -202,5 +394,14 @@
         <item>Чт</item>
         <item>Пт</item>
         <item>Сб</item>
+    </string-array>
+    <string-array name="year_view_week_string_array">
+        <item>В</item>
+        <item>П</item>
+        <item>В</item>
+        <item>С</item>
+        <item>Ч</item>
+        <item>П</item>
+        <item>С</item>
     </string-array>
 </resources>

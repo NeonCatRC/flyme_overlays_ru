@@ -25,16 +25,28 @@
         <item quantity="zero">HH:mm</item>
     </plurals>
     <plurals name="news_lite_before_today_chinese">
-        <item quantity="other">Md HH:mm</item>
         <item quantity="zero">HH:mm</item>
+        <item quantity="other">d.MM HH:mm</item>
     </plurals>
     <plurals name="news_lite_before_today_chinese_year">
-        <item quantity="other">yyyyMd</item>
         <item quantity="zero">HH:mm</item>
+        <item quantity="other">d.MM.yyyy</item>
     </plurals>
     <plurals name="news_lite_before_today_year">
         <item quantity="other">yyyy/M/d</item>
         <item quantity="zero">HH:mm</item>
+    </plurals>
+    <plurals name="news_lite_hour_ago">
+        <item quantity="one">%d ч назад</item>
+        <item quantity="few">%d ч назад</item>
+        <item quantity="many">%d ч назад</item>
+        <item quantity="other">%d ч назад</item>
+    </plurals>
+    <plurals name="news_lite_minute_ago">
+        <item quantity="one">%d мин назад</item>
+        <item quantity="few">%d мин назад</item>
+        <item quantity="many">%d мин назад</item>
+        <item quantity="other">%d мин назад</item>
     </plurals>
     <plurals name="numberPickerN">
         <item quantity="other">Завершить после %d раз?</item>
