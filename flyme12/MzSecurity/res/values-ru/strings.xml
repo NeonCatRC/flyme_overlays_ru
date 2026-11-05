@@ -853,7 +853,7 @@
     <string name="msg_reject_all_heads_up_notify">Запретить уведомления поверх всего для всех приложений?</string>
     <string name="msg_reject_all_notify">Запретить уведомления для всех приложений?</string>
     <string name="msg_start_end_too_small">Интервал между включением и выключением должен быть не менее %1$d мин.</string>
-    <string name="mtrl_checkbox_state_description_checked">проверено</string>
+    <string name="mtrl_checkbox_state_description_checked">Отмечено</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Отмечено частично</string>
     <string name="mtrl_checkbox_state_description_unchecked">Не отмечено</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
@@ -950,7 +950,7 @@
     <string name="mzuc_new_version_update_later">Не обновлять сейчас</string>
     <string name="mzuc_new_version_update_later_noti">Не обновлять сейчас</string>
     <string name="mzuc_notification_message_s">%s</string>
-    <string name="mzuc_pause_download">ПАУЗА</string>
+    <string name="mzuc_pause_download">Приостановить</string>
     <string name="mzuc_retry">Повтор</string>
     <string name="mzuc_update_finish_format">Обновлено до актуальной версии (%s)</string>
     <string name="mzuc_update_immediately">Обновить сейчас</string>

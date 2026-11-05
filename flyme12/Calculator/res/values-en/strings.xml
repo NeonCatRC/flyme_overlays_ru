@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bear_with_spouse">Shared with spouse 1000</string>
+    <string name="discount">/10</string>
+    <string name="personal_bear">Self 2000</string>
+    <string name="rate_type_lpr_text">LPR: 1-year %1$s, over 5 years %2$s</string>
+    <string name="rate_type_lpr_text_default">LPR: 1-year 3.65%, over 5 years 4.30%</string>
+    <string name="support_together">Shared by 2 people 1500</string>
+</resources>

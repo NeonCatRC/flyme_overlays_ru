@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="clock_fast_set">
+        <item>Same as local time</item>
+        <item>%1$s ahead</item>
+        <item>%2$s ahead</item>
+        <item>%1$s %2$s ahead</item>
+        <item>%3$s ahead</item>
+        <item>%1$s %3$s ahead</item>
+        <item>%2$s %3$s ahead</item>
+        <item>%1$s %2$s ahead</item>
+    </string-array>
+    <string-array name="clock_slow_set">
+        <item>Same as local time</item>
+        <item>%1$s behind</item>
+        <item>%2$s behind</item>
+        <item>%1$s %2$s behind</item>
+        <item>%3$s behind</item>
+        <item>%1$s %3$s behind</item>
+        <item>%2$s %3$s behind</item>
+        <item>%1$s %2$s behind</item>
+    </string-array>
+</resources>

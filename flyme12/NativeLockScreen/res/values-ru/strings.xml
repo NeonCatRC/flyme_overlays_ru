@@ -136,7 +136,7 @@
     <string name="menu_set_lockscreen">Установить на экран блокировки</string>
     <string name="menu_setting">Настройки</string>
     <string name="more_item_label">Ещё</string>
-    <string name="mtrl_checkbox_state_description_checked">проверено</string>
+    <string name="mtrl_checkbox_state_description_checked">Отмечено</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Отмечено частично</string>
     <string name="mtrl_checkbox_state_description_unchecked">Не отмечено</string>
     <string name="mtrl_picker_announce_current_range_selection">Дата начала: %1$s – дата окончания: %2$s</string>
@@ -261,7 +261,7 @@
     <string name="mzuc_new_version_update_later_noti">Не обновлять сейчас</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">ОК</string>
-    <string name="mzuc_pause_download">ПАУЗА</string>
+    <string name="mzuc_pause_download">Приостановить</string>
     <string name="mzuc_reboot_update_now">Перезапустите для завершения обновления</string>
     <string name="mzuc_retry">Повторить</string>
     <string name="mzuc_skip_version">Пропустить</string>

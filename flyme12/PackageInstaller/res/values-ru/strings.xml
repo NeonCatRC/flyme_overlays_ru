@@ -296,7 +296,7 @@
     <string name="more_item_label">Ещё</string>
     <string name="mstore_notify_text_rival">Магазин приложений Meizu предоставляет аналогичные сервисы, вы можете перейти напрямую в магазин</string>
     <string name="mstore_notify_text_vc">У этого приложения есть обновлённая версия в официальном магазине приложений Meizu</string>
-    <string name="mtrl_checkbox_state_description_checked">проверено</string>
+    <string name="mtrl_checkbox_state_description_checked">Отмечено</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Отмечено частично</string>
     <string name="mtrl_checkbox_state_description_unchecked">Не отмечено</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>

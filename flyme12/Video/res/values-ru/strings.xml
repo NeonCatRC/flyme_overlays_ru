@@ -118,7 +118,7 @@
     <string name="menu_unhide">Сделать публичным</string>
     <string name="mms_save">Сохранить</string>
     <string name="more_item_label">Ещё</string>
-    <string name="mtrl_checkbox_state_description_checked">Проверенно</string>
+    <string name="mtrl_checkbox_state_description_checked">Отмечено</string>
     <string name="mtrl_picker_save">Сохранить</string>
     <string name="mtrl_picker_text_input_day_abbr">д.</string>
     <string name="mtrl_picker_text_input_month_abbr">м.</string>
@@ -191,7 +191,7 @@
     <string name="mzuc_manual_update_title">Проверить обновления</string>
     <string name="mzuc_msg_indicator">Что нового:</string>
     <string name="mzuc_notification_message_s">%s</string>
-    <string name="mzuc_pause_download">Пауза</string>
+    <string name="mzuc_pause_download">Приостановить</string>
     <string name="mzuc_retry">Повторить</string>
     <string name="mzuc_update_finish_format">Обновлено до последней версии %s</string>
     <string name="mzuc_update_immediately">Обновить сейчас</string>

@@ -374,7 +374,7 @@
     <string name="more_pic">Фото города</string>
     <string name="most_city_count_tip">Можно добавить не более 10 городов</string>
     <string name="most_city_widget_tip">Можно выбрать не более двух городов</string>
-    <string name="mtrl_checkbox_state_description_checked">проверено</string>
+    <string name="mtrl_checkbox_state_description_checked">Отмечено</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Отмечено частично</string>
     <string name="mtrl_checkbox_state_description_unchecked">Не отмечено</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить %1$s</string>
@@ -512,7 +512,7 @@
     <string name="mzuc_notification_before_upgrade">Вы используете мобильный интернет. Загрузка сейчас может потребовать дополнительной оплаты.</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">ОК</string>
-    <string name="mzuc_pause_download">ПАУЗА</string>
+    <string name="mzuc_pause_download">Приостановить</string>
     <string name="mzuc_reboot_update_now">Перезапустите для завершения обновления</string>
     <string name="mzuc_retry">Повторить</string>
     <string name="mzuc_skip_version">Пропустить</string>

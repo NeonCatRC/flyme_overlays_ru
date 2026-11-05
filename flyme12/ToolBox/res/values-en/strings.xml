@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="compass_shortcut">Compass</string>
+    <string name="heart_shortcut">Heart rate</string>
+    <string name="level_shortcut">Level</string>
+    <string name="magnifier_shortcut">Magnifier</string>
+    <string name="mirror_shortcut">Mirror</string>
+    <string name="ruler_shortcut">Ruler</string>
+    <string name="torch_shortcut">Flashlight</string>
+</resources>

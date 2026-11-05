@@ -579,7 +579,7 @@
     <string name="mzuc_new_version_update_later">Не обновлять сейчас</string>
     <string name="mzuc_new_version_update_later_noti">Не обновлять сейчас</string>
     <string name="mzuc_notification_message_s">%s</string>
-    <string name="mzuc_pause_download">Пауза</string>
+    <string name="mzuc_pause_download">Приостановить</string>
     <string name="mzuc_retry">Повтор</string>
     <string name="mzuc_update_finish_format">Обновлено до последней версии %s</string>
     <string name="mzuc_update_immediately">Обновить сейчас</string>

@@ -368,23 +368,23 @@
     </string-array>
     <string-array name="clock_fast_set">
         <item>Как местное время</item>
-        <item>%1$s назад</item>
-        <item>на %2$s больше</item>
-        <item>%1$s %2$s раньше</item>
-        <item>%3$s назад</item>
-        <item>%1$s %3$s назад</item>
-        <item>%2$s %3$s назад</item>
-        <item>%1$s %2$s раньше</item>
+        <item>Опережает на %1$s</item>
+        <item>Опережает на %2$s</item>
+        <item>Опережает на %1$s %2$s</item>
+        <item>Опережает на %3$s</item>
+        <item>Опережает на %1$s %3$s</item>
+        <item>Опережает на %2$s %3$s</item>
+        <item>Опережает на %1$s %2$s</item>
     </string-array>
     <string-array name="clock_slow_set">
         <item>Как местное время</item>
-        <item>через %1$s</item>
-        <item>на %2$s меньше</item>
-        <item>%1$s %2$s позже</item>
-        <item>через %3$s</item>
-        <item>через %1$s %3$s</item>
-        <item>через %2$s %3$s</item>
-        <item>%1$s %2$s позже</item>
+        <item>Отстаёт на %1$s</item>
+        <item>Отстаёт на %2$s</item>
+        <item>Отстаёт на %1$s %2$s</item>
+        <item>Отстаёт на %3$s</item>
+        <item>Отстаёт на %1$s %3$s</item>
+        <item>Отстаёт на %2$s %3$s</item>
+        <item>Отстаёт на %1$s %2$s</item>
     </string-array>
     <string-array name="coutries_names">
         <item>Берег Слоновой Кости</item>
@@ -789,6 +789,15 @@
         <item>Дек</item>
     </string-array>
     <string-array name="mc_custom_weekday">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="weekarr">
         <item>Вс</item>
         <item>Пн</item>
         <item>Вт</item>

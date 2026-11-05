@@ -718,7 +718,7 @@ mzuc_new_version_notification_message_s	new
 mzuc_new_version_update_later	new
 mzuc_new_version_update_later_noti	new
 mzuc_notification_message_s	own
-mzuc_pause_download	own
+mzuc_pause_download	new
 mzuc_retry	own
 mzuc_update_finish_format	own
 mzuc_update_immediately	own

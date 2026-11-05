@@ -461,7 +461,7 @@
     <string name="mzuc_notification_before_upgrade">You are using cellular data. Downloading now will incur extra charges.</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">ОК</string>
-    <string name="mzuc_pause_download">Пауза</string>
+    <string name="mzuc_pause_download">Приостановить</string>
     <string name="mzuc_reboot_update_now">Перезапустить обновление</string>
     <string name="mzuc_retry">Повтор</string>
     <string name="mzuc_skip_version">Пропустить</string>

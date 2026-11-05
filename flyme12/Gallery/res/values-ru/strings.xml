@@ -1368,7 +1368,7 @@
     <string name="mzuc_new_version_update_later_noti">Не обновлять сейчас</string>
     <string name="mzuc_notification_message_s">%s</string>
     <string name="mzuc_ok">ОК</string>
-    <string name="mzuc_pause_download">ПАУЗА</string>
+    <string name="mzuc_pause_download">Приостановить</string>
     <string name="mzuc_reboot_update_now">Перезапустить обновление</string>
     <string name="mzuc_retry">Повтор</string>
     <string name="mzuc_skip_version">Пропустить</string>

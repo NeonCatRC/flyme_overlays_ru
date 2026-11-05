@@ -300,7 +300,7 @@ mtrl_checkbox_button_path_checked	todo
 mtrl_checkbox_button_path_group_name	todo
 mtrl_checkbox_button_path_name	todo
 mtrl_checkbox_button_path_unchecked	todo
-mtrl_checkbox_state_description_checked	own
+mtrl_checkbox_state_description_checked	new
 mtrl_checkbox_state_description_indeterminate	todo
 mtrl_checkbox_state_description_unchecked	todo
 mtrl_exceed_max_badge_number_suffix	skip
@@ -397,7 +397,7 @@ mzuc_new_version_notification_message_s	todo
 mzuc_new_version_update_later	todo
 mzuc_new_version_update_later_noti	todo
 mzuc_notification_message_s	own
-mzuc_pause_download	own
+mzuc_pause_download	new
 mzuc_retry	new
 mzuc_update_finish_format	own
 mzuc_update_immediately	own

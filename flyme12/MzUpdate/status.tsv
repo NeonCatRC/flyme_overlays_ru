@@ -592,7 +592,7 @@ mzuc_new_version_update_later_noti	todo
 mzuc_notification_before_upgrade	own
 mzuc_notification_message_s	own
 mzuc_ok	own
-mzuc_pause_download	own
+mzuc_pause_download	new
 mzuc_reboot_update_now	own
 mzuc_retry	own
 mzuc_skip_version	own

@@ -74,7 +74,7 @@
     <string name="menu_setting">Настройки</string>
     <string name="more_item_label">Ещё</string>
     <string name="move_phone_display">Показывать при движении телефона</string>
-    <string name="mtrl_checkbox_state_description_checked">проверено</string>
+    <string name="mtrl_checkbox_state_description_checked">Отмечено</string>
     <string name="mtrl_checkbox_state_description_indeterminate">Отмечено частично</string>
     <string name="mtrl_checkbox_state_description_unchecked">Не отмечено</string>
     <string name="mtrl_picker_end_date_description">Дата окончания: %1$s</string>

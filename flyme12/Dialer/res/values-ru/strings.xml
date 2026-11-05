@@ -1147,7 +1147,7 @@
     <string name="mzuc_manual_update_title">Проверить обновления</string>
     <string name="mzuc_msg_indicator">Что нового:</string>
     <string name="mzuc_notification_message_s">%s</string>
-    <string name="mzuc_pause_download">Приостановить загрузку</string>
+    <string name="mzuc_pause_download">Приостановить</string>
     <string name="mzuc_retry">Повтор</string>
     <string name="mzuc_update_finish_format">Обновлено до последней версии %s</string>
     <string name="mzuc_update_immediately">Обновить сейчас</string>

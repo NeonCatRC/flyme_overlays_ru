@@ -14,6 +14,20 @@
         <item>THB</item>
         <item>VND</item>
     </string-array>
+    <string-array name="area">
+        <item>м²</item>
+        <item>км²</item>
+        <item>му</item>
+        <item>кв. фут</item>
+        <item>дм²</item>
+        <item>см²</item>
+        <item>мм²</item>
+        <item>кв. миля</item>
+        <item>акр</item>
+        <item>кв. ярд</item>
+        <item>кв. дюйм</item>
+        <item>га</item>
+    </string-array>
     <string-array name="area_cn">
         <item>кв. метр</item>
         <item>кв. километр</item>
@@ -554,6 +568,71 @@
         <item>jiao</item>
         <item>fen</item>
     </string-array>
+    <string-array name="in_area">
+        <item>м²</item>
+        <item>км²</item>
+        <item>га</item>
+        <item>кв. фут</item>
+        <item>дм²</item>
+        <item>см²</item>
+        <item>мм²</item>
+        <item>кв. миля</item>
+        <item>акр</item>
+        <item>кв. ярд</item>
+        <item>кв. дюйм</item>
+    </string-array>
+    <string-array name="in_length">
+        <item>м</item>
+        <item>км</item>
+        <item>фут</item>
+        <item>дм</item>
+        <item>см</item>
+        <item>мор. миля</item>
+        <item>миля</item>
+        <item>дюйм</item>
+        <item>мм</item>
+        <item>мкм</item>
+    </string-array>
+    <string-array name="in_volume">
+        <item>м³</item>
+        <item>л</item>
+        <item>галлон</item>
+        <item>куб. фут</item>
+        <item>дм³</item>
+        <item>см³</item>
+        <item>мл</item>
+        <item>мм³</item>
+        <item>баррель</item>
+        <item>унция</item>
+        <item>куб. ярд</item>
+        <item>куб. дюйм</item>
+    </string-array>
+    <string-array name="in_wight">
+        <item>кг</item>
+        <item>т</item>
+        <item>фунт</item>
+        <item>унция</item>
+        <item>г</item>
+        <item>мг</item>
+    </string-array>
+    <string-array name="length">
+        <item>м</item>
+        <item>км</item>
+        <item>чи</item>
+        <item>фут</item>
+        <item>дм</item>
+        <item>см</item>
+        <item>ли (500 м)</item>
+        <item>чжан</item>
+        <item>цунь</item>
+        <item>фэнь</item>
+        <item>ли (⅓ мм)</item>
+        <item>мор. миля</item>
+        <item>миля</item>
+        <item>дюйм</item>
+        <item>мм</item>
+        <item>мкм</item>
+    </string-array>
     <string-array name="length_cn">
         <item>метр</item>
         <item>километр</item>
@@ -645,6 +724,21 @@
         <item>bai</item>
         <item>qian</item>
     </string-array>
+    <string-array name="volume">
+        <item>м³</item>
+        <item>л</item>
+        <item>галлон</item>
+        <item>куб. фут</item>
+        <item>гл</item>
+        <item>дм³</item>
+        <item>см³</item>
+        <item>мл</item>
+        <item>мм³</item>
+        <item>баррель</item>
+        <item>унция</item>
+        <item>куб. ярд</item>
+        <item>куб. дюйм</item>
+    </string-array>
     <string-array name="volume_cn">
         <item>куб. метр</item>
         <item>литр</item>
@@ -659,6 +753,18 @@
         <item>унция</item>
         <item>куб. ярд</item>
         <item>куб. дюйм</item>
+    </string-array>
+    <string-array name="wight">
+        <item>кг</item>
+        <item>т</item>
+        <item>фунт</item>
+        <item>унция</item>
+        <item>г</item>
+        <item>мг</item>
+        <item>цзинь</item>
+        <item>дань</item>
+        <item>лян</item>
+        <item>цянь</item>
     </string-array>
     <string-array name="wight_cn">
         <item>килограмм</item>
