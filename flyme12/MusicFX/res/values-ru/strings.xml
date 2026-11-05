@@ -5,7 +5,6 @@
     <string name="bass">Басс</string>
     <string name="bass_boost_strength">Усиление басса</string>
     <string name="ci_extreme">FX booster</string>
-    <string name="ckm500_headset">Audio Technica CKM500</string>
     <string name="classic">Классик</string>
     <string name="close">Закрыть</string>
     <string name="custom">Своё</string>
@@ -19,7 +18,6 @@
     <string name="ep40_headset">EP40</string>
     <string name="eq_dialog_title">Эквалайзер</string>
     <string name="eq_enable_tip">Пожалуйста, вставьте наушники</string>
-    <string name="es7_headset">Audio Technica ATHES7</string>
     <string name="five_hundred">500.0</string>
     <string name="fourk">4K</string>
     <string name="headset">Для использования этой функции требуются наушники.</string>

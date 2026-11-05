@@ -46,7 +46,7 @@
         <item quantity="one">Подключено устройств: %d</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Неверный PIN-код, осталось попыток: %d</item>
-        <item quantity="one">Неверный PIN-код, осталось попыток: %d. Затем вам придётся обратиться к своему оператору для разблокировки телефона.</item>
+        <item quantity="one">Неверный PIN-код SIM-карты. Осталось попыток: %1$d, затем для разблокировки телефона нужно будет обратиться к оператору</item>
+        <item quantity="other">Неверный PIN-код SIM-карты. Осталось попыток: %1$d</item>
     </plurals>
 </resources>

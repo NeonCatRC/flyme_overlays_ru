@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bluetooth_meizu_active_no_hfp_battery_level">"Only media audio is in use, left %1$s, right %2$s"</string>
+    <string name="bluetooth_meizu_connected_no_hfp_battery_level">"Only media audio is connected, left %1$s, right %2$s"</string>
+    <string name="flyme_push_dialog_content">Turning off Push disables Find My Phone, multi-device sync and Flyme Message</string>
+    <string name="rd_notify_appserver_error_endfix">Server error</string>
+    <string name="rd_notify_internet_error">External network error</string>
+    <string name="rd_notify_local_error">Phone network error</string>
+</resources>

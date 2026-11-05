@@ -197,16 +197,16 @@
         <item>Лучший возможный результат (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-        <item>Предпочтение качеству звука</item>
-        <item>Учитывайте качество аудио и подключения</item>
-        <item>Предпочтение качеству звука</item>
-        <item>Обеспечение наилучшего качества звука (адаптивный битрейт)</item>
+        <item>Приоритет качества подключения</item>
+        <item>Баланс качества звука и подключения</item>
+        <item>Высокое качество звука</item>
+        <item>Наилучшее качество (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-        <item>Приоритет качества аудио (400 кбит/с)</item>
-        <item>Учёт качества аудио и соединения (500 кбит/с)</item>
-        <item>Приоритет качества аудио (900 кбит/с)</item>
-        <item>Обеспечение наилучшего качества звука (адаптивный битрейт)</item>
+        <item>Приоритет качества подключения (400 кбит/с)</item>
+        <item>Баланс качества звука и подключения (500 кбит/с)</item>
+        <item>Высокое качество звука (900 кбит/с)</item>
+        <item>Наилучшее качество (адаптивный битрейт)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Выбор системы (по умолчанию)</item>
@@ -549,6 +549,11 @@
         <item>Приоритет 3G</item>
         <item>Приоритет 4G</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices_simple">
+        <item>Авто</item>
+        <item>Только 2G</item>
+        <item>Только 3G</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices_simple_mrvl">
         <item>Только 2G</item>
         <item>Приоритет 3G</item>
@@ -637,7 +642,7 @@
         <item>Последняя активность</item>
     </string-array>
     <string-array name="shade_display_awareness_summaries">
-        <item>Показывать тень только на экране устройства</item>
+        <item>Показывать панель уведомлений только на экране устройства</item>
         <item>Показывать панель уведомлений на единственном внешнем дисплее</item>
         <item>Показывать панель уведомлений на дисплее, со строкой состояния которого пользователь взаимодействовал в последний раз</item>
         <item>Показывать панель уведомлений на дисплее, на который пользователь перешел в последний раз</item>
@@ -864,10 +869,10 @@
         <item>Только 2,4 ГГц</item>
     </string-array>
     <string-array name="wifi_info_menu_items">
-        <item>Сетевая информация</item>
+        <item>Сведения о сети</item>
         <item>Поделиться сетью</item>
         <item>Изменить пароль</item>
-        <item>Очистить сеть</item>
+        <item>Удалить сеть</item>
         <item>Статический IP</item>
         <item>Настройки прокси</item>
     </string-array>
