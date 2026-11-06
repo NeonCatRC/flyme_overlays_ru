@@ -46,6 +46,20 @@
         <item>Ноя</item>
         <item>Дек</item>
     </string-array>
+    <string-array name="problem_array_value">
+        <item>Не устанавливается</item>
+        <item>Вылетает</item>
+        <item>Содержит вирус</item>
+        <item>Мошенничество</item>
+        <item>Вредоносный плагин</item>
+        <item>Азартные игры</item>
+        <item>Непристойное содержимое</item>
+        <item>Экстремистское содержимое</item>
+        <item>Насилие</item>
+        <item>Нарушение конфиденциальности</item>
+        <item>Навязчивая реклама</item>
+        <item>Другое</item>
+    </string-array>
     <string-array name="sizeUnit">
         <item>Б</item>
         <item>КБ</item>

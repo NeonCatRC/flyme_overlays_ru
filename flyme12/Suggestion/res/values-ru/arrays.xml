@@ -14,4 +14,10 @@
         <item>Ноя</item>
         <item>Дек</item>
     </string-array>
+    <string-array name="sizeUnit">
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
 </resources>

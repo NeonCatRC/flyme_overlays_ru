@@ -2,8 +2,8 @@ app	package	version	own	own_check	apk	new	todo	unused	skip	en_new	en_fix	en_todo
 AlarmClock	com.android.alarmclock	12.0.46 120000046	347	0	82	120	0	50	94	0	3	0
 AliveWallPaper	com.flyme.alivewallpaper	13.0.5 13000005	0	0	6	39	0	7	9	1	0	0
 AlphaMe	com.meizu.alphame	12.0.19 12000019	12	0	140	138	0	62	66	0	1	0
-AppCenter	com.meizu.mstore	12.5.1 12205001	256	2	62	0	850	49	37	0	0	0
-Assistant	com.meizu.assistant	13.0.6 130000006	397	9	17	1	643	57	27	0	0	0
+AppCenter	com.meizu.mstore	12.5.1 12205001	256	2	62	700	0	49	187	0	0	0
+Assistant	com.meizu.assistant	13.0.6 130000006	390	9	24	336	0	57	335	0	0	0
 Browser	com.android.browser	12.9.1 12209001	505	6	2538	0	2435	379	66	0	0	0
 Calculator	com.meizu.flyme.calculator	12.0.17 12000017	386	0	78	101	0	5	175	0	6	0
 Calendar	com.android.calendar	19.3.3 19003003	750	0	23	642	0	70	195	115	20	0
@@ -18,7 +18,7 @@ FlymeLauncher	com.meizu.flyme.launcher	13.0.0 13000000	451	0	258	205	0	30	205	45
 FlymeSoundRecorder	com.android.soundrecorder	12.3.7 12003007	358	0	80	177	0	3	90	1	8	0
 framework-res	android	16 36	1394	0	1275	332	0	0	688	65	11	0
 Gallery	com.meizu.media.gallery	12.7.3 1200070003	1308	0	335	511	0	68	155	42	52	0
-GameCenter	com.meizu.flyme.gamecenter	12.3.0 12003000	1061	16	3	4	570	151	41	0	0	0
+GameCenter	com.meizu.flyme.gamecenter	12.3.0 12003000	933	16	131	94	415	151	106	0	0	0
 InCallUI	com.android.incallui	14.01.07 14001007	190	0	41	27	0	3	78	0	0	0
 mCareNew	com.meizu.mcare	8.0.0 800	186	0	61	292	0	28	88	161	8	0
 Mms	com.android.mms	12.3.4 12003004	828	0	0	465	0	225	164	74	16	0
@@ -37,7 +37,7 @@ Pedometer	com.meizu.net.pedometer	12.0.13 12000013	399	0	33	113	0	55	121	41	5	0
 Picker	com.meizu.picker	12.2.34 12002034	305	0	4	194	0	78	82	2	0	0
 SDKStage	com.meizu.flyme.sdkstage	5.0.01 50000001	127	0	8	45	0	11	53	0	1	0
 Settings	com.android.settings	12.1.0 12001000	4848	0	4391	572	0	158	611	9	29	0
-Suggestion	com.meizu.suggestion	12.5.10 12005010	89	2	0	0	512	3	15	0	0	0
+Suggestion	com.meizu.suggestion	12.5.10 12005010	89	2	0	429	0	3	98	0	0	0
 SystemUI	com.android.systemui	16.26.06.25_base 16260625	1804	0	1912	143	0	171	310	3	0	0
 SystemUIEditor	com.flyme.systemuieditor	3.5.45 30005045	0	0	142	212	0	105	149	10	34	0
 SystemUIEx	com.flyme.systemuiex	12.3.14 12003014	270	0	40	26	0	65	69	0	0	0

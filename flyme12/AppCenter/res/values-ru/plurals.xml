@@ -4,4 +4,10 @@
         <item quantity="other">%d новых уведомлений</item>
         <item quantity="one">%d новое уведомление</item>
     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Нажмите ещё %1$d раз, чтобы экспортировать журнал</item>
+        <item quantity="few">Нажмите ещё %1$d раза, чтобы экспортировать журнал</item>
+        <item quantity="many">Нажмите ещё %1$d раз, чтобы экспортировать журнал</item>
+        <item quantity="other">Нажмите ещё %1$d раза, чтобы экспортировать журнал</item>
+    </plurals>
 </resources>
