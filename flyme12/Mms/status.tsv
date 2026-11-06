@@ -123,15 +123,15 @@ attachment_video	own
 auto_delete_info	own
 base_cancel	new
 base_conversation_audio_tips	own
-base_conversation_draft_tips	own
+base_conversation_draft_tips	new
 base_conversation_expression_tips	unused
-base_conversation_file_tips	own
-base_conversation_image_tips	own
+base_conversation_file_tips	new
+base_conversation_image_tips	new
 base_conversation_position_tips	unused
 base_conversation_record_tips	unused
-base_conversation_rich_card_tips	own
+base_conversation_rich_card_tips	new
 base_conversation_vcard_tips	unused
-base_conversation_video_tips	own
+base_conversation_video_tips	new
 base_not_prompt_again	new
 blacklist_checkbox_text	new
 blacklist_contact_title	own
@@ -193,7 +193,7 @@ chatbot_can_not_send	new
 chatbot_cannot_enter	new
 chatbot_card	new
 chatbot_card_notification	new
-chatbot_card_notify	own
+chatbot_card_notify	new
 chatbot_complaint_chatbot	new
 chatbot_complaint_commit	own
 chatbot_complaint_content	new
@@ -209,7 +209,7 @@ chatbot_complaint_phone	new
 chatbot_complaint_spam	new
 chatbot_complaint_type	new
 chatbot_description	new
-chatbot_downloading	own
+chatbot_downloading	new
 chatbot_email	new
 chatbot_entrance_description	new
 chatbot_expand_more	own
@@ -223,7 +223,7 @@ chatbot_loading	new
 chatbot_local_nodata	new
 chatbot_menu_applet	new
 chatbot_menu_black	new
-chatbot_menu_complaint	own
+chatbot_menu_complaint	new
 chatbot_menu_contact	new
 chatbot_menu_reject	new
 chatbot_menu_scan	new
@@ -241,7 +241,7 @@ chatbot_recent	new
 chatbot_recommend	new
 chatbot_refresh	new
 chatbot_remote	new
-chatbot_report	own
+chatbot_report	new
 chatbot_report_fail	new
 chatbot_report_success	new
 chatbot_resend_title	new
@@ -322,7 +322,7 @@ draft_header_text	own
 draft_no_subject	own
 draft_separator	skip
 draft_sub_tittle_mms	own
-draft_tittle_large	own
+draft_tittle_large	new
 duration_not_a_number	own
 duration_sec	own
 duration_selector_title	own
@@ -1191,7 +1191,7 @@ rcs_file_not_exist_preview	new
 rcs_file_range_not_satisfiable	unused
 rcs_file_save_failure	unused
 rcs_file_size_	unused
-rcs_file_subject_view	own
+rcs_file_subject_view	new
 rcs_forward	unused
 rcs_forward_confirm	unused
 rcs_geo_message	own
@@ -1201,7 +1201,7 @@ rcs_home	unused
 rcs_i_got_it	new
 rcs_im	unused
 rcs_image_message	own
-rcs_image_subject_view	own
+rcs_image_subject_view	new
 rcs_input_report_content	unused
 rcs_is_loading	new
 rcs_is_not_file	unused
@@ -1210,7 +1210,7 @@ rcs_job	unused
 rcs_known_more	new
 rcs_library_code_text	new
 rcs_load_failed	new
-rcs_location_subject_view	own
+rcs_location_subject_view	new
 rcs_lunar_birthday	unused
 rcs_main	unused
 rcs_manual_update_summary	unused
@@ -1390,7 +1390,7 @@ rcs_set_txt_bfs_address	new
 rcs_set_txt_switch_over_size	new
 rcs_set_up	unused
 rcs_set_up_2_4	skip
-rcs_setting	own_check
+rcs_setting	new
 rcs_settings	new
 rcs_shared_qr_code	new
 rcs_smart_chatbot_local	unused
@@ -1438,7 +1438,7 @@ rcs_video_mobile_network_tip_default	new
 rcs_video_mobile_network_tip_prefix	new
 rcs_video_mobile_network_tip_suffix	new
 rcs_video_play	unused
-rcs_video_subject_view	own
+rcs_video_subject_view	new
 rcs_view_contact	unused
 rcs_view_contact_count	unused
 rcs_view_original_photo	new

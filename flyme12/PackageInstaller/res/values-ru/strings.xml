@@ -138,7 +138,7 @@
     <string name="lb_guidedaction_finish_title">Готово</string>
     <string name="lb_media_player_error">Код ошибки медиапроигрывателя: %1$d (дополнительный: %2$d)</string>
     <string name="lb_navigation_menu_contentDescription">Меню навигации</string>
-    <string name="lb_onboarding_accessibility_next">Next</string>
+    <string name="lb_onboarding_accessibility_next">Далее</string>
     <string name="lb_onboarding_get_started">НАЧАТЬ</string>
     <string name="lb_playback_controls_closed_captioning_disable">Отключить субтитры</string>
     <string name="lb_playback_controls_closed_captioning_enable">Включить субтитры</string>
@@ -148,14 +148,14 @@
     <string name="lb_playback_controls_high_quality_disable">Отключить высокое качество</string>
     <string name="lb_playback_controls_high_quality_enable">Включить высокое качество</string>
     <string name="lb_playback_controls_more_actions">Дополнительно</string>
-    <string name="lb_playback_controls_pause">Pause</string>
+    <string name="lb_playback_controls_pause">Пауза</string>
     <string name="lb_playback_controls_picture_in_picture">Включить режим Картинка в картинке</string>
     <string name="lb_playback_controls_play">Play</string>
     <string name="lb_playback_controls_repeat_all">Повторять все</string>
     <string name="lb_playback_controls_repeat_none">Не повторять</string>
     <string name="lb_playback_controls_repeat_one">Повторять этот аудиофайл</string>
-    <string name="lb_playback_controls_rewind">Rewind</string>
-    <string name="lb_playback_controls_rewind_multiplier">Rewind %1$dX</string>
+    <string name="lb_playback_controls_rewind">Перемотка назад</string>
+    <string name="lb_playback_controls_rewind_multiplier">Перемотка назад ×%1$d</string>
     <string name="lb_playback_controls_shown">Элементы управления показаны</string>
     <string name="lb_playback_controls_shuffle_disable">Отключить перемешивание</string>
     <string name="lb_playback_controls_shuffle_enable">Включить перемешивание</string>

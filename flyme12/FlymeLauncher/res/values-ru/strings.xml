@@ -136,9 +136,9 @@
     <string name="application_flow_dialog_title">Не удалось передать. Проверьте подключение</string>
     <string name="application_flow_fail_dialog_tips">Понятно</string>
     <string name="application_flow_title">Передача приложения</string>
-    <string name="assistant_gesture_feedback_swipe_not_diagonal">Make sure you swipe diagonally</string>
-    <string name="assistant_gesture_feedback_swipe_not_long_enough">Try swiping further</string>
-    <string name="assistant_gesture_feedback_swipe_too_far_from_corner">Make sure you swipe from a bottom corner of the screen</string>
+    <string name="assistant_gesture_feedback_swipe_not_diagonal">Проведите по диагонали</string>
+    <string name="assistant_gesture_feedback_swipe_not_long_enough">Проведите дальше</string>
+    <string name="assistant_gesture_feedback_swipe_too_far_from_corner">Проведите от нижнего угла экрана</string>
     <string name="assistant_gesture_tutorial_playground_subtitle">Проведите по диагонали от нижнего угла экрана</string>
     <string name="assistant_gesture_tutorial_playground_title">Руководство: Ассистент</string>
     <string name="auto_add_shortcuts_description">Добавлять значки установленных приложений на главный экран</string>
@@ -281,7 +281,7 @@
     <string name="home_gesture_feedback_complete_with_follow_up">Вы выполнили жест для перехода на главный экран. Далее мы расскажем, как возвращаться назад.</string>
     <string name="home_gesture_feedback_complete_without_follow_up">Вы выполнили жест для перехода на главный экран.</string>
     <string name="home_gesture_feedback_overview_detected">Прежде чем отпустить палец, не задерживайте его в одной точке.</string>
-    <string name="home_gesture_feedback_swipe_too_far_from_edge">Make sure you swipe from the bottom edge of the screen</string>
+    <string name="home_gesture_feedback_swipe_too_far_from_edge">Проведите вверх от нижнего края экрана</string>
     <string name="home_gesture_feedback_wrong_swipe_direction">Проведите по экрану ровно вверх.</string>
     <string name="home_gesture_intro_subtitle">Проведите вверх от нижнего края дисплея. Этот жест открывает главный экран.</string>
     <string name="home_gesture_intro_title">Переход на главный экран</string>
@@ -293,7 +293,7 @@
     <string name="hotsaet_tip_prediction_enabled">Функция \"Рекомендуемые приложения\" включена.</string>
     <string name="hotseat_auto_enrolled">Здесь появляются часто используемые приложения. Список меняется с учетом ваших привычек.</string>
     <string name="hotseat_edu_accept">Показывать рекомендации</string>
-    <string name="hotseat_edu_dismiss">No thanks</string>
+    <string name="hotseat_edu_dismiss">Нет, спасибо</string>
     <string name="hotseat_edu_message_migrate">Приложения, которыми вы часто пользуетесь, будут доступны прямо на главном экране. Их список может меняться с учетом ваших предпочтений. Приложения из нижнего ряда будут перемещены выше на главном экране.</string>
     <string name="hotseat_edu_message_migrate_landscape">Включите функцию для быстрого доступа к часто используемым приложениям на главном экране. Список меняется с учетом ваших действий. Приложения из раздела избранных будут перемещены на главный экран.</string>
     <string name="hotseat_edu_title_migrate">Рекомендуемые приложения будут появляться в нижнем ряду на главном экране</string>
@@ -366,9 +366,9 @@
     <string name="lock_layout_switch">Блокировка рабочего стола</string>
     <string name="lock_layout_switch_summary">Если включить, значки нельзя будет перемещать и удалять</string>
     <string name="lock_layout_toast_tip">Макет рабочего стола заблокирован</string>
-    <string name="long_accessible_way_to_add">Double-tap &amp; hold to pick up a widget or use custom actions.</string>
-    <string name="long_accessible_way_to_add_shortcut">Double-tap &amp; hold to pick up a shortcut or use custom actions.</string>
-    <string name="long_press_shortcut_to_add">Touch &amp; hold to pick up a shortcut.</string>
+    <string name="long_accessible_way_to_add">Чтобы переместить виджет или использовать специальные действия, нажмите на него дважды и удерживайте.</string>
+    <string name="long_accessible_way_to_add_shortcut">Чтобы переместить ярлык или использовать специальные действия, нажмите на него дважды и удерживайте.</string>
+    <string name="long_press_shortcut_to_add">Чтобы переместить ярлык, нажмите и удерживайте его.</string>
     <string name="long_press_widget_to_add">Чтобы переместить виджет, нажмите на него и удерживайте</string>
     <string name="m3_loading_indicator_content_description">Загрузка</string>
     <string name="manage_windows_icon_text">Открытые окна: %1$d</string>
@@ -614,8 +614,8 @@
     <string name="overview_gesture_feedback_complete_with_follow_up">Теперь вы знаете, как использовать жесты. Чтобы отключить их, перейдите в настройки.</string>
     <string name="overview_gesture_feedback_complete_without_follow_up">Вы выполнили жест для переключения между приложениями.</string>
     <string name="overview_gesture_feedback_home_detected">Прежде чем отпустить палец, задержите его на экране немного дольше.</string>
-    <string name="overview_gesture_feedback_swipe_too_far_from_edge">Make sure you swipe from the bottom edge of the screen</string>
-    <string name="overview_gesture_feedback_wrong_swipe_direction">Make sure you swipe straight up and pause</string>
+    <string name="overview_gesture_feedback_swipe_too_far_from_edge">Проведите вверх от нижнего края экрана</string>
+    <string name="overview_gesture_feedback_wrong_swipe_direction">Проведите вверх и задержите палец</string>
     <string name="overview_gesture_intro_subtitle">Чтобы переключиться между приложениями‚ проведите по экрану снизу вверх, задержите палец, а затем отпустите.</string>
     <string name="overview_gesture_intro_title">Переключение между приложениями</string>
     <string name="overview_gesture_tutorial_subtitle">Проведите вверх от нижнего края экрана, задержите палец в одной точке и отпустите.</string>

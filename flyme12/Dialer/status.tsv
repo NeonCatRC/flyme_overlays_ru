@@ -770,7 +770,7 @@ mzc_default_ringtone_mute	new
 mzc_delete_contact	own
 mzc_delete_vcard	own
 mzc_description_detail_of	own
-mzc_description_dialpad_delete_button	own
+mzc_description_dialpad_delete_button	new
 mzc_description_dialpad_dial_button1	own
 mzc_description_dialpad_dial_button2	own
 mzc_description_dialpad_hide_button	own

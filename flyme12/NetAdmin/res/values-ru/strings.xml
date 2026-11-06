@@ -289,7 +289,7 @@
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="mzuc_warn_later">Напомнить позже</string>
     <string name="na_activity_detect_title">Проверка безопасности</string>
-    <string name="na_app_name">NetAdmin</string>
+    <string name="na_app_name">Управление сетью</string>
     <string name="na_detect_arp">Обнаружение ARP-атаки</string>
     <string name="na_detect_dangerous">Опасно</string>
     <string name="na_detect_dns">Обнаружение подмены DNS</string>

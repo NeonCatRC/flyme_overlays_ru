@@ -28,7 +28,7 @@
     <string name="alwaysUse">Использовать по умолчанию</string>
     <string name="app_name">Aicy Touch</string>
     <string name="app_not_installed_hint">Для этого кода нужно приложение %1$s, но %2$s не установлено. Скачать его?</string>
-    <string name="baidu_wikipedia">Wikipedia</string>
+    <string name="baidu_wikipedia">Энциклопедия</string>
     <string name="be_translating">Перевод</string>
     <string name="btn_agree">Разрешить</string>
     <string name="btn_ok">ОК</string>

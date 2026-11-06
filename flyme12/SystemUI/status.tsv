@@ -1756,7 +1756,7 @@ issuerecord_share_label	own
 issuerecord_start_error	apk
 issuerecord_title	apk
 item_is_selected	own
-item_view_role_description	own
+item_view_role_description	new
 keep_screen_on	own
 keep_screen_on_summary	own
 keyboard_backlight_dialog_title	apk
@@ -2487,7 +2487,7 @@ monitoring_title	own
 monitoring_title_device_owned	own
 monitoring_title_financed_device	apk
 monitoring_title_profile_owned	own
-month_day_skeleton	own
+month_day_skeleton	skip
 month_pattern	skip
 moon_off_path	unused
 moon_on_path	unused
@@ -2985,7 +2985,7 @@ qs_edit_mode_category_utilities	apk
 qs_edit_mode_reset_dialog_content	apk
 qs_edit_mode_reset_dialog_title	apk
 qs_edit_tiles	apk
-qs_header_date_local_pattern	own
+qs_header_date_local_pattern	skip
 qs_header_date_main_pattern12	own
 qs_header_date_main_pattern24	own
 qs_media_player_title_default	apk
@@ -3575,7 +3575,7 @@ status_bar_settings_datasave	own
 status_bar_settings_developeroptions	own
 status_bar_settings_drivemode	own
 status_bar_settings_media	apk
-status_bar_settings_meizu_share	apk
+status_bar_settings_meizu_share	new
 status_bar_settings_mobile	own
 status_bar_settings_mute	own
 status_bar_settings_nfc	own
@@ -3673,7 +3673,7 @@ system_ui_aod_date_pattern	own
 system_ui_date_pattern	apk
 system_ui_tuner	own
 system_update_settings_list_item_title	apk
-tab	own
+tab	new
 tap_a_network_to_connect	apk
 tap_again	apk
 tap_to_position_tile	apk

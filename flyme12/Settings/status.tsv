@@ -704,7 +704,7 @@ accessibility_screen_magnification_joystick_title	apk
 accessibility_screen_magnification_keyboard_summary	apk
 accessibility_screen_magnification_navbar_configuration_warning	own
 accessibility_screen_magnification_navbar_short_summary	own
-accessibility_screen_magnification_navbar_summary	own_check
+accessibility_screen_magnification_navbar_summary	new
 accessibility_screen_magnification_navbar_title	own
 accessibility_screen_magnification_short_summary	own
 accessibility_screen_magnification_shortcut_title	apk
@@ -1597,7 +1597,7 @@ autoclick_ignore_minor_cursor_movement_title	unused
 autoclick_revert_to_left_click_title	unused
 autofill	apk
 autofill_app	own
-autofill_confirmation_message	own_check
+autofill_confirmation_message	new
 autofill_information	own
 autofill_keywords	own_check
 autofill_logging_level_title	apk
@@ -3610,7 +3610,7 @@ edit	own
 edit_user_info_message	apk
 eid_multi_sim	apk
 electronic_warranty_card	apk
-email_category_title	own
+email_category_title	new
 emergency_address_summary	own_check
 emergency_address_title	own
 emergency_dashboard_summary	apk
@@ -5900,7 +5900,7 @@ music_light_effect	apk
 music_light_effect_tip	apk
 music_migu	new
 music_salt	new
-mutual_transmission	apk
+mutual_transmission	new
 mvno_match_data	own
 mvno_type	own
 my_device_info_account_preference_summary	apk

@@ -325,7 +325,7 @@ mz_barcode_intent_failed	own
 mz_barcode_save_contact	own
 mz_burst_folder_name_format	skip
 mz_burst_process	own
-mz_cam_mode_HD_macro	apk
+mz_cam_mode_HD_macro	new
 mz_cam_mode_amazing	own
 mz_cam_mode_auto	own
 mz_cam_mode_back_lighting	own
@@ -395,9 +395,9 @@ mz_handle_low_night_hint	own
 mz_handle_picture_hint	own
 mz_handle_realtime_bokeh_normal_hint	own
 mz_handle_surrounding_dark_hint	own
-mz_hint_af_lock_ae	own
-mz_hint_af_lock_af	own
-mz_hint_af_lock_all	own
+mz_hint_af_lock_ae	new
+mz_hint_af_lock_af	new
+mz_hint_af_lock_all	new
 mz_hint_edof_desc	new
 mz_hint_exit_immersion_mode	own
 mz_hint_quick_burst	own
@@ -554,7 +554,7 @@ mz_setting_mark_style_color	new
 mz_setting_mark_style_image	new
 mz_setting_meshline_title	own
 mz_setting_mirror_title	own
-mz_setting_picture_size_full_size	own
+mz_setting_picture_size_full_size	new
 mz_setting_picture_size_hint	own
 mz_setting_picture_size_proportion	own
 mz_setting_recordsize_title	own
@@ -610,7 +610,7 @@ mz_streamer_lmxg_info_scene_introduction	apk
 mz_streamer_lmxg_info_scene_introduction2	new
 mz_streamer_lmxg_name	apk
 mz_streamer_lmxg_suggest_time_hint	apk
-mz_streamer_polaris_text	own
+mz_streamer_polaris_text	new
 mz_streamer_sjls_info_introduction	apk
 mz_streamer_sjls_info_scene_introduction	apk
 mz_streamer_sjls_info_scene_introduction2	apk

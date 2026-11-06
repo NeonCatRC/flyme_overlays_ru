@@ -656,7 +656,7 @@
     <string name="mzc_delete_contact">Удалить контакт</string>
     <string name="mzc_delete_vcard">Удалить</string>
     <string name="mzc_description_detail_of">Детали %1$s</string>
-    <string name="mzc_description_dialpad_delete_button">Backspace</string>
+    <string name="mzc_description_dialpad_delete_button">Удалить</string>
     <string name="mzc_description_dialpad_dial_button1">Вызов с SIM1</string>
     <string name="mzc_description_dialpad_dial_button2">Вызов с SIM2</string>
     <string name="mzc_description_dialpad_hide_button">Скрыть панель набора</string>

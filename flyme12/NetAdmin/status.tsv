@@ -393,7 +393,7 @@ mzuc_update_title_s	own
 mzuc_wait_tip	own
 mzuc_warn_later	own
 na_activity_detect_title	own
-na_app_name	own
+na_app_name	new
 na_detect_arp	own
 na_detect_dangerous	own
 na_detect_dns	own

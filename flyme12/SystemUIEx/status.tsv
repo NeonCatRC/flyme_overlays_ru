@@ -64,7 +64,7 @@ character_counter_pattern	skip
 copy	apk
 date_time_set	own
 default_sans_serif	unused
-delete	own
+delete	new
 error_a11y_label	new
 fab_transformation_scrim_behavior	unused
 fab_transformation_sheet_behavior	unused
@@ -400,7 +400,7 @@ screenrecord_saved_app_name	own
 screenrecord_saved_text_min	own
 screenrecord_saved_text_s	own
 screenrecord_saved_title	own
-screenrecord_set_1080	own_check
+screenrecord_set_1080	new
 screenrecord_set_480	own_check
 screenrecord_set_720	own_check
 screenrecord_set_audio	own

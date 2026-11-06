@@ -1354,7 +1354,7 @@
     <string name="issuerecord_start_error">Не удалось начать запись.</string>
     <string name="issuerecord_title">Запись проблем на видео</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
-    <string name="item_view_role_description">Tab</string>
+    <string name="item_view_role_description">Вкладка</string>
     <string name="keep_screen_on">Не выключать экран</string>
     <string name="keep_screen_on_summary">Во время зарядки экран будет всегда включён</string>
     <string name="keyboard_backlight_dialog_title">Подсветка клавиатуры</string>
@@ -2049,7 +2049,6 @@
     <string name="monitoring_title_device_owned">Отслеживание устройств</string>
     <string name="monitoring_title_financed_device">Устройство предоставлено компанией \"%s\"</string>
     <string name="monitoring_title_profile_owned">Мониторинг профиля</string>
-    <string name="month_day_skeleton">dd.MM.yyyy</string>
     <string name="more_button_text">Ещё</string>
     <string name="more_item_label">Ещё</string>
     <string name="more_setting">Подробнее</string>
@@ -2466,7 +2465,6 @@
     <string name="qs_edit_mode_reset_dialog_content">Для всех параметров быстрых настроек будут восстановлены значения по умолчанию.</string>
     <string name="qs_edit_mode_reset_dialog_title">Сбросить все параметры?</string>
     <string name="qs_edit_tiles">Изменить параметры</string>
-    <string name="qs_header_date_local_pattern">dd.MM.yyyy</string>
     <string name="qs_header_date_main_pattern12">a EEE, %s</string>
     <string name="qs_header_date_main_pattern24">EEE, %s</string>
     <string name="qs_media_player_title_default">Не воспроизводится</string>
@@ -3039,7 +3037,7 @@
     <string name="status_bar_settings_developeroptions">Меню разр.</string>
     <string name="status_bar_settings_drivemode">Вождение</string>
     <string name="status_bar_settings_media">Управление мультимедиа</string>
-    <string name="status_bar_settings_meizu_share">Meizu Share</string>
+    <string name="status_bar_settings_meizu_share">Взаимная передача Meizu</string>
     <string name="status_bar_settings_mobile">Моб. сеть</string>
     <string name="status_bar_settings_mute">Без звука</string>
     <string name="status_bar_settings_nfc">NFC</string>
@@ -3119,7 +3117,7 @@
     <string name="system_ui_date_pattern">d/M, EEE</string>
     <string name="system_ui_tuner">Настройка System UI</string>
     <string name="system_update_settings_list_item_title">Обновления системы</string>
-    <string name="tab">Tab</string>
+    <string name="tab">Вкладка</string>
     <string name="tap_a_network_to_connect">Чтобы подключиться к сети, нажмите на ее название</string>
     <string name="tap_again">Нажмите ещё раз</string>
     <string name="tap_to_position_tile">Чтобы разместить параметр, нажмите здесь.</string>

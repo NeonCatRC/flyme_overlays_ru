@@ -199,7 +199,7 @@
     <string name="mz_barcode_intent_failed">Не удаётся запустить требуемое приложение</string>
     <string name="mz_barcode_save_contact">Сохранить контакт</string>
     <string name="mz_burst_process">Обработка...</string>
-    <string name="mz_cam_mode_HD_macro">HD Macro</string>
+    <string name="mz_cam_mode_HD_macro">HD-макро</string>
     <string name="mz_cam_mode_amazing">AmazingAR</string>
     <string name="mz_cam_mode_auto">Авто</string>
     <string name="mz_cam_mode_back_lighting">Селфи с подсветкой</string>
@@ -267,9 +267,9 @@
     <string name="mz_handle_picture_hint">Обработка %d фото…</string>
     <string name="mz_handle_realtime_bokeh_normal_hint">Боке</string>
     <string name="mz_handle_surrounding_dark_hint">Окружение слишком тёмное</string>
-    <string name="mz_hint_af_lock_ae">AE Lock</string>
-    <string name="mz_hint_af_lock_af">AF Lock</string>
-    <string name="mz_hint_af_lock_all">AF/AE Lock</string>
+    <string name="mz_hint_af_lock_ae">Блокировка экспозиции</string>
+    <string name="mz_hint_af_lock_af">Блокировка фокуса</string>
+    <string name="mz_hint_af_lock_all">Блокировка фокуса и экспозиции</string>
     <string name="mz_hint_edof_desc">Нажмите «Сложение фокуса», чтобы резкими были и передний, и задний план</string>
     <string name="mz_hint_exit_immersion_mode">Нажмите 2 раза чтобы выйти из предпросмотра</string>
     <string name="mz_hint_quick_burst">Перетащите и удерживайте затвор, чтобы сфотографировать</string>
@@ -424,7 +424,7 @@
     <string name="mz_setting_mark_style_image">Изображение</string>
     <string name="mz_setting_meshline_title">Сетка</string>
     <string name="mz_setting_mirror_title">Зеркало</string>
-    <string name="mz_setting_picture_size_full_size">Full</string>
+    <string name="mz_setting_picture_size_full_size">Весь экран</string>
     <string name="mz_setting_picture_size_hint">Соотношение</string>
     <string name="mz_setting_picture_size_proportion">Соотношение сторон фото</string>
     <string name="mz_setting_recordsize_title">Размер видео</string>
@@ -469,7 +469,7 @@
     <string name="mz_streamer_lmxg_info_scene_introduction2">Избегайте солнечного света (начинайте съёмку через 2 часа после заката), лунного света (снимать трудно около 15-го дня лунного месяца, в полнолуние) и дождливых дней</string>
     <string name="mz_streamer_lmxg_name">Романтические звездные следы</string>
     <string name="mz_streamer_lmxg_suggest_time_hint">Рекомендуется съемка в течение 20 минут, используйте штатив</string>
-    <string name="mz_streamer_polaris_text">Polaris</string>
+    <string name="mz_streamer_polaris_text">Полярная звезда</string>
     <string name="mz_streamer_sjls_info_introduction">Длительная экспозиция делает текущую воду бархатистой, как молоко.</string>
     <string name="mz_streamer_sjls_info_scene_introduction">Выберите бурные ручьи, водопады или морские волны для съемки.</string>
     <string name="mz_streamer_sjls_info_scene_introduction2">Выберите каменистые горы и низкорослую растительность в качестве неподвижных объектов для лучшего сочетания движения и покоя.</string>

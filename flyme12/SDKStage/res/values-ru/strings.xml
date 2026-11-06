@@ -23,7 +23,7 @@
     <string name="dark_mode_all_open_tip">Включить всё</string>
     <string name="dark_mode_appearance">Особенности темного режима</string>
     <string name="dark_mode_hue_default">Стандартный</string>
-    <string name="dark_mode_hue_soft">Soft</string>
+    <string name="dark_mode_hue_soft">Мягкий</string>
     <string name="dark_mode_new_app_enable_tip">Приложения, добавленные в список ниже, по умолчанию будут следовать системной тёмной теме</string>
     <string name="dark_mode_no_app_show">Нет приложений</string>
     <string name="dark_mode_switch_tip">Вам будет показана заставка во время смены режима во избежание проблем</string>

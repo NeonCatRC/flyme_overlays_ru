@@ -271,17 +271,7 @@
     <string name="accessibility_screen_magnification_keyboard_summary">&lt;b&gt;Чтобы изменить масштаб с помощью клавиатуры:&lt;/b&gt;&lt;br/&gt;{0,number,integer}. Используйте сочетание клавиш для перехода в режим увеличения.&lt;br/&gt;{1,number,integer}. Чтобы увеличить или уменьшить масштаб, удерживайте &lt;xliff:g id=meta1&gt;%1$s&lt;/xliff:g&gt; и &lt;xliff:g id=alt1&gt;%2$s&lt;/xliff:g&gt; и нажмите клавишу плюс (+) или минус (-).&lt;br/&gt;{2,number,integer}. Для перемещения по экрану удерживайте &lt;xliff:g id=meta2&gt;%3$s&lt;/xliff:g&gt; и &lt;xliff:g id=alt2&gt;%4$s&lt;/xliff:g&gt; и нажимайте клавиши со стрелками.&lt;br/&gt;{3,number,integer}. Чтобы вернуть исходный масштаб, используйте сочетание клавиш.</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">Значение кнопки спец. возможностей - %1$s. Для увеличения, нажмите и удерживайте кнопку спец. возможностей, а затем выберите Увеличение</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Нажмите на кнопку для увеличения</string>
-    <string name="accessibility_screen_magnification_navbar_summary">"When magnification is turned on, you can zoom in on your screen.
-
-"<b>To zoom</b>", start magnification, then tap anywhere on the screen.
-"<li><ul>"• Drag 2 or more fingers to scroll
-"<li>• Pinch 2 or more fingers to adjust zoom</li></ul></li>"
-
-"<b>To zoom temporarily</b>", start magnification, then touch &amp; hold anywhere on the screen.
-"<li><ul>"• Drag to move around the screen
-"<li>• Lift finger to zoom out</li></ul></li>"
-
-You can’t zoom in on the keyboard or navigation bar."</string>
+    <string name="accessibility_screen_magnification_navbar_summary">Когда увеличение включено, изображение на экране можно увеличивать.\n\n<b>Чтобы увеличить масштаб</b>, включите увеличение и коснитесь любой области экрана.\n<ul><li>Перетаскивайте двумя или более пальцами, чтобы прокручивать</li>\n<li>Сводите или разводите два или более пальца, чтобы изменить масштаб</li></ul>\n\n<b>Чтобы временно увеличить масштаб</b>, включите увеличение, затем нажмите и удерживайте любую область экрана.\n<ul><li>Перетаскивайте палец, чтобы перемещаться по экрану</li>\n<li>Уберите палец, чтобы уменьшить масштаб</li></ul>\n\nКлавиатуру и панель навигации увеличить нельзя.</string>
     <string name="accessibility_screen_magnification_navbar_title">Увеличение кнопкой</string>
     <string name="accessibility_screen_magnification_short_summary">Изменение масштаба тремя нажатиями</string>
     <string name="accessibility_screen_magnification_shortcut_title">Быстрый запуск увеличения</string>
@@ -1155,7 +1145,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="autoclick_disabled">Отключено</string>
     <string name="autofill">Заполнить автоматически</string>
     <string name="autofill_app">Служба автозаполнения</string>
-    <string name="autofill_confirmation_message">"&lt;b>Make sure you trust this app&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Autofill>%1$s&lt;/xliff:g> uses what's on your screen to determine what can be autofilled."</string>
+    <string name="autofill_confirmation_message">&lt;b&gt;Убедитесь, что доверяете этому приложению&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; Приложение &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; определяет по содержимому экрана, какие поля можно заполнить автоматически.</string>
     <string name="autofill_information">Сервису автозаполнения требуется доступ к содержимому экрана для определения заполняемых областей.</string>
     <string name="autofill_keywords">авто, заполнение, автозаполнение</string>
     <string name="autofill_logging_level_title">Журнал</string>
@@ -3044,7 +3034,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="edit_user_info_message">Выбранные вами имя пользователя и фото профиля будут видны всем, кто использует это устройство.</string>
     <string name="eid_multi_sim">EID (слот для SIM-карты %1$d)</string>
     <string name="electronic_warranty_card">Электронная гарантийная карта</string>
-    <string name="email_category_title">E-mail</string>
+    <string name="email_category_title">Почта</string>
     <string name="emergency_address_summary">Адрес используемый экстр. службами в качестве вашего местоположения, при вызове через Wi-Fi</string>
     <string name="emergency_address_title">Обновить адрес для экстр. службы</string>
     <string name="emergency_dashboard_summary">Экстренные вызовы, медицинские данные, оповещения</string>
@@ -5059,7 +5049,7 @@ You can’t zoom in on the keyboard or navigation bar."</string>
     <string name="music_light_effect_tip">Световые эффекты синхронизируются с ритмом музыки во время воспроизведения</string>
     <string name="music_migu">Migu Music</string>
     <string name="music_salt">Salt Music</string>
-    <string name="mutual_transmission">Meizu Share</string>
+    <string name="mutual_transmission">Взаимная передача Meizu</string>
     <string name="mvno_match_data">Значение MVNO</string>
     <string name="mvno_type">Тип MVNO</string>
     <string name="my_device_info_account_preference_summary">Аккаунтов: %d</string>

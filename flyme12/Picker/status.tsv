@@ -50,7 +50,7 @@ app_name	own
 app_name_with_recognized_result	skip
 app_not_installed_hint	new
 appbar_scrolling_view_behavior	unused
-baidu_wikipedia	own
+baidu_wikipedia	new
 be_translating	new
 bottom_sheet_behavior	skip
 btn_agree	own

@@ -62,7 +62,7 @@
     <string name="current_city">Текущий город проживания</string>
     <string name="date_time_set">Установить</string>
     <string name="dec">Десятичная дробь</string>
-    <string name="delete_btn_text">Backspace</string>
+    <string name="delete_btn_text">Удалить</string>
     <string name="digitD">д.</string>
     <string name="digitE">e</string>
     <string name="discount">/10</string>

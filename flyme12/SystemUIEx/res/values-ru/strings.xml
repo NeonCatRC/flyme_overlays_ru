@@ -37,7 +37,7 @@
     <string name="area_screenshot_tip_text">Проведите пальцем вниз или вверх, чтобы выбрать область для снимка экрана</string>
     <string name="copy">Копировать</string>
     <string name="date_time_set">Установить</string>
-    <string name="delete">delete</string>
+    <string name="delete">Удалить</string>
     <string name="error_a11y_label">Ошибка: недопустимое значение</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="mc_action_settings">Настройки</string>
@@ -269,7 +269,7 @@
     <string name="screenrecord_saved_text_min">" м."</string>
     <string name="screenrecord_saved_text_s">" с."</string>
     <string name="screenrecord_saved_title">Запись экрана</string>
-    <string name="screenrecord_set_1080">FHD（1080P）</string>
+    <string name="screenrecord_set_1080">FHD (1080P)</string>
     <string name="screenrecord_set_480">SD(（480P）</string>
     <string name="screenrecord_set_720">HD（720P）</string>
     <string name="screenrecord_set_audio">Микрофон</string>

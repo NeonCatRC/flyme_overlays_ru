@@ -42,7 +42,7 @@
     <string name="app_download" formatted="false">Загрузка приложения %s/%s</string>
     <string name="app_install_1" formatted="false">Установка приложения %s/%s</string>
     <string name="app_install_2">Установка ПО</string>
-    <string name="app_name">Update</string>
+    <string name="app_name">Обновление системы</string>
     <string name="app_privacy_policy">Приложению нужен доступ к интернету и к списку приложений, чтобы обновлять и устанавливать систему и приложения. Эти данные собираются и используются только при работе соответствующих функций.\nПодробнее о том, как мы обрабатываем ваши персональные данные, читайте в документе %1$s. Нажимая «Принять», вы соглашаетесь со всем изложенным выше</string>
     <string name="app_update_channel">Уведомления об обновлении приложений</string>
     <string name="app_update_notify_title">У приложений, которые были удалены, есть обновления: %s</string>
@@ -68,7 +68,7 @@
     <string name="child_privacy_policy">Правила защиты личной информации детей</string>
     <string name="choice_down_case">Причины понижения версии:</string>
     <string name="clear_and_upgrade">Очистить данные и обновить</string>
-    <string name="clear_now">Clean Up</string>
+    <string name="clear_now">Очистить</string>
     <string name="clear_userdata_all_text">Очистить данные и отформатировать накопитель</string>
     <string name="clear_userdata_text">Очистить данные</string>
     <string name="comment_add_comment">Комментировать</string>
@@ -78,8 +78,8 @@
     <string name="comment_login_error">Ошибка при входе</string>
     <string name="comment_need_update">Для отправки комментария необходимо обновить версию системы</string>
     <string name="comment_network_error">Ошибка отправки. Повторите попытку позже</string>
-    <string name="comment_next">Next</string>
-    <string name="comment_no_comment">No comments</string>
+    <string name="comment_next">Далее</string>
+    <string name="comment_no_comment">Нет отзывов</string>
     <string name="comment_no_network">Отсутствует интернет-соединение</string>
     <string name="comment_notify_summary_default">Попробуйте новую версию и оцените ее!</string>
     <string name="comment_notify_title_default">Приглашаем вас оценить новую версию</string>
@@ -87,21 +87,21 @@
     <string name="comment_praise_multi">Можно оценить только один раз</string>
     <string name="comment_praise_need_update">Для оценки необходимо обновить версию системы</string>
     <string name="comment_re_login">Сначала войдите в аккаунт</string>
-    <string name="comment_reason_app_crash">Flashback</string>
+    <string name="comment_reason_app_crash">Вылеты приложений</string>
     <string name="comment_reason_camera">Плохое качество камеры</string>
     <string name="comment_reason_conversation">Плохое качество звонков</string>
     <string name="comment_reason_design">Плохой дизайн</string>
     <string name="comment_reason_function">Неудобные функции</string>
     <string name="comment_reason_network">Плохое качество сети</string>
-    <string name="comment_reason_performance">Lagging</string>
-    <string name="comment_reason_system_crash">Crash</string>
+    <string name="comment_reason_performance">Подтормаживания</string>
+    <string name="comment_reason_system_crash">Сбои системы</string>
     <string name="comment_reason_system_power">Расход заряда</string>
     <string name="comment_reason_system_power_charge">Медленная зарядка</string>
-    <string name="comment_submit">Submit</string>
+    <string name="comment_submit">Отправить</string>
     <string name="comment_submit_success">Успешно отправлено</string>
     <string name="comment_title_five_star">Очень рекомендую</string>
     <string name="comment_title_four_star">Неплохо</string>
-    <string name="comment_title_one_star">Bad</string>
+    <string name="comment_title_one_star">Плохо</string>
     <string name="comment_title_three_star">Есть что улучшить</string>
     <string name="comment_title_two_star">Не нравится</string>
     <string name="confirm">ОК</string>
@@ -137,7 +137,7 @@
     <string name="encrypt_check_error">Сервис временно недоступен, попробуйте позже</string>
     <string name="encrypt_check_fail">У данной учетной записи или устройства нет прав на внутренние тестирования.</string>
     <string name="encrypt_check_success">Верификация успешна</string>
-    <string name="encrypt_checking">Verifying</string>
+    <string name="encrypt_checking">Проверка</string>
     <string name="encrypt_text1">Эта система доступна только участникам закрытого бета-тестирования. Скачайте стабильную версию на &lt;a href=https://www.flyme.cn/firmware.html&gt;сайте Flyme&lt;/a&gt; и обновитесь до неё</string>
     <string name="encrypt_text2">У вас есть доступ к внутреннему тестированию? <a href="mzupdate://com.meizu.flyme.update/internal/encrypt_check?action=check">Нажмите здесь, чтобы проверить</a></string>
     <string name="error_a11y_label">Ошибка: недопустимое значение</string>
@@ -151,11 +151,11 @@
     <string name="find_version">Новая версия %s</string>
     <string name="firmware_comment">Отзывов: %d</string>
     <string name="firmware_comment_less">Отзывов меньше %d</string>
-    <string name="firmware_details_link_text">Details</string>
+    <string name="firmware_details_link_text">Подробнее</string>
     <string name="firmware_download_pause">Приостановить загрузку</string>
     <string name="firmware_release_note_details_text">Подробности об обновлении</string>
-    <string name="firmware_spot_card_title">Highlights</string>
-    <string name="firmware_spot_detail_link_label">Details</string>
+    <string name="firmware_spot_card_title">Особенности</string>
+    <string name="firmware_spot_detail_link_label">Подробнее</string>
     <string name="firmware_spot_experience_title">Попробовать</string>
     <string name="firmware_spot_label">Основные обновления</string>
     <string name="firmware_spot_label_2">Особенности версии</string>
@@ -166,10 +166,10 @@
     <string name="firmware_stable_dialog_title">Немедленный переход к стабильной версии</string>
     <string name="firmware_stable_update_dialog_tips">Система будет возвращена к последней стабильной версии. Для обеспечения нормального функционирования системы потребуется удаление личных данных и приложений.</string>
     <string name="firmware_stable_update_dialog_tips_strong">Система будет возвращена к последней стабильной версии. Для обеспечения нормального функционирования системы потребуется удаление личных данных, всех приложений и всех данных, таких как фотографии и видео, на носителе.</string>
-    <string name="firmware_switch_beta_tag">Beta</string>
+    <string name="firmware_switch_beta_tag">Бета</string>
     <string name="firmware_switch_content">Участвуйте в %s и скорее опробуйте новые функции Flyme. Выйдя из программы, вы перестанете получать обновления до экспериментальной версии и будете ждать следующего обновления до стабильной версии без удаления личных данных</string>
     <string name="firmware_switch_content_2">Участвуйте в %1$s и скорее опробуйте новые функции Flyme. Вы не будете обновляться до %2$s версии системы.</string>
-    <string name="firmware_switch_daily_tag">Daily</string>
+    <string name="firmware_switch_daily_tag">Закрытая бета</string>
     <string name="firmware_switch_main_summary_enter">Благодарим вас за участие в %1$s. Ожидайте обновления до %2$s версии системы</string>
     <string name="firmware_switch_main_summary_out">Дождитесь следующего стабильного обновления системы или откатитесь на стабильную версию в сервисном центре</string>
     <string name="firmware_switch_notify_summary">Пожалуйста, подождите обновления до версии %s</string>
@@ -178,10 +178,10 @@
     <string name="firmware_switch_preference_text">Программа тестирования Flyme</string>
     <string name="firmware_switch_quit">Выйти из программы</string>
     <string name="firmware_switch_quit_error">Ошибка при выходе из программы</string>
-    <string name="firmware_switch_quit_successful">Quitted</string>
+    <string name="firmware_switch_quit_successful">Вы вышли из программы</string>
     <string name="firmware_switch_quit_tips">После выхода, пожалуйста, подождите следующего обновления до стабильной версии</string>
     <string name="firmware_switch_quit_tips_2">После выхода вы не будете обновляться до версии %s</string>
-    <string name="firmware_switch_stable_tag">Stable</string>
+    <string name="firmware_switch_stable_tag">Стабильная</string>
     <string name="firmware_type_switch_error">Проблемы с сетью. Пожалуйста, повторите попытку</string>
     <string name="firmware_type_switching_title">Подождите...</string>
     <string name="flyme_account_error">Проблема с аккаунтом Flyme. Выйдите из аккаунта и войдите снова</string>
@@ -521,7 +521,7 @@
     <string name="not_wifi_verbose">За загрузку обновления через мобильную сеть может взыматься плата</string>
     <string name="not_wifi_video_verbose">Просмотр видео потребует использование мобильного интернета с оплатой за трафик</string>
     <string name="notice_bright_spot_category">Основные особенности</string>
-    <string name="notice_bright_spot_item_text">Recommend</string>
+    <string name="notice_bright_spot_item_text">Рекомендации</string>
     <string name="notice_none">Нет уведомлений</string>
     <string name="notice_title">Уведомления</string>
     <string name="notification_before_upgrade">Текущее соединение - мобильная сеть, скачивание будет использовать мобильный трафик</string>
@@ -603,9 +603,9 @@
     <string name="private_beta_firmware_label_text">Исправление проблем</string>
     <string name="private_beta_firmware_text">A</string>
     <string name="quit_beta_plan_text">Выйти из программы тестирования</string>
-    <string name="rcpb_downloaded">%s %% Downloaded</string>
-    <string name="rcpb_installing">Installing %s %%</string>
-    <string name="rcpb_paused">Continue %s %%</string>
+    <string name="rcpb_downloaded">Загружено %s %%</string>
+    <string name="rcpb_installing">Установка %s %%</string>
+    <string name="rcpb_paused">Продолжить: %s %%</string>
     <string name="ready_to_repair">Система готова к восстановлению</string>
     <string name="reboot">Перезагрузить сейчас</string>
     <string name="reboot_noti_content">Обновление до версии %s завершено</string>
@@ -629,7 +629,7 @@
     <string name="signle_function">, новых функций: %d</string>
     <string name="spotlight">Основные особенности версии</string>
     <string name="stable_firmware_label_text">Значимое обновление</string>
-    <string name="stable_firmware_text">Stable</string>
+    <string name="stable_firmware_text">Стабильная</string>
     <string name="standard_aliyunbeta">Открытая версия PBY для Китая</string>
     <string name="standard_aliyundaily">Закрытая бета PBY для Китая</string>
     <string name="standard_aliyunstable">Открытая версия PBY для Китая</string>
@@ -683,10 +683,10 @@
     <string name="task_error_io">Невозможно использовать накопитель, обновление недоступно</string>
     <string name="task_error_none">Ошибка загрузки</string>
     <string name="ten_thousand">%s K</string>
-    <string name="test_firmware_label_text">Alpha</string>
-    <string name="test_firmware_text">Alpha</string>
+    <string name="test_firmware_label_text">Внутренняя разработка</string>
+    <string name="test_firmware_text">Для разработчиков</string>
     <string name="text_input_hint_text">Введите текст</string>
-    <string name="tips">Tips</string>
+    <string name="tips">Примечание</string>
     <string name="title_activity_settings">Настройки обновления</string>
     <string name="title_activity_system_upgrade_detail">Текущая версия</string>
     <string name="to_feedback">Пожалуйста, сообщите о проблеме в разделе Справка и обратная связь в настройках</string>
@@ -720,7 +720,7 @@
     <string name="upgrade_activity_notification_content">Спасибо вам за активное обновление, мы дарим вам код акции! \n Нажмите, чтобы получить</string>
     <string name="upgrade_activity_notification_title">Обновление успешно завершено! Получите бонусы!</string>
     <string name="upgrade_activity_setting_tip">Это версия с наградой. Нажмите, чтобы получить код розыгрыша</string>
-    <string name="upgrade_appointment_cancel">Unschedule</string>
+    <string name="upgrade_appointment_cancel">Отменить план</string>
     <string name="upgrade_appointment_dlg_content">Вы зарезервировали обновление на ночь. Когда условия для интеллектуального обновления будут выполнены, система автоматически завершит обновление.</string>
     <string name="upgrade_appointment_title">Обновление ночью запланировано</string>
     <string name="upgrade_dialog_version_title">Идёт акция Flyme</string>
@@ -735,7 +735,7 @@
     <string name="upgrade_now">Обновить сейчас</string>
     <string name="upgrade_now_or_tonight_summary">Вы можете установить обновление ночью</string>
     <string name="upgrade_tonight">Автоматические обновления</string>
-    <string name="upgrade_tonight_button_title">Overnight</string>
+    <string name="upgrade_tonight_button_title">Обновить ночью</string>
     <string name="upgrade_tonight_cancel_dlg_summary">После отмены назначенного обновления, выполните его вручную</string>
     <string name="upgrade_tonight_dlg_summary">При достаточном заряде батареи система автоматически завершит обновление ночью</string>
     <string name="upgrade_tonight_failed">Ночное обновление не выполнено</string>
