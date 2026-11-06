@@ -126,7 +126,7 @@
     <string name="auto_downlad">Автообновление по Wi-Fi</string>
     <string name="auto_downlad_tip">Автоматически скачивать и обновлять приложения (включая системные) при подключении к Wi-Fi</string>
     <string name="auto_downlad_title">Автозагрузка обновлений по Wi-Fi (скачивание и установка)</string>
-    <string name="bad_dex_metadata">Файл метаданных недоступен</string>
+    <string name="bad_dex_metadata">Неверные метаданные dex</string>
     <string name="bad_manifest">Не удалось разобрать файл манифеста приложения, пожалуйста, попробуйте переустановить</string>
     <string name="bad_package_name">Имя пакета не найдено или повреждено, пожалуйста, попробуйте переустановить</string>
     <string name="bad_shared_user_id">Недействительный процесс</string>
@@ -136,7 +136,7 @@
     <string name="base_mode_msg_mid">В базовом режиме приложению нужен доступ к интернету, к списку приложений и к истории использования быстрых приложений, а также следующие обязательные разрешения: %1$s.</string>
     <string name="blocked_tips">Все теги интересов заблокированы. Количество рекламы не изменится, но она станет менее подходящей для вас</string>
     <string name="blocked_title">Заблокировано</string>
-    <string name="book_fail">Ошибка сети. Попробуй позже</string>
+    <string name="book_fail">Ошибка сети. Повторите попытку позже</string>
     <string name="book_install">Записаться</string>
     <string name="book_notify">Сообщить мне</string>
     <string name="book_success_tip">Вы записались. Следите за новостями!</string>
@@ -169,7 +169,7 @@
     <string name="cancel_the_ignore">Не игнорировать</string>
     <string name="cannot_silent_install">Не удалось установить в фоне</string>
     <string name="category">Сменить категорию</string>
-    <string name="certificate_encoding">Исключение кодировки сертификата подписи, переустановите</string>
+    <string name="certificate_encoding">Ошибка кодировки сертификата подписи, переустановите приложение</string>
     <string name="check">Проверить</string>
     <string name="checkButtonMessage">Удалить также персональные данные этого аккаунта в облаке</string>
     <string name="checking_update">Проверка обновлений</string>
@@ -318,7 +318,7 @@
     <string name="explain">Пояснение</string>
     <string name="failed_permission_model_downgrade">Целевой SDK пакета обновления устарел и не поддерживает разрешения, необходимые для запуска приложения</string>
     <string name="feed_developer_contact_info">Контакты (обязательно)</string>
-    <string name="feedback">Голосовые возможности</string>
+    <string name="feedback">Отзывы</string>
     <string name="feedback_advertise">Напишите отзыв и предложения</string>
     <string name="feedback_fail">Не удалось отправить. Повторите попытку позже</string>
     <string name="feedback_success">Отправлено</string>
@@ -618,11 +618,11 @@
     <string name="mzuc_update_msg_title_s" formatted="false">%s %s</string>
     <string name="mzuc_wait_tip">Пожалуйста, подождите</string>
     <string name="network_error">Ошибка сети. Нажмите, чтобы повторить</string>
-    <string name="network_error_try_later">Ошибка сети. Попробуй позже</string>
+    <string name="network_error_try_later">Ошибка сети. Повторите попытку позже</string>
     <string name="network_execption">Ошибка сети, повторите попытку позже</string>
     <string name="network_fail">Нет подключения к Интернету, пожалуйста, проверьте настройки сети</string>
     <string name="network_reconnecting">Попытка повторного подключения</string>
-    <string name="network_request_exception">Исключение запроса сети</string>
+    <string name="network_request_exception">Ошибка сетевого запроса</string>
     <string name="network_unavailable">Нет подключения к Интернету, пожалуйста, проверьте настройки сети</string>
     <string name="never_used">Не использовалось</string>
     <string name="newer_sdk">Устаревший пакет установки. Установите последнюю версию приложения</string>
@@ -760,14 +760,14 @@
     <string name="recommendNotify">Уведомления о записях</string>
     <string name="recommendNotify_checking">Синхронизация состояния</string>
     <string name="recommendNotify_tip">Уведомления о выходе игр и акций, на которые вы записались, о найденных пожеланиях и т. п.</string>
-    <string name="refresh">Обновить</string>
+    <string name="refresh">Другие</string>
     <string name="reinstall_tips_message">%s несовместимо с обновлением. Для обновления данные приложения нужно стереть. Продолжить?</string>
     <string name="related_apps">Похожие приложения</string>
     <string name="related_good_contents">Похожий контент</string>
     <string name="release_time">Дата выпуска:</string>
-    <string name="release_to_refresh">Обновить</string>
+    <string name="release_to_refresh">Отпустите, чтобы обновить</string>
     <string name="remove_apps_dialog_title_multi">Удалить приложения (%1$d), например «%2$s»</string>
-    <string name="remove_apps_dialog_title_single">Удалить \"%1$s\"</string>
+    <string name="remove_apps_dialog_title_single">Удалить «%1$s» и очистить остаточные файлы</string>
     <string name="remove_records_tips">Удалить записи: %d</string>
     <string name="removed_task">Загрузка %s отменена</string>
     <string name="replace_couldnt_delete">Зависимый пакет отсутствует, попробуйте установить сервисы Google</string>
@@ -813,7 +813,7 @@
     <string name="server_disconnection_format">Нет доступа к серверу (код: %d)</string>
     <string name="server_error">Не удалось получить данные с сервера</string>
     <string name="server_error_later_retry">Ошибка сервиса, повторите попытку позже</string>
-    <string name="server_skip_exception">Не удалось открыть файл</string>
+    <string name="server_skip_exception">Не удалось возобновить загрузку файла</string>
     <string name="server_writing_interrupt">Запись прервана</string>
     <string name="service_agreement">Пользовательское соглашение</string>
     <string name="session_create_exception">Создание сессии не выполнено</string>
@@ -865,7 +865,7 @@
     <string name="subscribe_empty">Игр нет</string>
     <string name="subscribe_title">Мои записи</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-    <string name="switch_show_first_ad_tip">Получать бесплатные награды</string>
+    <string name="switch_show_first_ad_tip">Сначала показывать подборки контента и акций</string>
     <string name="switch_show_first_ad_title">Разрешить рекламу на экране-заставке</string>
     <string name="switch_show_personal_ad_title">Персональные рекомендации</string>
     <string name="switch_show_personal_advertise_title">Персональная реклама</string>
@@ -904,9 +904,9 @@
     <string name="two_string_description_and_indicator" formatted="false">%s %s</string>
     <string name="uid_changed">Запущенный процесс изменен, пожалуйста, удалите и затем переустановите</string>
     <string name="uid_not_match">uid не соответствует имени пакета</string>
-    <string name="unexpected_exception">Неизвестное исключение</string>
+    <string name="unexpected_exception">Неизвестная ошибка</string>
     <string name="uninstall">Удалить</string>
-    <string name="uninstall_list">В облаке</string>
+    <string name="uninstall_list">Нет на устройстве</string>
     <string name="uninstall_to_reinstall">Откройте «Настройки — Приложения», удалите текущую версию и установите заново</string>
     <string name="uninstall_unusual_app">Удалить редко используемые</string>
     <string name="unkown_error">Ошибка авторизации, повторите попытку позже.</string>

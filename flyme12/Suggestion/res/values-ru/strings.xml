@@ -92,7 +92,7 @@
     <string name="card_parcel_title">Посылка</string>
     <string name="card_title_reminder">Напоминание</string>
     <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
-    <string name="character_counter_overflowed_content_description">Превышен лимит символов на %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышен лимит символов: %1$d из %2$d</string>
     <string name="check_details">Подробнее</string>
     <string name="check_in_gate">Выход на посадку</string>
     <string name="check_in_gate_changed">Выход на посадку изменён</string>
@@ -475,7 +475,7 @@
     <string name="suggestion_desc_title3">Умные поездки</string>
     <string name="summoning_rides">Поиск курьера</string>
     <string name="sync_calendar_title">Aicy Suggestion запрашивает доступ к календарю</string>
-    <string name="sync_timeout">Request timeout. Попробуйте снова.</string>
+    <string name="sync_timeout">Время ожидания истекло. Повторите попытку.</string>
     <string name="take_car">Поездка на машине</string>
     <string name="taking_food">Курьер забирает заказ</string>
     <string name="time_go_to_somewhere">Отправление: %1$s</string>
@@ -486,7 +486,7 @@
     <string name="travel_group_type_hotel">Отель</string>
     <string name="travel_group_type_train">Поезд</string>
     <string name="travel_navi_reminder">Помощник в поездке</string>
-    <string name="uid_not_match">UID не соответвует имени пакета</string>
+    <string name="uid_not_match">UID не соответствует имени пакета</string>
     <string name="ump_trip">Umetrip</string>
     <string name="ump_trip_account_description">Напоминания о рейсах, электронные посадочные талоны и другое</string>
     <string name="ump_trip_account_description_1">Привяжите аккаунт, чтобы получать напоминания о рейсах,\nэлектронные посадочные талоны и другое</string>

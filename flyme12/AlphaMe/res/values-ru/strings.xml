@@ -271,11 +271,11 @@
     <string name="sleep">Сон</string>
     <string name="sleep_time">Время сна</string>
     <string name="suggestion_app">Aicy Suggestion</string>
-    <string name="sync_timeout">Request timeout. Попробуйте снова.</string>
+    <string name="sync_timeout">Время ожидания истекло. Повторите попытку.</string>
     <string name="system_ui_tool_app">Игровой режим</string>
     <string name="third_party_information_shared_list">Список передачи данных третьим лицам</string>
     <string name="time_away_from_home">Время ухода из дома</string>
-    <string name="uid_not_match">UID не соответвует имени пакета</string>
+    <string name="uid_not_match">UID не соответствует имени пакета</string>
     <string name="unkown_error">Ошибка авторизации, повторите попытку позже.</string>
     <string name="unsupport_operation">Слишком частые запросы</string>
     <string name="use">Использовать</string>

@@ -396,13 +396,13 @@ side_sheet_behavior	unused
 sleep	new
 sleep_time	new
 suggestion_app	new
-sync_timeout	own
+sync_timeout	new
 system_default_channel	unused
 system_ui_tool_app	new
 text_input_hint_text	unused
 third_party_information_shared_list	new
 time_away_from_home	new
-uid_not_match	own
+uid_not_match	new
 unkown_error	own
 unsupport_operation	own
 use	new

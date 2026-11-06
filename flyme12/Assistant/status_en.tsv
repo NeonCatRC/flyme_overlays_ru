@@ -1,0 +1,11 @@
+name	origin
+brvah_load_complete	new
+brvah_load_end	new
+brvah_load_failed	new
+brvah_loading	new
+global_collection_tips	new
+network_exception	fix
+network_not_good	new
+permission_privacy_recovation_message	fix
+policy_sdk_withdraw_text_not_basic_has_account	new
+server_err	fix

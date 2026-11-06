@@ -416,9 +416,9 @@ mz_permissiongroup_name_net	own
 mz_permissiongroup_name_other	own
 mz_pm_dlg_cancel	own
 mz_pm_dlg_ok	own
-mz_privacy_policy	own_check
+mz_privacy_policy	own
 mz_reject	own
-mz_user_agreement	own_check
+mz_user_agreement	own
 mz_wif_setting_dialog_message	own
 navigation	new
 nearby_power_bank	new

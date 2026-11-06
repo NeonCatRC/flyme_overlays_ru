@@ -193,7 +193,7 @@ apps_update_formatted	new
 auto_downlad	new
 auto_downlad_tip	new
 auto_downlad_title	new
-bad_dex_metadata	apk
+bad_dex_metadata	new
 bad_manifest	apk
 bad_package_name	apk
 bad_shared_user_id	apk
@@ -239,7 +239,7 @@ cancel_reservation_notice	new
 cancel_the_ignore	new
 cannot_silent_install	new
 category	new
-certificate_encoding	apk
+certificate_encoding	new
 character_counter_pattern	skip
 check	new
 checkButtonMessage	new
@@ -776,13 +776,13 @@ mz_pm_s_sms	own
 mz_pm_set_bluetooth_on	own
 mz_pm_set_gprs_on	own
 mz_pm_set_wifi_on	own
-mz_privacy_policy	own_check
+mz_privacy_policy	own
 mz_reject	own
 mz_share_view_checkbox_text	own
 mz_share_view_title	own
 mz_specific_permission_allow	own
 mz_specific_permission_deny	own
-mz_user_agreement	own_check
+mz_user_agreement	own
 mz_wif_setting_dialog_message	own
 mzuc_app_update_channel	new
 mzuc_cancel_download	own
@@ -831,7 +831,7 @@ network_error_try_later	new
 network_execption	new
 network_fail	new
 network_reconnecting	apk
-network_request_exception	apk
+network_request_exception	new
 network_unavailable	new
 never_used	new
 newer_sdk	apk
@@ -1042,7 +1042,7 @@ server_disconnection	apk
 server_disconnection_format	new
 server_error	new
 server_error_later_retry	new
-server_skip_exception	apk
+server_skip_exception	new
 server_writing_interrupt	apk
 service_agreement	new
 session_create_exception	apk
@@ -1141,7 +1141,7 @@ tv_comment_count	new
 two_string_description_and_indicator	own
 uid_changed	apk
 uid_not_match	own
-unexpected_exception	apk
+unexpected_exception	new
 uninstall	new
 uninstall_list	new
 uninstall_to_reinstall	new

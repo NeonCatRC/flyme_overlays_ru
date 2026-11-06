@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="show_dev_countdown">
+        <item quantity="one">Tap %1$d more time to export the log</item>
+        <item quantity="other">Tap %1$d more times to export the log</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="brvah_load_complete">Tap to load more</string>
+    <string name="brvah_load_end">No more data</string>
+    <string name="brvah_load_failed">Loading failed, tap to retry</string>
+    <string name="brvah_loading">Loading...</string>
+    <string name="global_collection_tips">Favorites synced to Aicy Glance</string>
+    <string name="network_exception">Network error. Please try again later</string>
+    <string name="network_not_good">Poor connection</string>
+    <string name="permission_privacy_recovation_message">If you withdraw consent to the %1$s, we will stop collecting and processing your personal information, and we will no longer provide any services of this application.\n\nWithdrawal may result in the loss of certain rights; please consider carefully. For details, refer to the Personal Information Subject Rights section of the %3$s.\n\nIf you wish to use our products and services again, you need to re-enter the application and agree to our Privacy Policy.</string>
+    <string name="policy_sdk_withdraw_text_not_basic_has_account">If you withdraw consent to “%1$s”, we will stop collecting and processing your personal information and will no longer provide any services of this app. Withdrawing consent does not affect signing in with your Flyme account or using other Meizu products and services. To delete your account, go to %2$s\n \nWithdrawing consent may cause you to lose some rights. Please consider carefully. For details, see the Personal Information Subject Rights section of the Privacy Policy\n \n To use our products and services again, open the app and agree to our %1$s</string>
+    <string name="server_err">Service error. Please try again later</string>
+</resources>

@@ -2360,7 +2360,7 @@ virus_level_high	own
 virus_level_low	own
 virus_level_middle	own
 virus_level_unknown	own
-virus_lib_available_setting_no_network	own
+virus_lib_available_setting_no_network	new
 virus_lib_available_setting_notify_button	own
 virus_lib_available_setting_notify_content	own
 virus_lib_available_setting_notify_tip	own

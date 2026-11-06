@@ -6,7 +6,7 @@
     <string name="mz_wallpaper_category_music">Музыка</string>
     <string name="mz_wallpaper_category_video">Видео</string>
     <string name="mz_wallpaper_category_word">Текст</string>
-    <string name="uid_not_match">UID не соответвует имени пакета</string>
+    <string name="uid_not_match">UID не соответствует имени пакета</string>
     <string name="unsupport_operation">Слишком частые запросы</string>
     <string name="user_aware_wallpaper_bubble">Лимонад Рамунэ</string>
     <string name="user_aware_wallpaper_bubble_description">Лимонад Рамунэ</string>

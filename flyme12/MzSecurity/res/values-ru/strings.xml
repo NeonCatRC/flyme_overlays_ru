@@ -1782,7 +1782,7 @@
     <string name="virus_level_low">низкий</string>
     <string name="virus_level_middle">средний</string>
     <string name="virus_level_unknown">неизвестн.</string>
-    <string name="virus_lib_available_setting_no_network">Ошибка сети. Попробуй позже</string>
+    <string name="virus_lib_available_setting_no_network">Ошибка сети. Повторите попытку позже</string>
     <string name="virus_lib_available_setting_notify_button">Обновить</string>
     <string name="virus_lib_available_setting_notify_content">Добавлены образцы вирусов</string>
     <string name="virus_lib_available_setting_notify_tip">Доступно</string>

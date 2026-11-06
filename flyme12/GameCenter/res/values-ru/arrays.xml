@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ageRange">
+        <item>Младше 3</item>
+        <item>3–7</item>
+        <item>8–11</item>
+        <item>12–15</item>
+        <item>16–18</item>
+    </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
