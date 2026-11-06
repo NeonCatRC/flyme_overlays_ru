@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="base_service_info_summary22">Need Internet access, permission to read or send SMS and MMS, read or write contacts, read call logs, read the app list, get location and identify fitness activity to provide Google basic component services.</string>
+    <string name="policy_sdk_account_center">Account Center</string>
+    <string name="policy_sdk_account_pp_message">"Privacy Policy"</string>
+    <string name="policy_sdk_account_pp_title">Privacy Policy</string>
+    <string name="policy_sdk_withdraw_check_message">Also delete personal information in the cloud</string>
+    <string name="policy_sdk_withdraw_check_message_account">Also delete personal information in the cloud, including orders and benefits</string>
+    <string name="policy_sdk_withdraw_text_basic_account">If you withdraw your consent to \"%1$s\", we will only provide basic functions and stop collecting and processing your personal information. This does not affect logging in with your Flyme account or using other Meizu products and services. To delete your account, go to %2$s\n \nWithdrawing consent clears local data and closes this app. Please consider carefully; see the personal information subject rights section of \"%1$s\" for details\n \n To use our products and services again, open the app and agree to our %1$s or use basic mode</string>
+    <string name="policy_sdk_withdraw_text_basic_not_account">If you withdraw your consent to \"%1$s\", we will only provide basic functions and stop collecting and processing your personal information\n \nWithdrawing consent clears local data and closes this app. Please consider carefully; see the personal information subject rights section of \"%1$s\" for details\n \n To use our products and services again, open the app and agree to our %1$s</string>
+    <string name="policy_sdk_withdraw_text_confirm">Withdraw consent</string>
+    <string name="policy_sdk_withdraw_text_exit">Cancel</string>
+    <string name="policy_sdk_withdraw_text_not_basic_has_account">If you withdraw your consent to \"%1$s\", we will stop collecting and processing your personal information and will no longer provide any services of this app. This does not affect logging in with your Flyme account or using other Meizu products and services. To delete your account, go to %2$s\n \nWithdrawing consent clears local data and closes this app. Please consider carefully; see the personal information subject rights section of \"%1$s\" for details\n \n To use our products and services again, open the app and agree to our %1$s</string>
+    <string name="policy_sdk_withdraw_text_not_basic_not_account">If you withdraw your consent to \"%1$s\", we will stop collecting and processing your personal information and will no longer provide any services of this app\n \nWithdrawing consent clears local data and closes this app. Please consider carefully; see the personal information subject rights section of \"%1$s\" for details\n \n To use functions beyond the basic ones, agree to our %1$s again</string>
+    <string name="policy_sdk_withdraw_text_title">Withdraw consent to the Privacy Policy</string>
+</resources>

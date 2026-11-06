@@ -1,0 +1,11 @@
+name	origin
+device_error	fix
+dir_change_text_2_text	fix
+error_restart_notice	fix
+finish_alarm_tip	fix
+migration_bootup_failed_tip_text	fix
+migration_connect_info_text_title_6	fix
+migration_icloud_userlogin_failed	fix
+policy_sdk_withdraw_text_not_basic_has_account	new
+wlan_exception	fix
+wx_qq_tip1	fix

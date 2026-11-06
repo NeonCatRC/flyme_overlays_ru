@@ -1,45 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="local_delete_badge">
-        <item quantity="other">Удалить %d</item>
-        <item quantity="one">Удалить %d</item>
+        <item quantity="one">Удалить дополнительные обои: %d</item>
+        <item quantity="few">Удалить дополнительные обои: %d</item>
+        <item quantity="many">Удалить дополнительные обои: %d</item>
+        <item quantity="other">Удалить дополнительные обои: %d</item>
     </plurals>
     <plurals name="local_delete_font">
-        <item quantity="other">Удалить %d шрифтов</item>
         <item quantity="one">Удалить %d шрифт</item>
+        <item quantity="few">Удалить %d шрифта</item>
+        <item quantity="many">Удалить %d шрифтов</item>
+        <item quantity="other">Удалить %d шрифта</item>
     </plurals>
     <plurals name="local_delete_keyboard_skin">
-        <item quantity="other">Удалить %d скинов</item>
         <item quantity="one">Удалить %d скин</item>
+        <item quantity="few">Удалить %d скина</item>
+        <item quantity="many">Удалить %d скинов</item>
+        <item quantity="other">Удалить %d скина</item>
     </plurals>
     <plurals name="local_delete_live_pager">
-        <item quantity="other">Удалить %d живых обоев</item>
-        <item quantity="one">Удалить %d живые обои</item>
+        <item quantity="one">Удалить живые обои: %d</item>
+        <item quantity="few">Удалить живые обои: %d</item>
+        <item quantity="many">Удалить живые обои: %d</item>
+        <item quantity="other">Удалить живые обои: %d</item>
     </plurals>
     <plurals name="local_delete_pap">
-        <item quantity="other">Удалить %d обоев</item>
-        <item quantity="one">Удалить %d обои</item>
+        <item quantity="one">Удалить обои: %d</item>
+        <item quantity="few">Удалить обои: %d</item>
+        <item quantity="many">Удалить обои: %d</item>
+        <item quantity="other">Удалить обои: %d</item>
     </plurals>
     <plurals name="local_delete_ringtone">
-        <item quantity="other">Удалить %d рингтонов</item>
-        <item quantity="one">Удалить %d рингтон</item>
+        <item quantity="one">Удалить %d мелодию</item>
+        <item quantity="few">Удалить %d мелодии</item>
+        <item quantity="many">Удалить %d мелодий</item>
+        <item quantity="other">Удалить %d мелодии</item>
     </plurals>
     <plurals name="local_delete_theme">
-        <item quantity="other">Удалить %d темы</item>
         <item quantity="one">Удалить %d тему</item>
+        <item quantity="few">Удалить %d темы</item>
+        <item quantity="many">Удалить %d тем</item>
+        <item quantity="other">Удалить %d темы</item>
+    </plurals>
+    <plurals name="local_delete_tof_alive_pager">
+        <item quantity="one">Удалить живые обои: %d</item>
+        <item quantity="few">Удалить живые обои: %d</item>
+        <item quantity="many">Удалить живые обои: %d</item>
+        <item quantity="other">Удалить живые обои: %d</item>
     </plurals>
     <plurals name="local_delete_tof_live_pager">
-        <item quantity="other">Удалить %d 3D обоев</item>
-        <item quantity="one">Удалить %d 3D обои</item>
+        <item quantity="one">Удалить 3D-обои: %d</item>
+        <item quantity="few">Удалить 3D-обои: %d</item>
+        <item quantity="many">Удалить 3D-обои: %d</item>
+        <item quantity="other">Удалить 3D-обои: %d</item>
     </plurals>
     <plurals name="update_incremental_complete_title">
-        <item quantity="other">Обновлено %d тем</item>
         <item quantity="one">Обновлена %d тема</item>
+        <item quantity="few">Обновлено %d темы</item>
+        <item quantity="many">Обновлено %d тем</item>
+        <item quantity="other">Обновлено %d темы</item>
     </plurals>
     <plurals name="updates">
-        <item quantity="other">%1$d %2$s может быть обновлено</item>
+        <item quantity="one">Можно обновить (%2$s): %1$d</item>
+        <item quantity="few">Можно обновить (%2$s): %1$d</item>
+        <item quantity="many">Можно обновить (%2$s): %1$d</item>
+        <item quantity="other">Можно обновить (%2$s): %1$d</item>
     </plurals>
     <plurals name="updates_complete">
-        <item quantity="other">%1$d %2$s обновлено</item>
+        <item quantity="one">Обновлено (%2$s): %1$d</item>
+        <item quantity="few">Обновлено (%2$s): %1$d</item>
+        <item quantity="many">Обновлено (%2$s): %1$d</item>
+        <item quantity="other">Обновлено (%2$s): %1$d</item>
     </plurals>
 </resources>

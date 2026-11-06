@@ -5,10 +5,19 @@
         <item>Повторно выполнить</item>
     </string-array>
     <string-array name="DATE_FORMAT_TITLE">
-        <item>мин.</item>
+        <item>мин</item>
         <item>ч</item>
-        <item>" d"</item>
-        <item>г.</item>
+        <item>" д"</item>
+        <item></item>
+    </string-array>
+    <string-array name="DAYS_OF_WEEK">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
     </string-array>
     <string-array name="item_system_setting">
         <item>Пароли WLAN</item>
