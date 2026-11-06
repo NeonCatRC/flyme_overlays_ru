@@ -105,7 +105,7 @@ city_unit	apk
 clear_btn_text	own
 combined_loan	own
 commercial_loan	own
-commercial_loan_amount	own
+commercial_loan_amount	new
 commercial_loan_interest_rate	own
 copy	own
 copy_expression	new
@@ -148,7 +148,7 @@ equal_sign_btn_text	own
 error	own
 error_a11y_label	new
 error_icon_content_description	own
-exceeding_million	own
+exceeding_million	new
 exchange_title	new
 expand_button_title	own
 fab_transformation_scrim_behavior	skip
@@ -187,7 +187,7 @@ hl_data	skip
 hl_period_of_time	own
 hl_surplus	own
 house_loan_interest	own
-housing_fund_loan_amount	own
+housing_fund_loan_amount	new
 housing_fund_loan_interest_rate	own
 housing_loan_update_time	own
 housing_provident_fund_loans	own
@@ -212,7 +212,7 @@ input_toast_elder_support	new
 input_toast_major_disease_medical_upperlimit	own
 insurance_fun	own
 insurance_sum	own
-interest_payment	own
+interest_payment	new
 interest_rate_caps	apk
 item_is_selected	own
 label_circle	own
@@ -578,7 +578,7 @@ network_rate_update	new
 network_tax_update	new
 new_rate_type_select	apk
 no_network_text	apk
-not_exceeding_million	own
+not_exceeding_million	new
 not_set	own
 obtained_income	own
 occupational_injury	own
@@ -667,7 +667,7 @@ tab_weight	own
 tax_input_hint	new
 text_input_hint_text	new
 toast_big_number_exception	apk
-total_repayment	own
+total_repayment	new
 trapezoid_bottom_line	own
 trapezoid_top_line	own
 unemployment	own

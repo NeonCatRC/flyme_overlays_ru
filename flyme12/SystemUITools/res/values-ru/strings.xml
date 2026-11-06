@@ -58,7 +58,7 @@
     <string name="drivemode_current_car_bluetooth_device">Bluetooth-устройства:</string>
     <string name="drivemode_exchange">Изменить</string>
     <string name="drivemode_exit">Выход</string>
-    <string name="drivemode_flyme_user_protocol_detail">" "<a href="https://www.flyme.cn/agreement">Подробнее об условиях использования</a>" "</string>
+    <string name="drivemode_flyme_user_protocol_detail">Нажмите, чтобы прочитать Пользовательское соглашение Flyme</string>
     <string name="drivemode_in_driving">В режиме вождения</string>
     <string name="drivemode_introduction_one">Голосовые оповещения</string>
     <string name="drivemode_introduction_one_details">Оповещение о входящем вызове, ответ или сброс звонка</string>

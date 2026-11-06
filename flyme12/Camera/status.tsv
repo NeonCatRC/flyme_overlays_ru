@@ -149,11 +149,11 @@ descp_smb_super_night_off	own
 descp_smb_super_night_on	own
 descp_smb_super_portrait_off	own
 descp_smb_super_portrait_on	own
-descp_smb_time_lapse_05s	own
-descp_smb_time_lapse_1s	own
-descp_smb_time_lapse_2s	own
-descp_smb_time_lapse_4s	own
-descp_smb_time_lapse_8s	own
+descp_smb_time_lapse_05s	new
+descp_smb_time_lapse_1s	new
+descp_smb_time_lapse_2s	new
+descp_smb_time_lapse_4s	new
+descp_smb_time_lapse_8s	new
 descp_smb_tripod_off	own
 descp_smb_tripod_on	own
 descp_thumbnail	own
@@ -275,7 +275,7 @@ mz_address_info_url	own
 mz_address_info_work	own
 mz_aicy_action_bar_title	own
 mz_aicy_asd_content	own
-mz_aicy_asd_title	own
+mz_aicy_asd_title	new
 mz_aicy_beauty_content	own
 mz_aicy_beauty_title	own
 mz_aicy_document_content	own
@@ -399,7 +399,7 @@ mz_hint_af_lock_ae	new
 mz_hint_af_lock_af	new
 mz_hint_af_lock_all	new
 mz_hint_edof_desc	new
-mz_hint_exit_immersion_mode	own
+mz_hint_exit_immersion_mode	new
 mz_hint_quick_burst	own
 mz_hint_show_smart_bar_bottom	own
 mz_hint_show_smart_bar_top	own
@@ -516,7 +516,7 @@ mz_setting_click_barcode_in_auto_hint	new
 mz_setting_click_close_per_hint	own
 mz_setting_click_front_mirror_hint	own
 mz_setting_click_gesture_hint	apk
-mz_setting_click_immersion_hint	own
+mz_setting_click_immersion_hint	new
 mz_setting_click_open_per_hint	own
 mz_setting_click_video_record_limited_hint	own
 mz_setting_click_video_suppord_eis_hint	own

@@ -495,7 +495,7 @@ common_name_prefixes	skip
 common_name_suffixes	skip
 concurrent_display_notification_active_content	apk
 concurrent_display_notification_active_title	apk
-concurrent_display_notification_name	apk
+concurrent_display_notification_name	new
 concurrent_display_notification_power_save_content	apk
 concurrent_display_notification_power_save_title	apk
 concurrent_display_notification_thermal_content	apk
@@ -1516,7 +1516,7 @@ mediasize_na_gvrnmt_letter	own
 mediasize_na_index_3x5	own
 mediasize_na_index_4x6	own
 mediasize_na_index_5x8	own
-mediasize_na_junior_legal	own
+mediasize_na_junior_legal	new
 mediasize_na_ledger	own
 mediasize_na_legal	own
 mediasize_na_letter	own
@@ -3401,7 +3401,7 @@ wm_notification_running_title	new
 array/emailAddressTypes	own
 array/imProtocols	apk
 array/organizationTypes	own
-array/phoneTypes	own
+array/phoneTypes	new
 array/postalAddressTypes	own
 array/config_keySystemUuidMapping	skip
 array/config_optionalIpSecAlgorithms	skip

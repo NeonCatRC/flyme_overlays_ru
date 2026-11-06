@@ -20,12 +20,12 @@
     <string name="abc_capital_on">ВКЛ.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Поиск…</string>
@@ -213,13 +213,13 @@
     <string name="battery_consumption_category_title">Режим питания</string>
     <string name="battery_consumption_optimization_category">Оптимизация энергопотребления</string>
     <string name="battery_consumption_title">Энергопотребление</string>
-    <string name="battery_history_days">%1$dдн. %2$dч %3$dмин %4$dс</string>
-    <string name="battery_history_days_no_seconds">%1$dдн. %2$dч %3$dмин</string>
-    <string name="battery_history_hours">%1$dч %2$dмин %3$dс</string>
-    <string name="battery_history_hours_no_seconds">%1$dч %2$dмин</string>
-    <string name="battery_history_minutes">%1$dмин %2$dс</string>
-    <string name="battery_history_minutes_no_seconds">%1$dмин</string>
-    <string name="battery_history_seconds">%1$dс</string>
+    <string name="battery_history_days">%1$d дн. %2$d ч %3$d мин %4$d с</string>
+    <string name="battery_history_days_no_seconds">%1$d дн. %2$d ч %3$d мин</string>
+    <string name="battery_history_hours">%1$d ч %2$d мин %3$d с</string>
+    <string name="battery_history_hours_no_seconds">%1$d ч %2$d мин</string>
+    <string name="battery_history_minutes">%1$d мин %2$d с</string>
+    <string name="battery_history_minutes_no_seconds">%1$d мин</string>
+    <string name="battery_history_seconds">%1$d с</string>
     <string name="battery_info_status_charging">Зарядка</string>
     <string name="battery_info_status_charging_ac">Зарядка от сети</string>
     <string name="battery_info_status_charging_dock">Зарядка</string>
@@ -876,7 +876,7 @@
     <string name="launch_defaults_none">Настройки по умолчанию не установлены</string>
     <string name="launch_defaults_some">Установлены некоторые настройки по умолчанию</string>
     <string name="learn_more">Подробнее</string>
-    <string name="light_feedback_enable_title">Подсветка "Домой"</string>
+    <string name="light_feedback_enable_title">Подсветка кнопки \"Домой\"</string>
     <string name="limit_2g_summary">Повышает безопасность, но в некоторых случаях может ухудшить подключение к сети</string>
     <string name="limit_2g_title">Запретить 2G</string>
     <string name="link_speed">%1$d Мбит/c</string>
@@ -993,7 +993,7 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_permission_message_content">%1$s запрашивает разрешения (%3$d), включая %2$s</string>
     <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -1022,7 +1022,7 @@
     <string name="mc_pm_set_gprs_on">Управление передачей данных</string>
     <string name="mc_pm_set_wifi_on">Управление Wi-Fi</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_praised_message">Как</string>
+    <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
     <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
@@ -1208,7 +1208,7 @@
     <string name="mz_specific_permission_allow">Разрешить</string>
     <string name="mz_specific_permission_deny">Запретить</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="network_connection_connect_failure">Ошибка соединения</string>
     <string name="network_connection_connect_successful">Подключено</string>
@@ -1221,7 +1221,7 @@
     <string name="network_connection_timeout_dialog_message">Устройства не найдены. Убедитесь, что они включены и доступны для подключения.</string>
     <string name="network_connection_timeout_dialog_ok">Повторить</string>
     <string name="network_query_error">Ошибка поиска сети</string>
-    <string name="network_reset_not_available">Сброс сети не доступен для этого пользователя</string>
+    <string name="network_reset_not_available">Сброс сети недоступен для этого пользователя</string>
     <string name="network_settings_title">Беспроводные сети</string>
     <string name="network_state_available">Доступно</string>
     <string name="network_state_current">Текущая</string>
@@ -1757,7 +1757,7 @@
     <string name="tether_mobile_data_limit_value_hint">От 1 до 9999 МБ</string>
     <string name="tether_name_exceeding_maximum_limit_msg">Название сети слишком длинное</string>
     <string name="tether_netshare_not_opened_hint">Делиться VPN подключением при раздаче интернета</string>
-    <string name="tether_power_save_notice_txt">Точка доступа будет отключена, если не будет подключений в течении 10 минут</string>
+    <string name="tether_power_save_notice_txt">Точка доступа отключится, если в течение 10 минут к ней никто не подключится</string>
     <string name="tether_settings_title_all">Точка доступа</string>
     <string name="tether_settings_title_bluetooth">Bluetooth-модем</string>
     <string name="tether_settings_title_usb">USB-модем</string>
@@ -2205,7 +2205,7 @@
     <string name="wifi_p2p_menu_rename">Переименовать устройство</string>
     <string name="wifi_p2p_menu_search">Поиск устройств</string>
     <string name="wifi_p2p_menu_searching">Поиск…</string>
-    <string name="wifi_p2p_need_disable_vice_wifi">Что бы использовать P2P, отключите ускорение Wi-Fi</string>
+    <string name="wifi_p2p_need_disable_vice_wifi">Чтобы использовать Wi-Fi Direct, отключите двойное ускорение Wi-Fi</string>
     <string name="wifi_p2p_need_wifi">Чтобы использовать P2P Wi-Fi, сначала включите Wi-Fi</string>
     <string name="wifi_p2p_peer_devices">Обнаруженные устройства</string>
     <string name="wifi_p2p_remembered_groups">Сохранённые группы</string>
@@ -2224,7 +2224,7 @@
     <string name="wifi_random_mac_option">Использовать случайный MAC-адрес</string>
     <string name="wifi_random_mac_option_summary">Случайный MAC-адрес лучше защищает конфиденциальность</string>
     <string name="wifi_remembered">Сохранено</string>
-    <string name="wifi_sap_no_channel_error">5 ГГц сеть не доступна в вашей стране</string>
+    <string name="wifi_sap_no_channel_error">Диапазон 5 ГГц недоступен в этой стране или регионе</string>
     <string name="wifi_save">Сохранить</string>
     <string name="wifi_saved_access_points_label">Сохранённые сети</string>
     <string name="wifi_saved_access_points_titlebar">Сохранённые сети</string>
@@ -2358,7 +2358,7 @@
     <string name="wifi_wps_failed_overlap">Обнаружен другой сеанс WPS. Пожалуйста, повторите попытку через несколько минут.</string>
     <string name="wifi_wps_failed_tkip">Безопасная настройка беспроводного маршрутизатора (TKIP) не поддерживается</string>
     <string name="wifi_wps_failed_wep">Безопасная настройка беспроводного маршрутизатора (WEP) не поддерживается</string>
-    <string name="wifi_wps_in_progress">Настройка WPS, это может занять до 2-х минут ...</string>
+    <string name="wifi_wps_in_progress">Настройка WPS. Это может занять до двух минут…</string>
     <string name="wifi_wps_message_pin_title">Введите PIN-код %1$s на вашем роутере</string>
     <string name="wifi_wps_message_timeout">Тайм-аут соединения. Попробуйте снова.</string>
     <string name="wifi_wps_message_title">"\"Нажмите кнопку \"WPS\" 
@@ -2469,6 +2469,6 @@
     <string name="zen_mode_forever">Пока я не выключу</string>
     <string name="zen_mode_settings_summary_off">Никогда</string>
     <string name="zen_mode_settings_title">Не беспокоить</string>
-    <string name="zen_mode_settings_turn_on_dialog_title">Включить режим "Не беспокоить"</string>
+    <string name="zen_mode_settings_turn_on_dialog_title">Включить режим \"Не беспокоить\"</string>
     <string name="zen_mode_starred_contacts_empty_name">Имя не указано</string>
 </resources>

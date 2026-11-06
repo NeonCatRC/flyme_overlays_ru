@@ -660,7 +660,7 @@ mzuc_wait_tip	own
 navigation_menu	apk
 need_to_enable_engine	new
 network_exception	new
-network_html_load_exception	own
+network_html_load_exception	new
 network_no_connect	new
 network_not_good	new
 network_unavailable	own

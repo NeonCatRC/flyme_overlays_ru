@@ -893,7 +893,7 @@ bluetooth_select_avrcp_version_string	own
 bluetooth_select_map_version_dialog_title	apk
 bluetooth_select_map_version_string	apk
 bluetooth_show_devices_without_names	own
-bluetooth_show_devices_without_names_summary	own
+bluetooth_show_devices_without_names_summary	apk
 bluetooth_talkback_bluetooth	own
 bluetooth_talkback_computer	own
 bluetooth_talkback_group	unused
@@ -1884,7 +1884,7 @@ keyguard_meizu_pay_hint	own
 keyguard_missing_sim_message	own
 keyguard_missing_sim_message_short	own
 keyguard_network_locked_message	own
-keyguard_palm_rejection_calibrate	own
+keyguard_palm_rejection_calibrate	apk
 keyguard_palm_rejection_calibrate_title	own
 keyguard_palm_rejection_exit	own
 keyguard_palm_rejection_text	own
@@ -2534,7 +2534,7 @@ mtrl_checkbox_button_path_name	skip
 mtrl_checkbox_button_path_unchecked	skip
 mtrl_chip_close_icon_content_description	own
 mtrl_exceed_max_badge_number_suffix	skip
-mtrl_picker_date_header_selected	own
+mtrl_picker_date_header_selected	skip
 mtrl_picker_save	own
 mtrl_picker_text_input_day_abbr	own
 mtrl_picker_text_input_year_abbr	own
@@ -2593,7 +2593,7 @@ mz_permission_inform_f9	unused
 mz_permission_inform_f9_no_internet	unused
 mz_permission_inform_f9_only_internet	unused
 mz_permission_inform_secondary_confirmation_summary	unused
-mz_permission_message_content	own
+mz_permission_message_content	new
 mz_permission_message_supplement	own
 mz_permission_policy_description	apk
 mz_permission_policy_description_f9	unused
@@ -2741,7 +2741,7 @@ notification_more_settings	own
 notification_multichannel_desc	apk
 notification_panel_empty_tip	apk
 notification_priority_title	apk
-notification_quick_reply_action	own
+notification_quick_reply_action	new
 notification_reply	own
 notification_section_header_alerting	own
 notification_section_header_conversations	apk
@@ -4275,7 +4275,7 @@ wifitrackerlib_wifi_remembered	apk
 wifitrackerlib_wifi_security_eap_suiteb	apk
 wifitrackerlib_wifi_security_eap_wpa3	apk
 wifitrackerlib_wifi_security_eap_wpa_wpa2	apk
-wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3	own
+wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3	apk
 wifitrackerlib_wifi_security_none	apk
 wifitrackerlib_wifi_security_owe	own
 wifitrackerlib_wifi_security_passpoint	own

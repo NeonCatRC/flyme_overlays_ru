@@ -364,7 +364,7 @@
     <string name="festival_detail_related">Похожие статьи</string>
     <string name="festival_detail_title">Подробнее</string>
     <string name="festival_list_title">Фестивали</string>
-    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМБ</string>
+    <string name="file_selected_number">Выбрано файлов: %1$s, всего %2$s МБ</string>
     <string name="film">Фильмы</string>
     <string name="flight_remind">Напоминание о рейсе</string>
     <string name="flyme_account_error">Проблема с аккаунтом Flyme, умное распознавание временно недоступно.</string>
@@ -527,7 +527,7 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
-    <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
+    <string name="mc_permission_message_content">%1$s запрашивает разрешения (%3$d), включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -556,7 +556,7 @@
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
     <string name="mc_pm_set_wifi_on">Включить WLAN</string>
     <string name="mc_pm_wlan">WLAN</string>
-    <string name="mc_praised_message">Как</string>
+    <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
@@ -694,7 +694,7 @@
     <string name="mz_reject">Выход</string>
     <string name="mz_share_view_checkbox_text">Удалить после передачи</string>
     <string name="mz_share_view_title">Поделиться</string>
-    <string name="mz_specific_permission_allow">Все ещё разрешено</string>
+    <string name="mz_specific_permission_allow">Всё равно разрешить</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
@@ -800,8 +800,8 @@
     <string name="news_reduce_recommendation">Похожее будет рекомендоваться реже</string>
     <string name="news_report">Пожаловаться на спам</string>
     <string name="news_report_reason">Непристойное содержимое, преувеличенный заголовок и т. п.</string>
-    <string name="news_sdk_10k">%s</string>
-    <string name="news_sdk_10k_with_blank">%s</string>
+    <string name="news_sdk_10k">%s × 10 тыс.</string>
+    <string name="news_sdk_10k_with_blank">%s × 10 тыс.</string>
     <string name="news_sdk_actionbar_title">Горячие новости</string>
     <string name="news_sdk_ad_time">Следующее видео через %s с</string>
     <string name="news_sdk_add_comment">Добавить комментарий</string>

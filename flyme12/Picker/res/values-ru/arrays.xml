@@ -77,9 +77,9 @@
         <item>Позвонить</item>
     </string-array>
     <string-array name="setting_more_tab3_grid_desc">
-        <item>Показать ссылки на экране</item>
-        <item>Поделиться ссылкой в другое приложение</item>
-        <item>Распознать музыку из Tik Tok/Kuaishou</item>
+        <item>Сохранить ссылку на страницу на левом экране</item>
+        <item>Поделиться ссылкой на страницу в другом приложении</item>
+        <item>Распознать музыку в TikTok и Kuaishou</item>
     </string-array>
     <string-array name="setting_more_tab3_grid_title">
         <item>Понравилось</item>

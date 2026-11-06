@@ -10,7 +10,7 @@ array/values_close_exit_translate_app	unused
 array/values_extra_close_exit_translate_app	skip
 array/values_extra_open_enter_translate_app	skip
 array/values_open_enter_translate_app	unused
-plurals/delete_item_selected	own
+plurals/delete_item_selected	new
 abandon	own
 abc_action_bar_up_description	own
 abc_action_menu_overflow_description	own

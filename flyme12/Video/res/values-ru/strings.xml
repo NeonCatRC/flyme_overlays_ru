@@ -227,7 +227,7 @@
     <string name="mz_pm_set_wifi_on">Включение WLAN</string>
     <string name="mz_privacy_policy">Политика конфиденциальности</string>
     <string name="mz_reject">Выход</string>
-    <string name="mz_specific_permission_allow">Все ещё разрешено</string>
+    <string name="mz_specific_permission_allow">Всё равно разрешить</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>

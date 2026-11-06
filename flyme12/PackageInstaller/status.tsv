@@ -562,7 +562,7 @@ no_blocked_tag	new
 no_permissions	apk
 not_set	apk
 notification_installation_success_message	own
-notification_installation_success_status	own
+notification_installation_success_status	new
 ok	own
 open	new
 operating_instructions	new

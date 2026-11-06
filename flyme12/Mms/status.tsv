@@ -453,7 +453,7 @@ join_in_blacklist	own
 join_in_blacklist_tip	unused
 kicked_out_group	own
 kilobyte	own
-kilobyte_with_size	own
+kilobyte_with_size	new
 label_mms_send_outbox_msg	skip
 lable_cell_broadcast	new
 lable_sms_center_number	own
@@ -1102,7 +1102,7 @@ rcs_assistant	unused
 rcs_attachment_file_limit_size	unused
 rcs_audio_play_error	new
 rcs_audio_player	new
-rcs_audio_subject_view	own
+rcs_audio_subject_view	new
 rcs_auto_update_summary	unused
 rcs_auto_update_title	unused
 rcs_banner_text_02	own
@@ -1144,7 +1144,7 @@ rcs_car	unused
 rcs_card_message	own
 rcs_chat	new
 rcs_chatbot_a2p_message	own
-rcs_chatbot_audio_message	own
+rcs_chatbot_audio_message	new
 rcs_chatbot_card_message	own
 rcs_chatbot_file_message	own
 rcs_chatbot_geo_message	own
@@ -1378,13 +1378,13 @@ rcs_set_labelLogin	skip
 rcs_set_labelNowLogin	skip
 rcs_set_logcat	skip
 rcs_set_now_retry	skip
-rcs_set_protocol	own
+rcs_set_protocol	new
 rcs_set_retry	skip
 rcs_set_size	skip
 rcs_set_switchCC	skip
 rcs_set_switchCheckSim	skip
 rcs_set_switch_bsf	skip
-rcs_set_testing	own
+rcs_set_testing	new
 rcs_set_txt_bfs	new
 rcs_set_txt_bfs_address	new
 rcs_set_txt_switch_over_size	new
@@ -1500,7 +1500,7 @@ searchview_clear_text_content_description	new
 searchview_navigation_content_description	new
 secs	own
 security_public_key	skip
-see_all_group_message_title	own
+see_all_group_message_title	new
 see_in_filemanager_title	own
 select_bottom_text	own
 select_conversation_matching	own
@@ -1634,7 +1634,7 @@ unsubscribe	own
 unsubscribe_instructions	own
 unsubscribe_instructions_message_five	own
 unsubscribe_instructions_message_four	own
-unsubscribe_instructions_message_one	own
+unsubscribe_instructions_message_one	new
 unsubscribe_instructions_message_span	own
 unsubscribe_instructions_message_three	own
 unsubscribe_instructions_message_two	own

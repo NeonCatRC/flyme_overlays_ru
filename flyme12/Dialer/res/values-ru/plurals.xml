@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d контакт.</item>
         <item quantity="one">%1$d контакт</item>
+        <item quantity="few">%1$d контакта</item>
+        <item quantity="many">%1$d контактов</item>
+        <item quantity="other">%1$d контакта</item>
     </plurals>
     <plurals name="listFoundAllContacts">
+        <item quantity="one">Найдено: %d</item>
+        <item quantity="few">Найдено: %d</item>
+        <item quantity="many">Найдено: %d</item>
         <item quantity="other">Найдено: %d</item>
-        <item quantity="one">Найдено: 1</item>
     </plurals>
     <plurals name="listTotalAllContacts">
+        <item quantity="one">Всего контактов: %d</item>
+        <item quantity="few">Всего контактов: %d</item>
+        <item quantity="many">Всего контактов: %d</item>
         <item quantity="other">Всего контактов: %d</item>
-        <item quantity="one">Всего: 1 контакт</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
+        <item quantity="one">Контакты с номерами телефона: %d</item>
+        <item quantity="few">Контакты с номерами телефона: %d</item>
+        <item quantity="many">Контакты с номерами телефона: %d</item>
         <item quantity="other">Контакты с номерами телефона: %d</item>
-        <item quantity="one">Контакты с номерами телефона: 1</item>
     </plurals>
     <plurals name="mz_action_bar_multi_choice_title">
         <item quantity="other">Выбрано: %d</item>
@@ -39,11 +47,15 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">Голосовые сообщения: %1$d</item>
-        <item quantity="one">Голосовые сообщения</item>
+        <item quantity="one">%1$d голосовое сообщение</item>
+        <item quantity="few">%1$d голосовых сообщения</item>
+        <item quantity="many">%1$d голосовых сообщений</item>
+        <item quantity="other">%1$d голосового сообщения</item>
     </plurals>
     <plurals name="searchFoundContacts">
+        <item quantity="one">Найдено: %d</item>
+        <item quantity="few">Найдено: %d</item>
+        <item quantity="many">Найдено: %d</item>
         <item quantity="other">Найдено: %d</item>
-        <item quantity="one">Найдено: 1</item>
     </plurals>
 </resources>

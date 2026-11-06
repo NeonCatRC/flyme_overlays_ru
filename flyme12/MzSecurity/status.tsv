@@ -1173,7 +1173,7 @@ harm_url_desc_HARM_PRIVATE_SERVER	own
 harm_url_desc_HARM_REGULAR	own
 harm_url_desc_HARM_SEX	own
 harm_url_desc_HARM_SP_SERVICE	own
-harm_url_desc_HARM_STEAL_ACCOUNT	own
+harm_url_desc_HARM_STEAL_ACCOUNT	new
 harm_url_desc_HARM_TIPS_CHEAT	own
 harm_url_desc_HARM_TIPS_DEFAULT	own
 harm_url_desc_HARM_UNKNOWN	own
@@ -2098,7 +2098,7 @@ status_sys_update_done	own
 status_traffic_over	own
 still_close	own
 storage	own
-storage_access_dialog_delete_file	own
+storage_access_dialog_delete_file	new
 storage_access_dialog_delete_image	own
 storage_access_notify_action_delete	own
 storage_access_notify_action_ignore	own
@@ -2200,8 +2200,8 @@ traffic_day_allow_mobile_data_usage	own
 traffic_day_left	own
 traffic_day_plan	own
 traffic_day_plan_title	own
-traffic_dayplan_daily_warning_summary	own
-traffic_dayplan_daily_warning_title	own
+traffic_dayplan_daily_warning_summary	new
+traffic_dayplan_daily_warning_title	new
 traffic_daywarning_dialog_title	own
 traffic_daywarning_switch_dialog_summary	own
 traffic_daywarning_switch_preference_title	own

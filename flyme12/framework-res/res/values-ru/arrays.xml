@@ -25,9 +25,9 @@
         <item>Домашний</item>
         <item>Мобильный</item>
         <item>Рабочий</item>
-        <item>Рабочий FAX</item>
-        <item>Домашний FAX</item>
-        <item>Пэйджер</item>
+        <item>Рабочий факс</item>
+        <item>Домашний факс</item>
+        <item>Пейджер</item>
         <item>Другой</item>
         <item>Свой</item>
     </string-array>

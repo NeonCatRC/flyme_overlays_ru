@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="delete_task_recoord_file">
-        <item quantity="other">Удалить %s файл(ов)</item>
-        <item quantity="one">Удалить %s файл(ов)</item>
+        <item quantity="one">Удалить %s файл</item>
+        <item quantity="few">Удалить %s файла</item>
+        <item quantity="many">Удалить %s файлов</item>
+        <item quantity="other">Удалить %s файла</item>
     </plurals>
     <plurals name="select_delete_records_multi_choice_title">
-        <item quantity="other">%d шт. выбрано</item>
+        <item quantity="one">Выбрано: %d</item>
+        <item quantity="few">Выбрано: %d</item>
+        <item quantity="many">Выбрано: %d</item>
+        <item quantity="other">Выбрано: %d</item>
     </plurals>
 </resources>

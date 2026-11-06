@@ -178,7 +178,7 @@
     <string name="collect_theme">Избранные темы</string>
     <string name="collection">Избранное</string>
     <string name="colon">: </string>
-    <string name="color_ring_set_success">Ваша заявка на получение музыкального рингтона была подана в  Cooltone, и будет одобрен в течение 2 часов. Как только услуга будет включена, ваша мелодия звонка будет автоматически установлена на \"%1$s\". Если у вас есть какие-либо вопросы, пожалуйста, свяжитесь с нами %2$s.</string>
+    <string name="color_ring_set_success">Заявка на мелодию гудка отправлена в Cooltone и будет одобрена в течение 2 часов. После одобрения мелодия «%1$s» установится автоматически. Если возникнут вопросы, свяжитесь с нами: %2$s</string>
     <string name="color_ring_set_success_confirm">Понятно</string>
     <string name="color_ring_tag">M</string>
     <string name="commentError">Ошибка при отправке отзыва</string>
@@ -229,7 +229,7 @@
     <string name="delete">Удалить</string>
     <string name="detail_page_device_description">Ресурсы оформления одного аккаунта Flyme можно использовать одновременно не более чем на 10 устройствах. Сверх этого лимита нужно оплатить их повторно</string>
     <string name="developerReply">Ответы разработчика</string>
-    <string name="device_unsupported_badge">Эта функция не доступна на телефонах без второго экрана</string>
+    <string name="device_unsupported_badge">Эта функция доступна только на телефонах с задним экраном</string>
     <string name="dialog_cancel">Отмена</string>
     <string name="dialog_message">Выйти из Mix Design?</string>
     <string name="dialog_quit">Выход</string>
@@ -291,7 +291,7 @@
     <string name="festival_setting_dialog_msg">Получить праздничные обои</string>
     <string name="festival_setting_dialog_title">Разрешить подборке на заблок. экране подключаться к сети?</string>
     <string name="festival_wallpaper">Сезонные обои</string>
-    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМБ</string>
+    <string name="file_selected_number">Выбрано файлов: %1$s, всего %2$s МБ</string>
     <string name="flyme_avatar_summary">"Заменить аватары контактов на аватары Flyme"</string>
     <string name="flyme_avatar_title">Аватары Flyme</string>
     <string name="flyme_internal_app_permission_get_accounts_text">Использование и синхронизация аккаунта Flyme</string>
@@ -302,7 +302,7 @@
     <string name="font">Шрифты</string>
     <string name="font_default_name">По умолчанию</string>
     <string name="font_downloaded_times_exceeded_tip">"Не удалось загрузить, так как достигнут максимум для данного устройства"</string>
-    <string name="font_online_un_existed">Извините, данный шрифт больше не доступен.</string>
+    <string name="font_online_un_existed">Извините, этот шрифт удалён из магазина</string>
     <string name="font_preview_applied">Применено</string>
     <string name="font_preview_apply">Применить</string>
     <string name="font_preview_date">Дата выхода: %1$s-%2$s-%3$s</string>
@@ -355,7 +355,7 @@
     <string name="intent_handle">Пожалуйста, обработайте возвращаемое значение</string>
     <string name="internet_error">Ошибка сети</string>
     <string name="internet_error_tap_to_reload">Ошибка сети, нажмите чтобы повторить</string>
-    <string name="introduction_guide">Перейдите в “#@0@#” > “Автоматическая смена обоев” для активации</string>
+    <string name="introduction_guide">Или нажмите #@0@# в правом верхнем углу &gt; Журнал экрана блокировки</string>
     <string name="introduction_title">"Новая функция:
 Автоматическая смена обоев"</string>
     <string name="item_is_selected">%1$s выбрано</string>
@@ -552,7 +552,7 @@
     <string name="mz_reject">Выход</string>
     <string name="mz_share_view_checkbox_text">Удалить после передачи</string>
     <string name="mz_share_view_title">Передать</string>
-    <string name="mz_specific_permission_allow">Все ещё разрешено</string>
+    <string name="mz_specific_permission_allow">Всё равно разрешить</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
@@ -627,7 +627,7 @@
     <string name="network_permission">Доступ к сети</string>
     <string name="network_permission_desc">Нужно для загрузки обоев из сети.</string>
     <string name="network_unavailable">Нет подключения к Интернету, пожалуйста, проверьте настройки сети</string>
-    <string name="never">Никогда</string>
+    <string name="never">Только один раз</string>
     <string name="newest_version_has_downloaded_click_to_install">Новая версия загружена, нажмите для установки</string>
     <string name="next_step">Далее</string>
     <string name="no_alarm_clock">Пусто</string>
@@ -661,11 +661,11 @@
     <string name="online_theme_pay_content_description">Купить</string>
     <string name="online_theme_thumbs_des">Многостраничный просмотр, вы можете переключать страницы свайпом двумя пальцами.</string>
     <string name="online_theme_trial">Демо</string>
-    <string name="online_theme_trial_dialog_msg">Вы можете продолжить использование только после после покупки</string>
+    <string name="online_theme_trial_dialog_msg">Купите тему, чтобы пользоваться ею постоянно</string>
     <string name="online_theme_trial_dialog_title">Демо завершено</string>
     <string name="online_theme_trial_end">Закончить</string>
     <string name="online_theme_trial_end_notify_ticker">Демо завершено</string>
-    <string name="online_theme_trial_notify_end_content">Вы можете продолжить использование только после после покупки</string>
+    <string name="online_theme_trial_notify_end_content">Купите, чтобы пользоваться постоянно</string>
     <string name="online_theme_trial_notify_end_title">Демо для темы «%s» завершено</string>
     <string name="online_theme_trial_now">Демо</string>
     <string name="online_theme_trial_pay">Купить</string>
@@ -826,7 +826,7 @@
     <string name="setting_bottom_wallpaper_button_text">Больше обоев</string>
     <string name="setting_keyboard_skin">Применение темы для клавиатуры</string>
     <string name="setting_livepaper">Применение живых обоев</string>
-    <string name="setting_name">Найстройки</string>
+    <string name="setting_name">Настройки</string>
     <string name="setting_no_net_online_wallpaper_title">Онлайн обои</string>
     <string name="setting_no_net_tips">Подключитесь к сети для получения дополнительной информации</string>
     <string name="setting_online_title">Онлайн-подборка</string>
@@ -894,7 +894,7 @@
     <string name="system_setting_more_des_5">Погода и настроение в реальном времени круглые сутки</string>
     <string name="system_setting_more_des_6">Дышит и выражает вашу индивидуальность</string>
     <string name="system_setting_more_des_7">Умное разделение и бесконечные изменения</string>
-    <string name="system_setting_more_title_1">Световой эффект увведомлений</string>
+    <string name="system_setting_more_title_1">Световой эффект уведомлений</string>
     <string name="system_setting_more_title_2">Подборка обоев Flyme</string>
     <string name="system_setting_more_title_3">Живые обои</string>
     <string name="system_setting_more_title_4">Исторические темы Flyme</string>
@@ -947,7 +947,7 @@
     <string name="to_setting">Настроить</string>
     <string name="toggle">Изменить</string>
     <string name="toggle_success">Изменено</string>
-    <string name="trial_theme_guide_dialog_positive_text">Исспользовать тему</string>
+    <string name="trial_theme_guide_dialog_positive_text">Использовать тему</string>
     <string name="trial_theme_guide_dialog_title">Обои на экране блокировки больше не будут автоматически меняться после переключения тем</string>
     <string name="uid_not_match">uid не совпадает с пакетом</string>
     <string name="uncheck_all">Все</string>
@@ -977,7 +977,7 @@
     <string name="view_details">Подробнее</string>
     <string name="view_personal_information">Просмотр персональных данных</string>
     <string name="view_wallpaper_name">Посмотреть</string>
-    <string name="waitTip">Пожалуйста, подожите</string>
+    <string name="waitTip">Пожалуйста, подождите</string>
     <string name="wallpaper">Обои</string>
     <string name="wallpaper_blur">Размытие</string>
     <string name="wallpaper_both">Все</string>

@@ -36,12 +36,12 @@
     <string name="abc_capital_on">ВКЛ.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
     <string name="abc_menu_enter_shortcut_label">Ввод</string>
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Поиск</string>
@@ -657,7 +657,7 @@
     <string name="feature_switch_dialog_security_summary">После отключения «Безопасность» перестанет работать в полную силу: очистка, анти-спам, проверка на вирусы, контроль трафика и управление приложениями будут недоступны.</string>
     <string name="feature_switch_dialog_security_title">Отключить «Безопасность»?</string>
     <string name="feature_title">Управление функциями</string>
-    <string name="file_selected_number">Выбрано файлов: %1$s, всего: %2$sМБ</string>
+    <string name="file_selected_number">Выбрано файлов: %1$s, всего %2$s МБ</string>
     <string name="financial_pay_protect_tip">Когда функция включена, при входе в финансовые приложения включается защита платежей для безопасности системы и ваших средств. Сторонним приложениям запрещается получать коды подтверждения, делать снимки и записи экрана в фоне, перехватывать места нажатий; режим отладки отключается. В некоторых случаях при вводе пароля включается защищённая системная клавиатура.</string>
     <string name="flow_management">Данные</string>
     <string name="flow_management_desc">Не настроено</string>
@@ -707,7 +707,7 @@
     <string name="harm_url_desc_HARM_REGULAR">Нормально</string>
     <string name="harm_url_desc_HARM_SEX">Этот сайт содержит порнографический контент. Рекомендуем НЕ посещать этот сайт.</string>
     <string name="harm_url_desc_HARM_SP_SERVICE">Этот веб-сайт был вовлечён во вредоносную или вводящую в заблуждение услугу связи с добавленной стоимостью. Рекомендуем НЕ посещать этот сайт.</string>
-    <string name="harm_url_desc_HARM_STEAL_ACCOUNT">Этот сайт был вовлечён в фишинг и взлом аккаунтов. Атакующие могут украсть ваши учётные записи в Viber, Skype и т.д.. Рекомендуем НЕ посещать этот сайт.</string>
+    <string name="harm_url_desc_HARM_STEAL_ACCOUNT">Этот сайт связан с фишингом и кражей аккаунтов: могут быть украдены аккаунты и пароли QQ, WeChat и др. «Безопасность» рекомендует покинуть сайт</string>
     <string name="harm_url_desc_HARM_TIPS_CHEAT">Этот сайт участвовал в мошеннических аферах с призами. Рекомендуем НЕ посещать этот сайт.</string>
     <string name="harm_url_desc_HARM_TIPS_DEFAULT">Этот сайт содержит элементы с другого опасного сайта. Рекомендуем НЕ посещать этот сайт.</string>
     <string name="harm_url_desc_HARM_UNKNOWN">Этот сайт может содержать потенциально опасный контент. Рекомендуем НЕ посещать этот сайт.</string>
@@ -1525,7 +1525,7 @@
     <string name="status_traffic_over">Купить</string>
     <string name="still_close">Ещё закр.</string>
     <string name="storage">Внутренняя память</string>
-    <string name="storage_access_dialog_delete_file">Перманентно удалить %1$s фийлов</string>
+    <string name="storage_access_dialog_delete_file">Удалить безвозвратно файлов: %1$s</string>
     <string name="storage_access_dialog_delete_image">Перманентно удалить %1$s фото</string>
     <string name="storage_access_notify_action_delete">Перманентно удалить</string>
     <string name="storage_access_notify_action_ignore">Игнорировать</string>
@@ -1625,8 +1625,8 @@
     <string name="traffic_day_left">Осталось сегодня</string>
     <string name="traffic_day_plan">Ежедневный пакет трафика</string>
     <string name="traffic_day_plan_title">Сегодняшний план</string>
-    <string name="traffic_dayplan_daily_warning_summary">Предупреждение. %1$s осталось.</string>
-    <string name="traffic_dayplan_daily_warning_title">Ежедневное предупреждение</string>
+    <string name="traffic_dayplan_daily_warning_summary">Израсходованный дневной трафик достиг порога. Осталось: %1$s</string>
+    <string name="traffic_dayplan_daily_warning_title">Дневной трафик достиг порога</string>
     <string name="traffic_daywarning_dialog_title">Дневной лимит данных израсходован</string>
     <string name="traffic_daywarning_switch_dialog_summary">Было использовано %1$s среднесуточного объёма данных. В этом месяце доступно ещё %2$s данных.</string>
     <string name="traffic_daywarning_switch_preference_title">Предупреждение о лимите</string>

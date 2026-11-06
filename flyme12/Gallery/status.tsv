@@ -318,7 +318,7 @@ cloud_menu_title_sync_settings	own
 cloud_menu_title_upload	own
 cloud_menu_title_upload_photopage	own
 cloud_menu_title_user_policy	own
-cloud_mobile_dlg_title	own
+cloud_mobile_dlg_title	new
 cloud_mobile_notifi_title	own
 cloud_month	own
 cloud_nitifi_downloaded	own
@@ -788,8 +788,8 @@ fm_err_rename_8	own
 fm_err_retry	own
 fm_exception_network	own
 fm_f_im_dup	own
-fm_f_im_failed_a_mix	own
-fm_f_im_failed_mix	own
+fm_f_im_failed_a_mix	new
+fm_f_im_failed_mix	new
 fm_f_im_failed_mix1	own
 fm_f_im_failed_mix2	own
 fm_f_im_parse_err	own
@@ -1193,7 +1193,7 @@ memory_editor_selection_max_dialog_title	own
 memory_editor_selection_max_dialog_title2	new
 memory_editor_selection_min_dialog_title	apk
 memory_editor_title	own
-memory_editor_title_dialog_error	own
+memory_editor_title_dialog_error	new
 memory_editor_title_dialog_positive	own
 memory_editor_title_dialog_title	own
 memory_empty	own
@@ -1666,7 +1666,7 @@ ok	own
 one_one_crop_aspect	own
 online_module_cloud	own
 online_module_cloud_clean_ok	own
-online_module_cloud_clean_title	own
+online_module_cloud_clean_title	apk
 online_module_cloud_verify_message	own
 online_module_cloud_verify_title	own
 online_module_face_close_message	own

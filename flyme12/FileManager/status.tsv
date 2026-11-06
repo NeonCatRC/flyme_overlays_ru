@@ -776,7 +776,7 @@ mzuc_update_msg_title_s	own
 mzuc_update_title_s	own
 mzuc_wait_tip	own
 mzuc_warn_later	own
-nearly_month	own
+nearly_month	new
 nearly_week	own
 network_execption	new
 network_fail	new

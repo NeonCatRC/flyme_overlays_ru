@@ -332,7 +332,7 @@
     <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="navigation">Навигация</string>
     <string name="nearby_power_bank">Пауэрбанки рядом</string>
     <string name="need_agree_privacy_policy">Примите политику конфиденциальности</string>
@@ -378,7 +378,7 @@
     <string name="planned_department">Плановое отправление</string>
     <string name="please_refer_to_the_station_announcement">Уточняйте по объявлениям на вокзале</string>
     <string name="plugin_keep_alive_service">Служба фоновой работы плагинов</string>
-    <string name="policy_mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="policy_mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="policy_sdk_account_center">Центр аккаунта</string>
     <string name="policy_sdk_account_pp_message">Политика конфиденциальности</string>
     <string name="policy_sdk_account_pp_title">Политика конфиденциальности</string>

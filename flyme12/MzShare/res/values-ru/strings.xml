@@ -11,12 +11,12 @@
     <string name="abc_capital_on">ВКЛ.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Поиск</string>
@@ -179,7 +179,7 @@
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">мин.</string>
     <string name="mc_monday">ПН</string>
-    <string name="mc_never">Одиножды</string>
+    <string name="mc_never">Единожды</string>
     <string name="mc_pattern_a_hour_before">час назад</string>
     <string name="mc_pattern_a_minute_before">минуту назад</string>
     <string name="mc_pattern_hour_before">, ч. назад</string>
@@ -196,7 +196,7 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_permission_message_content">%1$s запрашивает разрешения (%3$d), включая %2$s</string>
     <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -225,7 +225,7 @@
     <string name="mc_pm_set_gprs_on">Управление передачей данных</string>
     <string name="mc_pm_set_wifi_on">Управление Wi-Fi</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_praised_message">Как</string>
+    <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
     <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
@@ -358,10 +358,10 @@
     <string name="mz_pm_wlan">Доступ к Wi-Fi</string>
     <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
-    <string name="mz_specific_permission_allow">Все ещё разрешено</string>
+    <string name="mz_specific_permission_allow">Всё равно разрешить</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mznfcp2p_prep_progress_content">Подготовка к отправке</string>
     <string name="mzshare_download_dialog_text">%1$s файл(ов)</string>
@@ -406,7 +406,7 @@
     <string name="permlab_bluetoothShareManager">Менеджер доступа к загрузкам.</string>
     <string name="permlab_bluetoothWhitelist">Добавить устройство Bluetooth в белый список</string>
     <string name="permlab_handoverStatus">Получать данные по Bluetooth.</string>
-    <string name="policy_mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="policy_mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="policy_sdk_btn_setting_network">Настроить сеть</string>
     <string name="policy_sdk_network_error">Ошибка сети, повторите попытку позже</string>
     <string name="policy_sdk_network_retry">Повтор</string>
@@ -439,12 +439,12 @@
     <string name="share_notification_complete_send_message_success">Успешно: %1$s</string>
     <string name="share_notification_complete_title_receive">Получено через Bluetooth</string>
     <string name="share_notification_complete_title_send">Отправлено через Bluetooth</string>
-    <string name="share_permission_dialog_msg">Приложение запрашивает доступ к метоположению, WI-Fi и моб. сети</string>
+    <string name="share_permission_dialog_msg">Bluetooth-передача запрашивает доступ к местоположению, Wi-Fi и мобильной сети</string>
     <string name="share_permission_dialog_title">Включите разрешение «%s»</string>
     <string name="share_permission_read_contracts">Чтение контактов</string>
     <string name="share_permission_write_contracts">Изменение контактов</string>
     <string name="share_privacy">Политика конфиденциальности</string>
-    <string name="share_service_enable_notify_msg">Сервис "Поделиться через Bluetooth"</string>
+    <string name="share_service_enable_notify_msg">Сервис \"Поделиться через Bluetooth\"</string>
     <string name="share_task_dialog_share_file_to_you">"От: "</string>
     <string name="share_task_record_cancel_receiving">Остановить получение</string>
     <string name="share_task_record_cancel_sending">Остановить отправку</string>

@@ -1,24 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="Ndays">
-        <item quantity="other">За %d дн.</item>
-        <item quantity="one">За 1 день</item>
+        <item quantity="one">За %d день</item>
+        <item quantity="few">За %d дня</item>
+        <item quantity="many">За %d дней</item>
+        <item quantity="other">За %d дня</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">За %d час.</item>
-        <item quantity="one">За 1 час</item>
+        <item quantity="one">За %d час</item>
+        <item quantity="few">За %d часа</item>
+        <item quantity="many">За %d часов</item>
+        <item quantity="other">За %d часа</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">За %d мин.</item>
-        <item quantity="one">За 1 минуту</item>
+        <item quantity="one">За %d минуту</item>
+        <item quantity="few">За %d минуты</item>
+        <item quantity="many">За %d минут</item>
+        <item quantity="other">За %d минуты</item>
     </plurals>
     <plurals name="fmt_in_num_days">
-        <item quantity="other">Через %d дн.</item>
-        <item quantity="one">Завтра</item>
+        <item quantity="one">Через %d день</item>
+        <item quantity="few">Через %d дня</item>
+        <item quantity="many">Через %d дней</item>
+        <item quantity="other">Через %d дня</item>
     </plurals>
     <plurals name="fmt_num_days_ago">
-        <item quantity="other">%d дн. назад</item>
-        <item quantity="one">Вчера</item>
+        <item quantity="one">%d день назад</item>
+        <item quantity="few">%d дня назад</item>
+        <item quantity="many">%d дней назад</item>
+        <item quantity="other">%d дня назад</item>
     </plurals>
     <plurals name="news_lite_before_today">
         <item quantity="other">M/d HH:mm</item>
@@ -49,23 +59,33 @@
         <item quantity="other">%d мин назад</item>
     </plurals>
     <plurals name="numberPickerN">
-        <item quantity="other">Завершить после %d раз?</item>
-        <item quantity="one">Однократно</item>
+        <item quantity="one">Завершить после %d повторения?</item>
+        <item quantity="few">Завершить после %d повторений?</item>
+        <item quantity="many">Завершить после %d повторений?</item>
+        <item quantity="other">Завершить после %d повторения?</item>
     </plurals>
     <plurals name="reminder_fmt_d">
-        <item quantity="other">%d д.</item>
-        <item quantity="one">1 день</item>
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+        <item quantity="other">%d дня</item>
     </plurals>
     <plurals name="reminder_fmt_h">
-        <item quantity="other">%d час.</item>
-        <item quantity="one">1 час</item>
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+        <item quantity="many">%d часов</item>
+        <item quantity="other">%d часа</item>
     </plurals>
     <plurals name="reminder_fmt_m">
-        <item quantity="other">%d мин.</item>
-        <item quantity="one">1 мин.</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+        <item quantity="other">%d минуты</item>
     </plurals>
     <plurals name="repeatCountN">
-        <item quantity="other">%d раз</item>
-        <item quantity="one">1 раз</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="few">%d раза</item>
+        <item quantity="many">%d раз</item>
+        <item quantity="other">%d раза</item>
     </plurals>
 </resources>

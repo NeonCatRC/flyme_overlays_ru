@@ -261,7 +261,7 @@
     <string name="cloud_menu_title_upload">Загрузка</string>
     <string name="cloud_menu_title_upload_photopage">Загрузить в облачный альбом</string>
     <string name="cloud_menu_title_user_policy">Соглашение с пользователем</string>
-    <string name="cloud_mobile_dlg_title">Использовать передачу данных для фото %1$s ?</string>
+    <string name="cloud_mobile_dlg_title">Использовать передачу данных для фото %1$s?</string>
     <string name="cloud_mobile_notifi_title">Соединение прервано. Приостановлено</string>
     <string name="cloud_month">.</string>
     <string name="cloud_nitifi_downloaded">загружено</string>
@@ -601,7 +601,7 @@
     <string name="face_not_matched_removing">Удаление…</string>
     <string name="face_remove">Удалить альбом этого пользователя</string>
     <string name="face_remove_dialog_title">Этот человек будет удалён из альбома \"Люди\", но не будет удалён из галереи</string>
-    <string name="face_save">Добавить эльбом этого человека</string>
+    <string name="face_save">Добавить альбом этого человека</string>
     <string name="face_save_success">Успешно добавлено</string>
     <string name="face_set">Изменение лица</string>
     <string name="face_set_bigeyes">Большие глаза</string>
@@ -621,7 +621,7 @@
     <string name="favorite_failed">Не удалось добавить в избранное</string>
     <string name="fileName">Название</string>
     <string name="file_not_found">Файл не существует</string>
-    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМБ</string>
+    <string name="file_selected_number">Выбрано файлов: %1$s, всего %2$s МБ</string>
     <string name="file_size">Размер файла</string>
     <string name="filter_02">Классический хром</string>
     <string name="filter_04">Естественный цвет</string>
@@ -701,8 +701,8 @@
     <string name="fm_err_retry">Повторить</string>
     <string name="fm_exception_network">Сетевая ошибка, пожалуйста, повторите попытку позже</string>
     <string name="fm_f_im_dup">Был импортирован</string>
-    <string name="fm_f_im_failed_a_mix" formatted="false">%d было имортировано，%d не удалось</string>
-    <string name="fm_f_im_failed_mix" formatted="false">%d успешно, %d было импортировано，%d не удалось</string>
+    <string name="fm_f_im_failed_a_mix" formatted="false">Ранее импортировано: %d, не удалось импортировать: %d</string>
+    <string name="fm_f_im_failed_mix" formatted="false">Импортировано: %d, ранее импортировано: %d, не удалось: %d</string>
     <string name="fm_f_im_failed_mix1" formatted="false">%d успешно, %d было импортировано</string>
     <string name="fm_f_im_failed_mix2" formatted="false">%d успешно, %d не удалось</string>
     <string name="fm_f_im_parse_err">Ошибка синтаксического анализа файлов</string>
@@ -963,7 +963,7 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
-    <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
+    <string name="mc_permission_message_content">%1$s запрашивает разрешения (%3$d), включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -992,7 +992,7 @@
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
     <string name="mc_pm_set_wifi_on">Включить WLAN</string>
     <string name="mc_pm_wlan">WLAN</string>
-    <string name="mc_praised_message">Как</string>
+    <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
@@ -1051,7 +1051,7 @@
     <string name="memory_editor_selection_max_dialog_title2">Можно выбрать не более %d фото</string>
     <string name="memory_editor_selection_min_dialog_title">Выберите минимум %d фотографий</string>
     <string name="memory_editor_title">Название</string>
-    <string name="memory_editor_title_dialog_error">название должно содержать минимум одно слово</string>
+    <string name="memory_editor_title_dialog_error">Заголовок не может быть пустым</string>
     <string name="memory_editor_title_dialog_positive">Да</string>
     <string name="memory_editor_title_dialog_title">Изменить название</string>
     <string name="memory_empty">Сделайте больше фотографий, чтобы создать Моменты</string>
@@ -1291,7 +1291,7 @@
     <string name="mz_share_view_title">Передать</string>
     <string name="mz_sms">SMS</string>
     <string name="mz_sms_sendto_pre">Кому:</string>
-    <string name="mz_specific_permission_allow">Все ещё разрешено</string>
+    <string name="mz_specific_permission_allow">Всё равно разрешить</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
     <string name="mz_tel">Телефон</string>
     <string name="mz_text">Текст</string>
@@ -1484,7 +1484,7 @@
     <string name="one_one_crop_aspect">1:1</string>
     <string name="online_module_cloud">Облачный альбом</string>
     <string name="online_module_cloud_clean_ok">Отключить</string>
-    <string name="online_module_cloud_clean_title">Отключить облачный пароль и удалить данные?</string>
+    <string name="online_module_cloud_clean_title"><Data>Закрытие облачного альбома &lt;font color=#E73A3C&gt;также приведет к удалению фотографий в облаке&lt;/font&gt;&lt;br/&gt;Пожалуйста, будьте осторожны! Локальные фотографии не будут затронуты</Data></string>
     <string name="online_module_cloud_verify_message">Аккаунт Flyme: %s@flyme.cn</string>
     <string name="online_module_cloud_verify_title">Подтвердите пароль</string>
     <string name="online_module_face_close_message">Альбом больше не будет отображаться после закрытия. Чтобы открыть его снова, нужно будет выполнить повторное сканирование.</string>

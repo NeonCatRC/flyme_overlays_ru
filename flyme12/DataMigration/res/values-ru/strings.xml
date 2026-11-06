@@ -145,7 +145,7 @@
     <string name="backup_folder_occupied_msg">Папка %1$s/backup занята. Удалите или переименуйте папку с таким же именем и повторите резервное копирование</string>
     <string name="backup_folder_occupied_title">Невозможно выполнить резервное копирование</string>
     <string name="backup_item">Элементы резервной копии</string>
-    <string name="backup_loction">Local %s</string>
+    <string name="backup_loction">Локально: %s</string>
     <string name="backup_path_notify">Путь к резервным копиям</string>
     <string name="backup_perm_internet">Получение обновлений</string>
     <string name="backup_perm_r_call_log">Резервная копия журнала вызовов</string>
@@ -476,7 +476,7 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешения</string>
-    <string name="mc_permission_message_content">%1$s требуется %3$d разрешен., включая %2$s</string>
+    <string name="mc_permission_message_content">%1$s запрашивает разрешения (%3$d), включая %2$s</string>
     <string name="mc_pm_allow_check_app">ОК</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -505,7 +505,7 @@
     <string name="mc_pm_set_gprs_on">Включение передачи данных</string>
     <string name="mc_pm_set_wifi_on">Включить WLAN</string>
     <string name="mc_pm_wlan">WLAN</string>
-    <string name="mc_praised_message">Как</string>
+    <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потянуть вниз для обновления</string>
     <string name="mc_reject">Отклонить</string>
     <string name="mc_saturday">СБ</string>
@@ -628,7 +628,7 @@
     <string name="migration_icloud_intro_btn_text">Синхронизация включена</string>
     <string name="migration_icloud_intro_main_title">Включите синхронизацию фотографий и адресной книги</string>
     <string name="migration_icloud_intro_set_tip">1.Откройте настройки Apple ID iCloud на iPhone</string>
-    <string name="migration_icloud_intro_sub_title">Что бы импортировать данные из iСloud, вам нужно включить переключатель "Фотографии и контакты" на вашем iPhone и завершить синхронизацию данных</string>
+    <string name="migration_icloud_intro_sub_title">Чтобы импортировать данные из iCloud, включите на iPhone синхронизацию фото и контактов и дождитесь её завершения</string>
     <string name="migration_icloud_intro_sync_tip">2.Включите синхронизацию фотографий и адресной книги</string>
     <string name="migration_icloud_load_data_finished">Импорт данных завершён</string>
     <string name="migration_icloud_load_data_finished_text">%1$s импорт данных успешен</string>
@@ -654,7 +654,7 @@
     <string name="migration_install_app_sender_title">Установите «Миграцию»</string>
     <string name="migration_install_app_tip">Установите «Миграцию» на новый телефон</string>
     <string name="migration_install_app_title">Установить на другой телефон</string>
-    <string name="migration_install_or">"or "</string>
+    <string name="migration_install_or">"или "</string>
     <string name="migration_install_send_apk_by_bluetooth">Отправить установочный пакет через Bluetooth</string>
     <string name="migration_install_share_receiver_tips">Установите «Миграцию» на старый телефон\nВыберите «Перенести с этого телефона»</string>
     <string name="migration_install_share_sender_tips">Установите «Миграцию» на новый телефон\nВыберите «Перенести на этот телефон»</string>
@@ -829,7 +829,7 @@
     <string name="mz_pm_wlan">Доступ к WLAN</string>
     <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
     <string name="mz_reject">Выход</string>
-    <string name="mz_specific_permission_allow">Все ещё разрешено</string>
+    <string name="mz_specific_permission_allow">Всё равно разрешить</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>

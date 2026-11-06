@@ -3,6 +3,7 @@ PERSOSUBSTATE_SIM_SERVICE_PROVIDER_SUCCESS	fix
 com_flyme_linkUnion_enhanced_detail	new
 com_flyme_linkUnion_enhanced_summary	new
 com_upuphone_carlink_enhanced_detail	new
+dlg_check_app_shortcut	fix
 ems_frozen_frame	fix
 lock_week	new
 mz_chooser_name_prefix_from	fix

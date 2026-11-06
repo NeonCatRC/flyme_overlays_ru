@@ -18,12 +18,12 @@
     <string name="abc_capital_on">ВКЛ.</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-    <string name="abc_menu_delete_shortcut_label">delete</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">Function+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
     <string name="abc_menu_shift_shortcut_label">Shift+</string>
-    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_space_shortcut_label">Пробел</string>
     <string name="abc_menu_sym_shortcut_label">Sym+</string>
     <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Поиск</string>
@@ -611,7 +611,7 @@
     <string name="bluetooth_select_map_version_dialog_title">Выберите версию Bluetooth MAP</string>
     <string name="bluetooth_select_map_version_string">Версия Bluetooth MAP</string>
     <string name="bluetooth_show_devices_without_names">Показывать безымянные Bluetooth-устройства</string>
-    <string name="bluetooth_show_devices_without_names_summary">Безымянные Bluetooth-устрйоства будут отображаться в виде MAC-адресов</string>
+    <string name="bluetooth_show_devices_without_names_summary">Показывать Bluetooth-устройства без названий (только с MAC-адресами)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Компьютер</string>
     <string name="bluetooth_talkback_headphone">Наушники</string>
@@ -1476,7 +1476,7 @@
     <string name="keyguard_missing_sim_message">Нет SIM-карты</string>
     <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
-    <string name="keyguard_palm_rejection_calibrate">" калибровку"</string>
+    <string name="keyguard_palm_rejection_calibrate">Калибровка</string>
     <string name="keyguard_palm_rejection_calibrate_title">В ином случае, выполните</string>
     <string name="keyguard_palm_rejection_exit">Дважды нажмите кнопку громкости для выхода</string>
     <string name="keyguard_palm_rejection_text">Не закрывайте панель датчиков при разблокировке</string>
@@ -1817,7 +1817,7 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_permission_message_content">%1$s запрашивает разрешения (%3$d), включая %2$s</string>
     <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -1846,7 +1846,7 @@
     <string name="mc_pm_set_gprs_on">Управление передачей данных</string>
     <string name="mc_pm_set_wifi_on">Управление Wi-Fi</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_praised_message">Как</string>
+    <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
     <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
@@ -2083,7 +2083,6 @@
     <string name="mr_system_route_name">Система</string>
     <string name="mr_user_route_category_name">Устройства</string>
     <string name="mtrl_chip_close_icon_content_description">Удалить кнопку «%1$s»</string>
-    <string name="mtrl_picker_date_header_selected">Осталось: %1$s</string>
     <string name="mtrl_picker_save">Сохранить</string>
     <string name="mtrl_picker_text_input_day_abbr">д.</string>
     <string name="mtrl_picker_text_input_year_abbr">г.</string>
@@ -2116,7 +2115,7 @@
     <string name="mz_permission_deny">Запретить</string>
     <string name="mz_permission_disagree">Не принимаю</string>
     <string name="mz_permission_inform">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
-    <string name="mz_permission_message_content">Приложению «%1$s» требуется %3$d разрешен., включая %2$s</string>
+    <string name="mz_permission_message_content">Приложение «%1$s» запрашивает разрешения (%3$d): %2$s</string>
     <string name="mz_permission_message_supplement">Приложению «%1$s» требуется %2$s %3$d разрешен.</string>
     <string name="mz_permission_policy_description">Для пользования перечисленными выше функциями и службами вы должны принять %1$s (за детей в возрасте до 14 лет это должны сделать родители или законные опекуны)</string>
     <string name="mz_permission_title_supplement">" требуются следующие разрешения"</string>
@@ -2165,7 +2164,7 @@
     <string name="mz_specific_permission_deny">Запретить</string>
     <string name="mz_toast_battery_low_percent_format">Заряд батареи менее %1$s</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mz_zenmode_time_always">Постоянно</string>
     <string name="nav_bar">Панель навигации</string>
@@ -2253,7 +2252,7 @@
     <string name="notification_multichannel_desc">Эту группу уведомлений нельзя настроить здесь.</string>
     <string name="notification_panel_empty_tip">Нет неважных уведомлений</string>
     <string name="notification_priority_title">Приоритет</string>
-    <string name="notification_quick_reply_action">Ответ</string>
+    <string name="notification_quick_reply_action">Открыть в плавающем окне</string>
     <string name="notification_reply">Ответить</string>
     <string name="notification_section_header_alerting">Уведомления</string>
     <string name="notification_section_header_conversations">Разговоры</string>
@@ -2352,7 +2351,7 @@
     <string name="pip_notification_title">Приложение «%s» использует режим «Картинка в картинке»</string>
     <string name="pip_notification_unknown_title">(Без названия)</string>
     <string name="pip_pause">Пауза</string>
-    <string name="pip_phone_close">Закруть</string>
+    <string name="pip_phone_close">Закрыть</string>
     <string name="pip_phone_dismiss_hint">Перетащите вниз для закрытия</string>
     <string name="pip_phone_expand">Развернуть</string>
     <string name="pip_phone_settings">Настройки</string>
@@ -3703,7 +3702,7 @@
     <string name="wifitrackerlib_wifi_security_eap_suiteb">WPA3-Enterprise 192 бита</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa3">WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2">WPA/WPA2-Enterprise</string>
-    <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">802.1x EAP</string>
+    <string name="wifitrackerlib_wifi_security_eap_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Enterprise</string>
     <string name="wifitrackerlib_wifi_security_none">Нет</string>
     <string name="wifitrackerlib_wifi_security_owe">OWE</string>
     <string name="wifitrackerlib_wifi_security_passpoint">Passpoint</string>

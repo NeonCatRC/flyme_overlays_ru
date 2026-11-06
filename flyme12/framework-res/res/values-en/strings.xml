@@ -4,6 +4,7 @@
     <string name="com_flyme_linkUnion_enhanced_detail">No description yet</string>
     <string name="com_flyme_linkUnion_enhanced_summary">No description yet</string>
     <string name="com_upuphone_carlink_enhanced_detail">No description yet</string>
+    <string name="dlg_check_app_shortcut">%s requests permission to create a launcher shortcut</string>
     <string name="ems_frozen_frame">frozen frame jank</string>
     <string name="lock_week">EEE, MMM d, yyyy</string>
     <string name="mz_chooser_name_prefix_from">From: “%s”</string>

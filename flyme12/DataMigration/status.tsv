@@ -17,7 +17,7 @@ array/values_close_exit_translate_app	skip
 array/values_extra_close_exit_translate_app	skip
 array/values_extra_open_enter_translate_app	skip
 array/values_open_enter_translate_app	unused
-plurals/backup_select_multi_choice_title	own
+plurals/backup_select_multi_choice_title	new
 abc_action_bar_home_description	own
 abc_action_bar_up_description	own
 abc_action_menu_overflow_description	own
@@ -177,7 +177,7 @@ backup_finish	apk
 backup_folder_occupied_msg	new
 backup_folder_occupied_title	apk
 backup_item	new
-backup_loction	own
+backup_loction	new
 backup_path_notify	new
 backup_perm_internet	new
 backup_perm_r_call_log	new
@@ -790,7 +790,7 @@ migration_icloud_import_title	own
 migration_icloud_intro_btn_text	own
 migration_icloud_intro_main_title	own
 migration_icloud_intro_set_tip	own
-migration_icloud_intro_sub_title	own
+migration_icloud_intro_sub_title	new
 migration_icloud_intro_sync_tip	own
 migration_icloud_load_data_finished	own
 migration_icloud_load_data_finished_text	own
@@ -816,7 +816,7 @@ migration_install_app_receiver_title	new
 migration_install_app_sender_title	new
 migration_install_app_tip	new
 migration_install_app_title	apk
-migration_install_or	own
+migration_install_or	new
 migration_install_send_apk_by_bluetooth	apk
 migration_install_share_receiver_tips	new
 migration_install_share_sender_tips	new

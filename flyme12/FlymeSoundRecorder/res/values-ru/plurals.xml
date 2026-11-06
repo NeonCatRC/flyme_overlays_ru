@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="delete_item_selected">
-        <item quantity="other">Удаление записей: %1$d</item>
-        <item quantity="one">Удалить 1 запись</item>
+        <item quantity="one">Удалить %1$d запись</item>
+        <item quantity="few">Удалить %1$d записи</item>
+        <item quantity="many">Удалить %1$d записей</item>
+        <item quantity="other">Удалить %1$d записи</item>
     </plurals>
 </resources>

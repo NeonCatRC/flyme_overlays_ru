@@ -323,7 +323,7 @@
     <string name="feedback_fail">Не удалось отправить. Повторите попытку позже</string>
     <string name="feedback_success">Отправлено</string>
     <string name="fetching_url">Получение ссылки для загрузки</string>
-    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМБ</string>
+    <string name="file_selected_number">Выбрано файлов: %1$s, всего %2$s МБ</string>
     <string name="filings_number">Регистрационный номер</string>
     <string name="fill_in_contact">Укажите контакты</string>
     <string name="fill_in_description">Введите описание</string>
@@ -571,7 +571,7 @@
     <string name="mz_reject">Выход</string>
     <string name="mz_share_view_checkbox_text">Удалить после передачи</string>
     <string name="mz_share_view_title">Передать</string>
-    <string name="mz_specific_permission_allow">Все ещё разрешено</string>
+    <string name="mz_specific_permission_allow">Всё равно разрешить</string>
     <string name="mz_specific_permission_deny">Отказать в разрешении</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
     <string name="mz_wif_setting_dialog_message">Нет сетевого подключения. Проверьте настройки сети.</string>
@@ -727,7 +727,7 @@
     <string name="policy_sdk_withdraw_text_notify">"\n \nПримечание: после отзыва локальные данные будут удалены, а приложение закроется. Персональные данные в облаке можно удалить по желанию."</string>
     <string name="policy_sdk_withdraw_text_title">Отзыв согласия с политикой конфиденциальности</string>
     <string name="pop_ok">ОК</string>
-    <string name="praise_comment">Как</string>
+    <string name="praise_comment">Нравится</string>
     <string name="praise_people_more_tip">Вам понравилось</string>
     <string name="praise_people_tip">Вам понравилось</string>
     <string name="praise_your_comment">Понравился ваш отзыв</string>

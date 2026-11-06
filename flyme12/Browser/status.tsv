@@ -1594,7 +1594,7 @@ cloud_my_notebook_daochu_local	todo
 cloud_my_notebook_daochu_other	todo
 cloud_my_notebook_delete	todo
 cloud_my_notebook_edit_daochu	todo
-cloud_search_text	own
+cloud_search_text	skip
 cloud_shelf	todo
 cloud_tip_note_none	todo
 cloudbook_none	todo

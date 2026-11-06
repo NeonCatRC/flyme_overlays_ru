@@ -337,7 +337,7 @@
     <string name="join_in_blacklist">Чёрный список</string>
     <string name="kicked_out_group">Вы были исключены из группы</string>
     <string name="kilobyte">КБ</string>
-    <string name="kilobyte_with_size">%dКБ</string>
+    <string name="kilobyte_with_size">%d КБ</string>
     <string name="lable_cell_broadcast">Оповещения Cell Broadcast</string>
     <string name="lable_sms_center_number">SMS-центр</string>
     <string name="layout_bottom">Расположение (снизу)</string>
@@ -436,7 +436,7 @@
     <string name="mc_pattern_today">Сегодня</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_permission_message_content">%1$s запрашивает разрешения (%3$d), включая %2$s</string>
     <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -465,7 +465,7 @@
     <string name="mc_pm_set_gprs_on">Управление передачей данных</string>
     <string name="mc_pm_set_wifi_on">Управление Wi-Fi</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_praised_message">Как</string>
+    <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
     <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
@@ -679,7 +679,7 @@
     <string name="mz_specific_permission_allow">Разрешить</string>
     <string name="mz_specific_permission_deny">Запретить</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Настройки сети</string>
     <string name="mzc_debug_dump_database_message">"Вам необходимо: 1) сделать копию своей базы MMS во внутреннюю память, и 2) отправить её по электронной почте. Не забудьте удалить копию как можно скорее, скопировав её с устройства или получив электронное письмо.
 
@@ -797,7 +797,7 @@
     <string name="policy_basic_dialog_reminder">Если вы не примете %1$s, мы сможем предоставлять только базовые услуги: получение сообщений и уведомлений, отправку сообщений, сопоставление содержимого сообщений с контактами, звонки из сообщений и защиту при использовании. В базовом режиме приложению нужны доступ к интернету и к медиаданным (фото).\n\nДля базового режима нужно собрать некоторые необходимые персональные данные. Какие данные и зачем мы собираем, описано в разделе «Как мы собираем и используем ваши персональные данные» документа %2$s. Переход в базовый режим не означает, что вы принимаете всю политику конфиденциальности.</string>
     <string name="policy_basic_title">Базовый режим</string>
     <string name="policy_dialog_reminder">Приложению нужны доступ к интернету, к медиа- и аудиовизуальным данным, а также уникальные идентификаторы устройства (IMEI, IMSI, Device ID) для просмотра, хранения и управления SMS и MMS и определения отправителей и получателей. Во время работы мы собираем местоположение, включаем запись звука и камеру для съёмки фото и видео, получаем список установленных приложений и данные контактов. Это нужно, чтобы отправлять местоположение или чат-ботов поблизости при создании чата, отправлять голосовые сообщения, сканировать QR-коды, определять, работает ли приложение на переднем плане, и показывать контакт, соответствующий номеру входящего сообщения. Эти данные собираются только при использовании соответствующих функций.\n\nПодробнее о правилах обработки ваших персональных данных — в документах %1$s и %2$s, а о ваших правах и обязанностях — в документе %3$s. Нажимая «Принять», вы соглашаетесь со всем вышеизложенным.</string>
-    <string name="policy_mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="policy_mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="policy_sdk_account_center">Центр аккаунта</string>
     <string name="policy_sdk_account_pp_message">Политика конфиденциальности</string>
     <string name="policy_sdk_account_pp_title">Политика конфиденциальности</string>
@@ -874,7 +874,7 @@
     <string name="rcs_added_successfully">Добавлено</string>
     <string name="rcs_audio_play_error">Ошибка воспроизведения аудио</string>
     <string name="rcs_audio_player">Аудиоплеер</string>
-    <string name="rcs_audio_subject_view">[audio]</string>
+    <string name="rcs_audio_subject_view">[аудио]</string>
     <string name="rcs_banner_text_02">Поддерживаются голосовой чат и мультимедийные сообщения, такие как изображения и видео</string>
     <string name="rcs_banner_text_03">Дизайн информационной визуальной карты для повышения эффективности чтения</string>
     <string name="rcs_blacklist">Чёрный список</string>
@@ -910,7 +910,7 @@
     <string name="rcs_card_message">Сообщение-карточка</string>
     <string name="rcs_chat">Чат</string>
     <string name="rcs_chatbot_a2p_message">Вы получили A2P-сообщение, нажмите для просмотра</string>
-    <string name="rcs_chatbot_audio_message">Вы получилиn сообщение с аудио-файлом, нажмите для просмотра</string>
+    <string name="rcs_chatbot_audio_message">Вы получили голосовое сообщение. Нажмите, чтобы посмотреть</string>
     <string name="rcs_chatbot_card_message">Вы получили сообщение-карточку, нажмите для просмотра</string>
     <string name="rcs_chatbot_file_message">Вы получили сообщение с файлом, нажмите для просмотра</string>
     <string name="rcs_chatbot_geo_message">Вы получили геометку, нажмите для просмотра</string>
@@ -1037,8 +1037,8 @@
     <string name="rcs_set_btn_switch_over_size">Изменить порог переключения</string>
     <string name="rcs_set_commercial">Commercial</string>
     <string name="rcs_set_group_chat">Групповой чат</string>
-    <string name="rcs_set_protocol">protocol</string>
-    <string name="rcs_set_testing">testing</string>
+    <string name="rcs_set_protocol">Проверка протокола</string>
+    <string name="rcs_set_testing">Тестовая среда</string>
     <string name="rcs_set_txt_bfs">Порт BSF</string>
     <string name="rcs_set_txt_bfs_address">Адрес BSF</string>
     <string name="rcs_set_txt_switch_over_size">Порог переключения</string>
@@ -1115,7 +1115,7 @@
     <string name="searchview_clear_text_content_description">Очистить текст</string>
     <string name="searchview_navigation_content_description">Назад</string>
     <string name="secs">с.</string>
-    <string name="see_all_group_message_title">Ещё %s сообщен., открыть</string>
+    <string name="see_all_group_message_title">Ещё сообщений: %s. Показать все</string>
     <string name="see_in_filemanager_title">Открыть</string>
     <string name="select_bottom_text">Текст внизу</string>
     <string name="select_conversation_matching">Совпадение</string>
@@ -1234,7 +1234,7 @@
     <string name="unsubscribe_instructions">Инструкции по отписке</string>
     <string name="unsubscribe_instructions_message_five">Если вы хотите блокировать все сообщения, поддерживающие отмену подписки, это можно сделать через \"Перехват спама - перехват SMS\".</string>
     <string name="unsubscribe_instructions_message_four">Вы можете восстановить заблокированное SMS-сообщение в Настройках - Перехват спама.</string>
-    <string name="unsubscribe_instructions_message_one">Для сообщений, которые не поддерживают подписку, пользователи не могут успешно отказаться от подписки на них. Возможно, вам придётся ответить , чтобы справиться с этим.</string>
+    <string name="unsubscribe_instructions_message_one">Для сообщений с возможностью отписки ответ TD часто не срабатывает: отправители хитрят с формулировками и требуют другие варианты команды.</string>
     <string name="unsubscribe_instructions_message_span">Перехват спама - перехват SMS</string>
     <string name="unsubscribe_instructions_message_three">Эта функция отписки не отвечает на какую-либо инструкцию, но автоматически перехватывает сообщение, содержащее отказ от подписки, отправленное этим номером.</string>
     <string name="unsubscribe_instructions_message_two">Кроме того, после ответа на неподходящие инструкции некоторые продавцы могут даже подумать, что вы активны и позднее могут отправить вам больше рекламной информации.</string>

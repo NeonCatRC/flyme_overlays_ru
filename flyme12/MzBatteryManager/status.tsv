@@ -150,7 +150,7 @@ copy	apk
 date_time_set	own
 default_sans_serif	unused
 durationHourMinute	own
-durationMinuteSeconds	own
+durationMinuteSeconds	new
 durationMinutes	own
 durationSecond	own
 error_a11y_label	new

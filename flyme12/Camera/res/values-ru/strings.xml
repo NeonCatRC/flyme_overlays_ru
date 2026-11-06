@@ -94,11 +94,11 @@
     <string name="descp_smb_super_night_on">Супер-ночь вкл.</string>
     <string name="descp_smb_super_portrait_off">Супер-портрет выкл.</string>
     <string name="descp_smb_super_portrait_on">Супер-портрет вкл.</string>
-    <string name="descp_smb_time_lapse_05s">Замедленная съемка ускоряет 15 секунд до одной секунды</string>
-    <string name="descp_smb_time_lapse_1s">Замедленная съемка ускоряет 30 секунд до одной секунды</string>
-    <string name="descp_smb_time_lapse_2s">Замедленная съемка ускоряет 60 секунд до одной секунды</string>
-    <string name="descp_smb_time_lapse_4s">Замедленная съемка ускоряет 120 секунд до одной секунды</string>
-    <string name="descp_smb_time_lapse_8s">Замедленная съемка ускоряет 240 секунд до одной секунды</string>
+    <string name="descp_smb_time_lapse_05s">Таймлапс: 15 секунд ускоряются до 1 секунды</string>
+    <string name="descp_smb_time_lapse_1s">Таймлапс: 30 секунд ускоряются до 1 секунды</string>
+    <string name="descp_smb_time_lapse_2s">Таймлапс: 60 секунд ускоряются до 1 секунды</string>
+    <string name="descp_smb_time_lapse_4s">Таймлапс: 120 секунд ускоряются до 1 секунды</string>
+    <string name="descp_smb_time_lapse_8s">Таймлапс: 240 секунд ускоряются до 1 секунды</string>
     <string name="descp_smb_tripod_off">Трипод выкл.</string>
     <string name="descp_smb_tripod_on">Трипод вкл.</string>
     <string name="descp_thumbnail">Эскиз</string>
@@ -154,7 +154,7 @@
     <string name="mz_address_info_work">Работа</string>
     <string name="mz_aicy_action_bar_title">Aicy Камера</string>
     <string name="mz_aicy_asd_content">Включите параметр Камера > Настройки > Интел. распознание кадра. Aicy автоматически распознает портреты, ночную съёмку, чистое небо и другие сцены перед нажатием затвора и включит подходящий режим съемки</string>
-    <string name="mz_aicy_asd_title">AI Распознавание кадра</string>
+    <string name="mz_aicy_asd_title">ИИ-распознавание сцен 2.0</string>
     <string name="mz_aicy_beauty_content">Включите Камеру > Beauty, и служба Aicy автоматически улучшит изображение вашего лица согласно вашему полу, возрасту, типу и цвету кожи. Настраивать параметры не нужно, ваши селфи-снимки и так будут четкими и естественными</string>
     <string name="mz_aicy_beauty_title">AI Beauty 2.0</string>
     <string name="mz_aicy_document_content">Активируйте параметр Камера > Еще > Коррекция документа, совместите рамку видоискателя с документом и нажмите затвор. Aicy распознает область документа и выполнит его автоматическую коррекцию для создания сканированной копии</string>
@@ -271,7 +271,7 @@
     <string name="mz_hint_af_lock_af">Блокировка фокуса</string>
     <string name="mz_hint_af_lock_all">Блокировка фокуса и экспозиции</string>
     <string name="mz_hint_edof_desc">Нажмите «Сложение фокуса», чтобы резкими были и передний, и задний план</string>
-    <string name="mz_hint_exit_immersion_mode">Нажмите 2 раза чтобы выйти из предпросмотра</string>
+    <string name="mz_hint_exit_immersion_mode">Дважды нажмите на видоискатель, чтобы выйти из полноэкранного предпросмотра</string>
     <string name="mz_hint_quick_burst">Перетащите и удерживайте затвор, чтобы сфотографировать</string>
     <string name="mz_hint_show_smart_bar_bottom">Проведите пальцем вниз, чтобы изменить положение панели действий</string>
     <string name="mz_hint_show_smart_bar_top">Проведите пальцем вверх, чтобы изменить положение панели действий</string>
@@ -388,7 +388,7 @@
     <string name="mz_setting_click_close_per_hint">Отключен(о) </string>
     <string name="mz_setting_click_front_mirror_hint">Фото будет таким же, как и на предпросмотре</string>
     <string name="mz_setting_click_gesture_hint">Поднимите ладонь, чтобы начать обратный отсчет и сделать снимок</string>
-    <string name="mz_setting_click_immersion_hint">Нажмите 2 раза по видоискателю чтобы открыть предпросмотр</string>
+    <string name="mz_setting_click_immersion_hint">Дважды нажмите на видоискатель, чтобы включить полноэкранный предпросмотр</string>
     <string name="mz_setting_click_open_per_hint">Включен(о) </string>
     <string name="mz_setting_click_video_record_limited_hint">Максимальная длина записи %1$d минут</string>
     <string name="mz_setting_click_video_suppord_eis_hint">Текущие настройки поддерживают стабилизацию</string>

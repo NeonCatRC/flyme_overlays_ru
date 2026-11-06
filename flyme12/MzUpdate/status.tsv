@@ -164,7 +164,7 @@ encrypt_check_fail	apk
 encrypt_check_success	apk
 encrypt_checking	new
 encrypt_text1	new
-encrypt_text2	apk
+encrypt_text2	new
 error_a11y_label	new
 error_icon_content_description	own
 error_no_enough_space_full	apk

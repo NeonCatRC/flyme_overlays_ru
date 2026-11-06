@@ -441,7 +441,7 @@
     <string name="common_name">Стандартное название:</string>
     <string name="concurrent_display_notification_active_content">%1$s использует оба экрана.</string>
     <string name="concurrent_display_notification_active_title">Функция Dual Screen включена</string>
-    <string name="concurrent_display_notification_name">Dual Screen</string>
+    <string name="concurrent_display_notification_name">Двойной экран</string>
     <string name="concurrent_display_notification_power_save_content">Функция Dual Screen недоступна, так как включен режим энергосбережения. Вы можете отключить его в настройках.</string>
     <string name="concurrent_display_notification_power_save_title">Функция Dual Screen недоступна</string>
     <string name="concurrent_display_notification_thermal_content">Функция Dual Screen недоступна из-за перегрева телефона.</string>
@@ -1208,7 +1208,7 @@
     <string name="mediasize_na_index_3x5">Index Card 3x5 (76x127 мм)</string>
     <string name="mediasize_na_index_4x6">Index Card 4x6 (102x152 мм)</string>
     <string name="mediasize_na_index_5x8">Index Card 5x8 (127x203 мм)</string>
-    <string name="mediasize_na_junior_legal">Junior Legal (203 х 127 мм)</string>
+    <string name="mediasize_na_junior_legal">Junior Legal (203x127 мм)</string>
     <string name="mediasize_na_ledger">Ledger (432х279 мм)</string>
     <string name="mediasize_na_legal">Legal (216х356 мм)</string>
     <string name="mediasize_na_letter">Letter (216х279 мм)</string>
@@ -2345,7 +2345,7 @@
     <string name="work_mode_off_title">Включить рабочие приложения?</string>
     <string name="work_mode_turn_on">Включить</string>
     <string name="work_profile_deleted">Рабочий профиль удалён</string>
-    <string name="work_profile_deleted_description_dpm_wipe">Ваш рабочий профиль больше не доступен на этом устройстве</string>
+    <string name="work_profile_deleted_description_dpm_wipe">Ваш рабочий профиль больше недоступен на этом устройстве</string>
     <string name="work_profile_deleted_details">Приложение для администрирования рабочего профиля отсутствует или повреждено. Из-за этого рабочий профиль и связанные с ним данные были удалены. Если у вас возникли вопросы, обратитесь к администратору.</string>
     <string name="work_profile_deleted_reason_maximum_password_failure">Слишком много попыток ввести пароль.</string>
     <string name="work_profile_telephony_paused_text">Рабочие приложения приостановлены. Вы не сможете получать вызовы и текстовые сообщения.</string>
@@ -2481,7 +2481,7 @@
     <string name="dlg_check_app_message_location">«%1$s» запрашивает разрешение %1$s. Изменить это можно в разделе «Настройки» &gt; «Безопасность и местоположение» &gt; «Местоположение»</string>
     <string name="dlg_check_app_message_off">«%1$s» запрашивает отключение: %2$s</string>
     <string name="dlg_check_app_message_on">Разрешить «%1$s» %2$s?</string>
-    <string name="dlg_check_app_shortcut">%s” запрашивает создание ярлыка на рабочем столе</string>
+    <string name="dlg_check_app_shortcut">Приложение «%s» запрашивает создание ярлыка на рабочем столе</string>
     <string name="dlg_push_app_message">\"%s\" использует push-сообщения, которые могут быть небезопасны. Изменить разрешение можно в меню Настройки/Управление приложениями</string>
     <string name="do_not_disturb_mode_title">Не беспокоить</string>
     <string name="do_not_disturb_notification_alarm_only_content">Разрешить только будильник</string>

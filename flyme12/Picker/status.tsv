@@ -7,7 +7,7 @@ array/mz_shader_glow_inner_colors	skip
 array/mz_shader_glow_outer_colors	skip
 array/setting_more_tab1_grid2_desc	new
 array/setting_more_tab2_grid1_desc	own
-array/setting_more_tab3_grid_desc	own
+array/setting_more_tab3_grid_desc	new
 array/setting_more_tab3_grid_title	own
 array/values_close_exit_translate_app	skip
 array/values_extra_close_exit_translate_app	skip
@@ -650,8 +650,8 @@ web_url_check_result_unknow	new
 web_url_check_support	new
 web_url_check_title_unknow	new
 web_url_check_title_unsafe	new
-web_url_share_content_head	own
-web_url_share_content_tail	own
+web_url_share_content_head	new
+web_url_share_content_tail	new
 web_view_menu_copy	own
 web_view_menu_open_browser	own
 wechat	new

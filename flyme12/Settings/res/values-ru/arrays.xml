@@ -14,12 +14,12 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>Без анимации</item>
-        <item>Скорость 0,5x</item>
-        <item>Скорость 1x</item>
-        <item>Скорость 1.5x</item>
-        <item>Скорость 2x</item>
-        <item>Скорость 5x</item>
-        <item>Скорость 10x</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries_flyme">
         <item>Без анимации</item>
@@ -1067,12 +1067,12 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Без анимации</item>
-        <item>Скорость 0.5x</item>
-        <item>Скорость 1x</item>
-        <item>Скорость 1.5x</item>
-        <item>Скорость 2x</item>
-        <item>Скорость 5x</item>
-        <item>Скорость 10x</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries_flyme">
         <item>Без анимации</item>
@@ -1298,12 +1298,12 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Без анимации</item>
-        <item>Скорость 0,5x</item>
-        <item>Скорость 1x</item>
-        <item>Скорость 1.5x</item>
-        <item>Скорость 2x</item>
-        <item>Скорость 5x</item>
-        <item>Скорость 10x</item>
+        <item>Анимация 0,5x</item>
+        <item>Анимация 1x</item>
+        <item>Анимация 1,5x</item>
+        <item>Анимация 2x</item>
+        <item>Анимация 5x</item>
+        <item>Анимация 10x</item>
     </string-array>
     <string-array name="window_animation_scale_entries_flyme">
         <item>Без анимации</item>

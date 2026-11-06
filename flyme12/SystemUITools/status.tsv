@@ -73,7 +73,7 @@ drivemode_conn_your_bluetooth	own
 drivemode_current_car_bluetooth_device	own
 drivemode_exchange	own
 drivemode_exit	own
-drivemode_flyme_user_protocol_detail	own
+drivemode_flyme_user_protocol_detail	new
 drivemode_in_driving	apk
 drivemode_introduction_one	own
 drivemode_introduction_one_details	own

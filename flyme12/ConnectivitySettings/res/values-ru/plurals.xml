@@ -1,32 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Пароль должен содержать буквы (не менее %d ).</item>
-        <item quantity="one">Пароль должен содержать хотя бы одну букву.</item>
+        <item quantity="one">Пароль должен содержать не менее %d буквы.</item>
+        <item quantity="few">Пароль должен содержать не менее %d букв.</item>
+        <item quantity="many">Пароль должен содержать не менее %d букв.</item>
+        <item quantity="other">Пароль должен содержать не менее %d буквы.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Пароль должен содержать строчные буквы (не менее %d).</item>
-        <item quantity="one">Пароль должен содержать хотя бы одну строчную букву.</item>
+        <item quantity="one">Пароль должен содержать не менее %d строчной буквы.</item>
+        <item quantity="few">Пароль должен содержать не менее %d строчных букв.</item>
+        <item quantity="many">Пароль должен содержать не менее %d строчных букв.</item>
+        <item quantity="other">Пароль должен содержать не менее %d строчной буквы.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d ).</item>
-        <item quantity="one">Пароль должен содержать хотя бы один небуквенный символ.</item>
+        <item quantity="one">Пароль должен содержать не менее %d небуквенного символа.</item>
+        <item quantity="few">Пароль должен содержать не менее %d небуквенных символов.</item>
+        <item quantity="many">Пароль должен содержать не менее %d небуквенных символов.</item>
+        <item quantity="other">Пароль должен содержать не менее %d небуквенного символа.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Пароль должен содержать цифры (не менее %d).</item>
-        <item quantity="one">Пароль должен содержать хотя бы одну цифру.</item>
+        <item quantity="one">Пароль должен содержать не менее %d цифры.</item>
+        <item quantity="few">Пароль должен содержать не менее %d цифр.</item>
+        <item quantity="many">Пароль должен содержать не менее %d цифр.</item>
+        <item quantity="other">Пароль должен содержать не менее %d цифры.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Пароль должен содержать специальные символы (не менее %d).</item>
-        <item quantity="one">Пароль должен содержать хотя бы один специальный символ.</item>
+        <item quantity="one">Пароль должен содержать не менее %d специального символа.</item>
+        <item quantity="few">Пароль должен содержать не менее %d специальных символов.</item>
+        <item quantity="many">Пароль должен содержать не менее %d специальных символов.</item>
+        <item quantity="other">Пароль должен содержать не менее %d специального символа.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d ).</item>
-        <item quantity="one">Пароль должен содержать хотя бы одну заглавную букву.</item>
+        <item quantity="one">Пароль должен содержать не менее %d заглавной буквы.</item>
+        <item quantity="few">Пароль должен содержать не менее %d заглавных букв.</item>
+        <item quantity="many">Пароль должен содержать не менее %d заглавных букв.</item>
+        <item quantity="other">Пароль должен содержать не менее %d заглавной буквы.</item>
     </plurals>
     <plurals name="manage_condition_providers_summary_nonzero">
-        <item quantity="other">%d  приложение задаёт условия</item>
-        <item quantity="one">%d  приложение задаёт условия</item>
+        <item quantity="one">%d приложение задаёт условия</item>
+        <item quantity="few">%d приложения задают условия</item>
+        <item quantity="many">%d приложений задают условия</item>
+        <item quantity="other">%d приложения задают условия</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
         <item quantity="other">Приложений с доступом к уведомлениям: %d</item>
@@ -37,8 +51,10 @@
         <item quantity="one">Сохранено отпечатков: %1$d</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Вы сейчас в %1$d шагах от того, чтобы стать разработчиком.</item>
-        <item quantity="one">Вы сейчас в %1$d шагах от того, чтобы стать разработчиком.</item>
+        <item quantity="one">Вы почти у цели. Осталось шагов: %1$d.</item>
+        <item quantity="few">Вы почти у цели. Осталось шагов: %1$d.</item>
+        <item quantity="many">Вы почти у цели. Осталось шагов: %1$d.</item>
+        <item quantity="other">Вы почти у цели. Осталось шагов: %1$d.</item>
     </plurals>
     <plurals name="tether_manage_device_summary">
         <item quantity="other">Подключено устройств: %d</item>

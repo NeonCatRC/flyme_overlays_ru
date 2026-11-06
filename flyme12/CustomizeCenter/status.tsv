@@ -251,7 +251,7 @@ collect_pap	own
 collect_theme	own
 collection	own
 colon	own
-color_ring_set_success	own
+color_ring_set_success	new
 color_ring_set_success_confirm	own
 color_ring_tag	own
 commentError	own
@@ -305,7 +305,7 @@ default_sans_serif	skip
 delete	own
 detail_page_device_description	new
 developerReply	own
-device_unsupported_badge	own
+device_unsupported_badge	new
 dialog_cancel	own
 dialog_message	own
 dialog_quit	own
@@ -395,7 +395,7 @@ flyme_selection_transition_name	own
 font	own
 font_default_name	own
 font_downloaded_times_exceeded_tip	own
-font_online_un_existed	own
+font_online_un_existed	new
 font_preview_applied	own
 font_preview_apply	own
 font_preview_date	own
@@ -468,7 +468,7 @@ installing_with_count	unused
 intent_handle	apk
 internet_error	own
 internet_error_tap_to_reload	own
-introduction_guide	own
+introduction_guide	new
 introduction_title	own
 item_is_selected	own
 keyboard	own
@@ -777,7 +777,7 @@ network_fail	own
 network_permission	own
 network_permission_desc	own
 network_unavailable	new
-never	own
+never	new
 newest_version_has_downloaded_click_to_install	own
 next_step	own
 no_alarm_clock	own
@@ -814,11 +814,11 @@ online_theme_old	own
 online_theme_pay_content_description	own
 online_theme_thumbs_des	own
 online_theme_trial	own
-online_theme_trial_dialog_msg	own
+online_theme_trial_dialog_msg	new
 online_theme_trial_dialog_title	own
 online_theme_trial_end	own
 online_theme_trial_end_notify_ticker	own
-online_theme_trial_notify_end_content	own
+online_theme_trial_notify_end_content	new
 online_theme_trial_notify_end_title	own
 online_theme_trial_now	own
 online_theme_trial_pay	own

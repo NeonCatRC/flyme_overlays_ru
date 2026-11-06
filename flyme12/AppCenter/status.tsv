@@ -12,7 +12,7 @@ array/values_close_exit_translate_app	skip
 array/values_extra_close_exit_translate_app	skip
 array/values_extra_open_enter_translate_app	skip
 array/values_open_enter_translate_app	skip
-plurals/mtrl_badge_content_description	own
+plurals/mtrl_badge_content_description	new
 plurals/show_dev_countdown	new
 Continue	new
 Delete	new

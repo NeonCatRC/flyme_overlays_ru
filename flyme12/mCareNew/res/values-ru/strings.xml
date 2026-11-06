@@ -110,7 +110,7 @@
     <string name="exist_no_out_of_date_service">Есть действующие дополнительные услуги</string>
     <string name="failed_permission_model_downgrade">Целевой SDK пакета обновления устарел и не поддерживает разрешения, необходимые для запуска приложения</string>
     <string name="fault_type">Тип неисправности</string>
-    <string name="file_selected_number">Выбрано файлов %1$s, всего %2$sМБ</string>
+    <string name="file_selected_number">Выбрано файлов: %1$s, всего %2$s МБ</string>
     <string name="full_mode">Полный режим</string>
     <string name="full_mode_desc">Полный режим: ремонт по почте, запись в сервис, выезд мастера, удалённая помощь, ближайшие сервисные центры, история ремонтов, цены на запчасти, самообслуживание, покупка и проверка дополнительных услуг, регистрация продукта и другое</string>
     <string name="future_result_is_null">Не удалось получить разрешение. Повторите попытку позже.</string>

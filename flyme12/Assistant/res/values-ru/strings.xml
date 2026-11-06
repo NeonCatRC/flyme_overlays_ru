@@ -432,7 +432,7 @@
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e.%-m.%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
     <string name="mc_permission_apply">Запрос разрешений</string>
-    <string name="mc_permission_message_content">%1$s запрашивает %3$d разрешен., включая %2$s</string>
+    <string name="mc_permission_message_content">%1$s запрашивает разрешения (%3$d), включая %2$s</string>
     <string name="mc_pm_allow_check_app">OK</string>
     <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
@@ -461,7 +461,7 @@
     <string name="mc_pm_set_gprs_on">Управление передачей данных</string>
     <string name="mc_pm_set_wifi_on">Управление Wi-Fi</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_praised_message">Как</string>
+    <string name="mc_praised_message">Нравится</string>
     <string name="mc_pull_refresh">Потяните вниз для обновления</string>
     <string name="mc_reject">Выход</string>
     <string name="mc_saturday">СБ</string>
@@ -539,7 +539,7 @@
     <string name="navigation_menu">Меню навигации</string>
     <string name="need_to_enable_engine">Нужно включить Aicy Engine</string>
     <string name="network_exception">Ошибка сети. Повторите попытку позже</string>
-    <string name="network_html_load_exception">404 Не Найдено</string>
+    <string name="network_html_load_exception">Сайт недоступен</string>
     <string name="network_no_connect">Нет подключения к сети. Проверьте настройки сети</string>
     <string name="network_not_good">Плохое соединение</string>
     <string name="network_unavailable">Нет соединения с сетью</string>

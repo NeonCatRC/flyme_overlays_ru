@@ -108,7 +108,7 @@
     <string name="server_request_error">Ошибка запроса</string>
     <string name="set_wallpaper_success">Обои применены</string>
     <string name="setting">Настройки</string>
-    <string name="setting_name">Найстройки</string>
+    <string name="setting_name">Настройки</string>
     <string name="setting_show_all_data_title_2">Все</string>
     <string name="side_sheet_accessibility_pane_title">Боковая панель</string>
     <string name="socket_timeout">Превышено время ожидания</string>
@@ -125,7 +125,7 @@
     <string name="system_setting_more_des_5">Погода и настроение в реальном времени круглые сутки</string>
     <string name="system_setting_more_des_6">Дышит и выражает вашу индивидуальность</string>
     <string name="system_setting_more_des_7">Умное разделение и бесконечные изменения</string>
-    <string name="system_setting_more_title_1">Световой эффект увведомлений</string>
+    <string name="system_setting_more_title_1">Световой эффект уведомлений</string>
     <string name="system_setting_more_title_2">Подборка обоев Flyme</string>
     <string name="system_setting_more_title_3">Живые обои</string>
     <string name="system_setting_more_title_4">Исторические темы Flyme</string>

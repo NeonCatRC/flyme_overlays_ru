@@ -9,12 +9,16 @@
         <item quantity="one">%d мин. назад</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
-        <item quantity="other">%d л. назад</item>
         <item quantity="one">%d год назад</item>
+        <item quantity="few">%d года назад</item>
+        <item quantity="many">%d лет назад</item>
+        <item quantity="other">%d года назад</item>
     </plurals>
     <plurals name="all_apps_count">
-        <item quantity="other">%1$d всего</item>
-        <item quantity="one">%1$d всего</item>
+        <item quantity="one">%1$d приложение</item>
+        <item quantity="few">%1$d приложения</item>
+        <item quantity="many">%1$d приложений</item>
+        <item quantity="other">%1$d приложения</item>
     </plurals>
     <plurals name="lockscreen_quick_affordances_summary">
         <item quantity="one">%1$s, %2$s</item>
@@ -23,8 +27,10 @@
         <item quantity="other">%1$s, %2$s</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d активного промежуточного агента</item>
-        <item quantity="one">1 активный промежуточный агент</item>
+        <item quantity="one">%d агент доверия активен</item>
+        <item quantity="few">%d агента доверия активны</item>
+        <item quantity="many">%d агентов доверия активны</item>
+        <item quantity="other">%d агента доверия активны</item>
     </plurals>
     <plurals name="mz_face_management_count">
         <item quantity="one">Зарегистрировано %1$d лицо</item>
@@ -39,12 +45,16 @@
         <item quantity="other">Добавлено отпечатков: %1$d</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%d уведомлений в день</item>
-        <item quantity="one">~%d уведомление в день</item>
+        <item quantity="one">Примерно %d уведомление в день</item>
+        <item quantity="few">Примерно %d уведомления в день</item>
+        <item quantity="many">Примерно %d уведомлений в день</item>
+        <item quantity="other">Примерно %d уведомления в день</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%d уведомлений в неделю</item>
-        <item quantity="one">~%d уведомление в неделю</item>
+        <item quantity="one">Примерно %d уведомление в неделю</item>
+        <item quantity="few">Примерно %d уведомления в неделю</item>
+        <item quantity="many">Примерно %d уведомлений в неделю</item>
+        <item quantity="other">Примерно %d уведомления в неделю</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="one">Нажмите ещё %1$d раз, чтобы войти в режим разработчика</item>

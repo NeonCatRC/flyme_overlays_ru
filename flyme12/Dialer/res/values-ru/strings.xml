@@ -527,7 +527,7 @@
     <string name="mz_specific_permission_allow">Разрешить</string>
     <string name="mz_specific_permission_deny">Запретить</string>
     <string name="mz_user_agreement">Пользовательское соглашение</string>
-    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mzc_account_name_base">SIM</string>
     <string name="mzc_account_name_home">SIM 2</string>
     <string name="mzc_account_name_work">SIM 1</string>
@@ -888,7 +888,7 @@
     <string name="mzc_network_error">Ошибка сети, повторите попытку позже</string>
     <string name="mzc_network_retry">Повтор</string>
     <string name="mzc_network_setting">Настроить сеть</string>
-    <string name="mzc_network_unavailable_hint">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="mzc_network_unavailable_hint">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mzc_new">Новый</string>
     <string name="mzc_new_contact_in">Создать в</string>
     <string name="mzc_nfc_vcard_save_successed">Чтение завершено, контакт сохранен</string>
@@ -934,7 +934,7 @@
     <string name="mzc_preference_sync_account_title">Перекрёстная синхронизация</string>
     <string name="mzc_preference_title">Управление контактами</string>
     <string name="mzc_preset_head_replace">Изменение фото</string>
-    <string name="mzc_preset_select_empty">Опция не доступна, обновите прошивку</string>
+    <string name="mzc_preset_select_empty">Опция недоступна, обновите прошивку</string>
     <string name="mzc_privacy_policy_setting_title">Настройки конфиденциальности</string>
     <string name="mzc_privacy_policy_title">Политика конфиденциальности</string>
     <string name="mzc_progress_copying_notifier_message">Копирование контактов</string>
@@ -1188,7 +1188,7 @@
     <string name="phone_account_settings_label">Аккаунты для звонков</string>
     <string name="photoPickerNotFoundText">В телефоне нет изображений</string>
     <string name="pickerNewContactHeader">Создать новый контакт</string>
-    <string name="policy_mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настрйоки сети.</string>
+    <string name="policy_mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="policy_sdk_account_center">Центр аккаунта</string>
     <string name="policy_sdk_account_pp_message">Политика конфиденциальности</string>
     <string name="policy_sdk_account_pp_title">Политика конфиденциальности</string>
@@ -1223,7 +1223,7 @@
     <string name="postal_neighborhood">Район</string>
     <string name="postal_pobox">Абонентский ящик</string>
     <string name="postal_postcode">Почтовый индекс</string>
-    <string name="postal_region">Штат</string>
+    <string name="postal_region">Регион</string>
     <string name="postal_street">Улица</string>
     <string name="preference_copied">Текст \"%1$s\" скопирован в буфер обмена</string>
     <string name="preference_displayOptions">Варианты отображения</string>
@@ -1275,7 +1275,7 @@
     <string name="request_permission_title">Необходимые разрешения</string>
     <string name="respond_via_sms_setting_title">Быстрые ответы</string>
     <string name="restore_contacts">Восстановление контактов</string>
-    <string name="restore_contacts_dialog_msg">Вы хотите восстановить контакты до даты %1$s ?</string>
+    <string name="restore_contacts_dialog_msg">Восстановить контакты, сохранённые %1$s назад?</string>
     <string name="returnCall">Перезвонить</string>
     <string name="savingDisplayGroups">Сохранение параметров…</string>
     <string name="scanning_sdcard_failed_message">Невозможно сканирование SD-карты. (Причина: «%s»)</string>
@@ -1312,7 +1312,7 @@
     <string name="simContacts_emptyLoading">Загрузка с SIM-карты…</string>
     <string name="simContacts_title">Контакты SIM-карты</string>
     <string name="sim_not_available">SIM-карта недоступна</string>
-    <string name="sim_one_title">Контакты на SIM 2</string>
+    <string name="sim_one_title">Контакты на SIM 1</string>
     <string name="sim_two_title">Контакты на SIM 2</string>
     <string name="sms">Текстовое сообщение</string>
     <string name="sms_assistant">SMS: %s</string>

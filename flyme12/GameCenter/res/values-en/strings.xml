@@ -17,6 +17,7 @@
     <string name="app_collect_msg_tip">The following data is linked to your identity (account or device)</string>
     <string name="app_collect_type">Types of personal information collected</string>
     <string name="app_filing_number_title">App filing number</string>
+    <string name="app_name">Game Center</string>
     <string name="app_platform_number_title">Distribution platform filing number</string>
     <string name="bag_coupon_text">Coupons</string>
     <string name="bag_data_error">Unstable network, please retry</string>
