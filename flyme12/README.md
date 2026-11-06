@@ -59,7 +59,7 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | Email | 12.1.53 | 100% | 867 | 0 | 78 | 52 | 0 | 93 | 0 | 4 | 0 |
 | FileManager | 12.0.21 | 100% | 646 | 0 | 93 | 178 | 0 | 36 | 45 | 4 | 0 |
 | FlymeLauncher | 13.0.0 | 100% | 442 | 10 | 258 | 204 | 0 | 30 | 45 | 13 | 0 |
-| FlymeSoundRecorder | 12.3.7 | 100% | 359 | 0 | 80 | 176 | 0 | 3 | 1 | 8 | 0 |
+| FlymeSoundRecorder | 12.3.7 | 100% | 358 | 0 | 80 | 177 | 0 | 3 | 1 | 8 | 0 |
 | framework-res | 16 | 100% | 1320 | 95 | 1275 | 312 | 0 | 0 | 65 | 11 | 0 |
 | Gallery | 12.7.3 | 100% | 1308 | 0 | 335 | 511 | 0 | 68 | 42 | 52 | 0 |
 | GameCenter | 12.3.0 | 65% | 1061 | 16 | 3 | 4 | 570 | 151 | 0 | 0 | 0 |
@@ -91,7 +91,7 @@ Translated = `own` + `own_check` + `apk` + `new` out of everything except `unuse
 | VoiceAssistant **MOD** | 12.1.46 | 39% | 497 | 8 | 0 | 217 | 1120 | 234 | 0 | 0 | 0 |
 | WallpaperSetting | 3.2.0 | 100% | 0 | 0 | 20 | 142 | 0 | 17 | 0 | 16 | 0 |
 | Weather **MOD** | 54.3.60 | 100% | 312 | 0 | 92 | 624 | 0 | 61 | 99 | 102 | 0 |
-| **Total** | | 89% | 27828 | 702 | 13906 | 9347 | 6130 | 3224 | 1164 | 591 | 0 |
+| **Total** | | 89% | 27827 | 702 | 13906 | 9348 | 6130 | 3224 | 1164 | 591 | 0 |
 
 ### Why a modification is required
 

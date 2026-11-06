@@ -501,7 +501,7 @@
     <string name="record_type_call">Вызов</string>
     <string name="record_type_message">Сообщение</string>
     <string name="recorder_already_exist">Невозможно записать. Диктофон используется</string>
-    <string name="recorder_artist">DICK-to-phone GAYzu</string>
+    <string name="recorder_artist">Диктофон Meizu</string>
     <string name="recorder_permissions">Диктофону нужен доступ к сети, журналу вызовов и записям на устройстве для обновлений и резервного копирования данных</string>
     <string name="recorder_summary">Запись, расшифровка, краткое содержание</string>
     <string name="recording_file_limit_is_reached_title">Запись достигла максимального размера для MMS. Использовать данную запись?</string>

@@ -590,7 +590,7 @@ record_type_all	new
 record_type_call	apk
 record_type_message	apk
 recorder_already_exist	own
-recorder_artist	own
+recorder_artist	new
 recorder_permissions	new
 recorder_summary	new
 recording_file_limit_is_reached_title	own
