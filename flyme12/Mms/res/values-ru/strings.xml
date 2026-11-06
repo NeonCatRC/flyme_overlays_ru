@@ -262,7 +262,7 @@
     <string name="exceed_message_size_limitation">Максимальный размер вложения MMS - 298 Кб</string>
     <string name="exceed_message_size_limitation_cmcc">Размер вложения превышает допустимый лимит</string>
     <string name="exceed_message_size_limitation_cu">Максимальный размер вложения в MMS - 300 Кб</string>
-    <string name="exceed_message_size_limitation_rcs">Smart SMS поддерживают максимум %s вложений</string>
+    <string name="exceed_message_size_limitation_rcs">5G-сообщения поддерживают не более %s вложений</string>
     <string name="expire_on">Срок истекает: %s</string>
     <string name="expired_pickup_code">Коды получения</string>
     <string name="expired_pickup_code_summary">Автоматически удалять прочитанные СМС с кодом получения старше 14 дней</string>
@@ -347,7 +347,7 @@
     <string name="loading_conversations">Загрузка бесед</string>
     <string name="location_current">Моё местоположение</string>
     <string name="location_far_kilometer">%s км</string>
-    <string name="location_far_meter">%s м.</string>
+    <string name="location_far_meter">%s м</string>
     <string name="location_getmap_timeout">Ошибка получения скриншота карты. Попробуйте снова.</string>
     <string name="location_geturl_timeout">Ошибка получения ссылки местоположения. Попробуйте снова.</string>
     <string name="location_net_fail">Ошибка сети</string>
@@ -524,7 +524,7 @@
     <string name="messagelist_sender_self">Я</string>
     <string name="mms_add_attachment_title_for_picture">Выбрать изображение</string>
     <string name="mms_add_description">Описание</string>
-    <string name="mms_added_failed">Невозможно прикрепить к MMS.</string>
+    <string name="mms_added_failed">Не удалось прикрепить</string>
     <string name="mms_has_subject_view">MMS: %s</string>
     <string name="mms_internal_conversationlist_no_permission_tips">Нет нужных разрешений, функции SMS не будут работать</string>
     <string name="mms_loading">Загрузка</string>
@@ -834,7 +834,7 @@
     <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS-сообщения</string>
     <string name="pref_summary_mms_read_reports">Запрашивать отчёт о прочтении для всех отправляемых сообщений</string>
     <string name="pref_title_auto_delete">Автоматически удалять ненужные сообщения</string>
-    <string name="pref_title_auto_delete_desc">Автоматически удалять ненужные сообщения, такие как коды верификации</string>
+    <string name="pref_title_auto_delete_desc">Просроченные коды подтверждения, коды получения и т. п.</string>
     <string name="pref_title_detect_risk_url">Определение опасных сайтов</string>
     <string name="pref_title_edit_quick_reply">Изменить быстрые ответы</string>
     <string name="pref_title_key_message_capacity">Хранилище сообщений</string>
@@ -949,14 +949,14 @@
     <string name="rcs_load_failed">Не удалось загрузить. Повторите попытку позже.</string>
     <string name="rcs_location_subject_view">[Местоположение]</string>
     <string name="rcs_message_copy">Копировать</string>
-    <string name="rcs_message_display">Отображение сообщений RCS</string>
+    <string name="rcs_message_display">Отображение 5G-сообщений</string>
     <string name="rcs_message_display_key">Ключ показа сообщений</string>
     <string name="rcs_message_display_summary">Когда сообщение прочитано и сервер поддерживает показ сообщений, отправляется уведомление отправителю.</string>
     <string name="rcs_message_forward">Переслать</string>
     <string name="rcs_message_more">Ещё</string>
-    <string name="rcs_message_off">RCS-сообщения откл.</string>
-    <string name="rcs_message_on">RCS-сообщения вкл.</string>
-    <string name="rcs_message_use">RCS-сообщения</string>
+    <string name="rcs_message_off">5G-сообщения выкл.</string>
+    <string name="rcs_message_on">5G-сообщения вкл.</string>
+    <string name="rcs_message_use">5G-сообщения</string>
     <string name="rcs_message_use_key">Ключ RCS-сообщений</string>
     <string name="rcs_mms">MMS</string>
     <string name="rcs_more">Ещё</string>
@@ -1102,7 +1102,7 @@
     <string name="search">Сообщения</string>
     <string name="search_convenient_label">Название</string>
     <string name="search_convenient_more">Ещё чат-боты</string>
-    <string name="search_convenient_toast">Нет больше виджетов</string>
+    <string name="search_convenient_toast">Больше чат-ботов нет</string>
     <string name="search_hint">Поиск сообщений</string>
     <string name="search_label">Сообщения</string>
     <string name="search_menu_title">Поиск</string>
@@ -1213,8 +1213,8 @@
     <string name="to_address_label">Получатель:</string>
     <string name="toast_cannot_send_message">Отправка сообщений недоступна</string>
     <string name="toast_forward_need_download">Сначала скачайте файл</string>
-    <string name="toast_not_default_sms">Приложение «Сообщения» не по умолчанию, пожалуйста измените его</string>
-    <string name="too_many_recipients">Указано слишком много получателей (%1$s). Разрешено не более %2$s .</string>
+    <string name="toast_not_default_sms">«Сообщения» не выбраны приложением для SMS по умолчанию. Измените настройки</string>
+    <string name="too_many_recipients">Слишком много получателей (%1$s). Разрешено не более %2$s.</string>
     <string name="top_group_thread_title">Закрепить</string>
     <string name="touch_to_browse">Нажмите для просмотра</string>
     <string name="type_audio">Аудио</string>

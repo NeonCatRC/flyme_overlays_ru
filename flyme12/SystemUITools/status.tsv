@@ -1,6 +1,6 @@
 name	origin
 array/flyme_config_package_list_for_window_mode_space	skip
-array/luckymoney_sound_file	own
+array/luckymoney_sound_file	new
 array/luckymoney_sound_name	own
 array/mc_custom_time_picker_lunar_day	own
 array/mc_custom_time_picker_lunar_month	own
@@ -552,11 +552,11 @@ mz_permission_agree	own
 mz_permission_almost_deny	own
 mz_permission_deny	own
 mz_permission_i_know	new
-mz_permission_inform_f9	own_check
+mz_permission_inform_f9	own
 mz_permission_inform_f9_no_internet	new
 mz_permission_inform_f9_only_internet	new
 mz_permission_message_supplement	own
-mz_permission_policy_description_f9	own_check
+mz_permission_policy_description_f9	new
 mz_permission_policy_description_noly_internet	new
 mz_permission_policy_description_update	new
 mz_permission_use_info	new
@@ -621,8 +621,8 @@ normal_window_hide_summary	new
 normal_window_summary	new
 not_set	apk
 notification_item_slide_delete_guide_content	own
-notification_show_contact_list_summary	own_check
-notification_show_contact_list_title	own_check
+notification_show_contact_list_summary	new
+notification_show_contact_list_title	new
 on_hook_tip	new
 open_windowmode	new
 optimized	new

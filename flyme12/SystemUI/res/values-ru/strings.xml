@@ -124,7 +124,7 @@
     <string name="accessibility_deprecate_extra_dim_dialog_title">Дополнительно уменьшать яркость теперь можно через стандартный ползунок</string>
     <string name="accessibility_deprecate_extra_dim_dialog_toast">Быстрые команды для дополнительного уменьшения яркости удалены.</string>
     <string name="accessibility_desc_close">Закрыть</string>
-    <string name="accessibility_desc_lock_screen">Блокировка экрана.</string>
+    <string name="accessibility_desc_lock_screen">Экран блокировки</string>
     <string name="accessibility_desc_notification_icon">Уведомление %1$s: %2$s</string>
     <string name="accessibility_desc_notification_shade">Уведомления</string>
     <string name="accessibility_desc_qs_notification_shade">Быстрые настройки и панель уведомлений.</string>
@@ -266,7 +266,7 @@
     <string name="accessibility_tile_disabled_by_policy_action_description">Подробнее</string>
     <string name="accessibility_tty_enabled">Телетайп включён</string>
     <string name="accessibility_two_bars">Уровень сигнала: два деления</string>
-    <string name="accessibility_unlock_button">Разблокировать</string>
+    <string name="accessibility_unlock_button">Разблокировано</string>
     <string name="accessibility_voice_assist_button">Аудиоподсказки</string>
     <string name="accessibility_volume_close_odi_captions_tip">Подсказка \"Закрыть субтитры\"</string>
     <string name="accessibility_volume_settings">Настройки звука</string>
@@ -292,7 +292,7 @@
     <string name="adaptive_notification_edu_hun_title">Снижение громкости уведомлений включено</string>
     <string name="adb_device_fingerprint_title_format">Цифровой отпечаток устройства: %1$s</string>
     <string name="adb_device_forget">Удалить</string>
-    <string name="adb_keys_warning_message">Запретить доступ для USB-отладки на всех компьютерах, на которых вы входили в аккаунт?</string>
+    <string name="adb_keys_warning_message">Отозвать доступ к USB-отладке у всех ранее авторизованных компьютеров?</string>
     <string name="adb_pair_method_code_summary">Ввести шестизначный код для подключения устройства</string>
     <string name="adb_pair_method_code_title">Подключить устройство с помощью кода подключения</string>
     <string name="adb_pair_method_qrcode_summary">Отсканировать QR-код для подключения устройства</string>
@@ -965,7 +965,7 @@
     <string name="do_financed_disclosure_with_name">Устройство предоставлено компанией %s</string>
     <string name="dock_alignment_not_charging">Чтобы телефон заряжался, поставьте его на док-станцию</string>
     <string name="dock_alignment_slow_charging">Чтобы ускорить зарядку, поставьте телефон на док-станцию</string>
-    <string name="dock_forced_resizable">Приложение не поддерживает разделение экрана</string>
+    <string name="dock_forced_resizable">Приложение может не работать в режиме разделения экрана</string>
     <string name="dock_multi_instances_not_supported_text">Это приложение можно открыть только в одном окне.</string>
     <string name="dock_non_resizeble_failed_to_dock_text">Приложение не поддерживает разделение экрана</string>
     <string name="done">Готово</string>
@@ -992,7 +992,7 @@
     <string name="ear_protection_got_it">Понятно</string>
     <string name="ear_protection_ignore">Не уведомлять</string>
     <string name="ear_protection_long_time_warning">Вы используете наушники в течение долгого промежутка времени. Рекомендуется сделать перерыв, чтобы защитить ваш слух</string>
-    <string name="ear_protection_message">Прослушивание музыки на высокой громкости может повредить ваш слух. Будьте осторожны</string>
+    <string name="ear_protection_message">Длительное прослушивание на высокой громкости может повредить слух.</string>
     <string name="ear_protection_message1">Отключить защиту слуха в наушниках можно в разделе «Настройки &gt; Звук и вибрация &gt; Дополнительные настройки звука»</string>
     <string name="ear_protection_title">Продолжить увеличение громкости в наушниках?</string>
     <string name="edit_user_info_message">Выбранные вами имя пользователя и фото профиля будут видны всем, кто использует это устройство.</string>
@@ -2339,7 +2339,7 @@
     <string name="physical_keyboard_title">Физическая клавиатура</string>
     <string name="picture_color_mode">Цветовой режим</string>
     <string name="picture_color_mode_desc">Использовать sRGB</string>
-    <string name="pip_close">«Картинка в картинке» – выйти</string>
+    <string name="pip_close">Закрыть</string>
     <string name="pip_collapse">Свернуть</string>
     <string name="pip_edu_text">Параметры: дважды нажмите <annotation icon="home_icon">кнопку главного экрана</annotation></string>
     <string name="pip_expand">Развернуть</string>
@@ -3635,7 +3635,7 @@
     <string name="wifi_unmetered_label">Безлимитное подкл.</string>
     <string name="wifi_unspecified">Не указано</string>
     <string name="wifi_verbose_logging">Подробный журнал Wi-Fi</string>
-    <string name="wifi_verbose_logging_summary">Увеличьте уровень ведения журнала Wi-Fi, показывая SSID RSSI в Wi-Fi Picker</string>
+    <string name="wifi_verbose_logging_summary">Повысить уровень журнала Wi-Fi и показывать RSSI для каждого SSID при выборе сети</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapicertmanager">Установка сертификата</string>
     <string name="wifi_wont_autoconnect_for_now">Подключение по Wi-Fi не установится автоматически.</string>

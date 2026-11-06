@@ -904,7 +904,7 @@
     <string name="work_apps_paused_title">Рабочий профиль приостановлен</string>
     <string name="work_folder_name">Работа</string>
     <string name="work_profile_edu_accept">Понятно</string>
-    <string name="work_profile_edu_work_apps">Рабочие приложения и информация видны для вашего администратора</string>
+    <string name="work_profile_edu_work_apps">Рабочие приложения отмечены значком и видны администратору</string>
     <string name="work_profile_toggle_label">Рабочий профиль</string>
     <string name="work_scheduler_button_content_description">Расписание рабочих приложений</string>
     <string name="workspace_new_page">Добавить новый экран</string>

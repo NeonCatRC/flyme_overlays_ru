@@ -270,8 +270,8 @@
     <string name="screenrecord_saved_text_s">" с."</string>
     <string name="screenrecord_saved_title">Запись экрана</string>
     <string name="screenrecord_set_1080">FHD (1080P)</string>
-    <string name="screenrecord_set_480">SD(（480P）</string>
-    <string name="screenrecord_set_720">HD（720P）</string>
+    <string name="screenrecord_set_480">SD (480P)</string>
+    <string name="screenrecord_set_720">HD (720P)</string>
     <string name="screenrecord_set_audio">Микрофон</string>
     <string name="screenrecord_set_screenon">Нажатия на экран</string>
     <string name="screenrecord_set_title">Разрешение</string>

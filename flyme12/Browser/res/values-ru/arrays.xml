@@ -161,11 +161,6 @@
         <item>Пейджер</item>
         <item>Другой</item>
     </string-array>
-    <string-array name="pref_homepage_values2">
-        <item>Текущая</item>
-        <item>chrome-native://newtab/</item>
-        <item>Другая</item>
-    </string-array>
     <string-array name="pref_orientation_setting_name">
         <item>По умолчанию</item>
         <item>Портретная</item>

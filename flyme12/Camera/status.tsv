@@ -86,7 +86,7 @@ call_notification_answer_video_action	own
 camera_disabled	own
 cannot_connect_camera	own
 cannot_connect_camera_v2	own
-character_counter_content_description	own_check
+character_counter_content_description	new
 character_counter_overflowed_content_description	own
 character_counter_pattern	skip
 copy	own
@@ -120,7 +120,7 @@ descp_record_resume	own
 descp_record_shutter	own
 descp_record_start	own
 descp_record_stop	own
-descp_smb_back	own_check
+descp_smb_back	new
 descp_smb_fb_light	own
 descp_smb_fb_off	own
 descp_smb_fb_smart	own
@@ -129,7 +129,7 @@ descp_smb_flash_auto	own
 descp_smb_flash_off	own
 descp_smb_flash_on	own
 descp_smb_flash_torch	own
-descp_smb_front	own_check
+descp_smb_front	new
 descp_smb_hdr_auto	own
 descp_smb_hdr_off	own
 descp_smb_hdr_on	own
@@ -422,7 +422,7 @@ mz_makeup_title_rose	apk
 mz_makeup_title_summer	apk
 mz_makeup_title_water	apk
 mz_manual_camera_id_normal	own
-mz_manual_camera_id_tele_photo	own_check
+mz_manual_camera_id_tele_photo	own
 mz_manual_camera_id_title	own
 mz_manual_camera_id_wide_angle	own
 mz_manual_exposure_title	own
@@ -458,10 +458,10 @@ mz_online_version	own
 mz_orc_aicy_engine_request_msg	apk
 mz_orc_aicy_engine_request_title	apk
 mz_orientation_hint	own
-mz_pano_hint	own_check
+mz_pano_hint	new
 mz_pano_hint_off_center	apk
 mz_pano_hint_saving	own
-mz_pano_hint_start_panning	own_check
+mz_pano_hint_start_panning	new
 mz_pano_hint_too_fast	own
 mz_permission_agree	own
 mz_permission_allow	own
@@ -492,7 +492,7 @@ mz_please_open_location_permission	new
 mz_please_open_location_permission_message	new
 mz_pref_camera_shutter_speed_default	own
 mz_privacy_exit	apk
-mz_privacy_policy	own_check
+mz_privacy_policy	new
 mz_privacy_text	apk
 mz_privacy_title	apk
 mz_privacy_withdraw	apk
@@ -512,7 +512,7 @@ mz_sat_macro_open_hint	apk
 mz_setting_ai_super_portrait	own
 mz_setting_asd_switch_title	own
 mz_setting_click_asd_hint	own
-mz_setting_click_barcode_in_auto_hint	own_check
+mz_setting_click_barcode_in_auto_hint	new
 mz_setting_click_close_per_hint	own
 mz_setting_click_front_mirror_hint	own
 mz_setting_click_gesture_hint	apk
@@ -530,7 +530,7 @@ mz_setting_funnycam_mark_title	own
 mz_setting_gesture	new
 mz_setting_hdr_title	skip
 mz_setting_highpixel_200m_title	new
-mz_setting_lens_correction_switch_label	own_check
+mz_setting_lens_correction_switch_label	own
 mz_setting_lens_correction_switch_title	own
 mz_setting_level_title	own
 mz_setting_light_fb_title	apk
@@ -579,11 +579,11 @@ mz_setting_video_super_night_title	own
 mz_setting_voice_action_title	own
 mz_setting_watermark	own
 mz_setting_watermark_address_replace	skip
-mz_setting_watermark_device	own_check
+mz_setting_watermark_device	new
 mz_setting_watermark_location	own
 mz_setting_watermark_more	own
 mz_setting_watermark_style	new
-mz_setting_watermark_time	own_check
+mz_setting_watermark_time	own
 mz_slow_motion_desc_120fps	own
 mz_slow_motion_desc_240fps	own
 mz_slow_motion_desc_480fps	own
@@ -671,7 +671,7 @@ mz_toggle_hint_tripod_open	own
 mz_toggle_hint_video_super_night_close	own
 mz_toggle_hint_video_super_night_open	own
 mz_usb_charge_forbid_use_flash	own
-mz_user_agreement	own_check
+mz_user_agreement	own
 mz_watch_cannot_connect_camera	own
 mz_wide_angle_not_support_burst	own
 mz_wif_setting_dialog_message	own
@@ -800,7 +800,7 @@ qr_code_result_risk_desc	new
 qr_code_result_risk_title	own
 qr_code_result_security_desc	apk
 qr_code_result_security_title	own
-qr_code_result_supporter	own_check
+qr_code_result_supporter	own
 qr_code_result_unknown_cause_net_desc	own
 qr_code_result_unknown_desc	own
 qr_code_result_unknown_title	own
@@ -808,10 +808,10 @@ search_menu_title	own
 searchbar_scrolling_view_behavior	unused
 searchview_navigation_content_description	own
 select_image	own
-setting_auto_value	own
-setting_off_value	own
-setting_on_value	own
-setting_storage_value	own
+setting_auto_value	skip
+setting_off_value	skip
+setting_on_value	skip
+setting_storage_value	skip
 setting_wallpaper	own
 setup_network	own
 share	own

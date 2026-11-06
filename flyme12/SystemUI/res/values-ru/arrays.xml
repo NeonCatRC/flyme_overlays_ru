@@ -284,19 +284,19 @@
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Выкл.</item>
-        <item>Буфер: макс. 64 Кб</item>
-        <item>Буфер: макс. 256 Кб</item>
-        <item>Буфер: макс. 1 Мб</item>
-        <item>Буфер: макс. 4 Мб</item>
-        <item>Буфер: макс. 16 Мб</item>
+        <item>Буфер: макс. 64 Кб</item>
+        <item>Буфер: макс. 256 Кб</item>
+        <item>Буфер: макс. 1 Мб</item>
+        <item>Буфер: макс. 4 Мб</item>
+        <item>Буфер: макс. 8 Мб</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Выкл.</item>
-        <item>64 Кб</item>
-        <item>256 Кб</item>
-        <item>1 Мб</item>
-        <item>4 Мб</item>
-        <item>16 Мб</item>
+        <item>64 Кб</item>
+        <item>256 Кб</item>
+        <item>1 Мб</item>
+        <item>4 Мб</item>
+        <item>8 Мб</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Отключено</item>

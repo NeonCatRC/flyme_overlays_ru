@@ -48,13 +48,13 @@
     <string name="card_title_message_record">Запись голосового сообщения</string>
     <string name="card_title_on_hold">На удержании</string>
     <string name="card_title_redialing">Переподключение</string>
-    <string name="character_counter_content_description">Превышено количество символов на %1$d из %2$d</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышено количество символов на %1$d из %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="china_mobile_CRBT_tips">Воспроизводится мелодия вместо гудка</string>
     <string name="confCall">Конференц-связь</string>
     <string name="conference_call">Конференц-связь</string>
-    <string name="conference_reach_max_tip">Достигнут лимит участников</string>
+    <string name="conference_reach_max_tip">Достигнуто максимальное число участников конференции: 5</string>
     <string name="copy">Копировать</string>
     <string name="custom_message_send">Отправить</string>
     <string name="date_time_set">Установить</string>

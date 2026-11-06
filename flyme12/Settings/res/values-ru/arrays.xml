@@ -447,7 +447,7 @@
         <item>100 %</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>По умолчанию</item>
+        <item>Задано приложением</item>
         <item>Белый на чёрном</item>
         <item>Чёрный на белом</item>
         <item>Жёлтый на чёрном</item>
@@ -484,12 +484,12 @@
         <item>Стандартный</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Сине-зелёный</item>
+        <item>Бирюзовый</item>
         <item>Синий</item>
-        <item>Индиго</item>
+        <item>Зелёный</item>
         <item>Фиолетовый</item>
         <item>Розовый</item>
-        <item>Красный</item>
+        <item>Оранжевый</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Откл.</item>
@@ -818,17 +818,17 @@
         <item>720p, 1080p (dual screen)</item>
     </string-array>
     <string-array name="power_key_behavior_double_click_entries_intl">
-        <item>Ничего</item>
         <item>Камера</item>
-        <item>Поиск</item>
+        <item>Поиск Google</item>
         <item>Meizu Pay</item>
+        <item>Ничего</item>
     </string-array>
     <string-array name="powerkey_behavior_double_click_entries">
-        <item>Ничего</item>
         <item>Камера</item>
         <item>Ассистент</item>
-        <item>Meizu Pay</item>
+        <item>Flyme Pay</item>
         <item>SmartVoice</item>
+        <item>Ничего</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>GSM/WCDMA (предпочтительный режим)</item>
@@ -931,7 +931,7 @@
         <item>256K в буфер журнала</item>
         <item>1M в буфер журнала</item>
         <item>4M в буфер журнала</item>
-        <item>16M в буфер журнала</item>
+        <item>8M в буфер журнала</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Откл.</item>
@@ -939,7 +939,7 @@
         <item>256K</item>
         <item>1M</item>
         <item>4M</item>
-        <item>16M</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>Откл.</item>

@@ -37,15 +37,6 @@
         <item>Другой</item>
         <item>Свой</item>
     </string-array>
-    <string-array name="config_globalActionsList">
-        <item>Питание</item>
-        <item>Перезагрузка</item>
-        <item>Блокировка</item>
-        <item>Выход</item>
-        <item>Баг-репорт</item>
-        <item>Снимок экрана</item>
-        <item>Экстренный</item>
-    </string-array>
     <string-array name="face_acquired_vendor">
     </string-array>
     <string-array name="face_error_vendor">
@@ -71,7 +62,7 @@
         <item>Мобильная сеть</item>
         <item>Wi-Fi</item>
         <item>Bluetooth</item>
-        <item>Интернет</item>
+        <item>Ethernet</item>
         <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">

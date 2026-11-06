@@ -33,7 +33,7 @@
     <string name="camera_disabled">Камера отключена в соответствии с политикой безопасности</string>
     <string name="cannot_connect_camera">Камера занята. Попробуйте позже</string>
     <string name="cannot_connect_camera_v2">Ошибка камеры. Повторите попытку позже или перезагрузите телефон.</string>
-    <string name="character_counter_content_description">Превышен лимит символов на %1$d из %2$d</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов на %1$d из %2$d</string>
     <string name="copy">Копировать</string>
     <string name="crop_save">Сохранить</string>
@@ -65,7 +65,7 @@
     <string name="descp_record_shutter">Снять</string>
     <string name="descp_record_start">Начать запись</string>
     <string name="descp_record_stop">Остановка записи</string>
-    <string name="descp_smb_back">Тыловая камера</string>
+    <string name="descp_smb_back">Переключиться на основную камеру</string>
     <string name="descp_smb_fb_light">Средняя бьютизация</string>
     <string name="descp_smb_fb_off">Бьютизация выкл.</string>
     <string name="descp_smb_fb_smart">Умная бьютизация</string>
@@ -74,7 +74,7 @@
     <string name="descp_smb_flash_off">Вспышка выкл.</string>
     <string name="descp_smb_flash_on">Вспышка вкл.</string>
     <string name="descp_smb_flash_torch">Вспышка всегда вкл.</string>
-    <string name="descp_smb_front">Фронтальная камера</string>
+    <string name="descp_smb_front">Переключиться на фронтальную камеру</string>
     <string name="descp_smb_hdr_auto">HDR Авто</string>
     <string name="descp_smb_hdr_off">HDR выкл.</string>
     <string name="descp_smb_hdr_on">HDR вкл.</string>
@@ -330,10 +330,10 @@
     <string name="mz_orc_aicy_engine_request_msg">Для использования интеллектуального сканирования необходимо включить Aicy Engine, чтобы локально собирать информацию о ваших привычках использования приложений для улучшения качества обслуживания.</string>
     <string name="mz_orc_aicy_engine_request_title">Разрешить включение Aicy Engine?</string>
     <string name="mz_orientation_hint">Сохранить в данной ориентации</string>
-    <string name="mz_pano_hint">Нажмите затвор и двигайте камеру по горизонтали</string>
+    <string name="mz_pano_hint">Нажмите на затвор и медленно ведите камеру</string>
     <string name="mz_pano_hint_off_center">Не отклоняйтесь от направляющей линии</string>
     <string name="mz_pano_hint_saving">Сохранение</string>
-    <string name="mz_pano_hint_start_panning">Держите стрелку на горизонтальной линии</string>
+    <string name="mz_pano_hint_start_panning">Держите стрелку на направляющей линии</string>
     <string name="mz_pano_hint_too_fast">Слишком быстро</string>
     <string name="mz_permission_agree">Принимаю</string>
     <string name="mz_permission_allow">Разрешить</string>
@@ -364,7 +364,7 @@
     <string name="mz_please_open_location_permission_message">Это разрешение нужно, например, чтобы указывать место в водяном знаке.</string>
     <string name="mz_pref_camera_shutter_speed_default">Авто</string>
     <string name="mz_privacy_exit">Выход</string>
-    <string name="mz_privacy_policy">Политика конфиденциальности Meizu</string>
+    <string name="mz_privacy_policy">Конфиденциальность и соглашения</string>
     <string name="mz_privacy_text">Политика конфиденциальности</string>
     <string name="mz_privacy_title">Политика конфиденциальности</string>
     <string name="mz_privacy_withdraw">Отозвать согласие</string>
@@ -384,7 +384,7 @@
     <string name="mz_setting_ai_super_portrait">AI Супер портрет</string>
     <string name="mz_setting_asd_switch_title">AI-распознавание сцены</string>
     <string name="mz_setting_click_asd_hint">Автоматически определяет сцену и оптимизирует эффекты</string>
-    <string name="mz_setting_click_barcode_in_auto_hint">Автоматически распознаёт QR и штрих-коды</string>
+    <string name="mz_setting_click_barcode_in_auto_hint">Автоматически распознавать QR-коды и текст в видоискателе</string>
     <string name="mz_setting_click_close_per_hint">Отключен(о) </string>
     <string name="mz_setting_click_front_mirror_hint">Фото будет таким же, как и на предпросмотре</string>
     <string name="mz_setting_click_gesture_hint">Поднимите ладонь, чтобы начать обратный отсчет и сделать снимок</string>
@@ -444,7 +444,7 @@
     <string name="mz_setting_video_super_night_title">Ночное видео</string>
     <string name="mz_setting_voice_action_title">Голосовое управление</string>
     <string name="mz_setting_watermark">Водяной знак</string>
-    <string name="mz_setting_watermark_device">Девайс</string>
+    <string name="mz_setting_watermark_device">Устройство</string>
     <string name="mz_setting_watermark_location">Местоположение</string>
     <string name="mz_setting_watermark_more">Ещё</string>
     <string name="mz_setting_watermark_style">Стиль водяного знака</string>
@@ -657,10 +657,6 @@
     <string name="search_menu_title">Поиск</string>
     <string name="searchview_navigation_content_description">Назад</string>
     <string name="select_image">Выбрать фото</string>
-    <string name="setting_auto_value">Авто</string>
-    <string name="setting_off_value">Выкл.</string>
-    <string name="setting_on_value">Вкл.</string>
-    <string name="setting_storage_value">SD-карта</string>
     <string name="setting_wallpaper">Установка обоев</string>
     <string name="setup_network">Настройки сети</string>
     <string name="share">Поделиться</string>

@@ -34,7 +34,7 @@
     <string name="CLIRPermanent">Невозможно изменить параметр идентификатора вызывающего абонента.</string>
     <string name="CfMmi">Переадресация вызова</string>
     <string name="ClipMmi">Идентификация вызывающего абонента</string>
-    <string name="ClirMmi">Идентификация звонящего абонента</string>
+    <string name="ClirMmi">Скрытие номера исходящих вызовов</string>
     <string name="CndMmi">Доставка номера вызывающего абонента</string>
     <string name="CnipMmi">Вызывающий номер присутствует</string>
     <string name="CnirMmi">Вызывающий номер запрещён</string>
@@ -183,7 +183,7 @@
     <string name="accessibility_autoclick_scroll_up">Прокрутка вверх</string>
     <string name="accessibility_autoclick_type_settings_panel_title">Панель настроек типа автонажатия</string>
     <string name="accessibility_binding_label">Спец. возможности</string>
-    <string name="accessibility_button_instructional_text">Чтобы изменить функцию, удерживайте кнопку специальных возможностей.</string>
+    <string name="accessibility_button_instructional_text">Функция откроется при следующем нажатии кнопки специальных возможностей</string>
     <string name="accessibility_button_prompt_text">Выберите функцию</string>
     <string name="accessibility_dialog_button_allow">Разрешить</string>
     <string name="accessibility_dialog_button_deny">Отклонить</string>
@@ -364,9 +364,7 @@
     <string name="badPin">Прежний PIN-код введён неверно.</string>
     <string name="badPuk">Введён неверный PUK-код.</string>
     <string name="battery_saver_charged_notification_summary">Телефон заряжен достаточно. Функции больше не ограничены.</string>
-    <string name="battery_saver_description">"\"Чтобы продлить время работы устройства от батареи, в режиме энергосбережения снижается производительность, а также ограничивается использование вибрации, геолокации и фоновой передачи данных. Данные, требующие синхронизации, могут обновляться только при запуске конкретного приложения.
-
-Режим энергосбережения автоматически отключается во время зарядки устройства.\""</string>
+    <string name="battery_saver_description">В режиме энергосбережения включается тёмная тема и ограничиваются или отключаются фоновая активность, некоторые визуальные эффекты, отдельные функции и сетевые подключения.</string>
     <string name="battery_saver_description_with_learn_more">В режиме энергосбережения включается тёмная тема, ограничиваются или отключаются фоновые процессы, а также некоторые визуальные эффекты, часть функций и сетевых подключений.</string>
     <string name="battery_saver_notification_channel_name">Режим энергосбережения</string>
     <string name="battery_saver_off_notification_title">Режим энергосбережения отключен</string>
@@ -645,7 +643,7 @@
     <string name="ext_media_new_notification_title">Новый накопитель: %s.</string>
     <string name="ext_media_nomedia_notification_message">Некоторые функции могут быть недоступны. Вставьте новый накопитель.</string>
     <string name="ext_media_nomedia_notification_title">Удалено %s</string>
-    <string name="ext_media_ready_notification_message">Для передачи фото и медиафайлов</string>
+    <string name="ext_media_ready_notification_message">Для хранения фото, видео, музыки и другого</string>
     <string name="ext_media_seamless_action">Сменить устройство вывода</string>
     <string name="ext_media_status_bad_removal">Извлечено небезопасно</string>
     <string name="ext_media_status_checking">Проверка…</string>
@@ -661,7 +659,7 @@
     <string name="ext_media_unmount_action">Извлечь</string>
     <string name="ext_media_unmountable_notification_message">Нажмите здесь, чтобы исправить.</string>
     <string name="ext_media_unmountable_notification_title">Повреждена %s</string>
-    <string name="ext_media_unmounting_notification_message">Не удалять</string>
+    <string name="ext_media_unmounting_notification_message">Не извлекайте</string>
     <string name="ext_media_unmounting_notification_title">Идёт извлечение %s…</string>
     <string name="ext_media_unsupported_notification_message">Нажмите для настройки</string>
     <string name="ext_media_unsupported_notification_title">Обнаружено: %s</string>
@@ -760,7 +758,7 @@
     <string name="fingerprint_error_canceled">Операция с отпечатком отменена.</string>
     <string name="fingerprint_error_hw_not_available">Сканер недоступен</string>
     <string name="fingerprint_error_hw_not_present">На этом устройстве нет сканера отпечатков пальцев</string>
-    <string name="fingerprint_error_lockout">Слишком много попыток. Повторите позже.</string>
+    <string name="fingerprint_error_lockout">Слишком много попыток. Используйте блокировку экрана.</string>
     <string name="fingerprint_error_lockout_permanent">Слишком много попыток. Используйте другой способ разблокировки экрана.</string>
     <string name="fingerprint_error_no_fingerprints">Отпечатки пальцев не добавлены.</string>
     <string name="fingerprint_error_no_space">Не удалось сохранить отпечаток.</string>
@@ -989,8 +987,7 @@
     <string name="kg_invalid_puk">Введите правильный PUK-код. После нескольких неудачных попыток SIM-карта будет заблокирована.</string>
     <string name="kg_invalid_sim_pin_hint">Введите PIN-код (от 4 до 8 цифр).</string>
     <string name="kg_invalid_sim_puk_hint">PUK-код должен содержать 8 символов.</string>
-    <string name="kg_login_account_recovery_hint">"\"Забыли имя пользователя или пароль??
-Перейдите на страницу\""<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_account_recovery_hint">Забыли имя пользователя или пароль?\nОткройте <b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Проверка данных…</string>
     <string name="kg_login_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google.</string>
     <string name="kg_login_invalid_input">Неверное имя пользователя или пароль.</string>
@@ -1054,8 +1051,7 @@
 Повтор через %3$d с.\""</string>
     <string name="lockscreen_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
     <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
-    <string name="lockscreen_glogin_account_recovery_hint">"\"Забыли имя пользователя или пароль??
-Перейдите на страницу\""<b>google.com/accounts/recovery</b>.</string>
+    <string name="lockscreen_glogin_account_recovery_hint">Забыли имя пользователя или пароль?\nОткройте <b>google.co.uk/accounts/recovery</b>.</string>
     <string name="lockscreen_glogin_checking_password">Проверка...</string>
     <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
     <string name="lockscreen_glogin_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google.</string>
@@ -1075,8 +1071,7 @@
     <string name="lockscreen_pattern_correct">Правильно!</string>
     <string name="lockscreen_pattern_instructions">Введите графический ключ</string>
     <string name="lockscreen_pattern_wrong">Повторите попытку</string>
-    <string name="lockscreen_permanent_disabled_sim_instructions">"\"SIM-карта окончательно заблокирована.
-Чтобы получить новую, обратитесь к своему оператору.\""</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">SIM-карта окончательно заблокирована.\n Обратитесь к оператору связи за новой SIM-картой.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">SIM-карта непригодна.</string>
     <string name="lockscreen_return_to_call">Вернуться к вызову</string>
     <string name="lockscreen_screen_locked">Экран заблокирован.</string>
@@ -1453,7 +1448,7 @@
     <string name="permdesc_broadcastSticky">Приложение сможет делать несрочные рассылки, которые не удаляются после их отправки. Злоупотребление этими рассылками может замедлить работу телефона или сделать её нестабильной из-за чрезмерного использования памяти.</string>
     <string name="permdesc_callCompanionApp">Приложение сможет управлять текущими вызовами на устройстве, а также получит доступ к сведениям о них, в том числе к номерам телефонов и статусам звонков.</string>
     <string name="permdesc_callPhone">Приложение сможет без вашего участия звонить на любой номер телефона. Это не относится к номерам экстренных служб. Вредоносные программы смогут совершать вызовы без вашего разрешения, что может привести к непредвиденным расходам.</string>
-    <string name="permdesc_camera">Приложение может в любое время делать фотографии и снимать видео с помощью камеры.</string>
+    <string name="permdesc_camera">Приложение может делать фото и снимать видео с помощью камеры, пока оно используется.</string>
     <string name="permdesc_cameraHeadlessSystemUser">У этого приложения есть доступ к камере на правах консольного системного пользователя.</string>
     <string name="permdesc_cameraOpenCloseListener">Это приложение сможет получать обратные вызовы при открытии (с указанием открывающего приложения) и закрытии любых камер.</string>
     <string name="permdesc_changeNetworkState">Приложение сможет изменять состояние подключения к сети.</string>
@@ -1540,7 +1535,7 @@
     <string name="permdesc_receiveMms">Приложение сможет получать и обрабатывать MMS. Это значит, что оно сможет отслеживать и удалять отправленные на ваше устройство сообщения, не показывая их.</string>
     <string name="permdesc_receiveSms">Приложение сможет получать и обрабатывать SMS. Это значит, что оно сможет отслеживать и удалять отправленные на ваше устройство сообщения, не показывая их.</string>
     <string name="permdesc_receiveWapPush">Приложение сможет получать и обрабатывать WAP-сообщения. Это значит, что оно сможет отслеживать и удалять отправленные на ваше устройство сообщения, не показывая их.</string>
-    <string name="permdesc_recordAudio">Приложение может в любое время записывать аудио с помощью микрофона.</string>
+    <string name="permdesc_recordAudio">Приложение может записывать аудио с помощью микрофона, пока оно используется.</string>
     <string name="permdesc_recordBackgroundAudio">Приложение может в любое время записывать аудио с помощью микрофона.</string>
     <string name="permdesc_register_call_provider">Регистрация новых операторов связи.</string>
     <string name="permdesc_register_sim_subscription">Регистрация новых SIM-карт.</string>
@@ -1589,7 +1584,7 @@
     <string name="permdesc_wakeLock">Приложение сможет запрещать перевод телефона в спящий режим.</string>
     <string name="permdesc_writeCalendar">Приложение может добавлять, удалять или изменять мероприятия в календаре на телефоне. Оно также может отправлять сообщения от имени владельцев календаря, а также изменять мероприятия без ведома владельца.</string>
     <string name="permdesc_writeCallLog">Приложение сможет вносить изменения в список вызовов телефона и данные о входящих и исходящих звонках. Вредоносные приложения смогут воспользоваться этим для удаления или изменения информации о звонках.</string>
-    <string name="permdesc_writeContacts">Приложение сможет изменять сведения о контактах на вашем телефоне, включая то, как часто вы звоните, отправляете письма и другими способами связываетесь с определёнными людьми. С этим разрешением приложения смогут удалять данные о контактах.</string>
+    <string name="permdesc_writeContacts">Приложение сможет изменять сведения о контактах на телефоне, в том числе удалять их.</string>
     <string name="permdesc_writeSettings">Приложение сможет изменять настройки системы. Вредоносные программы смогут повредить конфигурацию системы.</string>
     <string name="permdesc_writeSyncSettings">Приложение сможет изменять настройки синхронизации аккаунта. Например, с помощью этого разрешения можно включить в аккаунте синхронизацию контактов.</string>
     <string name="permdesc_writeVerificationStateE2eeContactKeys">Приложение сможет обновлять статусы проверки защищенных сквозным шифрованием и принадлежащих другим приложениям ключей контактов.</string>
@@ -1634,7 +1629,7 @@
 для аккаунта %s\""</string>
     <string name="permlab_acceptHandover">Продолжить звонок в другом приложении</string>
     <string name="permlab_accessBackgroundLocation">Доступ к местоположению в фоновом режиме</string>
-    <string name="permlab_accessCoarseLocation">Примерное местоположение (на основе сети)</string>
+    <string name="permlab_accessCoarseLocation">Примерное местоположение только в активном режиме</string>
     <string name="permlab_accessDrmCertificates">Доступ к сертификатам DRM</string>
     <string name="permlab_accessFineLocation">Точное местоположение (на основе сети и сигналов GPS)</string>
     <string name="permlab_accessHiddenProfile">Доступ к скрытым профилям</string>
@@ -1665,7 +1660,7 @@
     <string name="permlab_bluetooth_advertise">Передача рекламы на устройства Bluetooth рядом</string>
     <string name="permlab_bluetooth_connect">Доступ к подключенным устройствам Bluetooth</string>
     <string name="permlab_bluetooth_scan">Находить устройства Bluetooth и подключаться к ним</string>
-    <string name="permlab_bodySensors">Доступ к датчикам (например, пульсометр)</string>
+    <string name="permlab_bodySensors">Доступ к данным нательных датчиков (например, пульса) во время использования</string>
     <string name="permlab_bodySensors_background">Доступ к данным нательных датчиков, когда приложение работает в фоновом режиме</string>
     <string name="permlab_broadcastSticky">Отправка сообщений с их последующим сохранением</string>
     <string name="permlab_callCompanionApp">Управление вызовами через систему</string>
@@ -2116,7 +2111,7 @@
     <string name="sim_added_title">SIM-карта добавлена</string>
     <string name="sim_done_button">Готово</string>
     <string name="sim_removed_message">Пока вы не вставите действующую SIM-карту, мобильная сеть будет недоступна.</string>
-    <string name="sim_removed_title">SIM-карта удалена</string>
+    <string name="sim_removed_title">SIM-карта извлечена</string>
     <string name="sim_restart_button">Перезапуск</string>
     <string name="sipAddressTypeCustom">Настройка пользователя</string>
     <string name="sipAddressTypeHome">Домашний</string>
@@ -2250,8 +2245,8 @@
     <string name="usb_unsupported_audio_accessory_title">Обнаружено аналоговое аудиоустройство</string>
     <string name="usb_uvc_notification_title">Устройство подключено как веб-камера</string>
     <string name="use_a_different_app">Другое приложение</string>
-    <string name="user_creation_account_exists">\"Разрешить приложению %1$s создать пользователя с аккаунтом %2$s?\"</string>
-    <string name="user_creation_adding">Разрешить приложению %1$s создать нового пользователя с аккаунтом %2$s (пользователь c таким аккаунтом уже есть)?</string>
+    <string name="user_creation_account_exists">Разрешить приложению %1$s создать нового пользователя с аккаунтом %2$s (пользователь с таким аккаунтом уже есть)?</string>
+    <string name="user_creation_adding">Разрешить приложению %1$s создать пользователя с аккаунтом %2$s?</string>
     <string name="user_logging_out_message">Выход из аккаунта %1$s…</string>
     <string name="user_owner_app_label">Открыть %1$s в личном профиле</string>
     <string name="user_owner_label">Личное</string>
@@ -2296,7 +2291,7 @@
     <string name="websearch">Веб-поиск</string>
     <string name="week">нед.</string>
     <string name="weeks">нед.</string>
-    <string name="wfcRegErrorTitle">WLAN-вызов</string>
+    <string name="wfcRegErrorTitle">Не удалось настроить вызовы по Wi-Fi</string>
     <string name="wfcSpnFormat_spn_vowifi">%s VoWifi</string>
     <string name="wfcSpnFormat_spn_wifi">%s Wi-Fi</string>
     <string name="wfcSpnFormat_spn_wifi_calling">%s Звонки по Wi-Fi</string>

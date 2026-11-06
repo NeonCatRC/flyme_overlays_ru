@@ -471,7 +471,7 @@
     <string name="mz_permission_inform_f9_no_internet">Для предоставления основных услуг этому приложению необходимы следующие разрешения</string>
     <string name="mz_permission_inform_f9_only_internet">Для предоставления основных услуг этому приложению необходимо подключение к сети</string>
     <string name="mz_permission_message_supplement">%1$s запрашивает %2$s %3$d разрешения</string>
-    <string name="mz_permission_policy_description_f9">Перед использованием приложения вы должны согласиться с %1$s (ребенок, не достигший четырнадцатилетнего возраста, должен быть одобрен опекуном)</string>
+    <string name="mz_permission_policy_description_f9">Чтобы пользоваться всеми функциями, прочитайте и примите %1$s (детям до 14 лет нужно согласие родителей или законных представителей)</string>
     <string name="mz_permission_policy_description_noly_internet">Для пользования перечисленными выше функциями и службами</string>
     <string name="mz_permission_policy_description_update">Для того, чтобы полностью защитить ваши права, мы обновили нашу политику приватности, которую можно увидеть %1$s</string>
     <string name="mz_permission_use_info">Инструкции по использованию</string>
@@ -536,8 +536,8 @@
     <string name="normal_window_summary">Быстро открывайте приложения в маленьком окне жестом и закрывайте нажатием снаружи — просто и удобно</string>
     <string name="not_set">Не указано</string>
     <string name="notification_item_slide_delete_guide_content">Свайп вниз для удаления</string>
-    <string name="notification_show_contact_list_summary">Показывать иконку недавнего уведомления в меню быстрого просмотра</string>
-    <string name="notification_show_contact_list_title">Иконка уведомления</string>
+    <string name="notification_show_contact_list_summary">Аватар последнего уведомления показывается под маленьким окном</string>
+    <string name="notification_show_contact_list_title">Аватар уведомления</string>
     <string name="on_hook_tip">Игра продолжит работать при выключенном экране. Чтобы включить экран, дважды нажмите на него или нажмите кнопку питания. Это не блокировка экрана, берегите личные данные</string>
     <string name="open_windowmode">Открытие маленького окна жестом из угла</string>
     <string name="optimized">Оптимизировано</string>

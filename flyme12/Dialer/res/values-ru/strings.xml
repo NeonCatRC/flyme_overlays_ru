@@ -122,7 +122,7 @@
     <string name="card_name">" - %s"</string>
     <string name="card_name_no_sim">Нет SIM-карты</string>
     <string name="change_photo">Изменить</string>
-    <string name="character_counter_content_description">Превышен лимит символов (%1$d из %2$d)</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
     <string name="character_counter_overflowed_content_description">Превышен лимит символов (%1$d из %2$d)</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chat">Чат</string>
@@ -146,8 +146,6 @@
     <string name="composer_has_no_exportable_contact">Не найдены контакты для экспорта. Возможно, экспорт контактов с телефона не поддерживается поставщиком услуг передачи данных.</string>
     <string name="composer_not_initialized">Сбой при запуске редактора vCard</string>
     <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_vcard_type">по умолчанию</string>
-    <string name="config_import_vcard_type">по умолчанию</string>
     <string name="confirm_export_message">Список контактов будет экспортирован в файл: %s</string>
     <string name="confirm_export_title">Экспортировать контакты?</string>
     <string name="connections">Соцсети</string>
@@ -981,7 +979,7 @@
     <string name="mzc_sos_add_contacts_max">Можно добавить до %d контактов</string>
     <string name="mzc_sos_auto_call">Автоматический вызов</string>
     <string name="mzc_sos_auto_call_assist">Помощь при тревоге</string>
-    <string name="mzc_sos_auto_call_assist_desc">Автоматически отправлять местоположение в полицию при наборе номера 110/119/120/122</string>
+    <string name="mzc_sos_auto_call_assist_desc">Автоматически отправлять местоположение в полицию при наборе 110/119/122, а при наборе 120 — местоположение и медицинские данные</string>
     <string name="mzc_sos_auto_call_des">Автоматический набор %1$s после вызова экстренной помощи (SOS)</string>
     <string name="mzc_sos_auto_help">Вызов экстренных контактов…</string>
     <string name="mzc_sos_auto_send_position">Автоотправка сообщения о местоположении</string>
@@ -1005,7 +1003,7 @@
     <string name="mzc_sos_helped_automatically">Экстренным контактам позвонили автоматически</string>
     <string name="mzc_sos_message">"Экстренный вызов
 %s, помоги мне! Это моё текущее местоположение, пожалуйста, позвони в полицию!"</string>
-    <string name="mzc_sos_message_content">Я назначил вам экстренный контакт и когда я в опасности, вы получите текстовое сообщение с указанием моего мобильного телефона. Пожалуйста, проверьте мой таргетинг, чтобы предоставить мне необходимую помощь.</string>
+    <string name="mzc_sos_message_content">Я указал(а) вас как экстренный контакт. Если мне будет грозить опасность, вы получите SMS с местоположением моего телефона. Пожалуйста, проверьте, где я, и помогите мне. [Экстренная помощь Meizu]</string>
     <string name="mzc_sos_message_dialog">Рекомендуется отправить текстовое сообщение экстренному контакту, чтобы сообщить вам, что он был добавлен в качестве экстренного контакта, чтобы другая сторона могла ответить и оказать помощь в случае экстренной помощи SOS.</string>
     <string name="mzc_sos_message_dialog_ok">Отправить</string>
     <string name="mzc_sos_mode">Автоотправка сообщения о местоположении включена</string>

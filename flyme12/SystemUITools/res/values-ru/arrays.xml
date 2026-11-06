@@ -5,7 +5,7 @@
         <item>luckymoney_sound_2</item>
         <item>luckymoney_sound_3</item>
         <item>luckymoney_sound_4</item>
-        <item>тишина</item>
+        <item>silence</item>
     </string-array>
     <string-array name="luckymoney_sound_name">
         <item>Сюрприз</item>

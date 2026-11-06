@@ -170,7 +170,7 @@ array/open_miui_lock_screen_permission	unused
 array/open_notebook_error_i_know	todo
 array/permission_list_titles	todo
 array/phone_type	own
-array/pref_homepage_values2	own
+array/pref_homepage_values2	skip
 array/pref_orientation_setting_name	own
 array/pref_orientation_setting_value	todo
 array/pref_set_text_degree_choices	own
