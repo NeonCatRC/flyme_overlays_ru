@@ -27,14 +27,14 @@ MzAccount	com.meizu.account	12.0.14 12000014	262	0	83	85	0	24	66	0	2	0
 MzBatteryManager	com.meizu.battery	12.0.24 12000024	253	0	5	132	0	76	66	0	0	0
 MzSecurity	com.meizu.safe	12.1.48 12001048	1265	0	30	545	0	57	516	101	140	0
 MzSetupWizard	com.meizu.setup	12.0.25 12000025	0	256	66	0	358	66	26	0	0	0
-MzShare	com.meizu.share	6.1.14 6001014	471	5	6	12	87	69	24	0	0	0
+MzShare	com.meizu.share	6.1.14 6001014	469	0	6	65	0	69	65	0	2	0
 MzUpdate	com.meizu.flyme.update	12.0.15 12000015	650	13	36	3	159	1	24	0	0	0
 NativeLockScreen	com.meizu.net.nativelockscreen	12.2.2 12202002	0	0	154	277	0	35	131	85	16	0
 NetAdmin	com.flyme.netadmin	11.0.3 110000300	310	0	5	29	0	42	69	0	0	0
-NotePaper	com.meizu.notepaper	12.0.68 1200000068	499	9	405	2	201	28	22	0	0	0
+NotePaper	com.meizu.notepaper	12.0.68 1200000068	503	0	366	177	0	28	92	31	3	0
 PackageInstaller	com.android.packageinstaller	16 36	312	0	108	136	0	45	132	31	5	0
 Pedometer	com.meizu.net.pedometer	12.0.13 12000013	403	8	34	26	172	55	23	0	0	0
-Picker	com.meizu.picker	12.2.34 12002034	304	4	4	3	247	78	23	0	0	0
+Picker	com.meizu.picker	12.2.34 12002034	306	0	4	193	0	78	82	2	0	0
 SDKStage	com.meizu.flyme.sdkstage	5.0.01 50000001	128	0	9	0	88	11	8	0	0	0
 Settings	com.android.settings	12.1.0 12001000	4480	435	4392	504	0	158	611	9	29	0
 Suggestion	com.meizu.suggestion	12.5.10 12005010	89	2	0	0	512	3	15	0	0	0
@@ -43,7 +43,7 @@ SystemUIEditor	com.flyme.systemuieditor	3.5.45 30005045	0	0	142	212	0	105	149	10
 SystemUIEx	com.flyme.systemuiex	12.3.14 12003014	267	7	40	22	0	65	69	0	0	0
 SystemUITools	com.flyme.systemuitools	13.1.2 13001002	233	5	170	241	0	16	78	27	13	0
 ToolBox	com.meizu.flyme.toolbox	12.0.15 12000015	367	0	85	61	0	51	69	7	0	0
-Video	com.meizu.media.video	17.23.0 17223000	261	0	26	6	266	29	23	0	0	0
+Video	com.meizu.media.video	17.23.0 17223000	261	0	26	168	0	29	127	46	2	0
 VoiceAssistant	com.meizu.voiceassistant	12.1.46 12000146	497	8	0	217	1120	234	94	0	0	0
 WallpaperSetting	com.meizu.wallpapersetting	3.2.0 3002000	0	0	20	142	0	17	67	0	16	0
 Weather	com.meizu.flyme.weather	54.3.60 54003060	356	0	92	580	0	61	169	99	102	0

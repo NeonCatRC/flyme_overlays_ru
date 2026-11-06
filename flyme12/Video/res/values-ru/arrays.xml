@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="experience_list">
+        <item>О продукте</item>
+        <item>О Flyme</item>
+        <item>Советы</item>
+        <item>Воспроизвести видео</item>
+    </string-array>
     <string-array name="mc_custom_time_picker_lunar_day">
         <item>1</item>
         <item>2</item>
@@ -54,5 +60,21 @@
         <item>Чт</item>
         <item>Пт</item>
         <item>Сб</item>
+    </string-array>
+    <string-array name="popupmenu_info">
+        <item>Воспроизводить одно видео</item>
+        <item>Повторять</item>
+        <item>Автоматически воспроизводить следующее видео в папке</item>
+    </string-array>
+    <string-array name="sizeUnit">
+        <item>Б</item>
+        <item>КБ</item>
+        <item>МБ</item>
+        <item>ГБ</item>
+    </string-array>
+    <string-array name="windowsize_info">
+        <item>По размеру экрана</item>
+        <item>Во весь экран</item>
+        <item>Исходный размер</item>
     </string-array>
 </resources>

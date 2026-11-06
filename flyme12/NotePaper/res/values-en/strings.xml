@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="guide_large_title">Welcome to the new Notes</string>
+    <string name="guide_sub1">New AI writing and text assistance make creating easier</string>
+    <string name="guide_sub2">New text styles and free layout design</string>
+    <string name="guide_sub3">Add attachments and links to notes</string>
+    <string name="guide_sub4">All-new drawing board with a refreshed look</string>
+    <string name="guide_title1">AI Notes</string>
+    <string name="guide_title2">Free layout</string>
+    <string name="guide_title3">Attachments in many formats</string>
+    <string name="guide_title4">Fresh look</string>
+    <string name="network_error_and_reload">Network error. Tap Reload</string>
+    <string name="note_ai_guide">AI Notes guide</string>
+    <string name="note_ai_text0">"Notes now has AI features, and many functions are new or improved to make note-taking easier\n"</string>
+    <string name="note_ai_text1">"Create a note or open any note and tap the AI icon in the toolbar below to use AI features:\n1. Write many kinds of text, such as articles and social posts, from scratch\n2. Generate to-do lists and meeting agendas to plan life, study and travel\n3. Continue, summarize, correct and translate existing notes\n"</string>
+    <string name="note_ai_text2">"Richer text editing with strikethrough, hyperlinks, highlighting and more for clearer content\n"</string>
+    <string name="note_ai_text3">"Add attachments of any kind or web links to notes\n"</string>
+    <string name="note_ai_text4">"Record audio and transcribe it to text in real time\n"</string>
+    <string name="note_ai_text5">"Draw on the drawing board and insert the drawing into a note as an image\n"</string>
+    <string name="note_ai_text6">"Add to-dos with time and location reminders\n"</string>
+    <string name="note_ai_text7">"Share notes as images or text\n"</string>
+    <string name="note_ai_text8">Group and pin notes, and choose your own skin</string>
+    <string name="note_ai_title1">1. AI features:</string>
+    <string name="note_ai_title2">2. Rich text editing:</string>
+    <string name="note_ai_title3">3. Attachments in many formats:</string>
+    <string name="note_ai_title4">4. Record and transcribe:</string>
+    <string name="note_ai_title5">5. Drawing:</string>
+    <string name="note_ai_title6">6. To-dos:</string>
+    <string name="note_ai_title7">7. Sharing:</string>
+    <string name="note_ai_title8">8. Personalization:</string>
+    <string name="policy_sdk_withdraw_text_not_basic_has_account">If you withdraw consent to “%1$s”, we will stop collecting and processing your personal information and will no longer provide any services of this app. Withdrawing consent does not affect signing in with your Flyme account or using other Meizu products and services. To delete your account, go to %2$s\n \nWithdrawing consent may cause you to lose some rights. Please consider carefully. For details, see the Personal Information Subject Rights section of the Privacy Policy\n \n To use our products and services again, open the app and agree to our %1$s</string>
+    <string name="router_activity_parser_error">Data parsing error</string>
+    <string name="search_collect_demantic_title">Semantic search</string>
+    <string name="share_fail_image_too_large">Image too large, sharing failed</string>
+    <string name="title_search_history">History</string>
+    <string name="try_now">Try now</string>
+</resources>

@@ -55,6 +55,20 @@
         <item>Пт</item>
         <item>Сб</item>
     </string-array>
+    <string-array name="setting_more_tab1_grid2_desc">
+        <item>Товары</item>
+        <item>Посылки</item>
+        <item>Знаменитости</item>
+        <item>Фильмы</item>
+        <item>Сериалы</item>
+        <item>Шоу</item>
+        <item>Адреса</item>
+        <item>Достопримечательности</item>
+        <item>Приложения</item>
+        <item>Ссылки</item>
+        <item>Слова</item>
+        <item>Музыка</item>
+    </string-array>
     <string-array name="setting_more_tab2_grid1_desc">
         <item>Сохранить</item>
         <item>Поделиться</item>
