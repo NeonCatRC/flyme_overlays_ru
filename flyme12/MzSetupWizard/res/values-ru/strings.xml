@@ -192,12 +192,7 @@
     <string name="emergent">Экстренный вызов SOS</string>
     <string name="enhanced_service_summary_more">Рекомендуем включить следующие службы для более умной и персональной работы</string>
     <string name="enhanced_summary_detail_more">Ещё</string>
-    <string name="enhanced_summary_detail_permission">Описание разрешений</string>
-    <string name="enhanced_summary_detail_personal_info_collection_list">Список собираемых персональных данных</string>
-    <string name="enhanced_summary_detail_privacy">Политика конфиденциальности</string>
     <string name="enhanced_summary_detail_privacy_intelligent_information_recognition">Политика конфиденциальности умного распознавания информации</string>
-    <string name="enhanced_summary_detail_service">Пользовательское соглашение</string>
-    <string name="enhanced_summary_location_service">Заявление о службе геолокации</string>
     <string name="enlarge_system_font_size">Увеличить шрифт</string>
     <string name="error_a11y_label">Ошибка: недопустимое значение</string>
     <string name="faceid_continue">Начать запись лица</string>

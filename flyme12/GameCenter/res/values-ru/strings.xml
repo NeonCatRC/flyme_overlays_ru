@@ -896,8 +896,8 @@
     <string name="mz_permission_inform_secondary_confirmation_name">Базовый режим</string>
     <string name="mz_permission_inform_secondary_confirmation_positive_button_text">Перейти в базовый режим</string>
     <string name="mz_permission_inform_secondary_confirmation_summary">Для предоставления основных услуг этому приложению необходимы следующие разрешения:</string>
-    <string name="mz_permission_inform_secondary_confirmation_summary_end">Для входа в базовый режим нужна часть ваших персональных данных. Какие данные мы собираем и зачем, описано в разделе «Как мы собираем и используем ваши персональные данные» «Политики конфиденциальности». Вход в базовый режим не означает, что вы принимаете политику целиком.</string>
-    <string name="mz_permission_inform_secondary_confirmation_summary_head">Если вы не примете «Политику конфиденциальности» и «Пользовательское соглашение», мы сможем предоставить только базовые услуги: установку и обновление приложений.</string>
+    <string name="mz_permission_inform_secondary_confirmation_summary_end">Для входа в базовый режим нужна часть ваших персональных данных. Какие данные мы собираем и зачем, описано в разделе «Как мы собираем и используем ваши персональные данные» документа «Политика конфиденциальности». Вход в базовый режим не означает, что вы принимаете политику целиком.</string>
+    <string name="mz_permission_inform_secondary_confirmation_summary_head">Если вы не примете документы «Политика конфиденциальности» и «Пользовательское соглашение», мы сможем предоставить только базовые услуги: установку и обновление приложений.</string>
     <string name="mz_permission_inform_secondary_confirmation_summary_mid">В базовом режиме приложению нужен доступ к интернету, к списку приложений и к истории мини-игр, а также обязательное разрешение на чтение списка приложений.</string>
     <string name="mz_permission_message_content">%1$s запрашивает %3$d разрешен. на %2$s</string>
     <string name="mz_permission_message_supplement">%1$s требует %2$s %3$d разрешен.</string>

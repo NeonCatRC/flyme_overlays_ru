@@ -2670,14 +2670,14 @@ cloned_app_info_label	apk
 cloned_apps_dashboard_title	apk
 cloned_apps_summary	apk
 close_data_collection	apk
-close_data_collection_dlg_message_text	apk
+close_data_collection_dlg_message_text	new
 close_data_collection_message	apk
 close_data_collection_title	apk
 close_drawer	apk
 close_plan_text	apk
 close_secrets_mode_warning	own
 close_sheet	apk
-close_system_stability_dlg_message_text	apk
+close_system_stability_dlg_message_text	new
 closed	own
 cloud_data_collection_checkbox_tip	apk
 cn_gms_core_summary	apk
@@ -8221,7 +8221,7 @@ settings_home_dialog_privacy_agreement_basic_mode_content	apk
 settings_home_dialog_privacy_agreement_basic_mode_enter_basic_mode	new
 settings_home_dialog_privacy_agreement_basic_mode_exit	own
 settings_home_dialog_privacy_agreement_basic_mode_title	new
-settings_home_dialog_privacy_agreement_reminder	apk
+settings_home_dialog_privacy_agreement_reminder	new
 settings_home_dialog_privacy_agreement_specify_text_link	apk
 settings_home_dialog_privacy_agreement_title	new
 settings_label	own
@@ -8891,7 +8891,7 @@ system_navigation_title	own
 system_package	own
 system_ringtone	own
 system_stability_specif_text	apk
-system_stability_summary	apk
+system_stability_summary	new
 system_stability_title	new
 system_update_settings_list_item_summary	apk
 system_update_settings_list_item_title	own
